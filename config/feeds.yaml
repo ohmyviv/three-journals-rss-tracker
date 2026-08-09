@@ -1,0 +1,37 @@
+feeds:
+  - id: nature
+    journal: Nature
+    url: https://www.nature.com/nature.rss
+    enabled: true
+  - id: science
+    journal: Science
+    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+    enabled: true
+    fallback:
+      type: crossref
+      issns: ["0036-8075", "1095-9203"]
+      bootstrap_lookback_days: 60
+      initial_live_lookback_days: 14
+      overlap_hours: 48
+      rows: 1000
+      max_pages: 5
+    europe_pmc:
+      enabled: true
+      journal_query: Science
+      issns: ["0036-8075", "1095-9203"]
+  - id: cell
+    journal: Cell
+    url: https://www.cell.com/action/showFeed?type=etoc&feed=rss&jc=cell
+    enabled: true
+    fallback:
+      type: crossref
+      issns: ["0092-8674", "1097-4172"]
+      bootstrap_lookback_days: 60
+      initial_live_lookback_days: 14
+      overlap_hours: 48
+      rows: 1000
+      max_pages: 5
+    europe_pmc:
+      enabled: true
+      journal_query: Cell
+      issns: ["0092-8674", "1097-4172"]

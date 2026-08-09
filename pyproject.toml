@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "three-journals-rss-tracker"
+version = "0.1.0"
+description = "RSS-first, DOI-deduplicated tracker for Nature, Science, and Cell"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML==6.0.2",
+  "requests==2.32.4",
+  "python-dateutil==2.9.0.post0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

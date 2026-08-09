@@ -1,0 +1,76 @@
+name: RSS discovery
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Discovery mode
+        required: true
+        default: auto
+        type: choice
+        options: [auto, bootstrap, live]
+  schedule:
+    # Explicit UTC. Morning runs are spaced so delayed Actions still finish
+    # before the 15:15 Beijing digest, followed by a quiet digest window.
+    - cron: "30 22 * * *" # 06:30 Beijing early discovery on the following local date
+    - cron: "47 0 * * *"  # 08:47 Beijing primary pre-cutoff discovery
+    - cron: "47 1 * * *"  # 09:47 Beijing backup pre-cutoff discovery
+    - cron: "37 2 * * *"  # 10:37 Beijing final pre-cutoff discovery
+    - cron: "30 8 * * *"  # 16:30 Beijing post-digest refresh
+    - cron: "30 12 * * *" # 20:30 Beijing evening refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: three-journals-state-writer
+  cancel-in-progress: false
+  queue: max
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt pytest
+      - name: Run tests
+        run: pytest -q
+      - name: Discover RSS items
+        id: discover
+        env:
+          DISCOVERY_MODE: ${{ github.event.inputs.mode || 'auto' }}
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule || '' }}
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO || vars.CROSSREF_MAILTO }}
+        shell: bash
+        run: |
+          set +e
+          python scripts/discover_v2.py \
+            --mode "$DISCOVERY_MODE" \
+            --trigger-type "$GITHUB_EVENT_NAME" \
+            --schedule-expression "$SCHEDULE_EXPRESSION"
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Commit state, scheduler health, and failure records
+        run: |
+          if [[ -z "$(git status --porcelain -- data public)" ]]; then
+            echo "No state changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public
+          git commit -m "chore: record RSS discovery $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+      - name: Propagate discovery failure after persistence
+        if: steps.discover.outputs.exit_code != '0'
+        run: exit "${{ steps.discover.outputs.exit_code }}"

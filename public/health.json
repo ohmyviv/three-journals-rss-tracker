@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-08T11:54:18+08:00",
+  "status": "degraded_fallback_sources",
+  "latest_run_id": "discover-2026-08-08T115416p0800",
+  "source_status": {
+    "nature": "not_modified",
+    "science": "fallback_crossref",
+    "cell": "fallback_crossref"
+  },
+  "scheduler_delayed": true,
+  "scheduler_delay_minutes": 77.3,
+  "late_discovery_recovery": true,
+  "doi_index_count": 816,
+  "pending_doi_count": 0,
+  "deep_analysis_queue_count": 270
+}

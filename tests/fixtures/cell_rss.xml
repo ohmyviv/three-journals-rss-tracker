@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+<channel><title>Cell</title><link>https://www.cell.com/cell</link><description>Cell TOC</description>
+<item><title>A Cell test article</title><link>https://www.cell.com/cell/fulltext/S0092-8674(26)00001-2</link><description>DOI: 10.1016/j.cell.2026.01.001.</description><pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate></item>
+</channel></rss>

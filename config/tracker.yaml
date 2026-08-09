@@ -1,0 +1,25 @@
+schema_version: "1.0"
+timezone: Asia/Shanghai
+user_agent: "three-journals-rss-tracker/0.3 (+https://github.com/ohmyviv/three-journals-rss-tracker)"
+crossref_mailto: null
+europe_pmc_email: null
+request:
+  timeout_seconds: 30
+  retries: 3
+  backoff_seconds: [0, 30, 90]
+scheduler:
+  delay_threshold_minutes: 15
+bootstrap:
+  include_in_daily_batch: false
+batch:
+  cutoff_time: "10:50"
+  deep_analysis_daily_target: 15
+  deep_analysis_hard_cap: 20
+  backlog_preview_limit: 30
+europe_pmc:
+  lookback_days: 30
+  page_size: 1000
+  max_pages: 5
+crossref_enrichment:
+  retry_days: [3, 7, 14]
+  max_records_per_run: 100

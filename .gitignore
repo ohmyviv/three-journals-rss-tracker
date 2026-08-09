@@ -1,0 +1,20 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+
+# Ephemeral run diagnostics
+runs/
+
+# OS
+.DS_Store

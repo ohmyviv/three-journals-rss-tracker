@@ -1,0 +1,93 @@
+name: Freeze daily batch
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Optional Beijing date YYYY-MM-DD
+        required: false
+        type: string
+      force:
+        description: Replace an existing frozen batch
+        required: true
+        default: false
+        type: boolean
+  schedule:
+    # Explicit UTC; workflow_run remains the primary post-discovery freeze.
+    # Two fixed schedules provide independent backups without creating a dense queue.
+    - cron: "50 2 * * *" # 10:50 Beijing primary fixed freeze
+    - cron: "20 3 * * *" # 11:20 Beijing final fixed backup
+  workflow_run:
+    workflows: ["RSS discovery"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: three-journals-state-writer
+  cancel-in-progress: false
+  queue: max
+
+jobs:
+  freeze:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt pytest
+      - name: Run tests
+        run: pytest -q
+      - name: Build or recover immutable daily batch
+        id: batch
+        env:
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule || '' }}
+        shell: bash
+        run: |
+          args=()
+          if [[ -n "${{ github.event.inputs.date }}" ]]; then
+            args+=(--date "${{ github.event.inputs.date }}")
+          fi
+          if [[ "${{ github.event.inputs.force }}" == "true" ]]; then
+            args+=(--force)
+          fi
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_run" ]]; then
+            beijing_today=$(TZ=Asia/Shanghai date +%F)
+            if [[ -f "public/batches/${beijing_today}.json" ]]; then
+              args+=(--recover-late)
+            fi
+          fi
+          set +e
+          python scripts/build_daily_batch.py \
+            "${args[@]}" \
+            --trigger-type "$GITHUB_EVENT_NAME" \
+            --schedule-expression "$SCHEDULE_EXPRESSION"
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Commit batch, recovery, or scheduler health
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data public)" ]]; then
+            echo "No batch changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public
+          git commit -m "chore: freeze or recover daily RSS batch $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase origin "$TARGET_BRANCH"
+          git push origin "HEAD:$TARGET_BRANCH"
+      - name: Propagate blocked-source or premature manual failure after persistence
+        if: steps.batch.outputs.exit_code != '0' && steps.batch.outputs.exit_code != '3'
+        run: exit "${{ steps.batch.outputs.exit_code }}"

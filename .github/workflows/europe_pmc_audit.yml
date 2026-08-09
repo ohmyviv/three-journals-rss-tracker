@@ -1,0 +1,70 @@
+name: Europe PMC completeness audit
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Audit mode
+        required: true
+        default: auto
+        type: choice
+        options: [auto, bootstrap, live]
+  schedule:
+    - cron: "45 23 * * *" # 07:45 Beijing on the following local date, explicit UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: three-journals-state-writer
+  cancel-in-progress: false
+  queue: max
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt pytest
+      - name: Run tests
+        run: pytest -q
+      - name: Audit Europe PMC coverage
+        id: audit
+        env:
+          AUDIT_MODE: ${{ github.event.inputs.mode || 'auto' }}
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule || '' }}
+          EUROPE_PMC_EMAIL: ${{ secrets.EUROPE_PMC_EMAIL || vars.EUROPE_PMC_EMAIL }}
+        shell: bash
+        run: |
+          set +e
+          python scripts/audit_europe_pmc.py \
+            --mode "$AUDIT_MODE" \
+            --trigger-type "$GITHUB_EVENT_NAME" \
+            --schedule-expression "$SCHEDULE_EXPRESSION"
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Commit audit state, report, and scheduler health
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain -- data public)" ]]; then
+            echo "No audit changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public
+          git commit -m "chore: audit Europe PMC coverage $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+      - name: Propagate audit failure after persistence
+        if: steps.audit.outputs.exit_code != '0'
+        run: exit "${{ steps.audit.outputs.exit_code }}"

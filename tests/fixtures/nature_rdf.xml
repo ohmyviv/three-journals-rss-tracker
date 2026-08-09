@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+  <channel rdf:about="https://www.nature.com/nature.rss"><title>Nature</title><link>https://www.nature.com/nature</link><description>Nature</description></channel>
+  <item rdf:about="https://www.nature.com/articles/s41586-026-00001-2">
+    <title>A Nature test article</title><link>https://www.nature.com/articles/s41586-026-00001-2</link>
+    <dc:date>2026-07-27</dc:date><prism:doi>10.1038/s41586-026-00001-2</prism:doi>
+  </item>
+</rdf:RDF>

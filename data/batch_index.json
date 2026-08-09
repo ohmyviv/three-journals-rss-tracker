@@ -1,0 +1,152 @@
+{
+  "daily-2026-07-28": {
+    "batch_id": "daily-2026-07-28",
+    "date": "2026-07-28",
+    "generated_at": "2026-07-28T13:32:43+08:00",
+    "status": "partial_sources",
+    "new_doi_count": 4,
+    "new_missing_doi_count": 0,
+    "path": "public/batches/2026-07-28.json"
+  },
+  "daily-2026-07-29": {
+    "batch_id": "daily-2026-07-29",
+    "date": "2026-07-29",
+    "generated_at": "2026-07-29T13:39:33+08:00",
+    "status": "degraded_sources",
+    "new_doi_count": 22,
+    "new_missing_doi_count": 0,
+    "path": "public/batches/2026-07-29.json"
+  },
+  "daily-2026-07-30": {
+    "batch_id": "daily-2026-07-30",
+    "date": "2026-07-30",
+    "generated_at": "2026-07-30T12:41:30+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 56,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-07-30.json"
+  },
+  "daily-2026-07-31": {
+    "batch_id": "daily-2026-07-31",
+    "date": "2026-07-31",
+    "generated_at": "2026-07-31T13:18:41+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 51,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-07-31.json"
+  },
+  "daily-2026-08-01": {
+    "batch_id": "daily-2026-08-01",
+    "date": "2026-08-01",
+    "generated_at": "2026-08-01T13:00:51+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 10,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-01.json"
+  },
+  "daily-2026-08-02": {
+    "batch_id": "daily-2026-08-02",
+    "date": "2026-08-02",
+    "generated_at": "2026-08-02T13:00:58+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 0,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-02.json"
+  },
+  "daily-2026-08-03": {
+    "batch_id": "daily-2026-08-03",
+    "date": "2026-08-03",
+    "generated_at": "2026-08-03T13:23:36+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed",
+      "late_discovery_recovery"
+    ],
+    "new_doi_count": 1,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 1,
+    "path": "public/batches/2026-08-03.json"
+  },
+  "daily-2026-08-04": {
+    "batch_id": "daily-2026-08-04",
+    "date": "2026-08-04",
+    "generated_at": "2026-08-04T12:49:09+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 15,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-04.json"
+  },
+  "daily-2026-08-05": {
+    "batch_id": "daily-2026-08-05",
+    "date": "2026-08-05",
+    "generated_at": "2026-08-05T11:50:43+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 20,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-05.json"
+  },
+  "daily-2026-08-06": {
+    "batch_id": "daily-2026-08-06",
+    "date": "2026-08-06",
+    "generated_at": "2026-08-06T11:55:15+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed",
+      "late_discovery_recovery"
+    ],
+    "new_doi_count": 40,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 1,
+    "path": "public/batches/2026-08-06.json"
+  },
+  "daily-2026-08-07": {
+    "batch_id": "daily-2026-08-07",
+    "date": "2026-08-07",
+    "generated_at": "2026-08-07T11:41:09+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 49,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-07.json"
+  },
+  "daily-2026-08-08": {
+    "batch_id": "daily-2026-08-08",
+    "date": "2026-08-08",
+    "generated_at": "2026-08-08T11:13:40+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 2,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-08.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "science": {
+    "last_checked_at": "2026-08-08T08:05:01+08:00",
+    "last_success_at": "2026-08-08T08:05:01+08:00",
+    "last_status": "success",
+    "last_error": null,
+    "last_query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-07-09 TO 2026-08-08]",
+    "last_mode": "live"
+  },
+  "cell": {
+    "last_checked_at": "2026-08-08T08:05:01+08:00",
+    "last_success_at": "2026-08-08T08:05:01+08:00",
+    "last_status": "success",
+    "last_error": null,
+    "last_query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-07-09 TO 2026-08-08]",
+    "last_mode": "live"
+  }
+}
