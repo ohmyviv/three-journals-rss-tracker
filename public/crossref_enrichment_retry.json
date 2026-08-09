@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-08T10:19:23+08:00",
+  "generated_at": "2026-08-09T18:39:06+08:00",
   "timezone": "Asia/Shanghai",
   "retry_days": [
     3,
@@ -10,12 +10,12 @@
   "status": "success",
   "counts": {
     "doi_records_seen": 816,
-    "formal_batch_fields_backfilled": 49,
+    "formal_batch_fields_backfilled": 2,
     "crossref_metadata_only": 13,
     "awaiting_enrichment": 13,
     "due": 0,
     "attempted": 0,
-    "enriched_from_existing_europe_pmc": 8,
+    "enriched_from_existing_europe_pmc": 0,
     "enriched_from_crossref": 0,
     "still_metadata_only": 0,
     "exhausted": 0,
@@ -25,5 +25,5 @@
   "enriched_dois": [],
   "exhausted_dois": [],
   "failures": [],
-  "completed_at": "2026-08-08T10:19:24+08:00"
+  "completed_at": "2026-08-09T18:39:06+08:00"
 }
