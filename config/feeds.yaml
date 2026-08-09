@@ -25,7 +25,7 @@ feeds:
     enabled: true
     fallback:
       type: crossref
-      issns: ["0092-8674", "1097-4172"]
+      issns: ["0092-8674"]
       bootstrap_lookback_days: 60
       initial_live_lookback_days: 14
       overlap_hours: 48

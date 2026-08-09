@@ -121,6 +121,8 @@ def fetch_crossref_works(
     total_attempts = 0
     total_pages = 0
     last_status: int | None = None
+    last_success_status: int | None = None
+    successful_requests = 0
     errors: list[str] = []
     filter_name = "from-pub-date" if query_mode == "published" else "from-created-date"
     normalized_query_start = _crossref_filter_date(query_start)
@@ -153,6 +155,8 @@ def fetch_crossref_works(
                     last_status = response.status_code
                     if response.status_code == 200:
                         response_json = response.json()
+                        last_success_status = response.status_code
+                        successful_requests += 1
                         break
                     request_error = f"HTTP {response.status_code}: {response.text[:200]}"
                     if response.status_code < 500 and response.status_code != 429:
@@ -177,7 +181,7 @@ def fetch_crossref_works(
                 break
             cursor = str(next_cursor)
 
-    if all_items:
+    if successful_requests:
         status = "success"
         error = "; ".join(errors) if errors else None
     elif errors:
@@ -188,7 +192,7 @@ def fetch_crossref_works(
         error = None
     return CrossrefResult(
         status=status,
-        http_status=last_status,
+        http_status=last_success_status if successful_requests else last_status,
         items=list(all_items.values()),
         error=error,
         attempts=total_attempts,

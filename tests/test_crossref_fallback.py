@@ -92,3 +92,56 @@ def test_crossref_fetch_deduplicates_issns_and_normalizes_filter_date(monkeypatc
         "type:journal-article,from-created-date:2026-05-01",
         "type:journal-article,from-created-date:2026-05-01",
     ]
+
+
+def test_crossref_partial_issn_failure_with_zero_items_is_still_success(monkeypatch):
+    from three_journals_tracker import crossref_client
+
+    class SuccessResponse:
+        status_code = 200
+        text = ""
+
+        @staticmethod
+        def json():
+            return {
+                "message": {
+                    "items": [],
+                    "next-cursor": None,
+                }
+            }
+
+    class NotFoundResponse:
+        status_code = 404
+        text = "Resource not found."
+
+        @staticmethod
+        def json():
+            return {}
+
+    def fake_get(url, **kwargs):
+        if "/journals/0092-8674/works" in url:
+            return SuccessResponse()
+        if "/journals/1097-4172/works" in url:
+            return NotFoundResponse()
+        raise AssertionError(f"Unexpected URL: {url}")
+
+    monkeypatch.setattr(crossref_client.requests, "get", fake_get)
+
+    result = crossref_client.fetch_crossref_works(
+        issns=["0092-8674", "1097-4172"],
+        query_mode="created",
+        query_start="2026-08-07",
+        user_agent="test-agent",
+        timeout_seconds=1,
+        retries=1,
+        backoff_seconds=[0],
+        rows=1000,
+        max_pages=1,
+    )
+
+    assert result.status == "success"
+    assert result.http_status == 200
+    assert result.items == []
+    assert result.attempts == 2
+    assert "1097-4172" in (result.error or "")
+    assert "HTTP 404" in (result.error or "")
