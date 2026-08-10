@@ -142,11 +142,21 @@ def write_scheduler_event(workspace: Path, event: dict[str, Any]) -> None:
         summary["latest_event"] = row
 
     latest = rows[-1] if rows else None
+    latest_scheduled_by_workflow: dict[str, dict[str, Any]] = {}
+    for row in rows:
+        if row.get("scheduled_for"):
+            name = str(row.get("workflow") or "unknown")
+            latest_scheduled_by_workflow[name] = row
+
+    scheduler_delayed = any(
+        row.get("scheduler_delayed")
+        for row in latest_scheduled_by_workflow.values()
+    )
     atomic_write_json(
         workspace / "public" / "scheduler_health.json",
         {
             "generated_at": event.get("completed_at") or event.get("triggered_at"),
-            "status": "scheduler_delayed" if latest and latest.get("scheduler_delayed") else "ok",
+            "status": "scheduler_delayed" if scheduler_delayed else "ok",
             "total_events": len(rows),
             "latest_event": latest,
             "workflows": workflows,

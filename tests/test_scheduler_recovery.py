@@ -1,3 +1,4 @@
+import json
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -6,6 +7,7 @@ from three_journals_tracker.scheduler import (
     build_scheduler_event,
     late_recovery_context,
     scheduled_for_from_cron,
+    write_scheduler_event,
 )
 
 
@@ -146,3 +148,99 @@ def test_recovery_rebuild_only_when_new_recovery_key_is_missing_from_batch():
     }
     assert has_new_late_recovery_items(records, existing_keys=set(), **common) is True
     assert has_new_late_recovery_items(records, existing_keys={"10.1000/recovered"}, **common) is False
+
+
+def test_non_scheduled_event_does_not_clear_latest_scheduled_delay(tmp_path):
+    delayed_discovery = {
+        "workflow": "rss_discovery",
+        "trigger_type": "schedule",
+        "scheduled_for": "2026-08-10T06:30:00+08:00",
+        "triggered_at": "2026-08-10T07:00:27+08:00",
+        "delay_minutes": 30.4,
+        "scheduler_delayed": True,
+        "status": "scheduler_delayed",
+        "completed_at": "2026-08-10T07:00:30+08:00",
+    }
+    normal_freeze = {
+        "workflow": "freeze_daily_batch",
+        "trigger_type": "workflow_run",
+        "scheduled_for": None,
+        "triggered_at": "2026-08-10T07:00:50+08:00",
+        "delay_minutes": None,
+        "scheduler_delayed": False,
+        "status": "non_scheduled",
+        "completed_at": "2026-08-10T07:00:50+08:00",
+    }
+
+    write_scheduler_event(tmp_path, delayed_discovery)
+    write_scheduler_event(tmp_path, normal_freeze)
+
+    health = json.loads(
+        (tmp_path / "public" / "scheduler_health.json").read_text()
+    )
+
+    assert health["status"] == "scheduler_delayed"
+
+
+def test_on_time_scheduled_event_from_other_workflow_does_not_clear_delay(tmp_path):
+    delayed_discovery = {
+        "workflow": "rss_discovery",
+        "trigger_type": "schedule",
+        "scheduled_for": "2026-08-10T06:30:00+08:00",
+        "triggered_at": "2026-08-10T07:00:27+08:00",
+        "delay_minutes": 30.4,
+        "scheduler_delayed": True,
+        "status": "scheduler_delayed",
+        "completed_at": "2026-08-10T07:00:30+08:00",
+    }
+    on_time_europe_pmc = {
+        "workflow": "europe_pmc_audit",
+        "trigger_type": "schedule",
+        "scheduled_for": "2026-08-10T07:45:00+08:00",
+        "triggered_at": "2026-08-10T07:46:00+08:00",
+        "delay_minutes": 1.0,
+        "scheduler_delayed": False,
+        "status": "ok",
+        "completed_at": "2026-08-10T07:46:05+08:00",
+    }
+
+    write_scheduler_event(tmp_path, delayed_discovery)
+    write_scheduler_event(tmp_path, on_time_europe_pmc)
+
+    health = json.loads(
+        (tmp_path / "public" / "scheduler_health.json").read_text()
+    )
+
+    assert health["status"] == "scheduler_delayed"
+
+
+def test_on_time_scheduled_run_clears_previous_delay_for_same_workflow(tmp_path):
+    delayed_discovery = {
+        "workflow": "rss_discovery",
+        "trigger_type": "schedule",
+        "scheduled_for": "2026-08-10T06:30:00+08:00",
+        "triggered_at": "2026-08-10T07:00:27+08:00",
+        "delay_minutes": 30.4,
+        "scheduler_delayed": True,
+        "status": "scheduler_delayed",
+        "completed_at": "2026-08-10T07:00:30+08:00",
+    }
+    on_time_discovery = {
+        "workflow": "rss_discovery",
+        "trigger_type": "schedule",
+        "scheduled_for": "2026-08-10T08:47:00+08:00",
+        "triggered_at": "2026-08-10T08:48:00+08:00",
+        "delay_minutes": 1.0,
+        "scheduler_delayed": False,
+        "status": "ok",
+        "completed_at": "2026-08-10T08:48:05+08:00",
+    }
+
+    write_scheduler_event(tmp_path, delayed_discovery)
+    write_scheduler_event(tmp_path, on_time_discovery)
+
+    health = json.loads(
+        (tmp_path / "public" / "scheduler_health.json").read_text()
+    )
+
+    assert health["status"] == "ok"
