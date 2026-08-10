@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-08-10T215727p0800",
+  "run_id": "discover-2026-08-11T070716p0800",
   "mode": "live",
-  "checked_at": "2026-08-10T21:57:27+08:00",
+  "checked_at": "2026-08-11T07:07:16+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "30 12 * * *",
-  "scheduled_for": "2026-08-10T20:30:00+08:00",
-  "triggered_at": "2026-08-10T21:57:27+08:00",
-  "scheduler_delay_minutes": 87.5,
+  "schedule_expression_utc": "30 22 * * *",
+  "scheduled_for": "2026-08-11T06:30:00+08:00",
+  "triggered_at": "2026-08-11T07:07:16+08:00",
+  "scheduler_delay_minutes": 37.3,
   "scheduler_delayed": true,
   "late_discovery_recovery": false,
   "intended_batch_date": null,
@@ -19,27 +19,23 @@
     "cell": "fallback_crossref"
   },
   "counts": {
-    "new_dois": 7,
+    "new_dois": 3,
     "new_pending_doi": 0,
     "seed_dois": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 68,
-    "items_seen": 75,
+    "duplicates": 73,
+    "items_seen": 76,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
   "new_dois": [
-    "10.1038/s41586-026-10973-y",
-    "10.1038/s41586-026-10978-7",
-    "10.1038/d41586-026-02435-2",
-    "10.1038/d41586-026-02450-3",
-    "10.1038/d41586-026-02276-z",
-    "10.1038/d41586-026-02453-0",
-    "10.1038/d41586-026-02199-9"
+    "10.1038/s41586-026-10989-4",
+    "10.1038/d41586-026-02493-6",
+    "10.1016/j.cell.2026.07.027"
   ],
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-08-10T21:57:30+08:00"
+  "completed_at": "2026-08-11T07:07:19+08:00"
 }
