@@ -14,9 +14,9 @@ on:
         type: boolean
   schedule:
     # Explicit UTC; workflow_run remains the primary post-discovery freeze.
-    # Two fixed schedules provide independent backups without creating a dense queue.
-    - cron: "50 2 * * *" # 10:50 Beijing primary fixed freeze
-    - cron: "20 3 * * *" # 11:20 Beijing final fixed backup
+    # An early hedge may safely exit too_early; the later slot is the fixed backup.
+    - cron: "53 1 * * *" # 09:53 Beijing early hedge
+    - cron: "13 3 * * *" # 11:13 Beijing final fixed backup
   workflow_run:
     workflows: ["RSS discovery"]
     types: [completed]

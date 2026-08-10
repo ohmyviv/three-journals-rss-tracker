@@ -10,12 +10,12 @@ on:
         type: choice
         options: [auto, bootstrap, live]
   schedule:
-    # Explicit UTC. Morning runs are spaced so delayed Actions still finish
-    # before the 15:15 Beijing digest, followed by a quiet digest window.
-    - cron: "30 22 * * *" # 06:30 Beijing early discovery on the following local date
-    - cron: "47 0 * * *"  # 08:47 Beijing primary pre-cutoff discovery
-    - cron: "47 1 * * *"  # 09:47 Beijing backup pre-cutoff discovery
-    - cron: "37 2 * * *"  # 10:37 Beijing final pre-cutoff discovery
+    # Explicit UTC. Morning runs hedge against 1-3 hour GitHub scheduler delays
+    # while retaining a cutoff-edge recovery run before the 15:15 Beijing digest.
+    - cron: "30 22 * * *" # 06:30 Beijing early anchor on the following local date
+    - cron: "17 23 * * *" # 07:17 Beijing primary pre-cutoff discovery on the following local date
+    - cron: "17 0 * * *"  # 08:17 Beijing backup pre-cutoff discovery
+    - cron: "37 2 * * *"  # 10:37 Beijing cutoff-edge recovery discovery
     - cron: "30 8 * * *"  # 16:30 Beijing post-digest refresh
     - cron: "30 12 * * *" # 20:30 Beijing evening refresh
 
