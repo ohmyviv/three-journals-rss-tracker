@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+from types import SimpleNamespace
+
 import pytest
 
 from three_journals_tracker.analysis_queue import (
     active_backlog_count,
     apply_daily_analysis_decisions,
 )
+from three_journals_tracker.discovery_records import process_entries
 
 
 BATCH = {
@@ -45,6 +48,60 @@ def _doi_index() -> dict:
             "source_url": "https://example.org/history",
         },
     }
+
+
+def test_discovery_does_not_autoqueue_new_doi() -> None:
+    doi_index: dict = {}
+    pending_doi: dict = {}
+    deep_queue: dict = {}
+    events: list[dict] = []
+    run = {
+        "counts": {
+            "new_dois": 0,
+            "new_pending_doi": 0,
+            "seed_dois": 0,
+            "seed_pending_doi": 0,
+            "resolved_dois": 0,
+            "duplicates": 0,
+            "items_seen": 0,
+            "late_recovery_dois": 0,
+            "late_recovery_pending_doi": 0,
+        },
+        "new_dois": [],
+        "seed_dois": [],
+        "new_pending_keys": [],
+        "seed_pending_keys": [],
+    }
+    entry = SimpleNamespace(
+        title="A newly discovered paper",
+        id="https://doi.org/10.1000/new-live",
+        link="https://example.org/new-live",
+        published="2026-08-11T07:00:00+08:00",
+        summary="An abstract.",
+        authors=[],
+        tags=[],
+    )
+
+    process_entries(
+        entries=[entry],
+        feed_id="nature",
+        journal="Nature",
+        checked_at="2026-08-11T07:05:00+08:00",
+        timezone_name="Asia/Shanghai",
+        run_id="discover-test",
+        discovery_source="rss",
+        discovery_mode="live",
+        previous_success_at="2026-08-11T06:00:00+08:00",
+        doi_index=doi_index,
+        pending_doi=pending_doi,
+        deep_queue=deep_queue,
+        run=run,
+        events=events,
+    )
+
+    assert "10.1000/new-live" in doi_index
+    assert run["new_dois"] == ["10.1000/new-live"]
+    assert deep_queue == {}
 
 
 def test_requires_explicit_decision_for_every_formal_new_doi() -> None:
