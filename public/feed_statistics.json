@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-08-11T17:31:43+08:00",
+  "generated_at": "2026-08-11T21:57:03+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 13,
-      "successful_checks": 12,
-      "failed_checks": 1,
-      "checks_with_new_items": 1,
-      "total_new_items_observed": 1,
-      "new_item_checks_by_hour": {
-        "07:00-07:59": 1
-      },
-      "new_item_checks_by_weekday": {
-        "Tuesday": 1
-      },
-      "last_checked_at": "2026-08-11T17:31:37+08:00",
-      "last_success_at": "2026-08-11T17:31:37+08:00"
-    },
-    "nature": {
-      "checks": 13,
+      "checks": 14,
       "successful_checks": 13,
-      "failed_checks": 0,
-      "checks_with_new_items": 4,
-      "total_new_items_observed": 13,
+      "failed_checks": 1,
+      "checks_with_new_items": 2,
+      "total_new_items_observed": 3,
       "new_item_checks_by_hour": {
-        "17:00-17:59": 2,
-        "21:00-21:59": 1,
-        "07:00-07:59": 1
+        "07:00-07:59": 1,
+        "21:00-21:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Monday": 2,
         "Tuesday": 2
       },
-      "last_checked_at": "2026-08-11T17:31:37+08:00",
-      "last_success_at": "2026-08-11T17:31:37+08:00"
+      "last_checked_at": "2026-08-11T21:56:56+08:00",
+      "last_success_at": "2026-08-11T21:56:56+08:00"
+    },
+    "nature": {
+      "checks": 14,
+      "successful_checks": 14,
+      "failed_checks": 0,
+      "checks_with_new_items": 5,
+      "total_new_items_observed": 24,
+      "new_item_checks_by_hour": {
+        "17:00-17:59": 2,
+        "21:00-21:59": 2,
+        "07:00-07:59": 1
+      },
+      "new_item_checks_by_weekday": {
+        "Tuesday": 3,
+        "Monday": 2
+      },
+      "last_checked_at": "2026-08-11T21:56:56+08:00",
+      "last_success_at": "2026-08-11T21:56:56+08:00"
     },
     "science": {
-      "checks": 13,
-      "successful_checks": 13,
+      "checks": 14,
+      "successful_checks": 14,
       "failed_checks": 0,
       "checks_with_new_items": 0,
       "total_new_items_observed": 0,
       "new_item_checks_by_hour": {},
       "new_item_checks_by_weekday": {},
-      "last_checked_at": "2026-08-11T17:31:37+08:00",
-      "last_success_at": "2026-08-11T17:31:37+08:00"
+      "last_checked_at": "2026-08-11T21:56:56+08:00",
+      "last_success_at": "2026-08-11T21:56:56+08:00"
     }
   }
 }
