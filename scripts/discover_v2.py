@@ -15,6 +15,7 @@ from dateutil import parser as date_parser
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
+from three_journals_tracker.analysis_queue import active_backlog_count
 from three_journals_tracker.discovery_records import journal_has_history, process_entries
 from three_journals_tracker.discovery_sources import collect_source
 from three_journals_tracker.io_utils import append_jsonl, atomic_write_json, read_json
@@ -187,7 +188,8 @@ def main() -> int:
     atomic_write_json(paths["doi"], doi_index)
     atomic_write_json(paths["pending"], pending_doi)
     atomic_write_json(paths["source"], source_state)
-    atomic_write_json(paths["queue"], deep_queue)
+    # Discovery deliberately does not rewrite deep_analysis_queue.json. Deep-analysis
+    # state is owned by the explicit editorial decision/writeback step.
     atomic_write_json(workspace / "runs" / checked_at[:4] / checked_at[5:7] / f"{run_id}.json", run)
     atomic_write_json(workspace / "public" / "latest_run.json", run)
 
@@ -206,7 +208,8 @@ def main() -> int:
         "late_discovery_recovery": run["late_discovery_recovery"],
         "doi_index_count": len(doi_index),
         "pending_doi_count": len(pending_doi),
-        "deep_analysis_queue_count": len(deep_queue),
+        "deep_analysis_queue_count": active_backlog_count(deep_queue),
+        "deep_analysis_record_count": len(deep_queue),
     })
     write_scheduler_event(
         workspace,
