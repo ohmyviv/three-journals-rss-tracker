@@ -1,0 +1,150 @@
+{
+  "batch_id": "daily-2026-08-11",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.027",
+      "disposition": "completed",
+      "reason": "Deep analyzed in the 2026-08-11 report; high-relevance Parkinson's disease structural biology and drug-target work.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10984-9",
+      "disposition": "not_selected",
+      "reason": "Author Correction in photovoltaic materials; excluded article type and outside the life-science investment scope."
+    },
+    {
+      "doi": "10.1038/d41586-026-02447-y",
+      "disposition": "not_selected",
+      "reason": "Higher-education AI commentary without a direct life-science, biomedical, or investment-relevant research connection."
+    },
+    {
+      "doi": "10.1038/d41586-026-01681-8",
+      "disposition": "not_selected",
+      "reason": "Career advice article; excluded article type and not directly relevant to the deep-analysis scope."
+    },
+    {
+      "doi": "10.1038/s41586-026-10973-y",
+      "disposition": "not_selected",
+      "reason": "Author Correction in social science; excluded article type and outside the target research scope."
+    },
+    {
+      "doi": "10.1038/s41586-026-10978-7",
+      "disposition": "not_selected",
+      "reason": "Author Correction; despite biological subject matter, corrections are excluded from deep analysis absent major direct investment impact."
+    },
+    {
+      "doi": "10.1038/d41586-026-02453-0",
+      "disposition": "not_selected",
+      "reason": "Career/research-workforce feature rather than original research or formal review; insufficient direct investment relevance."
+    },
+    {
+      "doi": "10.1038/d41586-026-02435-2",
+      "disposition": "not_selected",
+      "reason": "Career guidance on AI use in job applications; excluded from the target deep-analysis scope."
+    },
+    {
+      "doi": "10.1038/d41586-026-02276-z",
+      "disposition": "not_selected",
+      "reason": "Research-news feature on preprint ranking AI; relevant to research workflow but lower priority than qualified original research and not selected for future deep analysis."
+    },
+    {
+      "doi": "10.1038/d41586-026-02199-9",
+      "disposition": "not_selected",
+      "reason": "Photo feature on mangrove restoration; excluded article type and outside the target investment scope."
+    },
+    {
+      "doi": "10.1038/d41586-026-02450-3",
+      "disposition": "not_selected",
+      "reason": "Policy commentary linking environmental treaties and mental health; not original research/review and lacks sufficient direct investment relevance."
+    },
+    {
+      "doi": "10.1038/s41586-026-10989-4",
+      "disposition": "completed",
+      "reason": "Deep analyzed in the 2026-08-11 report; high-relevance protein dynamics, NMR, and AI/protein-modeling work.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02493-6",
+      "disposition": "not_selected",
+      "reason": "Research-news item rather than original research/review; lower priority and not selected for future deep analysis."
+    },
+    {
+      "doi": "10.1038/s41586-026-10791-2",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: mitochondrial metabolism, epigenetics, SASP and aging.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10852-6",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: bacterial antiviral pattern-recognition systems and synthetic-biology potential.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10881-1",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: nanopore peptide sequencing and life-science tools.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1126/science.ady0832",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: lysosomal aging atlas and disease-linked metabolite signatures.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10899-5",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: programmable membranolytic immunogenic cell death for cancer therapy.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10830-y",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: tumor organoid biobank and CRISPR dependency mapping.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10873-1",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: DCAF11 molecular glue degrader and targeted protein degradation.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10887-9",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: cholinergic control of opioid reward learning.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10885-x",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: OMA1-DELE1-HRI signaling, heme availability, and hemoglobinopathy relevance.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10864-2",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: human FNIP1 loss-of-function genetics and favorable metabolism.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.06.016",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: complete diploid human-genome benchmark for personalized genomics.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10740-z",
+      "disposition": "completed",
+      "reason": "Historical backlog item deep analyzed in the 2026-08-11 report: viral reactivation in acute and long COVID-19.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02462-z",
+      "disposition": "completed",
+      "reason": "Historical backlog research highlight deep analyzed in the 2026-08-11 report: universal pneumococcal vaccine strategy.",
+      "priority_level": "P2"
+    }
+  ]
+}
