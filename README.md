@@ -1,6 +1,6 @@
 # Three Journals RSS Tracker
 
-RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。GitHub Actions 负责确定性的发现、历史状态与批次冻结；ChatGPT 后续负责资料富化、优先级判断、中国团队识别和中文日报。
+RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。GitHub Actions 负责确定性的发现、历史状态与批次冻结；ChatGPT 后续负责资料富化、重点解读资格判断、中国团队识别、中文日报和深度解读状态写回。
 
 
 ## 公开仓库与数据边界
@@ -34,7 +34,8 @@ RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。Git
 - 首次发现时间、上次未见时间和出现时间窗口
 - Bootstrap 初始化，不把当前存量冒充为正式新增
 - RSS/回退更新时间观测与按期刊、小时、星期统计
-- 跨日深度解读队列
+- 显式判定后才进入的跨日深度解读队列
+- 当日及历史积压重点解读完成后的 `completed` 状态写回
 - 每天 10:50 后冻结结构化批次，供 15:15 ChatGPT 日报读取
 - 全部来源失败时不生成“零新增”结论
 - 幂等批次生成和自动测试
@@ -96,11 +97,12 @@ python scripts/build_daily_batch.py
 
 ## 关键文件
 
-- `data/doi_index.json`：DOI 当前状态索引
+- `data/doi_index.json`：DOI 当前状态索引，同时保存每个正式新 DOI 的持久化重点解读 disposition
 - `data/discovery_events.jsonl`：只追加的首次发现事件
 - `data/feed_observations.jsonl`：每次 RSS/回退观测
 - `data/scheduler_events.jsonl`：每次调度的理论时间、实际时间和结果
-- `data/deep_analysis_queue.json`：跨日深度解读队列
+- `data/deep_analysis_queue.json`：仅保存真正待后续重点解读的活跃项目，以及已完成项目的审计状态；`completed` 不计入 backlog
+- `data/deep_analysis_history.jsonl`：重点解读 disposition 和队列状态变更历史
 - `public/feed_statistics.json`：更新节律统计
 - `public/scheduler_health.json`：调度延迟汇总与各工作流最新事件
 - `public/latest_run.json`：最近一次发现运行
@@ -109,13 +111,52 @@ python scripts/build_daily_batch.py
 
 ## 深度解读策略
 
-所有新增文章均进入当天全量清单。深度解读是跨日队列：正常目标 15 篇，硬上限 20 篇；高峰日保留 P0/P1，当天无法完成的文章延后；零新增或低新增日优先消化积压。
+所有正式新增文章仍无条件进入当天“今日全部新增”清单，但 discovery **不再自动把所有新 DOI 写入 `deep_analysis_queue.json`**。日报必须对当天正式批次中的每一个新 DOI 做一次明确、可持久化的重点解读判断：
 
-ChatGPT 或人工完成优先级判断后，可生成决策文件并运行：
+- `completed`：本次日报已经完成重点解读。保留完成记录，但 `analysis_status=completed`，以后不再进入活跃 backlog。
+- `queued`：文章确实值得重点解读，但本次因容量或证据尚未富化而未完成。只有这类项目进入活跃 backlog；可使用 `pending` 或 `deferred`。
+- `not_selected`：经过主题相关性、文章类型、证据和投资价值判断后，不需要重点解读。这类 DOI 仍保留在 `doi_index.json` 和正式批次中，但不写入 `deep_analysis_queue.json`。
+
+对 Crossref-only、摘要为空但主题高度相关、值得等待 D+3/D+7/D+14 富化的项目，应判为 `queued` 并使用类似 `awaiting_enrichment` 的 queue reason；如果即使未来取得摘要也不值得重点解读，则直接判为 `not_selected`。
+
+当日报处理历史积压时，实际完成重点解读的历史 DOI 也必须写回 `completed`。对已经实际检查并明确判定以后也无需重点解读的历史积压，可判为 `not_selected` 并从活跃队列移除；不得批量删除尚未实际审阅的积压项目。
+
+决策文件示例：
+
+```json
+{
+  "batch_id": "daily-2026-08-11",
+  "decisions": [
+    {
+      "doi": "10.xxxx/example-a",
+      "disposition": "completed",
+      "reason": "deep analyzed in today's report",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.xxxx/example-b",
+      "disposition": "queued",
+      "reason": "high relevance but awaiting evidence enrichment",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.xxxx/example-c",
+      "disposition": "not_selected",
+      "reason": "excluded article type and low investment relevance"
+    }
+  ]
+}
+```
+
+应用并写回：
 
 ```bash
-python scripts/queue_update.py decisions.json
+python scripts/apply_daily_analysis_decisions.py decisions.json
 ```
+
+该命令强制要求正式批次中的**每一个新 DOI**都出现且只出现一次；遗漏任何当天正式新增 DOI 会直接报错。它同时允许附加本次实际处理过的历史 backlog DOI，并把所有变更追加到 `data/deep_analysis_history.jsonl`。旧的 `scripts/queue_update.py` 仍可用于对既有队列项目做人工状态修正，但不再承担每日全批次 disposition 闭环。
 
 ## 状态语义
 
@@ -141,8 +182,18 @@ python scripts/queue_update.py decisions.json
 - `scheduler_delayed`
 - `late_discovery_recovery`
 
+重点解读 disposition：
+
+- `completed`
+- `queued`
+- `not_selected`
+
 `failed_all_sources` 绝不能解释为零新增；`degraded_fallback_sources` 也不能描述成官方 RSS 全量成功。
 
 ## ChatGPT 15:15 日报
 
-任务读取仓库中的 `public/latest_batch.json`，将全部新文章纳入全量清单，同时按队列动态完成当日或历史积压的深度解读。若批次状态为 `degraded_sources`，日报顶部必须披露具体使用了哪些回退来源；若存在 `scheduler_delayed` 或 `late_discovery_recovery`，也必须披露调度异常和补录数量。
+任务读取仓库中的 `public/latest_batch.json`，将全部新文章纳入全量清单，同时按证据、主题相关性、文章类型和投资价值完成当日与历史积压的重点解读。日报生成过程中必须为当天所有正式新 DOI 形成 `completed`、`queued` 或 `not_selected` 三选一的显式 disposition，并把本次实际完成解读的历史 backlog 写回 `completed`。
+
+状态写回完成后必须重新读取 `data/doi_index.json` 和 `data/deep_analysis_queue.json` 做一致性检查：当天所有正式新 DOI 都应存在 disposition；所有本次已解读 DOI 都应为 `completed`；`not_selected` 不得留在活跃队列；`completed` 不得再次计入 backlog。若写回或回读失败，日报必须明确披露状态写回异常，不得虚报成功。
+
+若批次状态为 `degraded_sources`，日报顶部必须披露具体使用了哪些回退来源；若存在 `scheduler_delayed` 或 `late_discovery_recovery`，也必须披露调度异常和补录数量。

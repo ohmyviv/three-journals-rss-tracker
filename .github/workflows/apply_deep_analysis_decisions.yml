@@ -1,0 +1,71 @@
+name: Apply deep-analysis decisions
+
+on:
+  workflow_dispatch:
+    inputs:
+      decision_file:
+        description: "Path to a deep-analysis decision JSON file"
+        required: true
+        type: string
+  push:
+    branches:
+      - main
+    paths:
+      - "data/deep_analysis_decisions/*.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: three-journals-state-writer
+  cancel-in-progress: false
+  queue: max
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Resolve decision file
+        id: decision
+        env:
+          INPUT_DECISION_FILE: ${{ inputs.decision_file }}
+          EVENT_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          if [[ -n "$INPUT_DECISION_FILE" ]]; then
+            decision_file="$INPUT_DECISION_FILE"
+          else
+            decision_file="$(git diff-tree --no-commit-id --name-only -r "$EVENT_SHA" -- 'data/deep_analysis_decisions/*.json' | tail -n 1)"
+          fi
+          if [[ -z "$decision_file" || ! -f "$decision_file" ]]; then
+            echo "Could not resolve a valid decision file"
+            exit 2
+          fi
+          echo "decision_file=$decision_file" >> "$GITHUB_OUTPUT"
+      - name: Apply decisions
+        run: python scripts/apply_daily_analysis_decisions.py "${{ steps.decision.outputs.decision_file }}"
+      - name: Commit deep-analysis state
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data/doi_index.json data/deep_analysis_queue.json data/deep_analysis_history.jsonl)" ]]; then
+            echo "No deep-analysis state changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/doi_index.json data/deep_analysis_queue.json data/deep_analysis_history.jsonl
+          git commit -m "chore: apply deep-analysis decisions $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase origin "$TARGET_BRANCH"
+          git push origin "HEAD:$TARGET_BRANCH"
