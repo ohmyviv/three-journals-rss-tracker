@@ -6536,5 +6536,24 @@
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.027",
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00"
+  },
+  "10.1038/d41586-026-02082-7": {
+    "doi": "10.1038/d41586-026-02082-7",
+    "journal": "Nature",
+    "title": "When the best decision is no decision: the rise of randomization in grant funding",
+    "first_seen_at": "2026-08-11T17:31:37+08:00",
+    "queued_at": "2026-08-11T17:31:37+08:00",
+    "priority_level": "untriaged",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "pending_triage",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": null,
+    "scheduled_for": "2026-08-11T16:30:00+08:00",
+    "triggered_at": "2026-08-11T17:31:37+08:00",
+    "scheduler_delay_minutes": 61.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
   }
 }
