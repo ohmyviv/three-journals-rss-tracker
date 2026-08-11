@@ -46,6 +46,11 @@ def process_entries(
     events: list[dict[str, Any]],
     scheduler_metadata: dict[str, Any] | None = None,
 ) -> tuple[int, int, int]:
+    # deep_queue remains in the signature for call compatibility, but discovery is
+    # intentionally read-only with respect to deep-analysis decisions. The daily
+    # editor decides explicitly whether a formal new DOI is completed, queued, or
+    # not selected for deep analysis.
+    _ = deep_queue
     source_new_count = 0
     source_new_doi_count = 0
     source_new_pending_count = 0
@@ -131,22 +136,6 @@ def process_entries(
                 source_new_doi_count += 1
                 source_new_count += 1
             events.append(event)
-            if status == "live_discovery" and doi not in deep_queue:
-                deep_queue[doi] = {
-                    "doi": doi,
-                    "journal": journal,
-                    "title": record["title"],
-                    "first_seen_at": first_seen,
-                    "queued_at": checked_at,
-                    "priority_level": "untriaged",
-                    "priority_score": None,
-                    "queue_reason": ["late_discovery_recovery"] if scheduler_fields.get("late_discovery_recovery") else [],
-                    "analysis_status": "pending_triage",
-                    "target_complete_by": None,
-                    "defer_count": 0,
-                    "last_reviewed_at": None,
-                    **scheduler_fields,
-                }
             continue
 
         if key in pending_doi:
