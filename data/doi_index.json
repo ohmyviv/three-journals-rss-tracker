@@ -28697,7 +28697,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: bacterial antiviral pattern-recognition systems and synthetic-biology potential.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10791-2": {
     "doi": "10.1038/s41586-026-10791-2",
@@ -28728,7 +28735,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: mitochondrial metabolism, epigenetics, SASP and aging.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10848-2": {
     "doi": "10.1038/s41586-026-10848-2",
@@ -28821,7 +28835,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: nanopore peptide sequencing and life-science tools.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10839-3": {
     "doi": "10.1038/s41586-026-10839-3",
@@ -30716,7 +30737,14 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-11T10:27:14+08:00"
+    "last_enrichment_success_at": "2026-08-11T10:27:14+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: lysosomal aging atlas and disease-linked metabolite signatures.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1126/science.ael0160": {
     "doi": "10.1126/science.ael0160",
@@ -36292,7 +36320,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: viral reactivation in acute and long COVID-19.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10863-3": {
     "doi": "10.1038/s41586-026-10863-3",
@@ -36385,7 +36420,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: programmable membranolytic immunogenic cell death for cancer therapy.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10830-y": {
     "doi": "10.1038/s41586-026-10830-y",
@@ -36416,7 +36458,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: tumor organoid biobank and CRISPR dependency mapping.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10873-1": {
     "doi": "10.1038/s41586-026-10873-1",
@@ -36447,7 +36496,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: DCAF11 molecular glue degrader and targeted protein degradation.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10887-9": {
     "doi": "10.1038/s41586-026-10887-9",
@@ -36478,7 +36534,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: cholinergic control of opioid reward learning.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10859-z": {
     "doi": "10.1038/s41586-026-10859-z",
@@ -36540,7 +36603,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: OMA1-DELE1-HRI signaling, heme availability, and hemoglobinopathy relevance.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10864-2": {
     "doi": "10.1038/s41586-026-10864-2",
@@ -36571,7 +36641,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: human FNIP1 loss-of-function genetics and favorable metabolism.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/d41586-026-02289-8": {
     "doi": "10.1038/d41586-026-02289-8",
@@ -40477,7 +40554,14 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-11T10:27:14+08:00"
+    "last_enrichment_success_at": "2026-08-11T10:27:14+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-11 report: complete diploid human-genome benchmark for personalized genomics.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/d41586-026-02488-3": {
     "doi": "10.1038/d41586-026-02488-3",
@@ -40539,7 +40623,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-08",
-    "first_formal_batch_date": "2026-08-08"
+    "first_formal_batch_date": "2026-08-08",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Historical backlog research highlight deep analyzed in the 2026-08-11 report: universal pneumococcal vaccine strategy.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/s41586-026-10984-9": {
     "doi": "10.1038/s41586-026-10984-9",
@@ -40568,7 +40659,12 @@
     "triggered_at": "2026-08-10T17:57:41+08:00",
     "scheduler_delay_minutes": 87.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Author Correction in photovoltaic materials; excluded article type and outside the life-science investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02447-y": {
     "doi": "10.1038/d41586-026-02447-y",
@@ -40597,7 +40693,12 @@
     "triggered_at": "2026-08-10T17:57:41+08:00",
     "scheduler_delay_minutes": 87.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Higher-education AI commentary without a direct life-science, biomedical, or investment-relevant research connection.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-01681-8": {
     "doi": "10.1038/d41586-026-01681-8",
@@ -40626,7 +40727,12 @@
     "triggered_at": "2026-08-10T17:57:41+08:00",
     "scheduler_delay_minutes": 87.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Career advice article; excluded article type and not directly relevant to the deep-analysis scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10973-y": {
     "doi": "10.1038/s41586-026-10973-y",
@@ -40655,7 +40761,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Author Correction in social science; excluded article type and outside the target research scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10978-7": {
     "doi": "10.1038/s41586-026-10978-7",
@@ -40684,7 +40795,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Author Correction; despite biological subject matter, corrections are excluded from deep analysis absent major direct investment impact.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02435-2": {
     "doi": "10.1038/d41586-026-02435-2",
@@ -40713,7 +40829,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Career guidance on AI use in job applications; excluded from the target deep-analysis scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02450-3": {
     "doi": "10.1038/d41586-026-02450-3",
@@ -40742,7 +40863,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Policy commentary linking environmental treaties and mental health; not original research/review and lacks sufficient direct investment relevance.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02276-z": {
     "doi": "10.1038/d41586-026-02276-z",
@@ -40771,7 +40897,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Research-news feature on preprint ranking AI; relevant to research workflow but lower priority than qualified original research and not selected for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02453-0": {
     "doi": "10.1038/d41586-026-02453-0",
@@ -40800,7 +40931,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Career/research-workforce feature rather than original research or formal review; insufficient direct investment relevance.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02199-9": {
     "doi": "10.1038/d41586-026-02199-9",
@@ -40829,7 +40965,12 @@
     "triggered_at": "2026-08-10T21:57:27+08:00",
     "scheduler_delay_minutes": 87.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Photo feature on mangrove restoration; excluded article type and outside the target investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10989-4": {
     "doi": "10.1038/s41586-026-10989-4",
@@ -40858,7 +40999,14 @@
     "triggered_at": "2026-08-11T07:07:16+08:00",
     "scheduler_delay_minutes": 37.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Deep analyzed in the 2026-08-11 report; high-relevance protein dynamics, NMR, and AI/protein-modeling work.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/d41586-026-02493-6": {
     "doi": "10.1038/d41586-026-02493-6",
@@ -40887,7 +41035,12 @@
     "triggered_at": "2026-08-11T07:07:16+08:00",
     "scheduler_delay_minutes": 37.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Research-news item rather than original research/review; lower priority and not selected for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.027": {
     "doi": "10.1016/j.cell.2026.07.027",
@@ -40938,7 +41091,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-11",
+    "deep_analysis_reason": "Deep analyzed in the 2026-08-11 report; high-relevance Parkinson's disease structural biology and drug-target work.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-11T17:44:51+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-11"
   },
   "10.1038/d41586-026-02082-7": {
     "doi": "10.1038/d41586-026-02082-7",
