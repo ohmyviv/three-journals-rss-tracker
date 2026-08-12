@@ -6,6 +6,12 @@ ACTIVE_ANALYSIS_STATUSES = {"pending_triage", "pending", "deferred"}
 VALID_DECISIONS = {"completed", "queued", "not_selected"}
 VALID_PRIORITIES = {"P0", "P1", "P2", "P3", "untriaged"}
 VALID_QUEUED_STATUSES = {"pending", "deferred"}
+LEGACY_TRIAGE_STATUSES = {
+    "pending_triage",
+    "pending",
+    "awaiting_enrichment",
+    "metadata_only_exhausted",
+}
 
 
 def active_backlog_count(queue: dict[str, Any]) -> int:
@@ -206,4 +212,208 @@ def apply_daily_analysis_decisions(
     counts["formal_new_dois"] = len(formal_new_dois)
     counts["formal_new_decisions"] = len(formal_new_dois & set(decisions))
     counts["historical_decisions"] = len(set(decisions) - formal_new_dois)
+    return history, counts
+
+
+def _legacy_drop_reason(row: dict[str, Any]) -> tuple[str, str]:
+    title = str(row.get("title") or "")
+    lowered = title.casefold()
+    excluded_prefixes = (
+        "author correction:",
+        "publisher correction:",
+        "editorial expression of concern:",
+        "editor's note:",
+        "daily briefing:",
+        "briefing chat:",
+    )
+    if lowered.startswith(excluded_prefixes):
+        return (
+            "excluded_article_type",
+            "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+        )
+
+    out_of_scope_terms = (
+        "quantum",
+        "superconductor",
+        "perovskite",
+        "photovolta",
+        "solar eclipse",
+        "telescope",
+        "methane emissions",
+        "wildfire",
+        "triassic",
+        "venus",
+        "climate",
+        "rift valleys",
+        "merchant ships",
+        "battery",
+        "thermopower",
+        "fermi",
+    )
+    if any(term in lowered for term in out_of_scope_terms):
+        return (
+            "out_of_scope",
+            "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+        )
+
+    doi = str(row.get("doi") or "").casefold()
+    if doi.startswith("10.1038/d41586-"):
+        return (
+            "secondary_or_commentary",
+            "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+        )
+
+    return (
+        "lower_priority_or_unclear",
+        "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    )
+
+
+def apply_legacy_backlog_triage(
+    *,
+    payload: dict[str, Any],
+    doi_index: dict[str, Any],
+    deep_queue: dict[str, Any],
+    timestamp: str,
+) -> tuple[list[dict[str, Any]], dict[str, int]]:
+    """Apply an auditable, one-time triage to untouched legacy queue rows.
+
+    Eligibility is deliberately narrow: an item must still be untriaged, must never
+    have been manually reviewed, must use a legacy queue status, and must belong to
+    a formal batch on or before the manifest cutoff.  Anything already completed,
+    explicitly queued by the current daily workflow, or manually reviewed is left
+    untouched.
+    """
+
+    migration_id = str(payload.get("migration_id") or "").strip()
+    cutoff_date = str(payload.get("cutoff_formal_batch_date") or "").strip()
+    raw_keep = payload.get("keep")
+    if not migration_id:
+        raise ValueError("Legacy triage payload must include migration_id")
+    if not cutoff_date:
+        raise ValueError("Legacy triage payload must include cutoff_formal_batch_date")
+    if not isinstance(raw_keep, list):
+        raise ValueError("Legacy triage payload must include a keep array")
+
+    keep: dict[str, dict[str, Any]] = {}
+    for raw in raw_keep:
+        if not isinstance(raw, dict):
+            raise ValueError("Each legacy keep decision must be an object")
+        doi = str(raw.get("doi") or "").casefold()
+        if not doi:
+            raise ValueError("Each legacy keep decision must include doi")
+        if doi in keep:
+            raise ValueError(f"Duplicate legacy keep DOI: {doi}")
+        priority = str(raw.get("priority_level") or "")
+        if priority not in {"P0", "P1", "P2", "P3"}:
+            raise ValueError(f"Legacy keep DOI {doi} needs explicit P0-P3 priority")
+        status = str(raw.get("analysis_status") or "pending")
+        if status not in VALID_QUEUED_STATUSES:
+            raise ValueError(f"Legacy keep DOI {doi} must use pending or deferred")
+        reason = str(raw.get("reason") or "").strip()
+        category = str(raw.get("category") or "").strip()
+        if not reason or not category:
+            raise ValueError(f"Legacy keep DOI {doi} needs reason and category")
+        keep[doi] = {**raw, "doi": doi, "priority_level": priority, "analysis_status": status}
+
+    active_before = active_backlog_count(deep_queue)
+    tracked_before = len(deep_queue)
+    eligible: dict[str, dict[str, Any]] = {}
+    for doi, row in deep_queue.items():
+        formal_date = str(row.get("first_formal_batch_date") or "")
+        if (
+            row.get("priority_level") == "untriaged"
+            and not row.get("last_reviewed_at")
+            and row.get("analysis_status") in LEGACY_TRIAGE_STATUSES
+            and formal_date
+            and formal_date <= cutoff_date
+        ):
+            eligible[doi.casefold()] = row
+
+    missing_keep = sorted(set(keep) - set(eligible))
+    if missing_keep:
+        raise ValueError(
+            "Curated legacy keep list contains DOI(s) that are no longer eligible; "
+            "refuse stale migration: " + ", ".join(missing_keep)
+        )
+
+    history: list[dict[str, Any]] = []
+    kept = 0
+    removed = 0
+    priority_counts = {"P0": 0, "P1": 0, "P2": 0, "P3": 0}
+    category_counts: dict[str, int] = {}
+
+    for doi in sorted(eligible):
+        before_queue = dict(deep_queue[doi])
+        record = doi_index.get(doi)
+        if record is None:
+            raise KeyError(f"Legacy queue DOI missing from doi_index: {doi}")
+        before_disposition = record.get("deep_analysis_disposition")
+
+        if doi in keep:
+            decision = keep[doi]
+            row = dict(deep_queue[doi])
+            status = decision["analysis_status"]
+            row["priority_level"] = decision["priority_level"]
+            row["analysis_status"] = status
+            row["last_reviewed_at"] = timestamp
+            if decision.get("queue_reason") is not None:
+                queue_reason = decision["queue_reason"]
+                if not isinstance(queue_reason, list):
+                    raise ValueError(f"queue_reason for {doi} must be an array")
+                row["queue_reason"] = queue_reason
+            if status == "deferred" and before_queue.get("analysis_status") != "deferred":
+                row["defer_count"] = int(row.get("defer_count", 0)) + 1
+            deep_queue[doi] = row
+            disposition = "queued"
+            reason = str(decision["reason"])
+            category = str(decision["category"])
+            after_queue: dict[str, Any] | None = dict(row)
+            kept += 1
+            priority_counts[decision["priority_level"]] += 1
+        else:
+            category, reason = _legacy_drop_reason(before_queue)
+            deep_queue.pop(doi, None)
+            disposition = "not_selected"
+            after_queue = None
+            removed += 1
+
+        category_counts[category] = category_counts.get(category, 0) + 1
+        record["deep_analysis_disposition"] = disposition
+        record["deep_analysis_decided_at"] = timestamp
+        record["deep_analysis_reason"] = reason
+        record["deep_analysis_priority_level"] = (
+            keep[doi]["priority_level"] if doi in keep else "untriaged"
+        )
+        record["deep_analysis_migration_id"] = migration_id
+        doi_index[doi] = record
+
+        history.append(
+            {
+                "changed_at": timestamp,
+                "migration_id": migration_id,
+                "migration_type": "legacy_backlog_triage",
+                "doi": doi,
+                "disposition": disposition,
+                "category": category,
+                "reason": reason,
+                "before_disposition": before_disposition,
+                "before_queue": before_queue,
+                "after_queue": after_queue,
+            }
+        )
+
+    counts = {
+        "eligible_legacy_records": len(eligible),
+        "kept_queued": kept,
+        "removed_not_selected": removed,
+        "preserved_records": tracked_before - len(eligible),
+        "active_backlog_before": active_before,
+        "active_backlog_after": active_backlog_count(deep_queue),
+        "tracked_queue_records_before": tracked_before,
+        "tracked_queue_records_after": len(deep_queue),
+        **{f"kept_{priority}": count for priority, count in priority_counts.items()},
+    }
+    for category, count in sorted(category_counts.items()):
+        counts[f"category_{category}"] = count
     return history, counts
