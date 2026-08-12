@@ -1846,7 +1846,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T07:30:01+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
-    "first_formal_batch_date": "2026-07-28"
+    "first_formal_batch_date": "2026-07-28",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: perovskite photovoltaics is outside the target life-science investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02309-7": {
     "doi": "10.1038/d41586-026-02309-7",
@@ -1872,7 +1877,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-29T17:19:26+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
-    "first_formal_batch_date": "2026-07-28"
+    "first_formal_batch_date": "2026-07-28",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: AI-and-mathematics commentary is outside the target deep-analysis scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.aej5924": {
     "doi": "10.1126/science.aej5924",
@@ -27812,7 +27822,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-03T18:12:10+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: general science-values commentary lacks direct life-science investment relevance.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02349-z": {
     "doi": "10.1038/d41586-026-02349-z",
@@ -27838,7 +27853,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-03T13:23:03+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: flash-flooding/climate feature is outside target scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02347-1": {
     "doi": "10.1038/d41586-026-02347-1",
@@ -27864,7 +27884,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-01T07:29:32+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: general AI-use commentary is not a target life-science research item.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02104-4": {
     "doi": "10.1038/d41586-026-02104-4",
@@ -27890,7 +27915,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T22:56:46+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: wool morphology feature lacks direct biomedical or life-science investment relevance.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02348-0": {
     "doi": "10.1038/d41586-026-02348-0",
@@ -27916,7 +27946,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T17:23:41+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item actually triaged in this run: conversational-AI public-interest commentary is outside the target deep-analysis scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-01935-5": {
     "doi": "10.1038/d41586-026-01935-5",
@@ -34397,7 +34432,14 @@
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-12 report using the formal Science/PubMed abstract; new DRT4 antiphage mechanism with DNA/RNA-processing technology relevance.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-12"
   },
   "10.1038/d41586-026-02398-4": {
     "doi": "10.1038/d41586-026-02398-4",
@@ -34654,7 +34696,14 @@
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-12 report using substantive author-associated Columbia research abstract evidence; antibody diversification and retrotransposon biology are highly relevant.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-12"
   },
   "10.1016/j.cell.2026.07.022": {
     "doi": "10.1016/j.cell.2026.07.022",
@@ -37478,7 +37527,14 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Historical backlog item deep analyzed in the 2026-08-12 report using the authors' formal Janelia/bioRxiv preprint; mitochondrial transport mechanism is relevant to neuroscience and neurodegeneration.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-12"
   },
   "10.1126/science.aek0212": {
     "doi": "10.1126/science.aek0212",
@@ -41153,7 +41209,12 @@
     "triggered_at": "2026-08-11T17:31:37+08:00",
     "scheduler_delay_minutes": 61.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Research-funding policy feature rather than biomedical original research or formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10947-0": {
     "doi": "10.1038/s41586-026-10947-0",
@@ -41182,7 +41243,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Author Correction; excluded article type despite the underlying lung-cancer topic.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02492-7": {
     "doi": "10.1038/d41586-026-02492-7",
@@ -41211,7 +41277,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Funding-policy commentary, not original biomedical research or formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02464-x": {
     "doi": "10.1038/d41586-026-02464-x",
@@ -41240,7 +41311,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Scientific-activism commentary without a direct biomedical research or investment connection.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02490-9": {
     "doi": "10.1038/d41586-026-02490-9",
@@ -41269,7 +41345,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "General commentary on scientific AI epistemology rather than directly relevant life-science original research or formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02380-0": {
     "doi": "10.1038/d41586-026-02380-0",
@@ -41298,7 +41379,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Radio-telescope history/cost feature outside the target investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02491-8": {
     "doi": "10.1038/d41586-026-02491-8",
@@ -41327,7 +41413,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "General AI/culture feature, not original neuroscience or biomedical research.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02452-1": {
     "doi": "10.1038/d41586-026-02452-1",
@@ -41356,7 +41447,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Career advice article; excluded article type.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02142-y": {
     "doi": "10.1038/d41586-026-02142-y",
@@ -41385,7 +41481,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Solar/astronomy news outside the target life-science and biomedical investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02449-w": {
     "doi": "10.1038/d41586-026-02449-w",
@@ -41414,7 +41515,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Climate/Amazon news feature outside the target life-science and biomedical investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02451-2": {
     "doi": "10.1038/d41586-026-02451-2",
@@ -41443,7 +41549,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "AI data-centre sustainability commentary rather than directly relevant AI-for-life-science research.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02500-w": {
     "doi": "10.1038/d41586-026-02500-w",
@@ -41472,7 +41583,12 @@
     "triggered_at": "2026-08-11T21:56:56+08:00",
     "scheduler_delay_minutes": 86.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Daily Briefing aggregation; excluded low-information article type for deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.047": {
     "doi": "10.1016/j.cell.2026.07.047",
@@ -41517,7 +41633,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Crossref-only Cell item with a title/author pattern overlapping an older antibody-diversity publication; no new substantive 2026 research evidence obtained, so it is not appropriate for the deep-analysis queue.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.046": {
     "doi": "10.1016/j.cell.2026.07.046",
@@ -41551,7 +41672,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-14T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Alzheimer therapeutics commentary/perspective-style Cell item; Crossref-only with no substantive text obtained, and non-original commentary is lower priority than qualified research papers.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10991-w": {
     "doi": "10.1038/s41586-026-10991-w",
@@ -41580,7 +41706,12 @@
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Original synthetic chemistry without a sufficiently direct demonstrated connection to drug chemistry, biocatalysis, diagnostics, devices, or life-science industry in this item.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02431-6": {
     "doi": "10.1038/d41586-026-02431-6",
@@ -41609,7 +41740,12 @@
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Climate/shipping news outside the target life-science and biomedical investment scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02454-z": {
     "doi": "10.1038/d41586-026-02454-z",
@@ -41638,7 +41774,12 @@
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Human-rights/policy feature outside the target deep-analysis research scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02374-y": {
     "doi": "10.1038/d41586-026-02374-y",
@@ -41667,7 +41808,12 @@
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Highly relevant HIV-vaccine news item, but this secondary Nature news article was not selected for future deep analysis; primary vaccine studies are the preferred evidence objects.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02489-2": {
     "doi": "10.1038/d41586-026-02489-2",
@@ -41696,7 +41842,12 @@
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "NIH public-policy funding news rather than original biomedical research or formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.024": {
     "doi": "10.1016/j.cell.2026.07.024",
@@ -41747,7 +41898,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Relevant basic biology of intestinal tissue plasticity and reproductive physiology, but the formal Cell record remains Crossref-only and no substantive current-paper evidence was obtained.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.07.034": {
     "doi": "10.1016/j.cell.2026.07.034",
@@ -41801,7 +41957,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "High-relevance human disease genomics and asthma target-prioritization study; Crossref-only in the formal batch and substantive abstract/full text was not obtained in this run.",
+    "deep_analysis_priority_level": "P0"
   },
   "10.1016/j.cell.2026.07.032": {
     "doi": "10.1016/j.cell.2026.07.032",
@@ -41840,7 +42001,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Deep analyzed in the 2026-08-12 report using the authors' formal bioRxiv/PubMed preprint; directly relevant to human cortical coding and brain-machine interfaces.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-12"
   },
   "10.1016/j.cell.2026.07.035": {
     "doi": "10.1016/j.cell.2026.07.035",
@@ -41909,7 +42077,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "Plant pangenome-guided crop breeding research without a sufficiently direct connection to the life-science/biomedical investment focus.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.029": {
     "doi": "10.1016/j.cell.2026.07.029",
@@ -41950,6 +42123,11 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-12",
+    "deep_analysis_reason": "High-relevance infectious-disease and metabolic-regulation research on Toxoplasma, but currently Crossref-only with no substantive abstract/full text obtained in this run.",
+    "deep_analysis_priority_level": "P1"
   }
 }
