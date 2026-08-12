@@ -1,0 +1,5 @@
+{
+  "trigger_id": "legacy-backlog-triage-2026-08-12-v1-retry-1",
+  "migration_file": "data/deep_analysis_migrations/legacy-backlog-triage-2026-08-12.json",
+  "reason": "Retry after fixing merge-commit migration-file resolution; the first workflow run failed before applying any state changes."
+}
