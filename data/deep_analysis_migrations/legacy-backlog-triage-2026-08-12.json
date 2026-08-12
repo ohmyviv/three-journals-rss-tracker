@@ -1,0 +1,309 @@
+{
+  "migration_id": "legacy-backlog-triage-2026-08-12-v1",
+  "cutoff_formal_batch_date": "2026-08-11",
+  "scope": "Untouched legacy deep-analysis rows created before explicit daily disposition writeback. Keep only clearly relevant, future-deep-analysis-worthy candidates; remove the rest from active backlog while preserving doi_index and history.",
+  "keep": [
+    {
+      "doi": "10.1038/s41586-026-10930-9",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "biocatalysis_drug_chemistry",
+      "reason": "Pyridoxal photoenzyme platform is directly relevant to biocatalysis and stereoselective synthesis for life-science chemistry."
+    },
+    {
+      "doi": "10.1038/s41586-026-10849-1",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "protein_design_ai_biology",
+      "reason": "Rational design of intrinsically disordered proteins is directly relevant to programmable protein engineering and AI-enabled biology."
+    },
+    {
+      "doi": "10.1038/s41586-026-10842-8",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "protein_design_ai_biology",
+      "reason": "Raygun protein resizing and modification is a high-priority protein-design platform with direct therapeutic and tool-building relevance."
+    },
+    {
+      "doi": "10.1038/s41586-026-10834-8",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "biocatalysis_drug_chemistry",
+      "reason": "Enzymatic glycosylation and amidation that reshape polyene bioactivity directly connect biocatalysis to medicinal chemistry."
+    },
+    {
+      "doi": "10.1038/s41586-026-10841-9",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "genomics_tools",
+      "reason": "Human centromere variation is relevant to complete-genome interpretation, structural variation, and next-generation genomics."
+    },
+    {
+      "doi": "10.1038/s41586-026-10856-2",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "infection_structural_biology",
+      "reason": "Poxvirus portal-complex biology is directly relevant to viral assembly, infection mechanisms, and antiviral target discovery."
+    },
+    {
+      "doi": "10.1038/s41586-026-10814-y",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "stem_cells_regeneration",
+      "reason": "Intestinal stem-cell division history and tissue maintenance are relevant to stem-cell biology, regeneration, and aging."
+    },
+    {
+      "doi": "10.1038/s41586-026-10939-0",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "aging_neuroimmunology",
+      "reason": "Somatic-mutation reconstruction of human microglial ontogeny directly connects aging, brain immune biology, and lineage analysis."
+    },
+    {
+      "doi": "10.1038/s41586-026-10957-y",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "pyroptosis_delivery",
+      "reason": "Gasdermin D-mediated delivery of caspase inhibitors is highly relevant to pyroptosis, inflammatory disease, and targeted intracellular delivery."
+    },
+    {
+      "doi": "10.1038/s41586-026-10798-9",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "genomics_regulatory_biology",
+      "reason": "Expanded human transcription-factor DNA-binding specificity is a useful regulatory-genomics resource with target-discovery and model-building relevance."
+    },
+    {
+      "doi": "10.1038/s41586-026-10890-0",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "cancer_regeneration",
+      "reason": "ZFP36L2-linked stress-adaptive plasticity connects regeneration and cancer cell-state control, a direct translational biology topic."
+    },
+    {
+      "doi": "10.1038/s41586-026-10874-0",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neuroscience_psychiatry",
+      "reason": "Amygdala astrocyte primary-cilium mechanisms in stress behaviour are directly relevant to neurobiology and psychiatric disease mechanisms."
+    },
+    {
+      "doi": "10.1038/s41586-026-10843-7",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "oncology_functional_genomics",
+      "reason": "Next-generation 3D cancer models integrated with dependency mapping are a high-priority functional-oncology and target-discovery platform."
+    },
+    {
+      "doi": "10.1038/s41586-026-10879-9",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "neuroscience_bci",
+      "reason": "Human-brain stimulation linked to gene-associated cell assemblies is directly relevant to neural circuits, stimulation technologies, and BCI/neurotechnology."
+    },
+    {
+      "doi": "10.1038/s41586-026-10806-y",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "oncology_models",
+      "reason": "A large next-generation patient-derived cancer-model compendium is directly relevant to translational oncology, drug response, and target validation."
+    },
+    {
+      "doi": "10.1038/s41586-026-10860-6",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neuroimmunology_autoimmunity",
+      "reason": "CD40/MHC-II astrocyte antigen presentation in CNS autoimmunity is a direct neuroimmunology and autoimmune-disease mechanism."
+    },
+    {
+      "doi": "10.1038/s41586-026-10884-y",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "ai_life_sciences_spatial_omics",
+      "reason": "Virtual Tissues is a foundation-model approach to spatial proteomics and is directly aligned with virtual-cell, multimodal biology, and AI-life-science priorities."
+    },
+    {
+      "doi": "10.1038/s41586-026-10840-w",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "infection_public_health",
+      "reason": "Childhood malaria burden and environmental drivers remain directly relevant to infectious disease and translational public-health biology."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.003",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "ai_life_sciences",
+      "reason": "Native biological language models are strategically relevant to AI-for-biology even if the article is conceptual rather than a primary experimental paper."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.012",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "synthetic_biology_nucleic_acids",
+      "reason": "Dual reverse-transcriptase RNA/protein-templated DNA synthesis is a high-priority new nucleic-acid mechanism with synthetic-biology tool potential."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.011",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "pyroptosis_infection_metabolism",
+      "reason": "Gasdermin E coupling viral pyroptosis to lethal hepatic lipid accumulation directly connects inflammatory cell death, infection, and metabolism."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.016",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "oncology_immunotherapy_crispr",
+      "reason": "CRISPR screens for rescuing age-related T-cell dysfunction in cancer are directly relevant to immunotherapy targets and aging immunity."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.020",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "cancer_immunometabolism",
+      "reason": "Dietary arginine control of codon-dependent MHC-I translation links immunometabolism to antitumor and antiviral immunity."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.007",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neuroscience_spatial_omics",
+      "reason": "A spatial atlas of human brain vasculature is directly relevant to human brain cell states, spatial omics, and neurovascular biology."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.026",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "diagnostics_neurooncology",
+      "reason": "Ultrarapid deep 3D histology for intraoperative glioma mapping has direct diagnostics, imaging, and surgical-neurooncology relevance."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.022",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "microbiome_immunology",
+      "reason": "Milk osteopontin effects on infant microbiome, dendritic-cell hematopoiesis, and disease tolerance connect microbiome and immune development."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.023",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neuroscience_metabolism_multiomics",
+      "reason": "A metabolic atlas of early human cortex linking glycolysis and pentose-phosphate flux to cell fate is directly relevant to developmental neurobiology and multiomics."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.008",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neurodegeneration_als",
+      "reason": "Cellular phenotypes underlying language and executive decline in ALS are directly relevant to neurodegeneration and human disease stratification."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.028",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "oncology_immunotherapy",
+      "reason": "Peripheral 5-HT2A receptor targeting to enhance colorectal-cancer antitumor immunity is a direct drug-target and immunotherapy opportunity."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.031",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "oncology_spatial_biology",
+      "reason": "Spatial biology of altered macrophage states in immunosuppressed skin cancer is directly relevant to tumor immunology and biomarker discovery."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.05.035",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "genomics_tools",
+      "reason": "Human acrocentric chromosome mutation and recombination are relevant to complete-genome analysis and structural-variation interpretation."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.049",
+      "priority_level": "P0",
+      "analysis_status": "deferred",
+      "category": "structure_based_drug_design",
+      "reason": "Structure-based design of a non-hypertrophic apelin-receptor modulator is a high-priority GPCR drug-design item, but substantive evidence is still awaiting enrichment.",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.013",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "aging_sex_biology",
+      "reason": "The reproductive-resilience hypothesis is directly relevant to sex-specific aging biology and merits lower-priority review despite likely non-primary article type."
+    },
+    {
+      "doi": "10.1126/science.adz7928",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "oncology_multiomics",
+      "reason": "Spatiotemporal multiomics of the tumor ecosystem during metastatic colonization is high-priority oncology, metastasis, and multiomics research."
+    },
+    {
+      "doi": "10.1126/science.adz8081",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "genomics_transposons",
+      "reason": "X-inactivation-associated LINE-1 mutagenesis is directly relevant to human genome instability and transposable-element biology."
+    },
+    {
+      "doi": "10.1126/science.aec2906",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "structural_biology_ophthalmology",
+      "reason": "Molecular architecture of mammalian vitreous collagen fibrils has direct relevance to ocular extracellular-matrix biology and potential ophthalmic translation."
+    },
+    {
+      "doi": "10.1126/science.ads5397",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "metabolism_mitochondria",
+      "reason": "Feedback regulation of heme biosynthesis by a mitochondrial protease is directly relevant to mitochondrial metabolism and disease biology."
+    },
+    {
+      "doi": "10.1126/science.aef5438",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "synthetic_biology_biomanufacturing",
+      "reason": "Sustainable production of etoposide/teniposide-related cancer drugs in engineered yeast is a high-priority synthetic-biology and biomanufacturing case."
+    },
+    {
+      "doi": "10.1126/science.aef4184",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "neuroscience",
+      "reason": "Adaptive theta sweeps during brain navigation are directly relevant to neural coding and circuit-level neuroscience."
+    },
+    {
+      "doi": "10.1126/science.adu6688",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "infection_immunology",
+      "reason": "Candida auris skin colonization and host-response biology are directly relevant to emerging infection and antifungal research."
+    },
+    {
+      "doi": "10.1126/science.adx1707",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "category": "life_science_instrumentation_bci",
+      "reason": "Levitated-sensor magnetometry has a direct potential connection to ultralow-field biomagnetic and brain-signal measurement, making it relevant to neurotechnology instrumentation."
+    },
+    {
+      "doi": "10.1126/science.aec2657",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "category": "ai_life_sciences_synthetic_biology",
+      "reason": "Generative bacteriophage design with genome language models is a high-priority AI-biology and synthetic-genome engineering study."
+    },
+    {
+      "doi": "10.1126/science.aef8874",
+      "priority_level": "P2",
+      "analysis_status": "pending",
+      "category": "bioinformatics_genomics",
+      "reason": "Ancestral-recombination-graph analysis of archaic introgression is methodologically relevant to population genomics and bioinformatics."
+    }
+  ]
+}
