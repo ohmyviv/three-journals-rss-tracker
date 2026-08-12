@@ -40,12 +40,19 @@ jobs:
         env:
           INPUT_MIGRATION_FILE: ${{ inputs.migration_file }}
           EVENT_SHA: ${{ github.sha }}
+          BEFORE_SHA: ${{ github.event.before }}
         shell: bash
         run: |
           if [[ -n "$INPUT_MIGRATION_FILE" ]]; then
             migration_file="$INPUT_MIGRATION_FILE"
           else
-            migration_file="$(git diff-tree --no-commit-id --name-only -r "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' | tail -n 1)"
+            migration_file=""
+            if [[ -n "$BEFORE_SHA" && "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]]; then
+              migration_file="$(git diff --name-only "$BEFORE_SHA" "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' | tail -n 1)"
+            fi
+            if [[ -z "$migration_file" ]]; then
+              migration_file="$(git diff-tree -m --no-commit-id --name-only -r "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' | tail -n 1)"
+            fi
           fi
           if [[ -z "$migration_file" || ! -f "$migration_file" ]]; then
             echo "Could not resolve a valid legacy migration file"
