@@ -185,5 +185,18 @@
     "new_missing_doi_count": 0,
     "late_recovery_doi_count": 0,
     "path": "public/batches/2026-08-11.json"
+  },
+  "daily-2026-08-12": {
+    "batch_id": "daily-2026-08-12",
+    "date": "2026-08-12",
+    "generated_at": "2026-08-12T11:52:05+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed"
+    ],
+    "new_doi_count": 24,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "path": "public/batches/2026-08-12.json"
   }
 }
