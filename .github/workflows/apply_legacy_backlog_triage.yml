@@ -12,6 +12,7 @@ on:
       - main
     paths:
       - "data/deep_analysis_migrations/*.json"
+      - "data/deep_analysis_migrations/triggers/*.json"
 
 permissions:
   contents: write
@@ -46,12 +47,17 @@ jobs:
           if [[ -n "$INPUT_MIGRATION_FILE" ]]; then
             migration_file="$INPUT_MIGRATION_FILE"
           else
-            migration_file=""
+            changed_path=""
             if [[ -n "$BEFORE_SHA" && "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]]; then
-              migration_file="$(git diff --name-only "$BEFORE_SHA" "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' | tail -n 1)"
+              changed_path="$(git diff --name-only "$BEFORE_SHA" "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' 'data/deep_analysis_migrations/triggers/*.json' | tail -n 1)"
             fi
-            if [[ -z "$migration_file" ]]; then
-              migration_file="$(git diff-tree -m --no-commit-id --name-only -r "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' | tail -n 1)"
+            if [[ -z "$changed_path" ]]; then
+              changed_path="$(git diff-tree -m --no-commit-id --name-only -r "$EVENT_SHA" -- 'data/deep_analysis_migrations/*.json' 'data/deep_analysis_migrations/triggers/*.json' | tail -n 1)"
+            fi
+            if [[ "$changed_path" == data/deep_analysis_migrations/triggers/*.json ]]; then
+              migration_file="$(python -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))["migration_file"])' "$changed_path")"
+            else
+              migration_file="$changed_path"
             fi
           fi
           if [[ -z "$migration_file" || ! -f "$migration_file" ]]; then
