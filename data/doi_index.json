@@ -1820,7 +1820,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T07:30:01+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
-    "first_formal_batch_date": "2026-07-28"
+    "first_formal_batch_date": "2026-07-28",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Pyridoxal photoenzyme platform is directly relevant to biocatalysis and stereoselective synthesis for life-science chemistry.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10929-2": {
     "doi": "10.1038/s41586-026-10929-2",
@@ -27796,7 +27801,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-29T17:19:26+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
-    "first_formal_batch_date": "2026-07-28"
+    "first_formal_batch_date": "2026-07-28",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02346-2": {
     "doi": "10.1038/d41586-026-02346-2",
@@ -27977,7 +27987,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T17:23:41+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02315-9": {
     "doi": "10.1038/d41586-026-02315-9",
@@ -28003,7 +28018,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T17:23:41+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02278-x": {
     "doi": "10.1038/d41586-026-02278-x",
@@ -28029,7 +28049,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T17:23:41+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02125-z": {
     "doi": "10.1038/d41586-026-02125-z",
@@ -28055,7 +28080,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T22:40:46+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02311-z": {
     "doi": "10.1038/d41586-026-02311-z",
@@ -28081,7 +28111,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T22:40:46+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02286-x": {
     "doi": "10.1038/d41586-026-02286-x",
@@ -28107,7 +28142,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T22:40:46+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02300-2": {
     "doi": "10.1038/d41586-026-02300-2",
@@ -28133,7 +28173,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T07:30:01+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02355-1": {
     "doi": "10.1038/d41586-026-02355-1",
@@ -28159,7 +28204,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-30T07:30:01+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02345-3": {
     "doi": "10.1038/d41586-026-02345-3",
@@ -28185,7 +28235,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-29T17:19:26+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10923-8": {
     "doi": "10.1038/s41586-026-10923-8",
@@ -28211,7 +28266,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-03T18:12:10+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10931-8": {
     "doi": "10.1038/s41586-026-10931-8",
@@ -28237,7 +28297,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-03T18:12:10+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02304-y": {
     "doi": "10.1038/d41586-026-02304-y",
@@ -28263,7 +28328,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-03T13:23:03+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02333-7": {
     "doi": "10.1038/d41586-026-02333-7",
@@ -28289,7 +28359,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T22:56:46+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02287-w": {
     "doi": "10.1038/d41586-026-02287-w",
@@ -28315,7 +28390,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T17:23:41+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02351-5": {
     "doi": "10.1038/d41586-026-02351-5",
@@ -28341,7 +28421,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-07-31T07:32:51+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
-    "first_formal_batch_date": "2026-07-29"
+    "first_formal_batch_date": "2026-07-29",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.003": {
     "doi": "10.1016/j.cell.2026.07.003",
@@ -28396,7 +28481,12 @@
     "first_formal_batch_id": "daily-2026-07-29",
     "first_formal_batch_date": "2026-07-29",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Native biological language models are strategically relevant to AI-for-biology even if the article is conceptual rather than a primary experimental paper.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.012": {
     "doi": "10.1016/j.cell.2026.07.012",
@@ -28489,7 +28579,12 @@
     "first_formal_batch_id": "daily-2026-07-29",
     "first_formal_batch_date": "2026-07-29",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Dual reverse-transcriptase RNA/protein-templated DNA synthesis is a high-priority new nucleic-acid mechanism with synthetic-biology tool potential.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02282-1": {
     "doi": "10.1038/d41586-026-02282-1",
@@ -28515,7 +28610,12 @@
     "last_seen_source": "rss",
     "last_updated_at": "2026-08-04T22:59:02+08:00",
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10945-2": {
     "doi": "10.1038/s41586-026-10945-2",
@@ -28546,7 +28646,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10942-5": {
     "doi": "10.1038/s41586-026-10942-5",
@@ -28577,7 +28682,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02367-x": {
     "doi": "10.1038/d41586-026-02367-x",
@@ -28608,7 +28718,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02179-z": {
     "doi": "10.1038/d41586-026-02179-z",
@@ -28639,7 +28754,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02359-x": {
     "doi": "10.1038/d41586-026-02359-x",
@@ -28670,7 +28790,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10845-5": {
     "doi": "10.1038/s41586-026-10845-5",
@@ -28701,7 +28826,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10852-6": {
     "doi": "10.1038/s41586-026-10852-6",
@@ -28808,7 +28938,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10862-4": {
     "doi": "10.1038/s41586-026-10862-4",
@@ -28839,7 +28974,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10881-1": {
     "doi": "10.1038/s41586-026-10881-1",
@@ -28908,7 +29048,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10850-8": {
     "doi": "10.1038/s41586-026-10850-8",
@@ -28939,7 +29084,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10766-3": {
     "doi": "10.1038/s41586-026-10766-3",
@@ -28970,7 +29120,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10834-8": {
     "doi": "10.1038/s41586-026-10834-8",
@@ -29001,7 +29156,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Enzymatic glycosylation and amidation that reshape polyene bioactivity directly connect biocatalysis to medicinal chemistry.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10754-7": {
     "doi": "10.1038/s41586-026-10754-7",
@@ -29032,7 +29192,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10841-9": {
     "doi": "10.1038/s41586-026-10841-9",
@@ -29063,7 +29228,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Human centromere variation is relevant to complete-genome interpretation, structural variation, and next-generation genomics.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10849-1": {
     "doi": "10.1038/s41586-026-10849-1",
@@ -29094,7 +29264,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Rational design of intrinsically disordered proteins is directly relevant to programmable protein engineering and AI-enabled biology.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10856-2": {
     "doi": "10.1038/s41586-026-10856-2",
@@ -29125,7 +29300,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Poxvirus portal-complex biology is directly relevant to viral assembly, infection mechanisms, and antiviral target discovery.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10825-9": {
     "doi": "10.1038/s41586-026-10825-9",
@@ -29156,7 +29336,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10868-y": {
     "doi": "10.1038/s41586-026-10868-y",
@@ -29187,7 +29372,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10851-7": {
     "doi": "10.1038/s41586-026-10851-7",
@@ -29218,7 +29408,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10847-3": {
     "doi": "10.1038/s41586-026-10847-3",
@@ -29249,7 +29444,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10866-0": {
     "doi": "10.1038/s41586-026-10866-0",
@@ -29280,7 +29480,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10795-y": {
     "doi": "10.1038/s41586-026-10795-y",
@@ -29311,7 +29516,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10835-7": {
     "doi": "10.1038/s41586-026-10835-7",
@@ -29342,7 +29552,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10842-8": {
     "doi": "10.1038/s41586-026-10842-8",
@@ -29373,7 +29588,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Raygun protein resizing and modification is a high-priority protein-design platform with direct therapeutic and tool-building relevance.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10861-5": {
     "doi": "10.1038/s41586-026-10861-5",
@@ -29404,7 +29624,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10814-y": {
     "doi": "10.1038/s41586-026-10814-y",
@@ -29435,7 +29660,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Intestinal stem-cell division history and tissue maintenance are relevant to stem-cell biology, regeneration, and aging.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10840-w": {
     "doi": "10.1038/s41586-026-10840-w",
@@ -29466,7 +29696,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Childhood malaria burden and environmental drivers remain directly relevant to infectious disease and translational public-health biology.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02124-0": {
     "doi": "10.1038/d41586-026-02124-0",
@@ -29497,7 +29732,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02310-0": {
     "doi": "10.1038/d41586-026-02310-0",
@@ -29528,7 +29768,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02183-3": {
     "doi": "10.1038/d41586-026-02183-3",
@@ -29559,7 +29804,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02308-8": {
     "doi": "10.1038/d41586-026-02308-8",
@@ -29590,7 +29840,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02254-5": {
     "doi": "10.1038/d41586-026-02254-5",
@@ -29621,7 +29876,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02127-x": {
     "doi": "10.1038/d41586-026-02127-x",
@@ -29652,7 +29912,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02341-7": {
     "doi": "10.1038/d41586-026-02341-7",
@@ -29683,7 +29948,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02181-5": {
     "doi": "10.1038/d41586-026-02181-5",
@@ -29714,7 +29984,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02325-7": {
     "doi": "10.1038/d41586-026-02325-7",
@@ -29745,7 +30020,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02335-5": {
     "doi": "10.1038/d41586-026-02335-5",
@@ -29776,7 +30056,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02128-w": {
     "doi": "10.1038/d41586-026-02128-w",
@@ -29807,7 +30092,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-025-03966-w": {
     "doi": "10.1038/d41586-025-03966-w",
@@ -29838,7 +30128,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02182-4": {
     "doi": "10.1038/d41586-026-02182-4",
@@ -29869,7 +30164,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02319-5": {
     "doi": "10.1038/d41586-026-02319-5",
@@ -29900,7 +30200,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02321-x": {
     "doi": "10.1038/d41586-026-02321-x",
@@ -29931,7 +30236,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02246-5": {
     "doi": "10.1038/d41586-026-02246-5",
@@ -29962,7 +30272,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02126-y": {
     "doi": "10.1038/d41586-026-02126-y",
@@ -29993,7 +30308,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02329-3": {
     "doi": "10.1038/d41586-026-02329-3",
@@ -30024,7 +30344,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02357-z": {
     "doi": "10.1038/d41586-026-02357-z",
@@ -30055,7 +30380,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02340-8": {
     "doi": "10.1038/d41586-026-02340-8",
@@ -30086,7 +30416,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02312-y": {
     "doi": "10.1038/d41586-026-02312-y",
@@ -30117,7 +30452,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02180-6": {
     "doi": "10.1038/d41586-026-02180-6",
@@ -30148,7 +30488,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02363-1": {
     "doi": "10.1038/d41586-026-02363-1",
@@ -30179,7 +30524,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
-    "first_formal_batch_date": "2026-07-30"
+    "first_formal_batch_date": "2026-07-30",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.011": {
     "doi": "10.1016/j.cell.2026.07.011",
@@ -30257,7 +30607,12 @@
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Gasdermin E coupling viral pyroptosis to lethal hepatic lipid accumulation directly connects inflammatory cell death, infection, and metabolism.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.016": {
     "doi": "10.1016/j.cell.2026.07.016",
@@ -30365,7 +30720,12 @@
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "CRISPR screens for rescuing age-related T-cell dysfunction in cancer are directly relevant to immunotherapy targets and aging immunity.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-01843-8": {
     "doi": "10.1038/d41586-026-01843-8",
@@ -30396,7 +30756,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02195-z": {
     "doi": "10.1038/d41586-026-02195-z",
@@ -30427,7 +30792,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02079-2": {
     "doi": "10.1038/d41586-026-02079-2",
@@ -30458,7 +30828,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02400-z": {
     "doi": "10.1038/d41586-026-02400-z",
@@ -30489,7 +30864,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10939-0": {
     "doi": "10.1038/s41586-026-10939-0",
@@ -30520,7 +30900,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Somatic-mutation reconstruction of human microglial ontogeny directly connects aging, brain immune biology, and lineage analysis.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10920-x": {
     "doi": "10.1038/s41586-026-10920-x",
@@ -30551,7 +30936,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02361-3": {
     "doi": "10.1038/d41586-026-02361-3",
@@ -30582,7 +30972,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
-    "first_formal_batch_date": "2026-07-31"
+    "first_formal_batch_date": "2026-07-31",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef2893": {
     "doi": "10.1126/science.aef2893",
@@ -30662,7 +31057,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ady0832": {
     "doi": "10.1126/science.ady0832",
@@ -30835,7 +31235,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aee6957": {
     "doi": "10.1126/science.aee6957",
@@ -30909,7 +31314,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek2948": {
     "doi": "10.1126/science.aek2948",
@@ -30966,7 +31376,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adz7928": {
     "doi": "10.1126/science.adz7928",
@@ -31127,7 +31542,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Spatiotemporal multiomics of the tumor ecosystem during metastatic colonization is high-priority oncology, metastasis, and multiomics research.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej5902": {
     "doi": "10.1126/science.aej5902",
@@ -31183,7 +31603,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0163": {
     "doi": "10.1126/science.ael0163",
@@ -31238,7 +31663,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aec6298": {
     "doi": "10.1126/science.aec6298",
@@ -31319,7 +31749,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adq7402": {
     "doi": "10.1126/science.adq7402",
@@ -31386,7 +31821,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek9788": {
     "doi": "10.1126/science.aek9788",
@@ -31471,7 +31911,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek9790": {
     "doi": "10.1126/science.aek9790",
@@ -31535,7 +31980,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej5901": {
     "doi": "10.1126/science.aej5901",
@@ -31596,7 +32046,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek9789": {
     "doi": "10.1126/science.aek9789",
@@ -31661,7 +32116,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aeg1730": {
     "doi": "10.1126/science.aeg1730",
@@ -31772,7 +32232,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aei1519": {
     "doi": "10.1126/science.aei1519",
@@ -31828,7 +32293,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aeh0950": {
     "doi": "10.1126/science.aeh0950",
@@ -31892,7 +32362,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aed8175": {
     "doi": "10.1126/science.aed8175",
@@ -31973,7 +32448,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0164": {
     "doi": "10.1126/science.ael0164",
@@ -32028,7 +32508,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek6646": {
     "doi": "10.1126/science.aek6646",
@@ -32090,7 +32575,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0167": {
     "doi": "10.1126/science.ael0167",
@@ -32143,7 +32633,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0161": {
     "doi": "10.1126/science.ael0161",
@@ -32196,7 +32691,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej6290": {
     "doi": "10.1126/science.aej6290",
@@ -32262,7 +32762,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adz8081": {
     "doi": "10.1126/science.adz8081",
@@ -32363,7 +32868,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "X-inactivation-associated LINE-1 mutagenesis is directly relevant to human genome instability and transposable-element biology.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0165": {
     "doi": "10.1126/science.ael0165",
@@ -32416,7 +32926,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek0526": {
     "doi": "10.1126/science.aek0526",
@@ -32472,7 +32987,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aec2906": {
     "doi": "10.1126/science.aec2906",
@@ -32539,7 +33059,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Molecular architecture of mammalian vitreous collagen fibrils has direct relevance to ocular extracellular-matrix biology and potential ophthalmic translation.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ads5397": {
     "doi": "10.1126/science.ads5397",
@@ -32611,7 +33136,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Feedback regulation of heme biosynthesis by a mitochondrial protease is directly relevant to mitochondrial metabolism and disease biology.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej5900": {
     "doi": "10.1126/science.aej5900",
@@ -32667,7 +33197,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef5438": {
     "doi": "10.1126/science.aef5438",
@@ -32751,7 +33286,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Sustainable production of etoposide/teniposide-related cancer drugs in engineered yeast is a high-priority synthetic-biology and biomanufacturing case.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0166": {
     "doi": "10.1126/science.ael0166",
@@ -32804,7 +33344,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aed9359": {
     "doi": "10.1126/science.aed9359",
@@ -32878,7 +33423,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aeb1157": {
     "doi": "10.1126/science.aeb1157",
@@ -32964,7 +33514,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aei5362": {
     "doi": "10.1126/science.aei5362",
@@ -33026,7 +33581,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aeg0333": {
     "doi": "10.1126/science.aeg0333",
@@ -33086,7 +33646,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej7915": {
     "doi": "10.1126/science.aej7915",
@@ -33150,7 +33715,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek4288": {
     "doi": "10.1126/science.aek4288",
@@ -33214,7 +33784,12 @@
       3,
       7
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek8701": {
     "doi": "10.1126/science.aek8701",
@@ -33275,7 +33850,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef3529": {
     "doi": "10.1126/science.aef3529",
@@ -33333,7 +33913,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef8874": {
     "doi": "10.1126/science.aef8874",
@@ -33400,7 +33985,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Ancestral-recombination-graph analysis of archaic introgression is methodologically relevant to population genomics and bioinformatics.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej3543": {
     "doi": "10.1126/science.aej3543",
@@ -33459,7 +34049,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0162": {
     "doi": "10.1126/science.ael0162",
@@ -33512,7 +34107,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.010": {
     "doi": "10.1016/j.cell.2026.07.010",
@@ -33591,7 +34191,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.020": {
     "doi": "10.1016/j.cell.2026.07.020",
@@ -33668,7 +34273,12 @@
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Dietary arginine control of codon-dependent MHC-I translation links immunometabolism to antitumor and antiviral immunity.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02366-y": {
     "doi": "10.1038/d41586-026-02366-y",
@@ -33699,7 +34309,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10921-w": {
     "doi": "10.1038/s41586-026-10921-w",
@@ -33730,7 +34345,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02334-6": {
     "doi": "10.1038/d41586-026-02334-6",
@@ -33761,7 +34381,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02371-1": {
     "doi": "10.1038/d41586-026-02371-1",
@@ -33792,7 +34417,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02362-2": {
     "doi": "10.1038/d41586-026-02362-2",
@@ -33823,7 +34453,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02274-1": {
     "doi": "10.1038/d41586-026-02274-1",
@@ -33854,7 +34489,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02420-9": {
     "doi": "10.1038/d41586-026-02420-9",
@@ -33885,7 +34525,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02419-2": {
     "doi": "10.1038/d41586-026-02419-2",
@@ -33916,7 +34561,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02397-5": {
     "doi": "10.1038/d41586-026-02397-5",
@@ -33947,7 +34597,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-01",
-    "first_formal_batch_date": "2026-08-01"
+    "first_formal_batch_date": "2026-08-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.007": {
     "doi": "10.1016/j.cell.2026.07.007",
@@ -34071,7 +34726,12 @@
     "first_index_date": "2026-08-03",
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-03T23:51:04+08:00",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "A spatial atlas of human brain vasculature is directly relevant to human brain cell states, spatial omics, and neurovascular biology.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02339-1": {
     "doi": "10.1038/d41586-026-02339-1",
@@ -34103,7 +34763,12 @@
     "late_discovery_recovery": true,
     "intended_batch_date": "2026-08-03",
     "first_formal_batch_id": "daily-2026-08-03",
-    "first_formal_batch_date": "2026-08-03"
+    "first_formal_batch_date": "2026-08-03",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-01360-8": {
     "doi": "10.1038/d41586-026-01360-8",
@@ -34134,7 +34799,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02387-7": {
     "doi": "10.1038/d41586-026-02387-7",
@@ -34165,7 +34835,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10957-y": {
     "doi": "10.1038/s41586-026-10957-y",
@@ -34196,7 +34871,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Gasdermin D-mediated delivery of caspase inhibitors is highly relevant to pyroptosis, inflammatory disease, and targeted intracellular delivery.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10943-4": {
     "doi": "10.1038/s41586-026-10943-4",
@@ -34227,7 +34907,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02372-0": {
     "doi": "10.1038/d41586-026-02372-0",
@@ -34258,7 +34943,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02388-6": {
     "doi": "10.1038/d41586-026-02388-6",
@@ -34289,7 +34979,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-01850-9": {
     "doi": "10.1038/d41586-026-01850-9",
@@ -34320,7 +35015,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02432-5": {
     "doi": "10.1038/d41586-026-02432-5",
@@ -34351,7 +35051,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef3178": {
     "doi": "10.1126/science.aef3178",
@@ -34470,7 +35175,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02436-1": {
     "doi": "10.1038/d41586-026-02436-1",
@@ -34501,7 +35211,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02083-6": {
     "doi": "10.1038/d41586-026-02083-6",
@@ -34532,7 +35247,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.026": {
     "doi": "10.1016/j.cell.2026.07.026",
@@ -34614,7 +35334,12 @@
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Ultrarapid deep 3D histology for intraoperative glioma mapping has direct diagnostics, imaging, and surgical-neurooncology relevance.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.021": {
     "doi": "10.1016/j.cell.2026.07.021",
@@ -34829,7 +35554,12 @@
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Milk osteopontin effects on infant microbiome, dendritic-cell hematopoiesis, and disease tolerance connect microbiome and immune development.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10958-x": {
     "doi": "10.1038/s41586-026-10958-x",
@@ -34860,7 +35590,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02426-3": {
     "doi": "10.1038/d41586-026-02426-3",
@@ -34891,7 +35626,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02379-7": {
     "doi": "10.1038/d41586-026-02379-7",
@@ -34922,7 +35662,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02424-5": {
     "doi": "10.1038/d41586-026-02424-5",
@@ -34953,7 +35698,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02427-2": {
     "doi": "10.1038/d41586-026-02427-2",
@@ -34984,7 +35734,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02425-4": {
     "doi": "10.1038/d41586-026-02425-4",
@@ -35015,7 +35770,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02428-1": {
     "doi": "10.1038/d41586-026-02428-1",
@@ -35046,7 +35806,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02358-y": {
     "doi": "10.1038/d41586-026-02358-y",
@@ -35077,7 +35842,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02389-5": {
     "doi": "10.1038/d41586-026-02389-5",
@@ -35108,7 +35878,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02022-5": {
     "doi": "10.1038/d41586-026-02022-5",
@@ -35139,7 +35914,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02385-9": {
     "doi": "10.1038/d41586-026-02385-9",
@@ -35170,7 +35950,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02356-0": {
     "doi": "10.1038/d41586-026-02356-0",
@@ -35201,7 +35986,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.023": {
     "doi": "10.1016/j.cell.2026.07.023",
@@ -35318,7 +36108,12 @@
     "europe_pmc_first_seen_at": "2026-08-06T09:03:56+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "A metabolic atlas of early human cortex linking glycolysis and pentose-phosphate flux to cell fate is directly relevant to developmental neurobiology and multiomics.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02350-6": {
     "doi": "10.1038/d41586-026-02350-6",
@@ -35349,7 +36144,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02384-w": {
     "doi": "10.1038/d41586-026-02384-w",
@@ -35380,7 +36180,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02288-9": {
     "doi": "10.1038/d41586-026-02288-9",
@@ -35411,7 +36216,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02437-0": {
     "doi": "10.1038/d41586-026-02437-0",
@@ -35442,7 +36252,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-01845-6": {
     "doi": "10.1038/d41586-026-01845-6",
@@ -35473,7 +36288,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-05",
-    "first_formal_batch_date": "2026-08-05"
+    "first_formal_batch_date": "2026-08-05",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.008": {
     "doi": "10.1016/j.cell.2026.07.008",
@@ -35567,7 +36387,12 @@
     "europe_pmc_first_seen_at": "2026-08-06T09:03:56+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Cellular phenotypes underlying language and executive decline in ALS are directly relevant to neurodegeneration and human disease stratification.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.028": {
     "doi": "10.1016/j.cell.2026.07.028",
@@ -35687,7 +36512,12 @@
     "europe_pmc_first_seen_at": "2026-08-06T09:03:56+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Peripheral 5-HT2A receptor targeting to enhance colorectal-cancer antitumor immunity is a direct drug-target and immunotherapy opportunity.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10963-0": {
     "doi": "10.1038/s41586-026-10963-0",
@@ -35718,7 +36548,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02386-8": {
     "doi": "10.1038/d41586-026-02386-8",
@@ -35749,7 +36584,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-01772-6": {
     "doi": "10.1038/d41586-026-01772-6",
@@ -35780,7 +36620,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02252-7": {
     "doi": "10.1038/d41586-026-02252-7",
@@ -35811,7 +36656,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02444-1": {
     "doi": "10.1038/d41586-026-02444-1",
@@ -35842,7 +36692,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10970-1": {
     "doi": "10.1038/s41586-026-10970-1",
@@ -35873,7 +36728,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10977-8": {
     "doi": "10.1038/s41586-026-10977-8",
@@ -35904,7 +36764,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02445-0": {
     "doi": "10.1038/d41586-026-02445-0",
@@ -35935,7 +36800,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10798-9": {
     "doi": "10.1038/s41586-026-10798-9",
@@ -35966,7 +36836,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Expanded human transcription-factor DNA-binding specificity is a useful regulatory-genomics resource with target-discovery and model-building relevance.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10871-3": {
     "doi": "10.1038/s41586-026-10871-3",
@@ -35997,7 +36872,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10890-0": {
     "doi": "10.1038/s41586-026-10890-0",
@@ -36028,7 +36908,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "ZFP36L2-linked stress-adaptive plasticity connects regeneration and cancer cell-state control, a direct translational biology topic.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10883-z": {
     "doi": "10.1038/s41586-026-10883-z",
@@ -36059,7 +36944,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10874-0": {
     "doi": "10.1038/s41586-026-10874-0",
@@ -36090,7 +36980,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Amygdala astrocyte primary-cilium mechanisms in stress behaviour are directly relevant to neurobiology and psychiatric disease mechanisms.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10843-7": {
     "doi": "10.1038/s41586-026-10843-7",
@@ -36121,7 +37016,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Next-generation 3D cancer models integrated with dependency mapping are a high-priority functional-oncology and target-discovery platform.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10867-z": {
     "doi": "10.1038/s41586-026-10867-z",
@@ -36152,7 +37052,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10822-y": {
     "doi": "10.1038/s41586-026-10822-y",
@@ -36183,7 +37088,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10865-1": {
     "doi": "10.1038/s41586-026-10865-1",
@@ -36214,7 +37124,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10879-9": {
     "doi": "10.1038/s41586-026-10879-9",
@@ -36245,7 +37160,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Human-brain stimulation linked to gene-associated cell assemblies is directly relevant to neural circuits, stimulation technologies, and BCI/neurotechnology.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10806-y": {
     "doi": "10.1038/s41586-026-10806-y",
@@ -36276,7 +37196,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "A large next-generation patient-derived cancer-model compendium is directly relevant to translational oncology, drug response, and target validation.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10860-6": {
     "doi": "10.1038/s41586-026-10860-6",
@@ -36307,7 +37232,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "CD40/MHC-II astrocyte antigen presentation in CNS autoimmunity is a direct neuroimmunology and autoimmune-disease mechanism.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10884-y": {
     "doi": "10.1038/s41586-026-10884-y",
@@ -36338,7 +37268,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Virtual Tissues is a foundation-model approach to spatial proteomics and is directly aligned with virtual-cell, multimodal biology, and AI-life-science priorities.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10740-z": {
     "doi": "10.1038/s41586-026-10740-z",
@@ -36407,7 +37342,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10875-z": {
     "doi": "10.1038/s41586-026-10875-z",
@@ -36438,7 +37378,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10899-5": {
     "doi": "10.1038/s41586-026-10899-5",
@@ -36621,7 +37566,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10885-x": {
     "doi": "10.1038/s41586-026-10885-x",
@@ -36728,7 +37678,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02327-5": {
     "doi": "10.1038/d41586-026-02327-5",
@@ -36759,7 +37714,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02438-z": {
     "doi": "10.1038/d41586-026-02438-z",
@@ -36790,7 +37750,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02440-5": {
     "doi": "10.1038/d41586-026-02440-5",
@@ -36821,7 +37786,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02443-2": {
     "doi": "10.1038/d41586-026-02443-2",
@@ -36852,7 +37822,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02391-x": {
     "doi": "10.1038/d41586-026-02391-x",
@@ -36883,7 +37858,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02439-y": {
     "doi": "10.1038/d41586-026-02439-y",
@@ -36914,7 +37894,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.031": {
     "doi": "10.1016/j.cell.2026.07.031",
@@ -37052,7 +38037,12 @@
     "europe_pmc_first_seen_at": "2026-08-07T09:52:40+08:00",
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Spatial biology of altered macrophage states in immunosuppressed skin cancer is directly relevant to tumor immunology and biomarker discovery.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02429-0": {
     "doi": "10.1038/d41586-026-02429-0",
@@ -37084,7 +38074,12 @@
     "late_discovery_recovery": true,
     "intended_batch_date": "2026-08-06",
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02360-4": {
     "doi": "10.1038/d41586-026-02360-4",
@@ -37115,7 +38110,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02235-8": {
     "doi": "10.1038/d41586-026-02235-8",
@@ -37146,7 +38146,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/s41586-026-10953-2": {
     "doi": "10.1038/s41586-026-10953-2",
@@ -37177,7 +38182,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02458-9": {
     "doi": "10.1038/d41586-026-02458-9",
@@ -37208,7 +38218,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02430-7": {
     "doi": "10.1038/d41586-026-02430-7",
@@ -37239,7 +38254,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02460-1": {
     "doi": "10.1038/d41586-026-02460-1",
@@ -37270,7 +38290,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: Nature news/feature/commentary item was reviewed but is not retained as a primary deep-analysis object; primary research is preferred.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aed8437": {
     "doi": "10.1126/science.aed8437",
@@ -37335,7 +38360,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej9456": {
     "doi": "10.1126/science.aej9456",
@@ -37399,7 +38429,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek0553": {
     "doi": "10.1126/science.aek0553",
@@ -37456,7 +38491,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aeh1475": {
     "doi": "10.1126/science.aeh1475",
@@ -37591,7 +38631,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael1782": {
     "doi": "10.1126/science.ael1782",
@@ -37654,7 +38699,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2156": {
     "doi": "10.1126/science.ael2156",
@@ -37710,7 +38760,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aea5828": {
     "doi": "10.1126/science.aea5828",
@@ -37798,7 +38853,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek0207": {
     "doi": "10.1126/science.aek0207",
@@ -37861,7 +38921,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej0108": {
     "doi": "10.1126/science.aej0108",
@@ -37918,7 +38983,12 @@
     "europe_pmc_last_seen_at": "2026-08-08T08:05:01+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aee3541": {
     "doi": "10.1126/science.aee3541",
@@ -37989,7 +39059,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej8512": {
     "doi": "10.1126/science.aej8512",
@@ -38048,7 +39123,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2155": {
     "doi": "10.1126/science.ael2155",
@@ -38104,7 +39184,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef4184": {
     "doi": "10.1126/science.aef4184",
@@ -38168,7 +39253,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Adaptive theta sweeps during brain navigation are directly relevant to neural coding and circuit-level neuroscience.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2157": {
     "doi": "10.1126/science.ael2157",
@@ -38221,7 +39311,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2153": {
     "doi": "10.1126/science.ael2153",
@@ -38274,7 +39369,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aee4205": {
     "doi": "10.1126/science.aee4205",
@@ -38429,7 +39529,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aei8513": {
     "doi": "10.1126/science.aei8513",
@@ -38486,7 +39591,12 @@
     "europe_pmc_last_seen_at": "2026-08-08T08:05:01+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adt7323": {
     "doi": "10.1126/science.adt7323",
@@ -38548,7 +39658,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2154": {
     "doi": "10.1126/science.ael2154",
@@ -38601,7 +39716,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adv5441": {
     "doi": "10.1126/science.adv5441",
@@ -38660,7 +39780,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adu6688": {
     "doi": "10.1126/science.adu6688",
@@ -38763,7 +39888,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Candida auris skin colonization and host-response biology are directly relevant to emerging infection and antifungal research.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aee3176": {
     "doi": "10.1126/science.aee3176",
@@ -38836,7 +39966,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adx1707": {
     "doi": "10.1126/science.adx1707",
@@ -38904,7 +40039,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Levitated-sensor magnetometry has a direct potential connection to ultralow-field biomagnetic and brain-signal measurement, making it relevant to neurotechnology instrumentation.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek2112": {
     "doi": "10.1126/science.aek2112",
@@ -38970,7 +40110,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael2158": {
     "doi": "10.1126/science.ael2158",
@@ -39026,7 +40171,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael0463": {
     "doi": "10.1126/science.ael0463",
@@ -39085,7 +40235,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.adx7367": {
     "doi": "10.1126/science.adx7367",
@@ -39157,7 +40312,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael1780": {
     "doi": "10.1126/science.ael1780",
@@ -39242,7 +40402,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aej6212": {
     "doi": "10.1126/science.aej6212",
@@ -39305,7 +40470,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.ael1781": {
     "doi": "10.1126/science.ael1781",
@@ -39370,7 +40540,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aec2657": {
     "doi": "10.1126/science.aec2657",
@@ -39446,7 +40621,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Generative bacteriophage design with genome language models is a high-priority AI-biology and synthetic-genome engineering study.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aek0194": {
     "doi": "10.1126/science.aek0194",
@@ -39503,7 +40683,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1126/science.aef9458": {
     "doi": "10.1126/science.aef9458",
@@ -39577,7 +40762,12 @@
     "europe_pmc_last_seen_at": "2026-08-12T08:41:48+08:00",
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
+    "first_formal_batch_date": "2026-08-07",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: topic is outside the life-science/biomedical/AI-biology investment scope and is removed from active deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.030": {
     "doi": "10.1016/j.cell.2026.07.030",
@@ -39637,7 +40827,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.02.018": {
     "doi": "10.1016/j.cell.2026.02.018",
@@ -39738,7 +40933,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.05.035": {
     "doi": "10.1016/j.cell.2026.05.035",
@@ -39827,7 +41027,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Human acrocentric chromosome mutation and recombination are relevant to complete-genome analysis and structural-variation interpretation.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.017": {
     "doi": "10.1016/j.cell.2026.07.017",
@@ -39980,7 +41185,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.013": {
     "doi": "10.1016/j.cell.2026.07.013",
@@ -40050,7 +41260,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "The reproductive-resilience hypothesis is directly relevant to sex-specific aging biology and merits lower-priority review despite likely non-primary article type.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.049": {
     "doi": "10.1016/j.cell.2026.07.049",
@@ -40140,7 +41355,12 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Structure-based design of a non-hypertrophic apelin-receptor modulator is a high-priority GPCR drug-design item, but substantive evidence is still awaiting enrichment.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.019": {
     "doi": "10.1016/j.cell.2026.07.019",
@@ -40209,7 +41429,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.07.018": {
     "doi": "10.1016/j.cell.2026.07.018",
@@ -40386,7 +41611,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00"
+    "last_enrichment_success_at": "2026-08-12T10:44:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: reviewed at the available title/metadata level and did not meet the current relevance, article-type, evidence-value, or investment-priority threshold for future deep analysis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1016/j.cell.2026.06.016": {
     "doi": "10.1016/j.cell.2026.06.016",
@@ -40648,7 +41878,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-08",
-    "first_formal_batch_date": "2026-08-08"
+    "first_formal_batch_date": "2026-08-08",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
+    "deep_analysis_reason": "Legacy backlog triage: excluded correction/editorial/briefing-type item; it should not occupy deep-analysis capacity.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
   },
   "10.1038/d41586-026-02462-z": {
     "doi": "10.1038/d41586-026-02462-z",
