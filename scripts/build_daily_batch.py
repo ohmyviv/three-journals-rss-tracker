@@ -16,7 +16,11 @@ from dateutil import parser as date_parser
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from three_journals_tracker.batching import eligible_for_batch, has_new_late_recovery_items
+from three_journals_tracker.batching import (
+    cross_day_carryover_info,
+    eligible_for_batch,
+    has_new_late_recovery_items,
+)
 from three_journals_tracker.io_utils import atomic_write_json, read_json
 from three_journals_tracker.scheduler import build_scheduler_event, write_scheduler_event
 
@@ -149,6 +153,7 @@ def main() -> int:
     generated_at = now_at.isoformat()
     new_items: list[dict[str, Any]] = []
     late_recovery_dois = 0
+    cross_day_carryover_dois = 0
     for doi, record in doi_index.items():
         eligible, included_as_recovery = eligible_for_batch(
             record,
@@ -159,8 +164,15 @@ def main() -> int:
         )
         if not eligible:
             continue
+        is_carryover, carryover_from_date = cross_day_carryover_info(
+            record,
+            target_date=target_date,
+            timezone_name=timezone_name,
+        )
         if included_as_recovery:
             late_recovery_dois += 1
+        if is_carryover:
+            cross_day_carryover_dois += 1
         new_items.append({
             "doi": doi,
             "journal": record.get("journal"),
@@ -177,6 +189,8 @@ def main() -> int:
             "discovery_source": record.get("discovery_source"),
             "queue_status": deep_queue.get(doi, {}).get("analysis_status", "not_queued"),
             "included_as_late_recovery": included_as_recovery,
+            "cross_day_carryover": is_carryover,
+            "carryover_from_date": carryover_from_date,
             "intended_batch_date": record.get("intended_batch_date"),
             "scheduled_for": record.get("scheduled_for"),
             "scheduler_delay_minutes": record.get("scheduler_delay_minutes"),
@@ -184,6 +198,7 @@ def main() -> int:
 
     pending_items: list[dict[str, Any]] = []
     late_recovery_pending = 0
+    cross_day_carryover_pending = 0
     for key, record in pending_doi.items():
         eligible, included_as_recovery = eligible_for_batch(
             record,
@@ -194,8 +209,15 @@ def main() -> int:
         )
         if not eligible:
             continue
+        is_carryover, carryover_from_date = cross_day_carryover_info(
+            record,
+            target_date=target_date,
+            timezone_name=timezone_name,
+        )
         if included_as_recovery:
             late_recovery_pending += 1
+        if is_carryover:
+            cross_day_carryover_pending += 1
         pending_items.append({
             "temporary_key": key,
             "journal": record.get("journal"),
@@ -205,6 +227,8 @@ def main() -> int:
             "first_seen_at": record.get("first_seen_at"),
             "doi_status": "pending",
             "included_as_late_recovery": included_as_recovery,
+            "cross_day_carryover": is_carryover,
+            "carryover_from_date": carryover_from_date,
             "intended_batch_date": record.get("intended_batch_date"),
             "scheduled_for": record.get("scheduled_for"),
             "scheduler_delay_minutes": record.get("scheduler_delay_minutes"),
@@ -258,6 +282,8 @@ def main() -> int:
         flags.append("scheduler_delayed")
     if late_recovery_dois or late_recovery_pending:
         flags.append("late_discovery_recovery")
+    if cross_day_carryover_dois or cross_day_carryover_pending:
+        flags.append("cross_day_carryover")
 
     batch = {
         "schema_version": config.get("schema_version", "1.0"),
@@ -286,6 +312,8 @@ def main() -> int:
             "new_missing_doi": len(pending_items),
             "late_recovery_dois": late_recovery_dois,
             "late_recovery_missing_doi": late_recovery_pending,
+            "cross_day_carryover_dois": cross_day_carryover_dois,
+            "cross_day_carryover_missing_doi": cross_day_carryover_pending,
             "deep_analysis_backlog": len(backlog),
             "backlog_previewed": min(len(backlog), preview_limit),
         },
@@ -317,6 +345,8 @@ def main() -> int:
             "new_doi_count": len(new_items),
             "new_missing_doi_count": len(pending_items),
             "late_recovery_doi_count": late_recovery_dois,
+            "cross_day_carryover_doi_count": cross_day_carryover_dois,
+            "cross_day_carryover_missing_doi_count": cross_day_carryover_pending,
             "path": f"public/batches/{target_date}.json",
         }
         atomic_write_json(workspace / "data" / "doi_index.json", doi_index)
@@ -333,6 +363,8 @@ def main() -> int:
             "target_date": target_date,
             "outcome": batch_status,
             "late_recovery_dois": late_recovery_dois,
+            "cross_day_carryover_dois": cross_day_carryover_dois,
+            "cross_day_carryover_missing_doi": cross_day_carryover_pending,
             "recovery_updated_batch": recovery_updated_batch,
             "completed_at": datetime.now(tz).replace(microsecond=0).isoformat(),
         },
