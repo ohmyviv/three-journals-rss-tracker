@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-12T17:41:30+08:00",
+  "generated_at": "2026-08-13T17:41:33+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 19,
-      "successful_checks": 18,
+      "checks": 20,
+      "successful_checks": 19,
       "failed_checks": 1,
       "checks_with_new_items": 3,
       "total_new_items_observed": 8,
@@ -16,38 +16,39 @@
         "Tuesday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-08-12T17:41:26+08:00",
-      "last_success_at": "2026-08-12T17:41:26+08:00"
+      "last_checked_at": "2026-08-13T17:41:29+08:00",
+      "last_success_at": "2026-08-13T17:41:29+08:00"
     },
     "nature": {
-      "checks": 19,
-      "successful_checks": 19,
+      "checks": 20,
+      "successful_checks": 20,
       "failed_checks": 0,
-      "checks_with_new_items": 6,
-      "total_new_items_observed": 29,
+      "checks_with_new_items": 7,
+      "total_new_items_observed": 72,
       "new_item_checks_by_hour": {
-        "17:00-17:59": 2,
+        "17:00-17:59": 3,
         "21:00-21:59": 2,
         "07:00-07:59": 2
       },
       "new_item_checks_by_weekday": {
         "Tuesday": 3,
         "Monday": 2,
-        "Wednesday": 1
+        "Wednesday": 1,
+        "Thursday": 1
       },
-      "last_checked_at": "2026-08-12T17:41:26+08:00",
-      "last_success_at": "2026-08-12T17:41:26+08:00"
+      "last_checked_at": "2026-08-13T17:41:29+08:00",
+      "last_success_at": "2026-08-13T17:41:29+08:00"
     },
     "science": {
-      "checks": 19,
-      "successful_checks": 19,
+      "checks": 20,
+      "successful_checks": 20,
       "failed_checks": 0,
       "checks_with_new_items": 0,
       "total_new_items_observed": 0,
       "new_item_checks_by_hour": {},
       "new_item_checks_by_weekday": {},
-      "last_checked_at": "2026-08-12T17:41:26+08:00",
-      "last_success_at": "2026-08-12T17:41:26+08:00"
+      "last_checked_at": "2026-08-13T17:41:29+08:00",
+      "last_success_at": "2026-08-13T17:41:29+08:00"
     }
   }
 }
