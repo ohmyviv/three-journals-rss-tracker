@@ -1,0 +1,11 @@
+{
+  "batch_id": "daily-2026-08-13",
+  "decisions": [
+    {"doi":"10.1016/j.cell.2026.07.012","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from substantive institutional evidence.","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.07.016","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from the author preprint and PubMed record.","priority_level":"P0"},
+    {"doi":"10.1126/science.adz7928","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from substantive abstract evidence.","priority_level":"P0"},
+    {"doi":"10.1126/science.aec2657","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from the author bioRxiv preprint.","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.07.023","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from the author preprint and PMC record.","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-10884-y","disposition":"completed","reason":"Deep analyzed in the 2026-08-13 report from substantive EPFL research evidence.","priority_level":"P0"}
+  ]
+}
