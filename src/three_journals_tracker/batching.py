@@ -36,6 +36,30 @@ def eligible_for_batch(
     return is_recovery, is_recovery
 
 
+def cross_day_carryover_info(
+    record: dict[str, Any],
+    *,
+    target_date: str,
+    timezone_name: str,
+) -> tuple[bool, str | None]:
+    """Return whether an unbatched record was first discovered on an earlier local date.
+
+    This is intentionally separate from late-discovery recovery. A carryover item is a
+    normal live discovery that missed the previous formal batch and is first admitted to
+    a later day's batch. A late recovery item instead belongs to its explicit
+    ``intended_batch_date`` even when the scheduler actually ran after that day's cutoff.
+    """
+
+    first_seen_at = record.get("first_seen_at")
+    if not first_seen_at:
+        return False, None
+    first_seen = date_parser.isoparse(str(first_seen_at)).astimezone(ZoneInfo(timezone_name))
+    first_seen_date = first_seen.date().isoformat()
+    if first_seen_date < target_date:
+        return True, first_seen_date
+    return False, None
+
+
 def has_new_late_recovery_items(
     records: dict[str, dict[str, Any]],
     *,
