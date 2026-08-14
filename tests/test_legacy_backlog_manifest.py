@@ -16,10 +16,9 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
 
     Re-applying the immutable manifest to the already-migrated queue is expected to
     fail its stale-manifest guard, so CI must not use re-application as a standing
-    repository invariant. Likewise, the manifest's initial analysis_status is not a
-    permanent invariant: later evidence enrichment can move queued records through
-    pending_triage/awaiting_enrichment, and daily editorial decisions can complete or
-    explicitly drop them.
+    repository invariant. The manifest's migration-day analysis_status is likewise
+    not permanent: enrichment can move a queued record through evidence states, and
+    later daily editorial decisions can complete or explicitly drop it.
     """
     manifest = _load("data/deep_analysis_migrations/legacy-backlog-triage-2026-08-12.json")
     queue = _load("data/deep_analysis_queue.json")
@@ -34,9 +33,8 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
         "metadata_only_exhausted",
     }
 
-    # The migration established a reviewed starting state, but later enrichment and
-    # explicit daily dispositions are allowed to evolve it. Validate current durable
-    # semantics instead of freezing the migration-day analysis_status forever.
+    # The migration established a reviewed starting state. Standing CI validates
+    # durable disposition semantics, not the mutable migration-day analysis_status.
     for doi, decision in keep.items():
         disposition = doi_index[doi].get("deep_analysis_disposition")
         assert disposition in {"queued", "completed", "not_selected"}
@@ -52,23 +50,38 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
             continue
 
         assert queue[doi]["analysis_status"] in active_statuses
-        # Priority selected by the migration remains the default unless a later
-        # explicit editorial decision changes it; current records without such a
-        # change should still match the curated priority.
+        # Enrichment changes evidence/status, not the curated priority by itself.
         assert queue[doi]["priority_level"] == decision["priority_level"]
 
-    # Current explicit daily dispositions were outside the legacy migration scope.
-    assert queue["10.1016/j.cell.2026.07.034"]["analysis_status"] == "deferred"
+    # Explicit daily decisions outside the legacy migration may also evolve after
+    # later evidence enrichment; verify durable queued semantics rather than a
+    # specific transient analysis_status.
+    for doi in (
+        "10.1016/j.cell.2026.07.034",
+        "10.1016/j.cell.2026.07.029",
+        "10.1016/j.cell.2026.07.024",
+    ):
+        assert doi_index[doi]["deep_analysis_disposition"] == "queued"
+        assert doi in queue
+        assert queue[doi]["analysis_status"] in active_statuses
     assert queue["10.1016/j.cell.2026.07.034"]["priority_level"] == "P0"
-    assert queue["10.1016/j.cell.2026.07.029"]["analysis_status"] == "deferred"
-    assert queue["10.1016/j.cell.2026.07.024"]["analysis_status"] == "deferred"
 
     # Completed audit records remain terminal.
+    assert doi_index["10.1016/j.cell.2026.07.027"]["deep_analysis_disposition"] == "completed"
     assert queue["10.1016/j.cell.2026.07.027"]["analysis_status"] == "completed"
 
-    # Legacy enrichment-only ghost state was normalized when explicitly curated.
-    assert queue["10.1016/j.cell.2026.07.049"]["analysis_status"] == "deferred"
-    assert queue["10.1016/j.cell.2026.07.049"]["priority_level"] == "P0"
+    # Legacy enrichment-only ghost state stays durably triaged even if later
+    # enrichment changes its transient analysis_status.
+    ghost_doi = "10.1016/j.cell.2026.07.049"
+    ghost_disposition = doi_index[ghost_doi]["deep_analysis_disposition"]
+    assert ghost_disposition in {"queued", "completed", "not_selected"}
+    if ghost_disposition == "not_selected":
+        assert ghost_doi not in queue
+    elif ghost_disposition == "completed":
+        assert queue[ghost_doi]["analysis_status"] == "completed"
+    else:
+        assert queue[ghost_doi]["analysis_status"] in active_statuses
+        assert queue[ghost_doi]["priority_level"] == "P0"
 
     # Obvious legacy contamination is durably not selected and absent from queue.
     assert "10.1038/s41586-026-10822-y" not in queue
