@@ -12,26 +12,50 @@ def _load(path: str) -> dict:
 
 
 def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
-    """The legacy migration is one-shot; after materialization, validate its result.
+    """The legacy migration is one-shot; later editorial/enrichment state may evolve.
 
     Re-applying the immutable manifest to the already-migrated queue is expected to
     fail its stale-manifest guard, so CI must not use re-application as a standing
-    repository invariant.
+    repository invariant. Likewise, the manifest's initial analysis_status is not a
+    permanent invariant: later evidence enrichment can move queued records through
+    pending_triage/awaiting_enrichment, and daily editorial decisions can complete or
+    explicitly drop them.
     """
     manifest = _load("data/deep_analysis_migrations/legacy-backlog-triage-2026-08-12.json")
     queue = _load("data/deep_analysis_queue.json")
     doi_index = _load("data/doi_index.json")
 
     keep = {item["doi"].casefold(): item for item in manifest["keep"]}
+    active_statuses = {
+        "pending_triage",
+        "pending",
+        "deferred",
+        "awaiting_enrichment",
+        "metadata_only_exhausted",
+    }
 
-    # Every curated legacy keep is now a reviewed queued/deferred record with the
-    # priority selected by the migration.
+    # The migration established a reviewed starting state, but later enrichment and
+    # explicit daily dispositions are allowed to evolve it. Validate current durable
+    # semantics instead of freezing the migration-day analysis_status forever.
     for doi, decision in keep.items():
+        disposition = doi_index[doi].get("deep_analysis_disposition")
+        assert disposition in {"queued", "completed", "not_selected"}
+
+        if disposition == "not_selected":
+            assert doi not in queue
+            continue
+
         assert doi in queue
-        assert queue[doi]["priority_level"] == decision["priority_level"]
-        assert queue[doi]["analysis_status"] == decision.get("analysis_status", "pending")
         assert queue[doi]["last_reviewed_at"]
-        assert doi_index[doi]["deep_analysis_disposition"] == "queued"
+        if disposition == "completed":
+            assert queue[doi]["analysis_status"] == "completed"
+            continue
+
+        assert queue[doi]["analysis_status"] in active_statuses
+        # Priority selected by the migration remains the default unless a later
+        # explicit editorial decision changes it; current records without such a
+        # change should still match the curated priority.
+        assert queue[doi]["priority_level"] == decision["priority_level"]
 
     # Current explicit daily dispositions were outside the legacy migration scope.
     assert queue["10.1016/j.cell.2026.07.034"]["analysis_status"] == "deferred"
@@ -52,7 +76,6 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
 
     # The materialized queue is the compressed post-migration state, not the old
     # discovery-era backlog.
-    active_statuses = {"pending_triage", "pending", "deferred"}
     active_backlog = sum(
         1 for row in queue.values() if row.get("analysis_status") in active_statuses
     )
