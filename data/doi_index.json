@@ -43816,7 +43816,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10994-7": {
     "doi": "10.1038/s41586-026-10994-7",
@@ -43845,7 +43850,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10773-4": {
     "doi": "10.1038/s41586-026-10773-4",
@@ -43874,7 +43884,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10774-3": {
     "doi": "10.1038/s41586-026-10774-3",
@@ -43903,7 +43918,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02463-y": {
     "doi": "10.1038/d41586-026-02463-y",
@@ -43932,7 +43952,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02461-0": {
     "doi": "10.1038/d41586-026-02461-0",
@@ -43961,7 +43986,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02521-5": {
     "doi": "10.1038/d41586-026-02521-5",
@@ -43990,7 +44020,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10787-y": {
     "doi": "10.1038/s41586-026-10787-y",
@@ -44019,7 +44054,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "科学计量/科研颠覆性测量方法争论与生命科学、生物医药投资主线缺少直接连接，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10788-x": {
     "doi": "10.1038/s41586-026-10788-x",
@@ -44048,7 +44088,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10805-z": {
     "doi": "10.1038/s41586-026-10805-z",
@@ -44077,7 +44122,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "虽涉及AI治理，但与AI生命科学、药物研发、生物医学数据或用户投资关注主线缺少直接连接，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10909-6": {
     "doi": "10.1038/s41586-026-10909-6",
@@ -44106,7 +44156,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；葡萄糖响应工程益生菌在小鼠及非人灵长类糖尿病模型中验证，合成生物学与代谢治疗相关性高，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10916-7": {
     "doi": "10.1038/s41586-026-10916-7",
@@ -44135,7 +44192,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；MADM谱系追踪揭示皮层类器官与体内放射状胶质谱系时序差异，直接影响类器官模型可信度，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10756-5": {
     "doi": "10.1038/s41586-026-10756-5",
@@ -44164,7 +44228,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；正式Review系统总结人类与细菌抗病毒免疫的跨界共享机制，直接涉及cGAS-STING、炎症小体、噬菌体防御等平台机制。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10888-8": {
     "doi": "10.1038/s41586-026-10888-8",
@@ -44193,7 +44264,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10886-w": {
     "doi": "10.1038/s41586-026-10886-w",
@@ -44222,7 +44298,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；解析Rb在乳腺癌中CDK4/6抑制后的转录重编程及内分泌耐药，肿瘤机制与药物联合策略相关性高，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10907-8": {
     "doi": "10.1038/s41586-026-10907-8",
@@ -44251,7 +44334,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；成人PV中间神经元可塑性及Meis2干预连接神经发育障碍、认知和癫痫，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10846-4": {
     "doi": "10.1038/s41586-026-10846-4",
@@ -44280,7 +44370,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10905-w": {
     "doi": "10.1038/s41586-026-10905-w",
@@ -44309,7 +44404,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10889-7": {
     "doi": "10.1038/s41586-026-10889-7",
@@ -44338,7 +44438,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "原创研究直接涉及超分辨成像与生命科学工具，未来解读价值明确；本次15篇容量已满且未优先取得足够实质性文本证据。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/s41586-026-10891-z": {
     "doi": "10.1038/s41586-026-10891-z",
@@ -44367,7 +44472,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10896-8": {
     "doi": "10.1038/s41586-026-10896-8",
@@ -44396,7 +44506,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "原创神经科学研究与脑科学方向直接相关，未来解读价值明确；本次15篇容量已满且未优先取得足够实质性文本证据。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/s41586-026-10903-y": {
     "doi": "10.1038/s41586-026-10903-y",
@@ -44425,7 +44540,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；桥RNA重组酶的切除/插入方向性结构机制直接关联可编程大DNA编辑，正式Nature摘要和结构结果充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10870-4": {
     "doi": "10.1038/s41586-026-10870-4",
@@ -44454,7 +44576,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10724-z": {
     "doi": "10.1038/s41586-026-10724-z",
@@ -44483,7 +44610,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10922-9": {
     "doi": "10.1038/s41586-026-10922-9",
@@ -44512,7 +44644,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；大规模母婴纵向宏基因组研究解析母体菌群传递与婴儿健康，正式Nature摘要及方法证据充分。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10878-w": {
     "doi": "10.1038/s41586-026-10878-w",
@@ -44541,7 +44680,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10880-2": {
     "doi": "10.1038/s41586-026-10880-2",
@@ -44570,7 +44714,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10857-1": {
     "doi": "10.1038/s41586-026-10857-1",
@@ -44599,7 +44748,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10906-9": {
     "doi": "10.1038/s41586-026-10906-9",
@@ -44628,7 +44782,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；人T细胞体内全基因组CRISPR筛选识别实体瘤浸润/功能障碍节点，直接关联细胞治疗与肿瘤免疫，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/s41586-026-10925-6": {
     "doi": "10.1038/s41586-026-10925-6",
@@ -44657,7 +44818,14 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；可重构NSCLC中围手术期nivolumab获益与ctDNA/MRD及基因组标志物直接相关，正式Nature摘要证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1038/d41586-026-02395-7": {
     "doi": "10.1038/d41586-026-02395-7",
@@ -44686,7 +44854,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02473-w": {
     "doi": "10.1038/d41586-026-02473-w",
@@ -44715,7 +44888,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02478-5": {
     "doi": "10.1038/d41586-026-02478-5",
@@ -44744,7 +44922,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02292-z": {
     "doi": "10.1038/d41586-026-02292-z",
@@ -44773,7 +44956,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02448-x": {
     "doi": "10.1038/d41586-026-02448-x",
@@ -44802,7 +44990,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02408-5": {
     "doi": "10.1038/d41586-026-02408-5",
@@ -44831,7 +45024,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02290-1": {
     "doi": "10.1038/d41586-026-02290-1",
@@ -44860,7 +45058,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02498-1": {
     "doi": "10.1038/d41586-026-02498-1",
@@ -44889,7 +45092,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02159-3": {
     "doi": "10.1038/d41586-026-02159-3",
@@ -44918,7 +45126,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02496-3": {
     "doi": "10.1038/d41586-026-02496-3",
@@ -44947,7 +45160,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02291-0": {
     "doi": "10.1038/d41586-026-02291-0",
@@ -44976,7 +45194,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02515-3": {
     "doi": "10.1038/d41586-026-02515-3",
@@ -45005,7 +45228,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02519-z": {
     "doi": "10.1038/d41586-026-02519-z",
@@ -45034,7 +45262,12 @@
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-01904-y": {
     "doi": "10.1038/d41586-026-01904-y",
@@ -45063,7 +45296,12 @@
     "triggered_at": "2026-08-13T21:59:47+08:00",
     "scheduler_delay_minutes": 89.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02494-5": {
     "doi": "10.1038/d41586-026-02494-5",
@@ -45092,7 +45330,12 @@
     "triggered_at": "2026-08-13T21:59:47+08:00",
     "scheduler_delay_minutes": 89.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-10959-w": {
     "doi": "10.1038/s41586-026-10959-w",
@@ -45121,7 +45364,12 @@
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02503-7": {
     "doi": "10.1038/d41586-026-02503-7",
@@ -45150,7 +45398,12 @@
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02525-1": {
     "doi": "10.1038/d41586-026-02525-1",
@@ -45179,7 +45432,12 @@
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02544-y": {
     "doi": "10.1038/d41586-026-02544-y",
@@ -45208,7 +45466,12 @@
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02502-8": {
     "doi": "10.1038/d41586-026-02502-8",
@@ -45237,7 +45500,12 @@
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ady9591": {
     "doi": "10.1126/science.ady9591",
@@ -45282,7 +45550,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael3842": {
     "doi": "10.1126/science.ael3842",
@@ -45327,7 +45600,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4184": {
     "doi": "10.1126/science.ael4184",
@@ -45361,7 +45639,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4191": {
     "doi": "10.1126/science.ael4191",
@@ -45394,7 +45677,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aea9565": {
     "doi": "10.1126/science.aea9565",
@@ -45429,7 +45717,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek0549": {
     "doi": "10.1126/science.aek0549",
@@ -45462,7 +45755,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aei0132": {
     "doi": "10.1126/science.aei0132",
@@ -45495,7 +45793,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael3844": {
     "doi": "10.1126/science.ael3844",
@@ -45528,7 +45831,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Crossref-only且摘要为空，同时题目/文章形态显示为评论、政策/治理、随笔或非重点研究内容；即使后续富化也不满足当前重点解读优先标准，因此不进入active backlog。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeg4720": {
     "doi": "10.1126/science.aeg4720",
@@ -45567,7 +45875,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；光遗传学与双光子成像解析LP-ACC历史参照型感觉决策回路，神经科学相关性高，Crossref富化获得实质性正式摘要。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.aek0574": {
     "doi": "10.1126/science.aek0574",
@@ -45600,7 +45915,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael2482": {
     "doi": "10.1126/science.ael2482",
@@ -45633,7 +45953,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aei0475": {
     "doi": "10.1126/science.aei0475",
@@ -45687,7 +46012,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aej6968": {
     "doi": "10.1126/science.aej6968",
@@ -45720,7 +46050,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Crossref-only且摘要为空，同时题目/文章形态显示为评论、政策/治理、随笔或非重点研究内容；即使后续富化也不满足当前重点解读优先标准，因此不进入active backlog。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adz7427": {
     "doi": "10.1126/science.adz7427",
@@ -45757,7 +46092,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；发现dystroglycan自身木糖磷酸酶功能调控matriglycan延伸并在小鼠中关联肌病，罕见病/糖基化机制相关性高，实质性正式摘要充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.aek0196": {
     "doi": "10.1126/science.aek0196",
@@ -45791,7 +46133,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aea5466": {
     "doi": "10.1126/science.aea5466",
@@ -45826,7 +46173,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek0561": {
     "doi": "10.1126/science.aek0561",
@@ -45859,7 +46211,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael2764": {
     "doi": "10.1126/science.ael2764",
@@ -45890,7 +46247,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Erratum/勘误属于排除型文章类型，不进入重点解读或未来active backlog；仍保留在正式新增全量清单。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aea6187": {
     "doi": "10.1126/science.aea6187",
@@ -45942,7 +46304,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；跨六器官/组织、多模型单细胞高血压图谱并结合人遗传及体内基因编辑，Crossref富化获得实质性正式摘要。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.ael4188": {
     "doi": "10.1126/science.ael4188",
@@ -45975,7 +46344,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aee8723": {
     "doi": "10.1126/science.aee8723",
@@ -46013,7 +46387,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek2193": {
     "doi": "10.1126/science.aek2193",
@@ -46046,7 +46425,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Crossref-only且摘要为空，同时题目/文章形态显示为评论、政策/治理、随笔或非重点研究内容；即使后续富化也不满足当前重点解读优先标准，因此不进入active backlog。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4193": {
     "doi": "10.1126/science.ael4193",
@@ -46079,7 +46463,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aej7857": {
     "doi": "10.1126/science.aej7857",
@@ -46115,7 +46504,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Crossref-only且摘要为空，同时题目/文章形态显示为评论、政策/治理、随笔或非重点研究内容；即使后续富化也不满足当前重点解读优先标准，因此不进入active backlog。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aec4776": {
     "doi": "10.1126/science.aec4776",
@@ -46153,7 +46547,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael3843": {
     "doi": "10.1126/science.ael3843",
@@ -46192,7 +46591,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adq0420": {
     "doi": "10.1126/science.adq0420",
@@ -46241,7 +46645,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aec2144": {
     "doi": "10.1126/science.aec2144",
@@ -46286,7 +46695,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adz1083": {
     "doi": "10.1126/science.adz1083",
@@ -46321,7 +46735,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；提出真核染色体作为离子水凝胶的双状态体积相变模型，连接组蛋白乙酰化与染色质凝聚，实质性正式摘要充分。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.aee7004": {
     "doi": "10.1126/science.aee7004",
@@ -46373,7 +46794,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；人工冬眠模型结合神经活动、突触/树突棘结构与记忆表征，解析长期记忆突触痕迹，Crossref富化摘要及作者数据存档证据充分。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.ael4190": {
     "doi": "10.1126/science.ael4190",
@@ -46406,7 +46834,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aea7605": {
     "doi": "10.1126/science.aea7605",
@@ -46451,7 +46884,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "本次重点解读已完成；PMIX/X抑制剂介导晚期肝阶段化学减毒产生长期无菌保护，感染/疫苗/药物机制直接相关，正式摘要与作者预印本证据充分。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-14"
   },
   "10.1126/science.ael4194": {
     "doi": "10.1126/science.ael4194",
@@ -46484,7 +46924,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "新闻、评论、回复、校正、Daily Briefing、Career、书评或低信息量聚合等非原创研究/非正式Review内容；在本期原创研究证据充足情况下无需占用重点解读或未来backlog容量。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ads5962": {
     "doi": "10.1126/science.ads5962",
@@ -46899,7 +47344,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4189": {
     "doi": "10.1126/science.ael4189",
@@ -46932,7 +47382,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek7995": {
     "doi": "10.1126/science.aek7995",
@@ -46966,7 +47421,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Crossref-only且摘要为空，同时题目/文章形态显示为评论、政策/治理、随笔或非重点研究内容；即使后续富化也不满足当前重点解读优先标准，因此不进入active backlog。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4192": {
     "doi": "10.1126/science.ael4192",
@@ -46999,7 +47459,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "正式新增保留用于全量审计，但主题主要属于气候/生态/天文/物理/材料/地学等，与生命科学、生物医药或AI×生命科学投资主线缺少直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.07.038": {
     "doi": "10.1016/j.cell.2026.07.038",
@@ -47037,6 +47502,11 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-14",
+    "deep_analysis_reason": "Cell原创研究题目直接涉及病毒RNA稳定性与翻译增强元件，核酸药/mRNA平台价值高；当前仍为Crossref-only且摘要为空，本次未取得新的实质性正文证据，待富化后解读。",
+    "deep_analysis_priority_level": "P0"
   }
 }
