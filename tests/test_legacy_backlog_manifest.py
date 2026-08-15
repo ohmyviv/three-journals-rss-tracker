@@ -24,7 +24,7 @@ def test_legacy_backlog_manifest_is_well_formed_and_still_references_indexed_doi
     manifest = _load("data/deep_analysis_migrations/legacy-backlog-triage-2026-08-12.json")
     doi_index = _load("data/doi_index.json")
 
-    assert manifest["migration_id"] == "legacy-backlog-triage-2026-08-12"
+    assert manifest["migration_id"] == "legacy-backlog-triage-2026-08-12-v1"
     assert manifest["cutoff_formal_batch_date"] == "2026-08-11"
 
     keep = manifest.get("keep")
