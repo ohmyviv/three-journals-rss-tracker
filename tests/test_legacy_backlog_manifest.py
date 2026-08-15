@@ -3,6 +3,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+from three_journals_tracker.analysis_queue import ACTIVE_ANALYSIS_STATUSES
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -25,10 +27,7 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
     doi_index = _load("data/doi_index.json")
 
     keep = {item["doi"].casefold(): item for item in manifest["keep"]}
-    active_statuses = {
-        "pending_triage",
-        "pending",
-        "deferred",
+    queue_compatible_statuses = ACTIVE_ANALYSIS_STATUSES | {
         "awaiting_enrichment",
         "metadata_only_exhausted",
     }
@@ -49,7 +48,7 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
             assert queue[doi]["analysis_status"] == "completed"
             continue
 
-        assert queue[doi]["analysis_status"] in active_statuses
+        assert queue[doi]["analysis_status"] in queue_compatible_statuses
         # Enrichment changes evidence/status, not the curated priority by itself.
         assert queue[doi]["priority_level"] == decision["priority_level"]
 
@@ -63,7 +62,7 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
     ):
         assert doi_index[doi]["deep_analysis_disposition"] == "queued"
         assert doi in queue
-        assert queue[doi]["analysis_status"] in active_statuses
+        assert queue[doi]["analysis_status"] in queue_compatible_statuses
     assert queue["10.1016/j.cell.2026.07.034"]["priority_level"] == "P0"
 
     # Completed audit records remain terminal.
@@ -80,17 +79,28 @@ def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
     elif ghost_disposition == "completed":
         assert queue[ghost_doi]["analysis_status"] == "completed"
     else:
-        assert queue[ghost_doi]["analysis_status"] in active_statuses
+        assert queue[ghost_doi]["analysis_status"] in queue_compatible_statuses
         assert queue[ghost_doi]["priority_level"] == "P0"
 
     # Obvious legacy contamination is durably not selected and absent from queue.
     assert "10.1038/s41586-026-10822-y" not in queue
     assert doi_index["10.1038/s41586-026-10822-y"]["deep_analysis_disposition"] == "not_selected"
 
-    # The materialized queue is the compressed post-migration state, not the old
-    # discovery-era backlog.
+    # Physical queue records intentionally retain completed audit records, so their
+    # count is expected to grow over time. Validate semantics rather than imposing a
+    # migration-day size ceiling.
+    for doi, row in queue.items():
+        assert doi in doi_index
+        disposition = doi_index[doi].get("deep_analysis_disposition")
+        if row.get("analysis_status") == "completed":
+            assert disposition == "completed"
+        else:
+            assert disposition == "queued"
+
+    # Only genuinely active work is bounded; completed audit rows do not contribute.
     active_backlog = sum(
-        1 for row in queue.values() if row.get("analysis_status") in active_statuses
+        1
+        for row in queue.values()
+        if row.get("analysis_status") in ACTIVE_ANALYSIS_STATUSES
     )
     assert active_backlog <= 60
-    assert len(queue) <= 80
