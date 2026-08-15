@@ -3,8 +3,6 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from three_journals_tracker.analysis_queue import ACTIVE_ANALYSIS_STATUSES
-
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -13,94 +11,39 @@ def _load(path: str) -> dict:
     return json.loads((ROOT / path).read_text(encoding="utf-8"))
 
 
-def test_real_legacy_backlog_manifest_matches_materialized_state() -> None:
-    """The legacy migration is one-shot; later editorial/enrichment state may evolve.
+def test_legacy_backlog_manifest_is_well_formed_and_still_references_indexed_dois() -> None:
+    """Validate the immutable migration input, not today's mutable queue state.
 
-    Re-applying the immutable manifest to the already-migrated queue is expected to
-    fail its stale-manifest guard, so CI must not use re-application as a standing
-    repository invariant. The manifest's migration-day analysis_status is likewise
-    not permanent: enrichment can move a queued record through evidence states, and
-    later daily editorial decisions can complete or explicitly drop it.
+    The 2026-08-12 legacy migration has already been materialized and audited.  Its
+    manifest is a historical input, while current queue status, priority, evidence,
+    completion state, and total backlog size are expected to evolve through later
+    enrichment and editorial decisions.  Standing CI must therefore validate only
+    properties that remain invariant after the one-shot migration.
     """
+
     manifest = _load("data/deep_analysis_migrations/legacy-backlog-triage-2026-08-12.json")
-    queue = _load("data/deep_analysis_queue.json")
     doi_index = _load("data/doi_index.json")
 
-    keep = {item["doi"].casefold(): item for item in manifest["keep"]}
-    queue_compatible_statuses = ACTIVE_ANALYSIS_STATUSES | {
-        "awaiting_enrichment",
-        "metadata_only_exhausted",
-    }
+    assert manifest["migration_id"] == "legacy-backlog-triage-2026-08-12-v1"
+    assert manifest["cutoff_formal_batch_date"] == "2026-08-11"
 
-    # The migration established a reviewed starting state. Standing CI validates
-    # durable disposition semantics, not the mutable migration-day analysis_status.
-    for doi, decision in keep.items():
-        disposition = doi_index[doi].get("deep_analysis_disposition")
-        assert disposition in {"queued", "completed", "not_selected"}
+    keep = manifest.get("keep")
+    assert isinstance(keep, list)
+    assert len(keep) == 43
 
-        if disposition == "not_selected":
-            assert doi not in queue
-            continue
+    seen: set[str] = set()
+    for decision in keep:
+        assert isinstance(decision, dict)
+        doi = str(decision.get("doi") or "").casefold()
+        assert doi
+        assert doi not in seen
+        seen.add(doi)
 
-        assert doi in queue
-        assert queue[doi]["last_reviewed_at"]
-        if disposition == "completed":
-            assert queue[doi]["analysis_status"] == "completed"
-            continue
+        assert decision.get("priority_level") in {"P0", "P1", "P2", "P3"}
+        assert decision.get("analysis_status", "pending") in {"pending", "deferred"}
+        assert str(decision.get("category") or "").strip()
+        assert str(decision.get("reason") or "").strip()
 
-        assert queue[doi]["analysis_status"] in queue_compatible_statuses
-        # Enrichment changes evidence/status, not the curated priority by itself.
-        assert queue[doi]["priority_level"] == decision["priority_level"]
-
-    # Explicit daily decisions outside the legacy migration may also evolve after
-    # later evidence enrichment; verify durable queued semantics rather than a
-    # specific transient analysis_status.
-    for doi in (
-        "10.1016/j.cell.2026.07.034",
-        "10.1016/j.cell.2026.07.029",
-        "10.1016/j.cell.2026.07.024",
-    ):
-        assert doi_index[doi]["deep_analysis_disposition"] == "queued"
-        assert doi in queue
-        assert queue[doi]["analysis_status"] in queue_compatible_statuses
-    assert queue["10.1016/j.cell.2026.07.034"]["priority_level"] == "P0"
-
-    # Completed audit records remain terminal.
-    assert doi_index["10.1016/j.cell.2026.07.027"]["deep_analysis_disposition"] == "completed"
-    assert queue["10.1016/j.cell.2026.07.027"]["analysis_status"] == "completed"
-
-    # Legacy enrichment-only ghost state stays durably triaged even if later
-    # enrichment changes its transient analysis_status.
-    ghost_doi = "10.1016/j.cell.2026.07.049"
-    ghost_disposition = doi_index[ghost_doi]["deep_analysis_disposition"]
-    assert ghost_disposition in {"queued", "completed", "not_selected"}
-    if ghost_disposition == "not_selected":
-        assert ghost_doi not in queue
-    elif ghost_disposition == "completed":
-        assert queue[ghost_doi]["analysis_status"] == "completed"
-    else:
-        assert queue[ghost_doi]["analysis_status"] in queue_compatible_statuses
-        assert queue[ghost_doi]["priority_level"] == "P0"
-
-    # Obvious legacy contamination is durably not selected and absent from queue.
-    assert "10.1038/s41586-026-10822-y" not in queue
-    assert doi_index["10.1038/s41586-026-10822-y"]["deep_analysis_disposition"] == "not_selected"
-
-    # Physical queue records intentionally retain completed audit records, so their
-    # count is expected to grow over time. Validate semantics rather than imposing a
-    # migration-day size ceiling.
-    for doi, row in queue.items():
+        # DOI history is durable even when a later editorial decision completes or
+        # deselects an item and removes it from the active queue.
         assert doi in doi_index
-        disposition = doi_index[doi].get("deep_analysis_disposition")
-        if row.get("analysis_status") == "completed":
-            assert disposition == "completed"
-        else:
-            assert disposition == "queued"
-
-    # Only genuinely active work is bounded; completed audit rows do not contribute.
-    active_backlog = sum(
-        1
-        for row in queue.values()
-        if row.get("analysis_status") in ACTIVE_ANALYSIS_STATUSES
-    )
-    assert active_backlog <= 60

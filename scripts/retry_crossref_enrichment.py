@@ -22,6 +22,8 @@ from three_journals_tracker.enrichment_retry import (
     fetch_crossref_work,
     formal_batch_fields,
     next_retry_at,
+    queued_analysis_status_after_evidence,
+    queued_analysis_status_while_waiting,
     retry_day_due,
     substantive_text,
 )
@@ -80,6 +82,12 @@ def promote_evidence(
     if not summary:
         return
 
+    previous_queue_status = queue_record.get("analysis_status") if queue_record is not None else None
+    was_evidence_waiting = (
+        record.get("evidence_level") == "metadata_only"
+        or previous_queue_status in {"awaiting_enrichment", "metadata_only_exhausted"}
+    )
+
     record["evidence_level"] = "abstract_available"
     record["last_enrichment_success_at"] = checked_at
     if abstract:
@@ -90,13 +98,11 @@ def promote_evidence(
     if queue_record is not None:
         queue_record["evidence_level"] = "abstract_available"
         queue_record["last_enrichment_success_at"] = checked_at
-        if queue_record.get("analysis_status") in {
-            "awaiting_enrichment",
-            "metadata_only_exhausted",
-            "pending",
-            "deferred",
-        }:
-            queue_record["analysis_status"] = "pending_triage"
+        if record.get("deep_analysis_disposition") == "queued":
+            queue_record["analysis_status"] = queued_analysis_status_after_evidence(
+                previous_queue_status,
+                was_evidence_waiting=was_evidence_waiting,
+            )
         append_reason(queue_record, reason)
 
 
@@ -115,14 +121,10 @@ def mark_waiting(
     )
     if queue_record is not None:
         queue_record["evidence_level"] = "metadata_only"
-        if queue_record.get("analysis_status") in {
-            None,
-            "pending_triage",
-            "pending",
-            "deferred",
-            "awaiting_enrichment",
-        }:
-            queue_record["analysis_status"] = "awaiting_enrichment"
+        if record.get("deep_analysis_disposition") == "queued":
+            queue_record["analysis_status"] = queued_analysis_status_while_waiting(
+                queue_record.get("analysis_status")
+            )
         queue_record["next_enrichment_retry_at"] = record.get("next_enrichment_retry_at")
         append_reason(queue_record, "metadata_only_awaiting_enrichment")
 
@@ -134,14 +136,10 @@ def mark_exhausted(record: dict[str, Any], queue_record: dict[str, Any] | None, 
     record["enrichment_exhausted_at"] = checked_at
     if queue_record is not None:
         queue_record["evidence_level"] = "metadata_only"
-        if queue_record.get("analysis_status") in {
-            None,
-            "pending_triage",
-            "pending",
-            "deferred",
-            "awaiting_enrichment",
-        }:
-            queue_record["analysis_status"] = "metadata_only_exhausted"
+        if record.get("deep_analysis_disposition") == "queued":
+            queue_record["analysis_status"] = queued_analysis_status_while_waiting(
+                queue_record.get("analysis_status")
+            )
         queue_record["next_enrichment_retry_at"] = None
         queue_record["enrichment_exhausted_at"] = checked_at
         append_reason(queue_record, "metadata_only_exhausted")

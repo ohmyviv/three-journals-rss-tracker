@@ -4,6 +4,8 @@ from zoneinfo import ZoneInfo
 from three_journals_tracker.enrichment_retry import (
     formal_batch_fields,
     next_retry_at,
+    queued_analysis_status_after_evidence,
+    queued_analysis_status_while_waiting,
     retry_day_due,
     substantive_text,
 )
@@ -63,3 +65,49 @@ def test_substantive_text_accepts_europe_pmc_abstract_fallback():
         "abstract": "This is a sufficiently detailed abstract returned by Europe PMC for later analysis.",
     }
     assert substantive_text(record).startswith("This is a sufficiently detailed abstract")
+
+
+def test_enrichment_does_not_retriage_ready_or_capacity_deferred_work():
+    assert queued_analysis_status_after_evidence(
+        "pending",
+        was_evidence_waiting=False,
+    ) == "pending"
+    assert queued_analysis_status_after_evidence(
+        "deferred",
+        was_evidence_waiting=False,
+    ) == "deferred"
+
+
+def test_new_evidence_promotes_only_evidence_waiting_work_to_pending():
+    assert queued_analysis_status_after_evidence(
+        "deferred",
+        was_evidence_waiting=True,
+    ) == "pending"
+    assert queued_analysis_status_after_evidence(
+        "awaiting_enrichment",
+        was_evidence_waiting=True,
+    ) == "pending"
+    assert queued_analysis_status_after_evidence(
+        "metadata_only_exhausted",
+        was_evidence_waiting=True,
+    ) == "pending"
+
+
+def test_old_enrichment_generated_pending_triage_is_normalized_when_evidence_exists():
+    assert queued_analysis_status_after_evidence(
+        "pending_triage",
+        was_evidence_waiting=False,
+    ) == "pending"
+
+
+def test_evidence_poor_queued_work_stays_active_as_deferred():
+    for status in (
+        None,
+        "pending",
+        "pending_triage",
+        "deferred",
+        "awaiting_enrichment",
+        "metadata_only_exhausted",
+    ):
+        assert queued_analysis_status_while_waiting(status) == "deferred"
+    assert queued_analysis_status_while_waiting("completed") == "completed"
