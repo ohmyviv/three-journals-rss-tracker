@@ -43,10 +43,10 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      # Full pytest belongs to CI. Formal batch production should fail on its own
+      # runtime validation, not on unrelated mutable repository-state assertions.
       - name: Install dependencies
-        run: pip install -r requirements.txt pytest
-      - name: Run tests
-        run: pytest -q
+        run: pip install -r requirements.txt
       - name: Build or recover immutable daily batch
         id: batch
         env:
