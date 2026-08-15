@@ -50,6 +50,39 @@ def formal_batch_fields(record: dict[str, Any]) -> dict[str, str]:
     }
 
 
+def queued_analysis_status_after_evidence(
+    current_status: Any,
+    *,
+    was_evidence_waiting: bool,
+) -> str:
+    """Return canonical editorial status after substantive evidence becomes available.
+
+    Evidence availability and editorial processing are separate dimensions.  Keep a
+    deliberate pending/deferred decision unless the item was specifically deferred
+    because evidence was missing.  Old enrichment-only statuses are normalized back
+    into the current queued contract.
+    """
+
+    status = str(current_status or "")
+    if status == "completed":
+        return "completed"
+    if status == "pending":
+        return "pending"
+    if status == "deferred":
+        return "pending" if was_evidence_waiting else "deferred"
+    if status in {"pending_triage", "awaiting_enrichment", "metadata_only_exhausted"}:
+        return "pending"
+    return "pending"
+
+
+def queued_analysis_status_while_waiting(current_status: Any) -> str:
+    """Keep evidence-poor queued work active using the canonical deferred status."""
+
+    if str(current_status or "") == "completed":
+        return "completed"
+    return "deferred"
+
+
 def completed_retry_days(record: dict[str, Any]) -> set[int]:
     values = record.get("crossref_enrichment_completed_days") or []
     completed: set[int] = set()
