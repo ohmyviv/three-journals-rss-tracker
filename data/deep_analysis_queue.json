@@ -27,7 +27,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -35,7 +35,7 @@
     "first_formal_batch_date": "2026-07-29",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.003",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.012": {
     "doi": "10.1016/j.cell.2026.07.012",
@@ -48,7 +48,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -56,7 +56,7 @@
     "first_formal_batch_date": "2026-07-29",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.012",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1038/s41586-026-10852-6": {
     "doi": "10.1038/s41586-026-10852-6",
@@ -295,7 +295,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -308,7 +308,7 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.011",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.016": {
     "doi": "10.1016/j.cell.2026.07.016",
@@ -321,7 +321,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -334,7 +334,7 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.016",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1038/s41586-026-10939-0": {
     "doi": "10.1038/s41586-026-10939-0",
@@ -382,7 +382,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.ady0832",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "completed_at": "2026-08-11T17:44:51+08:00",
     "completed_in_batch_id": "daily-2026-08-11"
   },
@@ -397,7 +397,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -410,7 +410,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.adz7928",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.adz8081": {
     "doi": "10.1126/science.adz8081",
@@ -423,7 +423,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -436,7 +436,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.adz8081",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aec2906": {
     "doi": "10.1126/science.aec2906",
@@ -449,7 +449,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -462,7 +462,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aec2906",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.ads5397": {
     "doi": "10.1126/science.ads5397",
@@ -475,7 +475,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -488,7 +488,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.ads5397",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aef5438": {
     "doi": "10.1126/science.aef5438",
@@ -501,7 +501,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -514,7 +514,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aef5438",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aef8874": {
     "doi": "10.1126/science.aef8874",
@@ -527,7 +527,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -540,7 +540,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aef8874",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.020": {
     "doi": "10.1016/j.cell.2026.07.020",
@@ -553,7 +553,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -566,7 +566,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.020",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.007": {
     "doi": "10.1016/j.cell.2026.07.007",
@@ -580,7 +580,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -594,7 +594,7 @@
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.007",
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-04T00:00:00+08:00",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1038/s41586-026-10957-y": {
     "doi": "10.1038/s41586-026-10957-y",
@@ -635,7 +635,7 @@
     "last_reviewed_at": "2026-08-12T15:24:48+08:00",
     "source_url": "https://doi.org/10.1126/science.aef3178",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
     "completed_at": "2026-08-12T15:24:48+08:00",
@@ -652,7 +652,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -665,7 +665,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.026",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.021": {
     "doi": "10.1016/j.cell.2026.07.021",
@@ -691,7 +691,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.021",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "completed_at": "2026-08-12T15:24:48+08:00",
     "completed_in_batch_id": "daily-2026-08-12"
   },
@@ -706,7 +706,7 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -719,7 +719,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.022",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.023": {
     "doi": "10.1016/j.cell.2026.07.023",
@@ -733,7 +733,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -747,7 +747,7 @@
     "next_enrichment_retry_at": "2026-08-07T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.008": {
     "doi": "10.1016/j.cell.2026.07.008",
@@ -761,7 +761,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -775,7 +775,7 @@
     "next_enrichment_retry_at": "2026-08-08T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.028": {
     "doi": "10.1016/j.cell.2026.07.028",
@@ -789,7 +789,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -803,7 +803,7 @@
     "next_enrichment_retry_at": "2026-08-08T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1038/s41586-026-10798-9": {
     "doi": "10.1038/s41586-026-10798-9",
@@ -1161,7 +1161,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1175,7 +1175,7 @@
     "next_enrichment_retry_at": "2026-08-09T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aeh1475": {
     "doi": "10.1126/science.aeh1475",
@@ -1200,7 +1200,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aeh1475",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "completed_at": "2026-08-12T15:24:48+08:00",
@@ -1218,7 +1218,7 @@
       "abstract_available",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1229,7 +1229,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aef4184",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07"
   },
@@ -1245,7 +1245,7 @@
       "abstract_available",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1256,7 +1256,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.adu6688",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07"
   },
@@ -1272,7 +1272,7 @@
       "abstract_available",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1283,7 +1283,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.adx1707",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07"
   },
@@ -1299,7 +1299,7 @@
       "abstract_available",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1310,7 +1310,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aec2657",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07"
   },
@@ -1326,7 +1326,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1340,7 +1340,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.013": {
     "doi": "10.1016/j.cell.2026.07.013",
@@ -1354,7 +1354,7 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 0,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1368,7 +1368,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.049": {
     "doi": "10.1016/j.cell.2026.07.049",
@@ -1382,7 +1382,7 @@
       "awaiting_enrichment",
       "metadata_only_awaiting_enrichment"
     ],
-    "analysis_status": "awaiting_enrichment",
+    "analysis_status": "deferred",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-12T20:45:12+08:00",
@@ -1424,7 +1424,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
     "completed_at": "2026-08-11T17:44:51+08:00",
     "completed_in_batch_id": "daily-2026-08-11"
   },
@@ -1504,7 +1504,7 @@
     "completed_in_batch_id": "daily-2026-08-11",
     "first_formal_batch_id": "daily-2026-08-11",
     "first_formal_batch_date": "2026-08-11",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.029": {
     "doi": "10.1016/j.cell.2026.07.029",
@@ -1518,7 +1518,7 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-12T15:24:48+08:00",
@@ -1526,7 +1526,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.029",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.032": {
     "doi": "10.1016/j.cell.2026.07.032",
@@ -1549,7 +1549,7 @@
     "completed_at": "2026-08-12T15:24:48+08:00",
     "completed_in_batch_id": "daily-2026-08-12",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.024": {
     "doi": "10.1016/j.cell.2026.07.024",
@@ -1563,7 +1563,7 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-12T15:24:48+08:00",
@@ -1571,7 +1571,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.024",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.034": {
     "doi": "10.1016/j.cell.2026.07.034",
@@ -1585,7 +1585,7 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending_triage",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-12T15:24:48+08:00",
@@ -1593,7 +1593,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.034",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-14T10:45:32+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1016/j.cell.2026.07.038": {
     "doi": "10.1016/j.cell.2026.07.038",
@@ -1604,15 +1604,18 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [
-      "awaiting_enrichment"
+      "awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-14T15:29:00+08:00",
     "first_formal_batch_id": "daily-2026-08-14",
     "first_formal_batch_date": "2026-08-14",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.07.038"
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.038",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1038/s41586-026-10925-6": {
     "doi": "10.1038/s41586-026-10925-6",
@@ -1833,7 +1836,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P0",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1842,7 +1847,9 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.aea6187",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aeg4720": {
     "doi": "10.1126/science.aeg4720",
@@ -1852,7 +1859,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P1",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1861,7 +1870,9 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.aeg4720",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aee7004": {
     "doi": "10.1126/science.aee7004",
@@ -1871,7 +1882,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P1",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1880,7 +1893,9 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.aee7004",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.aea7605": {
     "doi": "10.1126/science.aea7605",
@@ -1890,7 +1905,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P0",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1899,7 +1916,9 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.aea7605",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.adz1083": {
     "doi": "10.1126/science.adz1083",
@@ -1909,7 +1928,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P1",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1918,7 +1939,9 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.adz1083",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   },
   "10.1126/science.adz7427": {
     "doi": "10.1126/science.adz7427",
@@ -1928,7 +1951,9 @@
     "queued_at": "2026-08-14T15:29:00+08:00",
     "priority_level": "P0",
     "priority_score": null,
-    "queue_reason": [],
+    "queue_reason": [
+      "europe_pmc_abstract_enriched"
+    ],
     "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
@@ -1937,6 +1962,8 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1126/science.adz7427",
     "completed_at": "2026-08-14T15:29:00+08:00",
-    "completed_in_batch_id": "daily-2026-08-14"
+    "completed_in_batch_id": "daily-2026-08-14",
+    "evidence_level": "abstract_available",
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
   }
 }
