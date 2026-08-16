@@ -48,15 +48,17 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "first_formal_batch_id": "daily-2026-07-29",
     "first_formal_batch_date": "2026-07-29",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.012",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10852-6": {
     "doi": "10.1038/s41586-026-10852-6",
@@ -183,10 +185,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -194,7 +196,9 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "source_url": "https://www.nature.com/articles/s41586-026-10849-1"
+    "source_url": "https://www.nature.com/articles/s41586-026-10849-1",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10856-2": {
     "doi": "10.1038/s41586-026-10856-2",
@@ -227,10 +231,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -238,7 +242,9 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "source_url": "https://www.nature.com/articles/s41586-026-10842-8"
+    "source_url": "https://www.nature.com/articles/s41586-026-10842-8",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10814-y": {
     "doi": "10.1038/s41586-026-10814-y",
@@ -295,10 +301,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -308,7 +314,9 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.011",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1016/j.cell.2026.07.016": {
     "doi": "10.1016/j.cell.2026.07.016",
@@ -321,10 +329,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -334,7 +342,9 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.016",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10939-0": {
     "doi": "10.1038/s41586-026-10939-0",
@@ -397,10 +407,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-31T06:30:00+08:00",
     "triggered_at": "2026-07-31T07:32:51+08:00",
     "scheduler_delay_minutes": 62.9,
@@ -410,7 +420,9 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.adz7928",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1126/science.adz8081": {
     "doi": "10.1126/science.adz8081",
@@ -501,10 +513,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-31T06:30:00+08:00",
     "triggered_at": "2026-07-31T07:32:51+08:00",
     "scheduler_delay_minutes": 62.9,
@@ -514,7 +526,9 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aef5438",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1126/science.aef8874": {
     "doi": "10.1126/science.aef8874",
@@ -553,10 +567,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-07-31T06:30:00+08:00",
     "triggered_at": "2026-07-31T07:32:51+08:00",
     "scheduler_delay_minutes": 62.9,
@@ -566,7 +580,9 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.020",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1016/j.cell.2026.07.007": {
     "doi": "10.1016/j.cell.2026.07.007",
@@ -605,10 +621,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-03T20:30:00+08:00",
     "triggered_at": "2026-08-03T23:24:09+08:00",
     "scheduler_delay_minutes": 174.2,
@@ -616,7 +632,9 @@
     "late_discovery_recovery": false,
     "source_url": "https://www.nature.com/articles/s41586-026-10957-y",
     "first_formal_batch_id": "daily-2026-08-04",
-    "first_formal_batch_date": "2026-08-04"
+    "first_formal_batch_date": "2026-08-04",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1126/science.aef3178": {
     "doi": "10.1126/science.aef3178",
@@ -652,10 +670,10 @@
     "queue_reason": [
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-04T06:30:00+08:00",
     "triggered_at": "2026-08-04T07:35:17+08:00",
     "scheduler_delay_minutes": 65.3,
@@ -665,7 +683,9 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.026",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1016/j.cell.2026.07.021": {
     "doi": "10.1016/j.cell.2026.07.021",
@@ -789,10 +809,10 @@
       "metadata_only_awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-05T06:30:00+08:00",
     "triggered_at": "2026-08-05T07:32:48+08:00",
     "scheduler_delay_minutes": 62.8,
@@ -803,7 +823,9 @@
     "next_enrichment_retry_at": "2026-08-08T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10798-9": {
     "doi": "10.1038/s41586-026-10798-9",
@@ -880,10 +902,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-06T06:30:00+08:00",
     "triggered_at": "2026-08-06T07:28:51+08:00",
     "scheduler_delay_minutes": 58.9,
@@ -891,7 +913,9 @@
     "late_discovery_recovery": false,
     "source_url": "https://www.nature.com/articles/s41586-026-10843-7",
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10879-9": {
     "doi": "10.1038/s41586-026-10879-9",
@@ -924,10 +948,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-06T06:30:00+08:00",
     "triggered_at": "2026-08-06T07:28:51+08:00",
     "scheduler_delay_minutes": 58.9,
@@ -935,7 +959,9 @@
     "late_discovery_recovery": false,
     "source_url": "https://www.nature.com/articles/s41586-026-10806-y",
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10860-6": {
     "doi": "10.1038/s41586-026-10860-6",
@@ -968,10 +994,10 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
     "scheduled_for": "2026-08-06T06:30:00+08:00",
     "triggered_at": "2026-08-06T07:28:51+08:00",
     "scheduler_delay_minutes": 58.9,
@@ -979,7 +1005,9 @@
     "late_discovery_recovery": false,
     "source_url": "https://www.nature.com/articles/s41586-026-10884-y",
     "first_formal_batch_id": "daily-2026-08-06",
-    "first_formal_batch_date": "2026-08-06"
+    "first_formal_batch_date": "2026-08-06",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10740-z": {
     "doi": "10.1038/s41586-026-10740-z",
@@ -1965,5 +1993,43 @@
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+  },
+  "10.1016/j.cell.2026.07.043": {
+    "doi": "10.1016/j.cell.2026.07.043",
+    "journal": "Cell",
+    "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
+    "first_seen_at": "2026-08-15T16:55:32+08:00",
+    "queued_at": "2026-08-16T15:18:32+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [
+      "awaiting_enrichment"
+    ],
+    "analysis_status": "deferred",
+    "target_complete_by": null,
+    "defer_count": 1,
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
+    "first_formal_batch_id": "daily-2026-08-16",
+    "first_formal_batch_date": "2026-08-16",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.043"
+  },
+  "10.1016/j.cell.2026.07.040": {
+    "doi": "10.1016/j.cell.2026.07.040",
+    "journal": "Cell",
+    "title": "Polyamines buffer labile iron to suppress ferroptosis",
+    "first_seen_at": "2026-08-15T16:55:32+08:00",
+    "queued_at": "2026-08-16T15:18:32+08:00",
+    "priority_level": "untriaged",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-08-16T15:18:32+08:00",
+    "first_formal_batch_id": "daily-2026-08-16",
+    "first_formal_batch_date": "2026-08-16",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.040",
+    "completed_at": "2026-08-16T15:18:32+08:00",
+    "completed_in_batch_id": "daily-2026-08-16"
   }
 }

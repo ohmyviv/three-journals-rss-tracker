@@ -28579,11 +28579,14 @@
     "first_formal_batch_date": "2026-07-29",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Dual reverse-transcriptase RNA/protein-templated DNA synthesis is a high-priority new nucleic-acid mechanism with synthetic-biology tool potential.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report; substantive abstract evidence supports the dual reverse-transcriptase bacterial immune mechanism.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/d41586-026-02282-1": {
     "doi": "10.1038/d41586-026-02282-1",
@@ -29264,11 +29267,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Rational design of intrinsically disordered proteins is directly relevant to programmable protein engineering and AI-enabled biology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using the Nature abstract on rational IDR design with GOOSE.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10856-2": {
     "doi": "10.1038/s41586-026-10856-2",
@@ -29588,11 +29594,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Raygun protein resizing and modification is a high-priority protein-design platform with direct therapeutic and tool-building relevance.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using the Nature abstract/full article evidence on Raygun protein miniaturization and modification.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10861-5": {
     "doi": "10.1038/s41586-026-10861-5",
@@ -30607,11 +30616,14 @@
     "first_formal_batch_date": "2026-07-30",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Gasdermin E coupling viral pyroptosis to lethal hepatic lipid accumulation directly connects inflammatory cell death, infection, and metabolism.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using substantive abstract evidence on GSDME-dependent viral pyroptosis and hepatic lipid accumulation.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1016/j.cell.2026.07.016": {
     "doi": "10.1016/j.cell.2026.07.016",
@@ -30720,11 +30732,14 @@
     "first_formal_batch_date": "2026-07-30",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "CRISPR screens for rescuing age-related T-cell dysfunction in cancer are directly relevant to immunotherapy targets and aging immunity.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using PubMed/preprint evidence from in vivo single-cell CRISPR screens of aged T cells.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/d41586-026-01843-8": {
     "doi": "10.1038/d41586-026-01843-8",
@@ -31542,11 +31557,14 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Spatiotemporal multiomics of the tumor ecosystem during metastatic colonization is high-priority oncology, metastasis, and multiomics research.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using abstract-level evidence on spatiotemporal multiomics of metastatic colonization.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1126/science.aej5902": {
     "doi": "10.1126/science.aej5902",
@@ -33296,11 +33314,14 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Sustainable production of etoposide/teniposide-related cancer drugs in engineered yeast is a high-priority synthetic-biology and biomanufacturing case.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using substantive article evidence on yeast-based sustainable production routes for etoposide/teniposide.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1126/science.ael0166": {
     "doi": "10.1126/science.ael0166",
@@ -34286,11 +34307,14 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Dietary arginine control of codon-dependent MHC-I translation links immunometabolism to antitumor and antiviral immunity.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using published Cell-linked evidence on arginine-dependent MHC-I translation and immunity.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/d41586-026-02366-y": {
     "doi": "10.1038/d41586-026-02366-y",
@@ -34884,11 +34908,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Gasdermin D-mediated delivery of caspase inhibitors is highly relevant to pyroptosis, inflammatory disease, and targeted intracellular delivery.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using substantive article evidence on gasdermin-D-mediated delivery of caspase inhibitors.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10943-4": {
     "doi": "10.1038/s41586-026-10943-4",
@@ -35347,11 +35374,14 @@
     "first_formal_batch_date": "2026-08-04",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Ultrarapid deep 3D histology for intraoperative glioma mapping has direct diagnostics, imaging, and surgical-neurooncology relevance.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using substantive evidence on the ULTRA cleared stimulated-Raman/AI 3D histology platform.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1016/j.cell.2026.07.021": {
     "doi": "10.1016/j.cell.2026.07.021",
@@ -36522,11 +36552,14 @@
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
     "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Peripheral 5-HT2A receptor targeting to enhance colorectal-cancer antitumor immunity is a direct drug-target and immunotherapy opportunity.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using available abstract-level evidence on peripheral 5-HT2AR modulation of antitumor immunity.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10963-0": {
     "doi": "10.1038/s41586-026-10963-0",
@@ -37026,11 +37059,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Next-generation 3D cancer models integrated with dependency mapping are a high-priority functional-oncology and target-discovery platform.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using Nature/Broad evidence on next-generation 3D cancer dependency models.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10867-z": {
     "doi": "10.1038/s41586-026-10867-z",
@@ -37206,11 +37242,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "A large next-generation patient-derived cancer-model compendium is directly relevant to translational oncology, drug response, and target validation.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using Nature/NCI evidence for the HCMI patient-derived model compendium.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10860-6": {
     "doi": "10.1038/s41586-026-10860-6",
@@ -37278,11 +37317,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Virtual Tissues is a foundation-model approach to spatial proteomics and is directly aligned with virtual-cell, multimodal biology, and AI-life-science priorities.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_reason": "Historical backlog item completed in this report using substantive Nature evidence on the Virtual Tissues spatial-proteomics foundation model.",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   },
   "10.1038/s41586-026-10740-z": {
     "doi": "10.1038/s41586-026-10740-z",
@@ -49187,7 +49229,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Author Correction is excluded from routine deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11022-4": {
     "doi": "10.1038/s41586-026-11022-4",
@@ -49216,7 +49263,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Publisher Correction is excluded from routine deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02562-w": {
     "doi": "10.1038/d41586-026-02562-w",
@@ -49245,7 +49297,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Briefing Chat is a low-priority commentary/news format and not directly within the biomedical investment focus.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02504-6": {
     "doi": "10.1038/d41586-026-02504-6",
@@ -49274,7 +49331,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Books-in-brief format is excluded from routine deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02542-0": {
     "doi": "10.1038/d41586-026-02542-0",
@@ -49303,7 +49365,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Social-science news item is outside the current biomedical and life-science investment focus.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02558-6": {
     "doi": "10.1038/d41586-026-02558-6",
@@ -49332,7 +49399,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Daily briefing aggregation is excluded from routine deep analysis.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02546-w": {
     "doi": "10.1038/d41586-026-02546-w",
@@ -49361,7 +49433,12 @@
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Daily briefing aggregation and archaeology topic are outside the deep-analysis scope.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.ael5176": {
     "doi": "10.1126/science.ael5176",
@@ -49392,7 +49469,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "New Products is a weekly low-information product roundup rather than original research or a formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.ael5175": {
     "doi": "10.1126/science.ael5175",
@@ -49423,7 +49505,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00"
+    "last_enrichment_success_at": "2026-08-16T09:57:09+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "New Products is a weekly low-information product roundup rather than original research or a formal review.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.043": {
     "doi": "10.1016/j.cell.2026.07.043",
@@ -49497,7 +49584,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Highly relevant neurovascular and myeloid biology, but the current formal batch remains Crossref-only with no substantive abstract/full-text evidence available in this run.",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1016/j.cell.2026.07.044": {
     "doi": "10.1016/j.cell.2026.07.044",
@@ -49559,7 +49651,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Ancient genomics and population history are outside the current life-science investment deep-analysis focus.",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.07.040": {
     "doi": "10.1016/j.cell.2026.07.040",
@@ -49611,6 +49708,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-18T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-16",
+    "deep_analysis_reason": "Completed in the 2026-08-16 report using substantive preprint/PubMed evidence on polyamine control of labile iron and ferroptosis.",
+    "deep_analysis_priority_level": "untriaged",
+    "deep_analysis_completed_at": "2026-08-16T15:18:32+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-16"
   }
 }
