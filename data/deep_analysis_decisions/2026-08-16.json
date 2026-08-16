@@ -1,0 +1,138 @@
+{
+  "batch_id": "daily-2026-08-16",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.044",
+      "disposition": "not_selected",
+      "reason": "Ancient genomics and population history are outside the current life-science investment deep-analysis focus."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.043",
+      "disposition": "queued",
+      "reason": "Highly relevant neurovascular and myeloid biology, but the current formal batch remains Crossref-only with no substantive abstract/full-text evidence available in this run.",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.040",
+      "disposition": "completed",
+      "reason": "Completed in the 2026-08-16 report using substantive preprint/PubMed evidence on polyamine control of labile iron and ferroptosis."
+    },
+    {
+      "doi": "10.1038/s41586-026-11023-3",
+      "disposition": "not_selected",
+      "reason": "Author Correction is excluded from routine deep analysis."
+    },
+    {
+      "doi": "10.1038/d41586-026-02562-w",
+      "disposition": "not_selected",
+      "reason": "Briefing Chat is a low-priority commentary/news format and not directly within the biomedical investment focus."
+    },
+    {
+      "doi": "10.1038/d41586-026-02558-6",
+      "disposition": "not_selected",
+      "reason": "Daily briefing aggregation is excluded from routine deep analysis."
+    },
+    {
+      "doi": "10.1038/d41586-026-02546-w",
+      "disposition": "not_selected",
+      "reason": "Daily briefing aggregation and archaeology topic are outside the deep-analysis scope."
+    },
+    {
+      "doi": "10.1038/d41586-026-02504-6",
+      "disposition": "not_selected",
+      "reason": "Books-in-brief format is excluded from routine deep analysis."
+    },
+    {
+      "doi": "10.1038/s41586-026-11022-4",
+      "disposition": "not_selected",
+      "reason": "Publisher Correction is excluded from routine deep analysis."
+    },
+    {
+      "doi": "10.1038/d41586-026-02542-0",
+      "disposition": "not_selected",
+      "reason": "Social-science news item is outside the current biomedical and life-science investment focus."
+    },
+    {
+      "doi": "10.1126/science.ael5176",
+      "disposition": "not_selected",
+      "reason": "New Products is a weekly low-information product roundup rather than original research or a formal review."
+    },
+    {
+      "doi": "10.1126/science.ael5175",
+      "disposition": "not_selected",
+      "reason": "New Products is a weekly low-information product roundup rather than original research or a formal review."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.012",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report; substantive abstract evidence supports the dual reverse-transcriptase bacterial immune mechanism."
+    },
+    {
+      "doi": "10.1038/s41586-026-10849-1",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using the Nature abstract on rational IDR design with GOOSE."
+    },
+    {
+      "doi": "10.1038/s41586-026-10842-8",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using the Nature abstract/full article evidence on Raygun protein miniaturization and modification."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.011",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using substantive abstract evidence on GSDME-dependent viral pyroptosis and hepatic lipid accumulation."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.016",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using PubMed/preprint evidence from in vivo single-cell CRISPR screens of aged T cells."
+    },
+    {
+      "doi": "10.1126/science.adz7928",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using abstract-level evidence on spatiotemporal multiomics of metastatic colonization."
+    },
+    {
+      "doi": "10.1126/science.aef5438",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using substantive article evidence on yeast-based sustainable production routes for etoposide/teniposide."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.020",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using published Cell-linked evidence on arginine-dependent MHC-I translation and immunity."
+    },
+    {
+      "doi": "10.1038/s41586-026-10957-y",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using substantive article evidence on gasdermin-D-mediated delivery of caspase inhibitors."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.026",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using substantive evidence on the ULTRA cleared stimulated-Raman/AI 3D histology platform."
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.028",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using available abstract-level evidence on peripheral 5-HT2AR modulation of antitumor immunity."
+    },
+    {
+      "doi": "10.1038/s41586-026-10843-7",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using Nature/Broad evidence on next-generation 3D cancer dependency models."
+    },
+    {
+      "doi": "10.1038/s41586-026-10806-y",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using Nature/NCI evidence for the HCMI patient-derived model compendium."
+    },
+    {
+      "doi": "10.1038/s41586-026-10884-y",
+      "disposition": "completed",
+      "reason": "Historical backlog item completed in this report using substantive Nature evidence on the Virtual Tissues spatial-proteomics foundation model."
+    }
+  ]
+}
