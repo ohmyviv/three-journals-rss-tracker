@@ -104,7 +104,7 @@ def test_next_day_batch_marks_unbatched_prior_day_discoveries_as_carryover(tmp_p
         "--workspace", str(tmp_path),
         "--config", str(root / "config" / "tracker.yaml"),
         "--date", "2026-08-14",
-        "--now", "2026-08-14T11:00:00+08:00",
+        "--now", "2026-08-14T12:18:00+08:00",
     ]
     subprocess.run(command, check=True, capture_output=True, text=True)
 
