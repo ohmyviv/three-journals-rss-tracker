@@ -3,7 +3,7 @@ name: Retry metadata enrichment
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 0 * * *" # 08:15 Beijing, explicit UTC
+    - cron: "13 0 * * *" # 08:13 Beijing, explicit UTC
 
 permissions:
   contents: write
