@@ -63,7 +63,7 @@ def main() -> int:
     )
     recovery = late_recovery_context(
         scheduler_event,
-        cutoff_time=str(config.get("batch", {}).get("cutoff_time", "10:50")),
+        cutoff_time=str(config.get("batch", {}).get("cutoff_time", "12:17")),
         timezone_name=timezone_name,
     )
     scheduler_metadata = {
