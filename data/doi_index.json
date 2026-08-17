@@ -29159,11 +29159,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Enzymatic glycosylation and amidation that reshape polyene bioactivity directly connect biocatalysis to medicinal chemistry.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：以糖基化与酰胺化酶工程改造多烯抗真菌药，提高效力并降低毒性，直接关联天然产物药物、生物催化和生物制造。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10754-7": {
     "doi": "10.1038/s41586-026-10754-7",
@@ -29306,11 +29309,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Poxvirus portal-complex biology is directly relevant to viral assembly, infection mechanisms, and antiviral target discovery.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：冷冻电镜断层成像解析痘病毒portal复合物结构与感染关键功能，形成潜在抗正痘病毒结构靶点。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10825-9": {
     "doi": "10.1038/s41586-026-10825-9",
@@ -30915,11 +30921,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-31",
     "first_formal_batch_date": "2026-07-31",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Somatic-mutation reconstruction of human microglial ontogeny directly connects aging, brain immune biology, and lineage analysis.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：利用体细胞突变谱系追踪揭示老龄人脑骨髓来源髓系细胞进入并贡献小胶质细胞池，直接关联衰老、神经免疫和阿尔茨海默病。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10920-x": {
     "doi": "10.1038/s41586-026-10920-x",
@@ -32894,11 +32903,14 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "X-inactivation-associated LINE-1 mutagenesis is directly relevant to human genome instability and transposable-element biology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：解析X染色体失活与L1逆转座突变偏向的机制，关联体细胞突变、基因组稳定性和疾病遗传学；Europe PMC已有摘要证据。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1126/science.ael0165": {
     "doi": "10.1126/science.ael0165",
@@ -33164,11 +33176,14 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Feedback regulation of heme biosynthesis by a mitochondrial protease is directly relevant to mitochondrial metabolism and disease biology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：生化重构揭示POLDIP2作为血红素感应适配体介导ALAS的CLPXP降解，连接线粒体蛋白质稳态、血红素代谢与卟啉病机制。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1126/science.aej5900": {
     "doi": "10.1126/science.aej5900",
@@ -35597,11 +35612,14 @@
     "first_formal_batch_date": "2026-08-04",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Milk osteopontin effects on infant microbiome, dendritic-cell hematopoiesis, and disease tolerance connect microbiome and immune development.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：乳源骨桥蛋白通过婴儿微生物组影响树突状细胞造血和疾病耐受，直接关联早期免疫发育、微生物组与营养干预；Europe PMC已有摘要证据。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10958-x": {
     "doi": "10.1038/s41586-026-10958-x",
@@ -36150,11 +36168,14 @@
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
     "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "A metabolic atlas of early human cortex linking glycolysis and pentose-phosphate flux to cell fate is directly relevant to developmental neurobiology and multiomics.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：早期人脑皮层代谢图谱结合类器官、代谢组、同位素示踪和单细胞组学揭示PPP调控细胞命运；已有正式预印本/摘要证据。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/d41586-026-02350-6": {
     "doi": "10.1038/d41586-026-02350-6",
@@ -36428,11 +36449,14 @@
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
     "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Cellular phenotypes underlying language and executive decline in ALS are directly relevant to neurodegeneration and human disease stratification.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：空间与单核转录组解析ALS语言与执行功能下降对应的不同细胞表型，直接关联神经退行性疾病与空间组学。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1016/j.cell.2026.07.028": {
     "doi": "10.1016/j.cell.2026.07.028",
@@ -36879,11 +36903,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Expanded human transcription-factor DNA-binding specificity is a useful regulatory-genomics resource with target-discovery and model-building relevance.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：系统建立人类转录因子DNA结合特异性Codebook，属于基因调控基础设施与生物医学数据/模型的重要底座。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10871-3": {
     "doi": "10.1038/s41586-026-10871-3",
@@ -36951,11 +36978,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "ZFP36L2-linked stress-adaptive plasticity connects regeneration and cancer cell-state control, a direct translational biology topic.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：ZFP36L2连接应激、去分化、肠干细胞状态与结直肠癌转移可塑性，具有明确肿瘤机制与潜在靶点价值。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10883-z": {
     "doi": "10.1038/s41586-026-10883-z",
@@ -37023,11 +37053,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Amygdala astrocyte primary-cilium mechanisms in stress behaviour are directly relevant to neurobiology and psychiatric disease mechanisms.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：揭示杏仁核星形胶质细胞初级纤毛和S1PR1信号参与应激行为，提供非神经元精神疾病靶点机制。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10843-7": {
     "doi": "10.1038/s41586-026-10843-7",
@@ -37206,11 +37239,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Human-brain stimulation linked to gene-associated cell assemblies is directly relevant to neural circuits, stimulation technologies, and BCI/neurotechnology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：人体脑组织刺激、微电极阵列与单核基因组学联用，直接关联神经调控、脑机接口和人脑机制研究。",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-10806-y": {
     "doi": "10.1038/s41586-026-10806-y",
@@ -40678,11 +40714,14 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Generative bacteriophage design with genome language models is a high-priority AI-biology and synthetic-genome engineering study.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：基因组语言模型生成可存活噬菌体，具备AI×生命科学、合成生物与噬菌体治疗直接相关性，并取得正式预印本/摘要证据。",
     "deep_analysis_priority_level": "P0",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1126/science.aek0194": {
     "doi": "10.1126/science.aek0194",
@@ -43447,10 +43486,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-12",
-    "deep_analysis_reason": "High-relevance human disease genomics and asthma target-prioritization study; Crossref-only in the formal batch and substantive abstract/full text was not obtained in this run.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：哮喘跨调控基因映射与疾病驱动基因优先级，直接关联遗传学、免疫与新靶点发现；Europe PMC富化后已有摘要证据。",
     "deep_analysis_priority_level": "P0",
     "pmid": "42580338",
     "europe_pmc_source": "MED",
@@ -43509,7 +43548,9 @@
     "europe_pmc_first_seen_at": "2026-08-14T08:43:02+08:00",
     "first_formal_batch_id": "daily-2026-08-12",
     "first_formal_batch_date": "2026-08-12",
-    "last_enrichment_success_at": "2026-08-17T09:54:52+08:00"
+    "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1016/j.cell.2026.07.032": {
     "doi": "10.1016/j.cell.2026.07.032",
@@ -49212,10 +49253,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-17T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-14",
-    "deep_analysis_reason": "Cell原创研究题目直接涉及病毒RNA稳定性与翻译增强元件，核酸药/mRNA平台价值高；当前仍为Crossref-only且摘要为空，本次未取得新的实质性正文证据，待富化后解读。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-17",
+    "deep_analysis_reason": "2026-08-17日报完成重点解读：大规模筛选病毒RNA调控元件并发现可增强线性mRNA稳定与翻译的元件，直接关联mRNA/核酸药工程；Europe PMC富化后已有摘要证据。",
     "deep_analysis_priority_level": "P0",
     "pmid": "42594865",
     "europe_pmc_source": "MED",
@@ -49248,7 +49289,9 @@
     "europe_pmc_first_seen_at": "2026-08-16T07:55:53+08:00",
     "first_formal_batch_id": "daily-2026-08-14",
     "first_formal_batch_date": "2026-08-14",
-    "last_enrichment_success_at": "2026-08-17T09:54:52+08:00"
+    "last_enrichment_success_at": "2026-08-17T09:54:52+08:00",
+    "deep_analysis_completed_at": "2026-08-17T15:30:13+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-17"
   },
   "10.1038/s41586-026-11023-3": {
     "doi": "10.1038/s41586-026-11023-3",
