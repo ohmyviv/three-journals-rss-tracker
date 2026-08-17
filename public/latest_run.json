@@ -1,37 +1,44 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-08-17T170921p0800",
+  "run_id": "discover-2026-08-17T212234p0800",
   "mode": "live",
-  "checked_at": "2026-08-17T17:09:21+08:00",
+  "checked_at": "2026-08-17T21:22:34+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "30 8 * * *",
-  "scheduled_for": "2026-08-17T16:30:00+08:00",
-  "triggered_at": "2026-08-17T17:09:21+08:00",
-  "scheduler_delay_minutes": 39.4,
+  "schedule_expression_utc": "30 12 * * *",
+  "scheduled_for": "2026-08-17T20:30:00+08:00",
+  "triggered_at": "2026-08-17T21:22:34+08:00",
+  "scheduler_delay_minutes": 52.6,
   "scheduler_delayed": true,
   "late_discovery_recovery": false,
   "intended_batch_date": null,
   "source_status": {
-    "nature": "not_modified",
+    "nature": "success",
     "science": "fallback_crossref",
     "cell": "fallback_crossref"
   },
   "counts": {
-    "new_dois": 0,
+    "new_dois": 6,
     "new_pending_doi": 0,
     "seed_dois": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 0,
-    "items_seen": 0,
+    "duplicates": 69,
+    "items_seen": 75,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
-  "new_dois": [],
+  "new_dois": [
+    "10.1038/s41586-026-10995-6",
+    "10.1038/d41586-026-02532-2",
+    "10.1038/d41586-026-02530-4",
+    "10.1038/d41586-026-02526-0",
+    "10.1038/d41586-026-02529-x",
+    "10.1038/d41586-026-02581-7"
+  ],
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-08-17T17:09:27+08:00"
+  "completed_at": "2026-08-17T21:22:36+08:00"
 }
