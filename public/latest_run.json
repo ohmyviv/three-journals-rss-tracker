@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-08-17T113050p0800",
+  "run_id": "discover-2026-08-17T170921p0800",
   "mode": "live",
-  "checked_at": "2026-08-17T11:30:50+08:00",
+  "checked_at": "2026-08-17T17:09:21+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "37 2 * * *",
-  "scheduled_for": "2026-08-17T10:37:00+08:00",
-  "triggered_at": "2026-08-17T11:30:50+08:00",
-  "scheduler_delay_minutes": 53.8,
+  "schedule_expression_utc": "30 8 * * *",
+  "scheduled_for": "2026-08-17T16:30:00+08:00",
+  "triggered_at": "2026-08-17T17:09:21+08:00",
+  "scheduler_delay_minutes": 39.4,
   "scheduler_delayed": true,
-  "late_discovery_recovery": true,
-  "intended_batch_date": "2026-08-17",
+  "late_discovery_recovery": false,
+  "intended_batch_date": null,
   "source_status": {
     "nature": "not_modified",
     "science": "fallback_crossref",
@@ -33,5 +33,5 @@
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-08-17T11:30:51+08:00"
+  "completed_at": "2026-08-17T17:09:27+08:00"
 }
