@@ -59,7 +59,7 @@ def main() -> int:
     latest_run: dict[str, Any] = read_json(workspace / "public" / "latest_run.json", {})
     recovery_target = latest_run.get("intended_batch_date") if args.recover_late else None
     target_date = args.date or recovery_target or now_at.date().isoformat()
-    cutoff_text = str(config.get("batch", {}).get("cutoff_time", "10:50"))
+    cutoff_text = str(config.get("batch", {}).get("cutoff_time", "12:17"))
     cutoff_hour, cutoff_minute = [int(part) for part in cutoff_text.split(":", 1)]
     cutoff_at = datetime.combine(datetime.fromisoformat(target_date).date(), time(cutoff_hour, cutoff_minute), tzinfo=tz)
     batch_id = f"daily-{target_date}"
