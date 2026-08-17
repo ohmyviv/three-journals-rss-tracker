@@ -14,9 +14,9 @@ on:
         type: boolean
   schedule:
     # Explicit UTC; workflow_run remains the primary post-discovery freeze.
-    # An early hedge may safely exit too_early; the later slot is the fixed backup.
-    - cron: "53 1 * * *" # 09:53 Beijing early hedge
-    - cron: "13 3 * * *" # 11:13 Beijing final fixed backup
+    # Fixed post-cutoff hedges use off-peak minute offsets and leave a quiet window before 15:15.
+    - cron: "31 4 * * *" # 12:31 Beijing first fixed post-cutoff hedge
+    - cron: "11 5 * * *" # 13:11 Beijing final fixed backup
   workflow_run:
     workflows: ["RSS discovery"]
     types: [completed]
