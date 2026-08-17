@@ -12,7 +12,7 @@ scheduler:
 bootstrap:
   include_in_daily_batch: false
 batch:
-  cutoff_time: "10:50"
+  cutoff_time: "12:17"
   deep_analysis_daily_target: 15
   deep_analysis_hard_cap: 20
   backlog_preview_limit: 30
