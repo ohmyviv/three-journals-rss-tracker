@@ -10,7 +10,7 @@ on:
         type: choice
         options: [auto, bootstrap, live]
   schedule:
-    - cron: "45 23 * * *" # 07:45 Beijing on the following local date, explicit UTC
+    - cron: "41 23 * * *" # 07:41 Beijing on the following local date, explicit UTC
 
 permissions:
   contents: write
