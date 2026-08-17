@@ -109,7 +109,7 @@ def test_batch_rebuilds_premature_batch_after_cutoff(tmp_path: Path):
             "journal": "Science",
             "current_title": "Morning discovery",
             "source_url": "https://example.org/morning",
-            "first_seen_at": "2026-07-28T10:30:00+08:00",
+            "first_seen_at": "2026-07-28T11:30:00+08:00",
             "discovery_status": "live_discovery",
             "batch_id": None,
         },
@@ -118,7 +118,7 @@ def test_batch_rebuilds_premature_batch_after_cutoff(tmp_path: Path):
         "batch_id": batch_id,
         "date": "2026-07-28",
         "generated_at": "2026-07-28T00:14:00+08:00",
-        "cutoff_at": "2026-07-28T10:50:00+08:00",
+        "cutoff_at": "2026-07-28T12:17:00+08:00",
         "counts": {"new_dois": 1},
         "new_items": [{"doi": "10.1234/already"}],
     }
@@ -131,11 +131,11 @@ def test_batch_rebuilds_premature_batch_after_cutoff(tmp_path: Path):
         "--workspace", str(tmp_path),
         "--config", str(root / "config" / "tracker.yaml"),
         "--date", "2026-07-28",
-        "--now", "2026-07-28T10:51:00+08:00",
+        "--now", "2026-07-28T12:18:00+08:00",
     ]
     subprocess.run(command, check=True, capture_output=True, text=True)
     batch = json.loads(path.read_text(encoding="utf-8"))
-    assert batch["generated_at"] == "2026-07-28T10:51:00+08:00"
+    assert batch["generated_at"] == "2026-07-28T12:18:00+08:00"
     assert batch["replaced_premature_batch"] is True
     assert batch["counts"]["new_dois"] == 2
     assert {item["doi"] for item in batch["new_items"]} == {"10.1234/already", "10.1234/morning"}
