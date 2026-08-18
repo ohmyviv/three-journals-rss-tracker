@@ -8,7 +8,9 @@ from typing import Any
 import requests
 from dateutil import parser as date_parser
 
+from .china_team import classify_china_team
 from .feed_client import FeedEntry
+from .normalize import clean_text
 
 
 @dataclass(frozen=True)
@@ -54,18 +56,49 @@ def _best_item_date(item: dict[str, Any]) -> str | None:
     return str(created_value) if created_value else None
 
 
+def _crossref_affiliations(author: dict[str, Any]) -> list[str]:
+    values: list[str] = []
+    for affiliation in author.get("affiliation") or []:
+        if isinstance(affiliation, dict):
+            name = clean_text(affiliation.get("name"))
+        else:
+            name = clean_text(affiliation)
+        if name:
+            values.append(name)
+    return list(dict.fromkeys(values))
+
+
 def crossref_item_to_entry(item: dict[str, Any]) -> FeedEntry:
     title_values = item.get("title") or []
     title = title_values[0] if isinstance(title_values, list) and title_values else str(title_values or "")
     doi = str(item.get("DOI") or "")
     url = str(item.get("URL") or (f"https://doi.org/{doi}" if doi else ""))
     authors: list[dict[str, str]] = []
+    author_affiliations: list[dict[str, Any]] = []
+    affiliations: list[str] = []
     for author in item.get("author") or []:
         if not isinstance(author, dict):
             continue
         name = " ".join(part for part in [str(author.get("given") or "").strip(), str(author.get("family") or "").strip()] if part)
+        row_affiliations = _crossref_affiliations(author)
+        affiliations.extend(row_affiliations)
         if name:
             authors.append({"name": name})
+        if name or row_affiliations:
+            author_affiliations.append(
+                {
+                    "author": name,
+                    "affiliations": row_affiliations,
+                    "sequence": clean_text(author.get("sequence")) or None,
+                    "corresponding": bool(author.get("corresponding")),
+                }
+            )
+    affiliations = list(dict.fromkeys(affiliations))
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source="crossref",
+    )
     subjects = [{"term": str(value)} for value in item.get("subject") or [] if value]
     return FeedEntry(
         title=title,
@@ -76,10 +109,13 @@ def crossref_item_to_entry(item: dict[str, Any]) -> FeedEntry:
         published=_best_item_date(item),
         authors=authors,
         author=", ".join(row["name"] for row in authors),
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
         tags=subjects,
         summary=str(item.get("abstract") or ""),
         crossref_type=str(item.get("type") or ""),
         container_title=(item.get("container-title") or [""])[0],
+        **china_team,
     )
 
 
