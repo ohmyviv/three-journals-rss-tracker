@@ -1,6 +1,6 @@
 # Three Journals RSS Tracker
 
-RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。GitHub Actions 负责确定性的发现、历史状态与批次冻结；ChatGPT 后续负责资料富化、重点解读资格判断、中国团队识别、中文日报和深度解读状态写回。
+RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。GitHub Actions 负责确定性的发现、历史状态、证据富化、轻量团队归属提示与批次冻结；ChatGPT 后续负责重点解读资格判断、中文日报、团队线索展示和深度解读状态写回。
 
 
 ## 公开仓库与数据边界
@@ -26,6 +26,22 @@ RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。Git
 - Crossref 覆盖弱于官方 RSS，尤其可能遗漏无 DOI 的新闻、社论和前置内容，因此不会被表述为 RSS 全量成功。
 - 可通过 Actions 环境变量 `CROSSREF_MAILTO` 进入 Crossref polite pool；未配置时仍使用公开 API。
 
+## 中国团队提示（v0.1）
+
+系统提供一个**轻量、描述性、完全不参与评分的中国大陆团队提示**。目的只是让日报在一篇论文已经值得关注时，顺手提示是否存在可进一步接触的国内团队或机构线索。
+
+- 只依据可核实的作者机构信息（affiliation / institution）判断，**绝不根据作者姓名、国籍或族裔推测**。
+- Crossref fallback 和 Europe PMC 富化会保留作者—机构信息；对于新发现但仍缺少机构信息的 DOI（包括 Nature RSS 新 DOI），discovery 会做一次非阻塞的 Crossref work 元数据查询。查询失败不会影响发现、冻结或日报，只保留 `unknown`。
+- v0.1 的提示范围是中国大陆机构；香港、澳门和台湾不会被自动折叠进该标签，后续如需要可另做区域提示。
+- `china_team_status` 只有四种：
+  - `china_led`：保守的机构归属启发式表明中国大陆团队主导，例如明确的通讯作者机构信号、所有已列作者均有大陆机构信息，或第一/末位作者均有大陆机构信息；
+  - `china_participating`：存在中国大陆机构参与，但不足以判断主导；
+  - `no_china_signal`：已有可用机构信息，但未发现中国大陆机构信号；
+  - `unknown`：机构信息不足，**不能解释为“不是中国团队”**。
+- 同时保存 `china_institutions`、`china_key_authors` 和 `china_team_evidence`，便于日报展示与审计。
+- 这些字段**不进入 scientific importance、priority、重点解读选择、deep-analysis queue 排序或 disposition**，也不影响 formal batch 资格。
+- 正式批次 `new_items` 会直接暴露上述提示字段。日报只需对正向信号轻量展示，例如 `🇨🇳 中国团队主导｜北京大学 / 昌平实验室` 或 `🇨🇳 中国团队参与｜复旦大学`；无正向信号时无需增加版面噪音。
+
 ## 已实现
 
 - 三刊官方 RSS 抓取，单源独立失败披露和 Crossref 回退
@@ -34,6 +50,7 @@ RSS-first、DOI 去重的 `Nature`、`Science`、`Cell` 主刊追踪系统。Git
 - 首次发现时间、上次未见时间和出现时间窗口
 - Bootstrap 初始化，不把当前存量冒充为正式新增
 - RSS/回退更新时间观测与按期刊、小时、星期统计
+- 基于机构信息的轻量中国大陆团队提示，不参与任何编辑评分
 - 显式判定后才进入的跨日深度解读队列
 - 当日及历史积压重点解读完成后的 `completed` 状态写回
 - 每天 12:17 后冻结结构化批次，供 15:15 ChatGPT 日报读取
@@ -97,7 +114,8 @@ python scripts/build_daily_batch.py
 
 ## 关键文件
 
-- `data/doi_index.json`：DOI 当前状态索引，同时保存每个正式新 DOI 的持久化重点解读 disposition
+- `src/three_journals_tracker/china_team.py`：机构信息驱动的轻量中国大陆团队提示逻辑
+- `data/doi_index.json`：DOI 当前状态索引，同时保存团队提示字段和每个正式新 DOI 的持久化重点解读 disposition
 - `data/discovery_events.jsonl`：只追加的首次发现事件
 - `data/feed_observations.jsonl`：每次 RSS/回退观测
 - `data/scheduler_events.jsonl`：每次调度的理论时间、实际时间和结果
@@ -192,7 +210,9 @@ python scripts/apply_daily_analysis_decisions.py decisions.json
 
 ## ChatGPT 15:15 日报
 
-任务读取仓库中的 `public/latest_batch.json`，将全部新文章纳入全量清单，同时按证据、主题相关性、文章类型和投资价值完成当日与历史积压的重点解读。日报生成过程中必须为当天所有正式新 DOI 形成 `completed`、`queued` 或 `not_selected` 三选一的显式 disposition，并把本次实际完成解读的历史 backlog 写回 `completed`。
+任务读取仓库中的 `public/latest_batch.json`，将全部新文章纳入全量清单，同时按证据、主题相关性、文章类型和投资价值完成当日与历史积压的重点解读。若 `new_items` 中存在 `china_led` 或 `china_participating`，可在相应条目中增加一行轻量团队提示；该提示不得改变文章是否进入重点解读或其 disposition。
+
+日报生成过程中必须为当天所有正式新 DOI 形成 `completed`、`queued` 或 `not_selected` 三选一的显式 disposition，并把本次实际完成解读的历史 backlog 写回 `completed`。
 
 状态写回完成后必须重新读取 `data/doi_index.json` 和 `data/deep_analysis_queue.json` 做一致性检查：当天所有正式新 DOI 都应存在 disposition；所有本次已解读 DOI 都应为 `completed`；`not_selected` 不得留在活跃队列；`completed` 不得再次计入 backlog。若写回或回读失败，日报必须明确披露状态写回异常，不得虚报成功。
 

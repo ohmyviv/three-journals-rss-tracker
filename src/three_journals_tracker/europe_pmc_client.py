@@ -7,6 +7,7 @@ from typing import Any
 
 import requests
 
+from .china_team import classify_china_team
 from .feed_client import FeedEntry
 from .normalize import clean_text, normalize_doi
 
@@ -36,6 +37,17 @@ def _author_name(author: dict[str, Any]) -> str:
     return clean_text(" ".join(part for part in [author.get("firstName"), author.get("lastName")] if part))
 
 
+def _author_affiliations(author: dict[str, Any]) -> list[str]:
+    values: list[str] = []
+    details = ((author.get("authorAffiliationDetailsList") or {}).get("authorAffiliation") or [])
+    for detail in _as_list(details):
+        if isinstance(detail, dict):
+            affiliation = clean_text(detail.get("affiliation"))
+            if affiliation:
+                values.append(affiliation)
+    return list(dict.fromkeys(values))
+
+
 def _journal_issns(item: dict[str, Any]) -> set[str]:
     journal = ((item.get("journalInfo") or {}).get("journal") or {})
     return {
@@ -63,13 +75,31 @@ def europe_pmc_item_to_entry(item: dict[str, Any]) -> FeedEntry:
     source_url = f"https://doi.org/{doi}" if doi else article_url
 
     authors: list[dict[str, str]] = []
+    author_affiliations: list[dict[str, Any]] = []
+    affiliations: list[str] = []
     author_rows = ((item.get("authorList") or {}).get("author") or [])
     for author in _as_list(author_rows):
         if not isinstance(author, dict):
             continue
         name = _author_name(author)
+        row_affiliations = _author_affiliations(author)
+        affiliations.extend(row_affiliations)
         if name:
             authors.append({"name": name})
+        if name or row_affiliations:
+            author_affiliations.append(
+                {
+                    "author": name,
+                    "affiliations": row_affiliations,
+                    "corresponding": bool(author.get("correspondingAuthor") or author.get("isCorrespondingAuthor")),
+                }
+            )
+    affiliations = list(dict.fromkeys(affiliations))
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source="europe_pmc",
+    )
 
     publication_types = ((item.get("pubTypeList") or {}).get("pubType") or [])
     tags = [{"term": clean_text(value)} for value in _as_list(publication_types) if clean_text(value)]
@@ -84,6 +114,8 @@ def europe_pmc_item_to_entry(item: dict[str, Any]) -> FeedEntry:
         published=clean_text(item.get("firstPublicationDate") or item.get("electronicPublicationDate")),
         authors=authors,
         author=", ".join(row["name"] for row in authors),
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
         tags=tags,
         summary=clean_text(item.get("abstractText")),
         europe_pmc_source=source,
@@ -93,12 +125,14 @@ def europe_pmc_item_to_entry(item: dict[str, Any]) -> FeedEntry:
         journal_title=clean_text(journal.get("title") or item.get("journalTitle")),
         issn=clean_text(journal.get("issn")),
         essn=clean_text(journal.get("essn")),
+        **china_team,
     )
 
 
 def europe_pmc_metadata(item: dict[str, Any]) -> dict[str, Any]:
     author_rows = ((item.get("authorList") or {}).get("author") or [])
     authors: list[str] = []
+    author_affiliations: list[dict[str, Any]] = []
     affiliations: list[str] = []
     for author in _as_list(author_rows):
         if not isinstance(author, dict):
@@ -106,13 +140,23 @@ def europe_pmc_metadata(item: dict[str, Any]) -> dict[str, Any]:
         name = _author_name(author)
         if name:
             authors.append(name)
-        details = ((author.get("authorAffiliationDetailsList") or {}).get("authorAffiliation") or [])
-        for detail in _as_list(details):
-            if isinstance(detail, dict):
-                affiliation = clean_text(detail.get("affiliation"))
-                if affiliation:
-                    affiliations.append(affiliation)
+        row_affiliations = _author_affiliations(author)
+        affiliations.extend(row_affiliations)
+        if name or row_affiliations:
+            author_affiliations.append(
+                {
+                    "author": name,
+                    "affiliations": row_affiliations,
+                    "corresponding": bool(author.get("correspondingAuthor") or author.get("isCorrespondingAuthor")),
+                }
+            )
 
+    affiliations = list(dict.fromkeys(affiliations))
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source="europe_pmc",
+    )
     publication_types = ((item.get("pubTypeList") or {}).get("pubType") or [])
     journal = ((item.get("journalInfo") or {}).get("journal") or {})
     return {
@@ -122,7 +166,8 @@ def europe_pmc_metadata(item: dict[str, Any]) -> dict[str, Any]:
         "europe_pmc_id": clean_text(item.get("id")) or None,
         "abstract": clean_text(item.get("abstractText")) or None,
         "authors": list(dict.fromkeys(authors)),
-        "affiliations": list(dict.fromkeys(affiliations)),
+        "author_affiliations": author_affiliations,
+        "affiliations": affiliations,
         "publication_types": list(dict.fromkeys(clean_text(value) for value in _as_list(publication_types) if clean_text(value))),
         "journal_title": clean_text(journal.get("title") or item.get("journalTitle")) or None,
         "issn": clean_text(journal.get("issn")) or None,
@@ -130,6 +175,7 @@ def europe_pmc_metadata(item: dict[str, Any]) -> dict[str, Any]:
         "first_publication_date": clean_text(item.get("firstPublicationDate")) or None,
         "electronic_publication_date": clean_text(item.get("electronicPublicationDate")) or None,
         "first_index_date": clean_text(item.get("firstIndexDate")) or None,
+        **china_team,
     }
 
 

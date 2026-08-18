@@ -2,7 +2,9 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from three_journals_tracker.enrichment_retry import (
+    crossref_work_metadata,
     formal_batch_fields,
+    merge_crossref_metadata,
     next_retry_at,
     queued_analysis_status_after_evidence,
     queued_analysis_status_while_waiting,
@@ -65,6 +67,61 @@ def test_substantive_text_accepts_europe_pmc_abstract_fallback():
         "abstract": "This is a sufficiently detailed abstract returned by Europe PMC for later analysis.",
     }
     assert substantive_text(record).startswith("This is a sufficiently detailed abstract")
+
+
+def test_crossref_work_metadata_contains_affiliation_china_hint():
+    metadata = crossref_work_metadata(
+        {
+            "DOI": "10.1234/test",
+            "title": ["Test paper"],
+            "author": [
+                {
+                    "given": "Jane",
+                    "family": "Doe",
+                    "affiliation": [{"name": "Fudan University, Shanghai, China"}],
+                }
+            ],
+        }
+    )
+    assert metadata["affiliations"] == ["Fudan University, Shanghai, China"]
+    assert metadata["china_team_status"] == "china_led"
+    assert metadata["china_key_authors"] == ["Jane Doe"]
+
+
+def test_delayed_crossref_enrichment_can_upgrade_unknown_china_hint():
+    record = {
+        "china_team_status": "unknown",
+        "china_institutions": [],
+        "china_key_authors": [],
+        "china_team_evidence": [],
+    }
+    merge_crossref_metadata(
+        record,
+        {
+            "china_team_status": "china_participating",
+            "china_institutions": ["Fudan University, Shanghai, China"],
+            "china_key_authors": ["Jane Doe"],
+            "china_team_evidence": ["crossref:author_affiliation"],
+        },
+    )
+    assert record["china_team_status"] == "china_participating"
+    assert record["china_institutions"] == ["Fudan University, Shanghai, China"]
+
+
+def test_delayed_crossref_enrichment_does_not_downgrade_existing_positive_hint():
+    record = {
+        "china_team_status": "china_led",
+        "china_institutions": ["Peking University, Beijing, China"],
+    }
+    merge_crossref_metadata(
+        record,
+        {
+            "china_team_status": "no_china_signal",
+            "china_institutions": [],
+        },
+    )
+    assert record["china_team_status"] == "china_led"
+    assert record["china_institutions"] == ["Peking University, Beijing, China"]
 
 
 def test_enrichment_does_not_retriage_ready_or_capacity_deferred_work():

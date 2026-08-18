@@ -11,7 +11,11 @@ def test_batch_is_idempotent(tmp_path: Path):
     (tmp_path / "data" / "doi_index.json").write_text(json.dumps({
         "10.1234/test": {
             "doi": "10.1234/test", "journal": "Nature", "current_title": "Test", "source_url": "https://example.org",
-            "first_seen_at": "2026-07-27T09:00:00+08:00", "discovery_status": "live_discovery", "batch_id": None
+            "first_seen_at": "2026-07-27T09:00:00+08:00", "discovery_status": "live_discovery", "batch_id": None,
+            "china_team_status": "china_led",
+            "china_institutions": ["Tsinghua University, Beijing, China"],
+            "china_key_authors": ["Example Author"],
+            "china_team_evidence": ["crossref:first_last_author_affiliations"],
         }
     }), encoding="utf-8")
     for name, value in {
@@ -29,6 +33,8 @@ def test_batch_is_idempotent(tmp_path: Path):
     second = json.loads((tmp_path / "public" / "batches" / "2026-07-27.json").read_text(encoding="utf-8"))
     assert first == second
     assert first["counts"]["new_dois"] == 1
+    assert first["new_items"][0]["china_team_status"] == "china_led"
+    assert first["new_items"][0]["china_institutions"] == ["Tsinghua University, Beijing, China"]
 
 
 def test_batch_marks_crossref_fallback_as_degraded(tmp_path: Path):

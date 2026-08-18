@@ -21,6 +21,7 @@ from three_journals_tracker.enrichment_retry import (
     crossref_work_metadata,
     fetch_crossref_work,
     formal_batch_fields,
+    merge_crossref_metadata,
     next_retry_at,
     queued_analysis_status_after_evidence,
     queued_analysis_status_while_waiting,
@@ -258,9 +259,7 @@ def main() -> int:
                 queue_record["last_enrichment_error"] = result.error
             continue
 
-        for key, value in crossref_work_metadata(result.item).items():
-            if value not in (None, "", []) and (key == "summary_rss" or not record.get(key)):
-                record[key] = value
+        merge_crossref_metadata(record, crossref_work_metadata(result.item))
         completed = completed_retry_days(record)
         completed.add(due_day)
         record["crossref_enrichment_completed_days"] = sorted(completed)

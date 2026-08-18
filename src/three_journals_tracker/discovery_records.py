@@ -15,6 +15,15 @@ SCHEDULER_RECORD_FIELDS = (
     "intended_batch_date",
 )
 
+AFFILIATION_RECORD_FIELDS = (
+    "author_affiliations",
+    "affiliations",
+    "china_team_status",
+    "china_institutions",
+    "china_key_authors",
+    "china_team_evidence",
+)
+
 
 def journal_has_history(journal: str, doi_index: dict[str, Any], pending_doi: dict[str, Any]) -> bool:
     return any(row.get("journal") == journal for row in doi_index.values()) or any(
@@ -26,6 +35,10 @@ def _scheduler_fields(metadata: dict[str, Any] | None) -> dict[str, Any]:
     if not metadata:
         return {}
     return {key: metadata.get(key) for key in SCHEDULER_RECORD_FIELDS if metadata.get(key) is not None}
+
+
+def _affiliation_fields(record: dict[str, Any]) -> dict[str, Any]:
+    return {key: record.get(key) for key in AFFILIATION_RECORD_FIELDS if key in record}
 
 
 def process_entries(
@@ -70,6 +83,8 @@ def process_entries(
             existing["current_title"] = record["title"] or existing.get("current_title")
             existing["source_url"] = record["source_url"] or existing.get("source_url")
             existing["rss_reported_time"] = record["rss_reported_time"] or existing.get("rss_reported_time")
+            if record.get("affiliations") or record.get("author_affiliations"):
+                existing.update(_affiliation_fields(record))
             existing["last_seen_at"] = checked_at
             existing["last_seen_source"] = discovery_source
             existing["last_updated_at"] = checked_at
@@ -87,6 +102,9 @@ def process_entries(
                 if prior_pending
                 else current_scheduler_fields
             )
+            affiliation_fields = _affiliation_fields(record)
+            if prior_pending and not record.get("affiliations") and not record.get("author_affiliations"):
+                affiliation_fields = _affiliation_fields(prior_pending)
             doi_index[doi] = {
                 "doi": doi,
                 "journal": journal,
@@ -110,6 +128,7 @@ def process_entries(
                 "last_seen_at": checked_at,
                 "last_seen_source": discovery_source,
                 "last_updated_at": checked_at,
+                **affiliation_fields,
                 **scheduler_fields,
             }
             event = {
@@ -142,6 +161,8 @@ def process_entries(
             run["counts"]["duplicates"] += 1
             pending_doi[key]["last_seen_at"] = checked_at
             pending_doi[key]["last_updated_at"] = checked_at
+            if record.get("affiliations") or record.get("author_affiliations"):
+                pending_doi[key].update(_affiliation_fields(record))
             continue
         pending_doi[key] = {
             **record,

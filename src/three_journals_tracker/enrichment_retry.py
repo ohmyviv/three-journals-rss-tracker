@@ -10,7 +10,18 @@ from zoneinfo import ZoneInfo
 import requests
 from dateutil import parser as date_parser
 
+from .china_team import classify_china_team
 from .normalize import clean_text, normalize_doi
+
+
+CHINA_HINT_FIELDS = {
+    "author_affiliations",
+    "affiliations",
+    "china_team_status",
+    "china_institutions",
+    "china_key_authors",
+    "china_team_evidence",
+}
 
 
 @dataclass(frozen=True)
@@ -21,6 +32,24 @@ class CrossrefWorkResult:
     error: str | None
     attempts: int
     duration_seconds: float
+
+
+def merge_crossref_metadata(record: dict[str, Any], metadata: dict[str, Any]) -> None:
+    """Merge enrichment metadata without letting an old `unknown` block a later team hint."""
+
+    for key, value in metadata.items():
+        if value in (None, "", []):
+            continue
+        if key == "china_team_status":
+            if record.get(key) in (None, "", "unknown"):
+                record[key] = value
+            continue
+        if key in CHINA_HINT_FIELDS:
+            if not record.get(key):
+                record[key] = value
+            continue
+        if key == "summary_rss" or not record.get(key):
+            record[key] = value
 
 
 def substantive_text(record: dict[str, Any], minimum_length: int = 40) -> str:
@@ -202,16 +231,47 @@ def fetch_crossref_work(
     )
 
 
+def _crossref_author_affiliations(author: dict[str, Any]) -> list[str]:
+    values: list[str] = []
+    for affiliation in author.get("affiliation") or []:
+        if isinstance(affiliation, dict):
+            name = clean_text(affiliation.get("name"))
+        else:
+            name = clean_text(affiliation)
+        if name:
+            values.append(name)
+    return list(dict.fromkeys(values))
+
+
 def crossref_work_metadata(item: dict[str, Any]) -> dict[str, Any]:
     title_values = item.get("title") or []
     title = title_values[0] if isinstance(title_values, list) and title_values else clean_text(title_values)
     authors: list[str] = []
+    author_affiliations: list[dict[str, Any]] = []
+    affiliations: list[str] = []
     for author in item.get("author") or []:
         if not isinstance(author, dict):
             continue
         name = clean_text(" ".join(part for part in [author.get("given"), author.get("family")] if part))
+        row_affiliations = _crossref_author_affiliations(author)
+        affiliations.extend(row_affiliations)
         if name:
             authors.append(name)
+        if name or row_affiliations:
+            author_affiliations.append(
+                {
+                    "author": name,
+                    "affiliations": row_affiliations,
+                    "sequence": clean_text(author.get("sequence")) or None,
+                    "corresponding": bool(author.get("corresponding")),
+                }
+            )
+    affiliations = list(dict.fromkeys(affiliations))
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source="crossref",
+    )
     subjects = [clean_text(value) for value in item.get("subject") or [] if clean_text(value)]
     doi = normalize_doi(item.get("DOI"))
     return {
@@ -219,7 +279,10 @@ def crossref_work_metadata(item: dict[str, Any]) -> dict[str, Any]:
         "source_url": clean_text(item.get("URL")) or (f"https://doi.org/{doi}" if doi else None),
         "summary_rss": clean_text(item.get("abstract")) or None,
         "authors_rss": list(dict.fromkeys(authors)),
+        "author_affiliations": author_affiliations,
+        "affiliations": affiliations,
         "tags_rss": list(dict.fromkeys(subjects)),
         "crossref_type": clean_text(item.get("type")) or None,
         "container_title": clean_text((item.get("container-title") or [""])[0]) or None,
+        **china_team,
     }

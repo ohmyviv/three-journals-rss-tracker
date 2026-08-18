@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from three_journals_tracker.analysis_queue import active_backlog_count
 from three_journals_tracker.discovery_records import journal_has_history, process_entries
 from three_journals_tracker.discovery_sources import collect_source
+from three_journals_tracker.enrichment_retry import crossref_work_metadata, fetch_crossref_work
 from three_journals_tracker.io_utils import append_jsonl, atomic_write_json, read_json
 from three_journals_tracker.scheduler import build_scheduler_event, late_recovery_context, write_scheduler_event
 from three_journals_tracker.stats import build_feed_statistics
@@ -114,6 +115,10 @@ def main() -> int:
             "items_seen": 0,
             "late_recovery_dois": 0,
             "late_recovery_pending_doi": 0,
+            "china_team_lookup_attempted": 0,
+            "china_team_lookup_enriched": 0,
+            "china_team_lookup_failed": 0,
+            "china_team_unknown": 0,
         },
         "new_dois": [],
         "new_pending_keys": [],
@@ -167,6 +172,49 @@ def main() -> int:
             )
             observation["new_item_count"], observation["new_doi_count"], observation["new_pending_count"] = counts
         observations.append(observation)
+
+    # Lightweight affiliation enrichment for newly discovered live DOI records only.
+    # This lets Nature RSS discoveries receive the same optional China-team hint as
+    # Crossref/Europe-PMC records without turning team identity into a discovery or
+    # editorial ranking dependency. Use a single short attempt so a non-essential
+    # hint can never hold the primary discovery workflow behind normal retry backoff.
+    request_config = config.get("request", {})
+    china_fields = (
+        "author_affiliations",
+        "affiliations",
+        "china_team_status",
+        "china_institutions",
+        "china_key_authors",
+        "china_team_evidence",
+    )
+    for doi in list(run["new_dois"]):
+        record = doi_index.get(doi)
+        if not record or record.get("china_team_status") != "unknown":
+            continue
+        run["counts"]["china_team_lookup_attempted"] += 1
+        result = fetch_crossref_work(
+            doi,
+            user_agent=str(config.get("user_agent")),
+            timeout_seconds=min(int(request_config.get("timeout_seconds", 30)), 10),
+            retries=1,
+            backoff_seconds=[0],
+            mailto=config.get("crossref_mailto") or os.getenv("CROSSREF_MAILTO"),
+        )
+        if result.status != "success" or result.item is None:
+            run["counts"]["china_team_lookup_failed"] += 1
+            continue
+        metadata = crossref_work_metadata(result.item)
+        for key in china_fields:
+            value = metadata.get(key)
+            if value not in (None, "", []):
+                record[key] = value
+        record["last_updated_at"] = checked_at
+        if record.get("china_team_status") != "unknown":
+            run["counts"]["china_team_lookup_enriched"] += 1
+
+    run["counts"]["china_team_unknown"] = sum(
+        1 for doi in run["new_dois"] if doi_index.get(doi, {}).get("china_team_status") == "unknown"
+    )
 
     fallback_used = any(value == "fallback_crossref" for value in run["source_status"].values())
     if successful_sources == 0:
