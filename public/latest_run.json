@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-08-18T212730p0800",
+  "run_id": "discover-2026-08-19T064442p0800",
   "mode": "live",
-  "checked_at": "2026-08-18T21:27:30+08:00",
+  "checked_at": "2026-08-19T06:44:42+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "43 12 * * *",
-  "scheduled_for": "2026-08-18T20:43:00+08:00",
-  "triggered_at": "2026-08-18T21:27:30+08:00",
-  "scheduler_delay_minutes": 44.5,
+  "schedule_expression_utc": "23 22 * * *",
+  "scheduled_for": "2026-08-19T06:23:00+08:00",
+  "triggered_at": "2026-08-19T06:44:42+08:00",
+  "scheduler_delay_minutes": 21.7,
   "scheduler_delayed": true,
   "late_discovery_recovery": false,
   "intended_batch_date": null,
@@ -19,31 +19,29 @@
     "cell": "fallback_crossref"
   },
   "counts": {
-    "new_dois": 11,
+    "new_dois": 5,
     "new_pending_doi": 0,
     "seed_dois": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 66,
-    "items_seen": 77,
+    "duplicates": 74,
+    "items_seen": 79,
     "late_recovery_dois": 0,
-    "late_recovery_pending_doi": 0
+    "late_recovery_pending_doi": 0,
+    "china_team_lookup_attempted": 5,
+    "china_team_lookup_enriched": 0,
+    "china_team_lookup_failed": 1,
+    "china_team_unknown": 5
   },
   "new_dois": [
-    "10.1038/d41586-026-02577-3",
-    "10.1038/d41586-026-02575-5",
-    "10.1038/d41586-026-02578-2",
-    "10.1038/d41586-026-02576-4",
-    "10.1038/d41586-026-01932-8",
-    "10.1038/d41586-026-02527-z",
-    "10.1038/d41586-026-02466-9",
-    "10.1038/d41586-026-02535-z",
-    "10.1038/d41586-026-02531-3",
-    "10.1038/d41586-026-02589-z",
-    "10.1016/j.cell.2026.08.021"
+    "10.1038/d41586-026-02381-z",
+    "10.1038/d41586-026-02584-4",
+    "10.1038/d41586-026-02524-2",
+    "10.1016/j.cell.2026.07.048",
+    "10.1016/j.cell.2026.07.045"
   ],
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-08-18T21:27:31+08:00"
+  "completed_at": "2026-08-19T06:44:44+08:00"
 }
