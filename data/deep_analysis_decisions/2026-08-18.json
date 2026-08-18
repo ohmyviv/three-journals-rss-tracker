@@ -1,0 +1,117 @@
+{
+  "batch_id": "daily-2026-08-18",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.004",
+      "disposition": "queued",
+      "reason": "AI与细胞生物学主题高度相关，未来解读价值高；当前正式批次仅有 Crossref 元数据且未取得合格的实质性正文/摘要证据，等待证据富化后再解读。",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.1038/s41586-026-10995-6",
+      "disposition": "not_selected",
+      "reason": "Author Correction，更正类条目，不属于本期重点解读的原创研究或正式综述。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02581-7",
+      "disposition": "not_selected",
+      "reason": "Nature Briefing/每日简报类低信息密度聚合内容，按文章类型规则不进入重点解读。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02530-4",
+      "disposition": "not_selected",
+      "reason": "科学文化/书评特写方向，与用户生命科学研究和投资主题缺乏直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02532-2",
+      "disposition": "not_selected",
+      "reason": "健康新闻主题虽有公共卫生相关性，但不是原创研究/正式综述，且对当前生物医药投资研究的直接增量有限。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02526-0",
+      "disposition": "not_selected",
+      "reason": "科研职场/机构治理评论，不属于用户重点研究与投资范围。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02529-x",
+      "disposition": "not_selected",
+      "reason": "AI科研工具观点类文章，主题相关但属于非原创评论；在本期有限的非原创内容名额和更高价值候选下不进入深度解读。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11010-8",
+      "disposition": "not_selected",
+      "reason": "三结太阳能电池材料研究，属于本任务硬门槛默认排除的能源材料方向，与生命科学/生物医药没有直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02552-y",
+      "disposition": "completed",
+      "reason": "已读取 Nature 正文及 FDA 批准信息，完成对食欲素受体激动剂 Orzeyful/oveporexton 与发作性睡病治疗范式变化的重点解读。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11006-4",
+      "disposition": "completed",
+      "reason": "已读取 Nature 正式摘要，完成对吡啶位置异构化方法及其药物化学/化学空间价值的重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11009-1",
+      "disposition": "queued",
+      "reason": "胺类碳-氮连接重塑与药物化学可能直接相关，未来解读价值高；本次未能取得可核实的正式摘要/全文，等待证据后再解读。",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.1038/s41586-026-10930-9",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 正式摘要，完成 PLP 光酶非天然自由基-自由基不对称交叉偶联的重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10841-9",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 正式摘要/正文证据，完成人类着丝粒多样性与演化图谱的重点解读。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10814-y",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 正式论文证据，完成肠干细胞自我更新分裂计数与多能性转换机制的重点解读。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10840-w",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 正式摘要/正文，完成气候变化对非洲儿童疟疾负担归因与预测的重点解读。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10889-7",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 开放获取全文，完成反应发光驱动无激光超分辨成像 RIED 的重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10896-8",
+      "disposition": "completed",
+      "reason": "本次已读取 Nature 正式摘要/正文，完成人类连续目标行为中海马-前扣带-眶额叶组合控制机制的重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.adx1707",
+      "disposition": "not_selected",
+      "reason": "已审阅为环境条件下悬浮磁传感器研究，属于纯物理/传感方向且无明确生命科学直接连接，退出 active backlog。",
+      "priority_level": "P1"
+    }
+  ]
+}
