@@ -1,42 +1,44 @@
 {
-  "generated_at": "2026-08-18T07:56:59+08:00",
+  "generated_at": "2026-08-18T10:20:09+08:00",
   "status": "scheduler_delayed",
-  "total_events": 96,
+  "total_events": 97,
   "latest_event": {
-    "workflow": "europe_pmc_audit",
+    "workflow": "rss_discovery",
     "trigger_type": "schedule",
-    "schedule_expression_utc": "41 23 * * *",
-    "scheduled_for": "2026-08-18T07:41:00+08:00",
-    "triggered_at": "2026-08-18T07:56:44+08:00",
-    "delay_minutes": 15.7,
+    "schedule_expression_utc": "7 1 * * *",
+    "scheduled_for": "2026-08-18T09:07:00+08:00",
+    "triggered_at": "2026-08-18T10:20:02+08:00",
+    "delay_minutes": 73.0,
     "delay_threshold_minutes": 15,
     "scheduler_delayed": true,
     "status": "scheduler_delayed",
-    "run_id": "europe-pmc-2026-08-18T075644p0800",
-    "outcome": "success",
-    "completed_at": "2026-08-18T07:56:59+08:00"
+    "late_discovery_recovery": false,
+    "intended_batch_date": null,
+    "run_id": "discover-2026-08-18T102002p0800",
+    "outcome": "degraded_fallback_sources",
+    "completed_at": "2026-08-18T10:20:09+08:00"
   },
   "workflows": {
     "rss_discovery": {
-      "runs": 38,
-      "scheduled_runs": 37,
-      "delayed_runs": 37,
+      "runs": 39,
+      "scheduled_runs": 38,
+      "delayed_runs": 38,
       "max_delay_minutes": 150.7,
       "latest_event": {
         "workflow": "rss_discovery",
         "trigger_type": "schedule",
-        "schedule_expression_utc": "23 22 * * *",
-        "scheduled_for": "2026-08-18T06:23:00+08:00",
-        "triggered_at": "2026-08-18T06:44:52+08:00",
-        "delay_minutes": 21.9,
+        "schedule_expression_utc": "7 1 * * *",
+        "scheduled_for": "2026-08-18T09:07:00+08:00",
+        "triggered_at": "2026-08-18T10:20:02+08:00",
+        "delay_minutes": 73.0,
         "delay_threshold_minutes": 15,
         "scheduler_delayed": true,
         "status": "scheduler_delayed",
         "late_discovery_recovery": false,
         "intended_batch_date": null,
-        "run_id": "discover-2026-08-18T064452p0800",
+        "run_id": "discover-2026-08-18T102002p0800",
         "outcome": "degraded_fallback_sources",
-        "completed_at": "2026-08-18T06:44:55+08:00"
+        "completed_at": "2026-08-18T10:20:09+08:00"
       }
     },
     "freeze_daily_batch": {
