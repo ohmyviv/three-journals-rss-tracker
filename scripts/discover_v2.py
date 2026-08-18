@@ -176,7 +176,8 @@ def main() -> int:
     # Lightweight affiliation enrichment for newly discovered live DOI records only.
     # This lets Nature RSS discoveries receive the same optional China-team hint as
     # Crossref/Europe-PMC records without turning team identity into a discovery or
-    # editorial ranking dependency. Failures are non-blocking and remain `unknown`.
+    # editorial ranking dependency. Use a single short attempt so a non-essential
+    # hint can never hold the primary discovery workflow behind normal retry backoff.
     request_config = config.get("request", {})
     china_fields = (
         "author_affiliations",
@@ -194,9 +195,9 @@ def main() -> int:
         result = fetch_crossref_work(
             doi,
             user_agent=str(config.get("user_agent")),
-            timeout_seconds=int(request_config.get("timeout_seconds", 30)),
-            retries=int(request_config.get("retries", 3)),
-            backoff_seconds=list(request_config.get("backoff_seconds", [0, 30, 90])),
+            timeout_seconds=min(int(request_config.get("timeout_seconds", 30)), 10),
+            retries=1,
+            backoff_seconds=[0],
             mailto=config.get("crossref_mailto") or os.getenv("CROSSREF_MAILTO"),
         )
         if result.status != "success" or result.item is None:
