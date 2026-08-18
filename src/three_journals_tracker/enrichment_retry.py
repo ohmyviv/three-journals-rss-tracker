@@ -14,6 +14,16 @@ from .china_team import classify_china_team
 from .normalize import clean_text, normalize_doi
 
 
+CHINA_HINT_FIELDS = {
+    "author_affiliations",
+    "affiliations",
+    "china_team_status",
+    "china_institutions",
+    "china_key_authors",
+    "china_team_evidence",
+}
+
+
 @dataclass(frozen=True)
 class CrossrefWorkResult:
     status: str
@@ -22,6 +32,24 @@ class CrossrefWorkResult:
     error: str | None
     attempts: int
     duration_seconds: float
+
+
+def merge_crossref_metadata(record: dict[str, Any], metadata: dict[str, Any]) -> None:
+    """Merge enrichment metadata without letting an old `unknown` block a later team hint."""
+
+    for key, value in metadata.items():
+        if value in (None, "", []):
+            continue
+        if key == "china_team_status":
+            if record.get(key) in (None, "", "unknown"):
+                record[key] = value
+            continue
+        if key in CHINA_HINT_FIELDS:
+            if not record.get(key):
+                record[key] = value
+            continue
+        if key == "summary_rss" or not record.get(key):
+            record[key] = value
 
 
 def substantive_text(record: dict[str, Any], minimum_length: int = 40) -> str:
