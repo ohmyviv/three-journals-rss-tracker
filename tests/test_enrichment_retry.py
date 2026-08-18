@@ -1,10 +1,10 @@
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from scripts.retry_crossref_enrichment import merge_crossref_metadata
 from three_journals_tracker.enrichment_retry import (
     crossref_work_metadata,
     formal_batch_fields,
+    merge_crossref_metadata,
     next_retry_at,
     queued_analysis_status_after_evidence,
     queued_analysis_status_while_waiting,
