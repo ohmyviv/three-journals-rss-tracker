@@ -21,6 +21,7 @@ from three_journals_tracker.enrichment_retry import (
     crossref_work_metadata,
     fetch_crossref_work,
     formal_batch_fields,
+    merge_crossref_metadata,
     next_retry_at,
     queued_analysis_status_after_evidence,
     queued_analysis_status_while_waiting,
@@ -30,16 +31,6 @@ from three_journals_tracker.enrichment_retry import (
 from three_journals_tracker.io_utils import atomic_write_json, read_json
 from three_journals_tracker.normalize import clean_text
 from three_journals_tracker.time_utils import now_iso
-
-
-CHINA_HINT_FIELDS = {
-    "author_affiliations",
-    "affiliations",
-    "china_team_status",
-    "china_institutions",
-    "china_key_authors",
-    "china_team_evidence",
-}
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
@@ -75,24 +66,6 @@ def sync_formal_batch_fields(record: dict[str, Any], queue_record: dict[str, Any
             queue_record[key] = value
             changed = True
     return changed
-
-
-def merge_crossref_metadata(record: dict[str, Any], metadata: dict[str, Any]) -> None:
-    """Merge enrichment metadata without letting an old `unknown` block a later team hint."""
-
-    for key, value in metadata.items():
-        if value in (None, "", []):
-            continue
-        if key == "china_team_status":
-            if record.get(key) in (None, "", "unknown"):
-                record[key] = value
-            continue
-        if key in CHINA_HINT_FIELDS:
-            if not record.get(key):
-                record[key] = value
-            continue
-        if key == "summary_rss" or not record.get(key):
-            record[key] = value
 
 
 def promote_evidence(
