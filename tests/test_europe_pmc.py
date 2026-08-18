@@ -24,7 +24,7 @@ def _item():
                 {
                     "fullName": "Jane Doe",
                     "authorAffiliationDetailsList": {
-                        "authorAffiliation": [{"affiliation": "Example University"}]
+                        "authorAffiliation": [{"affiliation": "Peking University, Beijing, China"}]
                     },
                 }
             ]
@@ -44,11 +44,15 @@ def test_europe_pmc_entry_maps_to_standard_record():
     assert record["doi"] == "10.1126/science.abc1234"
     assert record["authors_rss"] == ["Jane Doe"]
     assert record["summary_rss"] == "Important abstract."
+    assert record["china_team_status"] == "china_led"
+    assert record["china_key_authors"] == ["Jane Doe"]
 
 
-def test_europe_pmc_metadata_contains_identifiers_and_affiliation():
+def test_europe_pmc_metadata_contains_identifiers_affiliation_and_china_hint():
     metadata = europe_pmc_metadata(_item())
     assert metadata["pmid"] == "12345678"
     assert metadata["pmcid"] == "PMC123"
-    assert metadata["affiliations"] == ["Example University"]
+    assert metadata["affiliations"] == ["Peking University, Beijing, China"]
     assert metadata["publication_types"] == ["Journal Article"]
+    assert metadata["china_team_status"] == "china_led"
+    assert metadata["china_institutions"] == ["Peking University, Beijing, China"]
