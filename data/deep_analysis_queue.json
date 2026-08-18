@@ -8,13 +8,15 @@
     "priority_level": "P1",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
     "first_formal_batch_date": "2026-07-28",
-    "source_url": "https://www.nature.com/articles/s41586-026-10930-9"
+    "source_url": "https://www.nature.com/articles/s41586-026-10930-9",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1016/j.cell.2026.07.003": {
     "doi": "10.1016/j.cell.2026.07.003",
@@ -165,10 +167,10 @@
     "priority_level": "P2",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -176,7 +178,9 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "source_url": "https://www.nature.com/articles/s41586-026-10841-9"
+    "source_url": "https://www.nature.com/articles/s41586-026-10841-9",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10849-1": {
     "doi": "10.1038/s41586-026-10849-1",
@@ -259,10 +263,10 @@
     "priority_level": "P2",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -270,7 +274,9 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "source_url": "https://www.nature.com/articles/s41586-026-10814-y"
+    "source_url": "https://www.nature.com/articles/s41586-026-10814-y",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10840-w": {
     "doi": "10.1038/s41586-026-10840-w",
@@ -281,10 +287,10 @@
     "priority_level": "P2",
     "priority_score": null,
     "queue_reason": [],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -292,7 +298,9 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "source_url": "https://www.nature.com/articles/s41586-026-10840-w"
+    "source_url": "https://www.nature.com/articles/s41586-026-10840-w",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1016/j.cell.2026.07.011": {
     "doi": "10.1016/j.cell.2026.07.011",
@@ -1312,33 +1320,6 @@
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07"
   },
-  "10.1126/science.adx1707": {
-    "doi": "10.1126/science.adx1707",
-    "journal": "Science",
-    "title": "Levitated sensor for magnetometry in ambient environment",
-    "first_seen_at": "2026-08-07T09:36:26+08:00",
-    "queued_at": "2026-08-07T09:36:26+08:00",
-    "priority_level": "P1",
-    "priority_score": null,
-    "queue_reason": [
-      "abstract_available",
-      "europe_pmc_abstract_enriched"
-    ],
-    "analysis_status": "pending",
-    "target_complete_by": null,
-    "defer_count": 0,
-    "last_reviewed_at": "2026-08-12T20:45:12+08:00",
-    "scheduled_for": "2026-08-07T06:30:00+08:00",
-    "triggered_at": "2026-08-07T09:36:26+08:00",
-    "scheduler_delay_minutes": 186.4,
-    "scheduler_delayed": true,
-    "late_discovery_recovery": false,
-    "source_url": "https://doi.org/10.1126/science.adx1707",
-    "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-18T09:49:34+08:00",
-    "first_formal_batch_id": "daily-2026-08-07",
-    "first_formal_batch_date": "2026-08-07"
-  },
   "10.1126/science.aec2657": {
     "doi": "10.1126/science.aec2657",
     "journal": "Science",
@@ -1744,13 +1725,15 @@
       "capacity_limit",
       "awaiting_enrichment"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-08-14T15:29:00+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "first_formal_batch_id": "daily-2026-08-14",
     "first_formal_batch_date": "2026-08-14",
-    "source_url": "https://www.nature.com/articles/s41586-026-10889-7"
+    "source_url": "https://www.nature.com/articles/s41586-026-10889-7",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10922-9": {
     "doi": "10.1038/s41586-026-10922-9",
@@ -1783,13 +1766,15 @@
       "capacity_limit",
       "awaiting_enrichment"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-08-14T15:29:00+08:00",
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
     "first_formal_batch_id": "daily-2026-08-14",
     "first_formal_batch_date": "2026-08-14",
-    "source_url": "https://www.nature.com/articles/s41586-026-10896-8"
+    "source_url": "https://www.nature.com/articles/s41586-026-10896-8",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10907-8": {
     "doi": "10.1038/s41586-026-10907-8",
@@ -2068,5 +2053,81 @@
     "completed_in_batch_id": "daily-2026-08-16",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-18T09:49:34+08:00"
+  },
+  "10.1016/j.cell.2026.07.004": {
+    "doi": "10.1016/j.cell.2026.07.004",
+    "journal": "Cell",
+    "title": "Fifteen challenges for generative AI applications to cell biology",
+    "first_seen_at": "2026-08-18T06:44:52+08:00",
+    "queued_at": "2026-08-18T15:20:53+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [
+      "awaiting_enrichment"
+    ],
+    "analysis_status": "deferred",
+    "target_complete_by": null,
+    "defer_count": 1,
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
+    "first_formal_batch_id": "daily-2026-08-18",
+    "first_formal_batch_date": "2026-08-18",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.004"
+  },
+  "10.1038/d41586-026-02552-y": {
+    "doi": "10.1038/d41586-026-02552-y",
+    "journal": "Nature",
+    "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
+    "first_seen_at": "2026-08-18T06:44:52+08:00",
+    "queued_at": "2026-08-18T15:20:53+08:00",
+    "priority_level": "P0",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
+    "first_formal_batch_id": "daily-2026-08-18",
+    "first_formal_batch_date": "2026-08-18",
+    "source_url": "https://www.nature.com/articles/d41586-026-02552-y",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
+  },
+  "10.1038/s41586-026-11006-4": {
+    "doi": "10.1038/s41586-026-11006-4",
+    "journal": "Nature",
+    "title": "Positional isomerisation of pyridine via nitrogen transposition",
+    "first_seen_at": "2026-08-18T06:44:52+08:00",
+    "queued_at": "2026-08-18T15:20:53+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
+    "first_formal_batch_id": "daily-2026-08-18",
+    "first_formal_batch_date": "2026-08-18",
+    "source_url": "https://www.nature.com/articles/s41586-026-11006-4",
+    "completed_at": "2026-08-18T15:20:53+08:00",
+    "completed_in_batch_id": "daily-2026-08-18"
+  },
+  "10.1038/s41586-026-11009-1": {
+    "doi": "10.1038/s41586-026-11009-1",
+    "journal": "Nature",
+    "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+    "first_seen_at": "2026-08-18T06:44:52+08:00",
+    "queued_at": "2026-08-18T15:20:53+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [
+      "awaiting_enrichment"
+    ],
+    "analysis_status": "deferred",
+    "target_complete_by": null,
+    "defer_count": 1,
+    "last_reviewed_at": "2026-08-18T15:20:53+08:00",
+    "first_formal_batch_id": "daily-2026-08-18",
+    "first_formal_batch_date": "2026-08-18",
+    "source_url": "https://www.nature.com/articles/s41586-026-11009-1"
   }
 }

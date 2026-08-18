@@ -1821,11 +1821,14 @@
     "last_updated_at": "2026-07-30T07:30:01+08:00",
     "first_formal_batch_id": "daily-2026-07-28",
     "first_formal_batch_date": "2026-07-28",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Pyridoxal photoenzyme platform is directly relevant to biocatalysis and stereoselective synthesis for life-science chemistry.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_reason": "本次已读取 Nature 正式摘要，完成 PLP 光酶非天然自由基-自由基不对称交叉偶联的重点解读。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10929-2": {
     "doi": "10.1038/s41586-026-10929-2",
@@ -29234,11 +29237,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Human centromere variation is relevant to complete-genome interpretation, structural variation, and next-generation genomics.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_reason": "本次已读取 Nature 正式摘要/正文证据，完成人类着丝粒多样性与演化图谱的重点解读。",
     "deep_analysis_priority_level": "P2",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10849-1": {
     "doi": "10.1038/s41586-026-10849-1",
@@ -29675,11 +29681,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Intestinal stem-cell division history and tissue maintenance are relevant to stem-cell biology, regeneration, and aging.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_reason": "本次已读取 Nature 正式论文证据，完成肠干细胞自我更新分裂计数与多能性转换机制的重点解读。",
     "deep_analysis_priority_level": "P2",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10840-w": {
     "doi": "10.1038/s41586-026-10840-w",
@@ -29711,11 +29720,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-07-30",
     "first_formal_batch_date": "2026-07-30",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Childhood malaria burden and environmental drivers remain directly relevant to infectious disease and translational public-health biology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_reason": "本次已读取 Nature 正式摘要/正文，完成气候变化对非洲儿童疟疾负担归因与预测的重点解读。",
     "deep_analysis_priority_level": "P2",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/d41586-026-02124-0": {
     "doi": "10.1038/d41586-026-02124-0",
@@ -40130,11 +40142,12 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Levitated-sensor magnetometry has a direct potential connection to ultralow-field biomagnetic and brain-signal measurement, making it relevant to neurotechnology instrumentation.",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_reason": "已审阅为环境条件下悬浮磁传感器研究，属于纯物理/传感方向且无明确生命科学直接连接，退出 active backlog。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18"
   },
   "10.1126/science.aek2112": {
     "doi": "10.1126/science.aek2112",
@@ -44560,13 +44573,15 @@
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-14",
-    "deep_analysis_reason": "原创研究直接涉及超分辨成像与生命科学工具，未来解读价值明确；本次15篇容量已满且未优先取得足够实质性文本证据。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "本次已读取 Nature 开放获取全文，完成反应发光驱动无激光超分辨成像 RIED 的重点解读。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-08-14",
-    "first_formal_batch_date": "2026-08-14"
+    "first_formal_batch_date": "2026-08-14",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10891-z": {
     "doi": "10.1038/s41586-026-10891-z",
@@ -44632,13 +44647,15 @@
     "scheduler_delay_minutes": 71.5,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-14T15:29:00+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-14",
-    "deep_analysis_reason": "原创神经科学研究与脑科学方向直接相关，未来解读价值明确；本次15篇容量已满且未优先取得足够实质性文本证据。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "本次已读取 Nature 正式摘要/正文，完成人类连续目标行为中海马-前扣带-眶额叶组合控制机制的重点解读。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-08-14",
-    "first_formal_batch_date": "2026-08-14"
+    "first_formal_batch_date": "2026-08-14",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-10903-y": {
     "doi": "10.1038/s41586-026-10903-y",
@@ -50043,7 +50060,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "Author Correction，更正类条目，不属于本期重点解读的原创研究或正式综述。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02532-2": {
     "doi": "10.1038/d41586-026-02532-2",
@@ -50072,7 +50094,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "健康新闻主题虽有公共卫生相关性，但不是原创研究/正式综述，且对当前生物医药投资研究的直接增量有限。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02530-4": {
     "doi": "10.1038/d41586-026-02530-4",
@@ -50101,7 +50128,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "科学文化/书评特写方向，与用户生命科学研究和投资主题缺乏直接连接。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02526-0": {
     "doi": "10.1038/d41586-026-02526-0",
@@ -50130,7 +50162,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "科研职场/机构治理评论，不属于用户重点研究与投资范围。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02529-x": {
     "doi": "10.1038/d41586-026-02529-x",
@@ -50159,7 +50196,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "AI科研工具观点类文章，主题相关但属于非原创评论；在本期有限的非原创内容名额和更高价值候选下不进入深度解读。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02581-7": {
     "doi": "10.1038/d41586-026-02581-7",
@@ -50188,7 +50230,12 @@
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "Nature Briefing/每日简报类低信息密度聚合内容，按文章类型规则不进入重点解读。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11006-4": {
     "doi": "10.1038/s41586-026-11006-4",
@@ -50217,7 +50264,14 @@
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "已读取 Nature 正式摘要，完成对吡啶位置异构化方法及其药物化学/化学空间价值的重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1038/s41586-026-11009-1": {
     "doi": "10.1038/s41586-026-11009-1",
@@ -50246,7 +50300,12 @@
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "胺类碳-氮连接重塑与药物化学可能直接相关，未来解读价值高；本次未能取得可核实的正式摘要/全文，等待证据后再解读。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/s41586-026-11010-8": {
     "doi": "10.1038/s41586-026-11010-8",
@@ -50275,7 +50334,12 @@
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "三结太阳能电池材料研究，属于本任务硬门槛默认排除的能源材料方向，与生命科学/生物医药没有直接连接。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02552-y": {
     "doi": "10.1038/d41586-026-02552-y",
@@ -50304,7 +50368,14 @@
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "已读取 Nature 正文及 FDA 批准信息，完成对食欲素受体激动剂 Orzeyful/oveporexton 与发作性睡病治疗范式变化的重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-18"
   },
   "10.1016/j.cell.2026.07.004": {
     "doi": "10.1016/j.cell.2026.07.004",
@@ -50351,6 +50422,11 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-21T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-21T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-18",
+    "deep_analysis_reason": "AI与细胞生物学主题高度相关，未来解读价值高；当前正式批次仅有 Crossref 元数据且未取得合格的实质性正文/摘要证据，等待证据富化后再解读。",
+    "deep_analysis_priority_level": "P1"
   }
 }
