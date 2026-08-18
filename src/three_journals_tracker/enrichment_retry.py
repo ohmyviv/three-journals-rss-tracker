@@ -10,6 +10,7 @@ from zoneinfo import ZoneInfo
 import requests
 from dateutil import parser as date_parser
 
+from .china_team import classify_china_team
 from .normalize import clean_text, normalize_doi
 
 
@@ -202,16 +203,47 @@ def fetch_crossref_work(
     )
 
 
+def _crossref_author_affiliations(author: dict[str, Any]) -> list[str]:
+    values: list[str] = []
+    for affiliation in author.get("affiliation") or []:
+        if isinstance(affiliation, dict):
+            name = clean_text(affiliation.get("name"))
+        else:
+            name = clean_text(affiliation)
+        if name:
+            values.append(name)
+    return list(dict.fromkeys(values))
+
+
 def crossref_work_metadata(item: dict[str, Any]) -> dict[str, Any]:
     title_values = item.get("title") or []
     title = title_values[0] if isinstance(title_values, list) and title_values else clean_text(title_values)
     authors: list[str] = []
+    author_affiliations: list[dict[str, Any]] = []
+    affiliations: list[str] = []
     for author in item.get("author") or []:
         if not isinstance(author, dict):
             continue
         name = clean_text(" ".join(part for part in [author.get("given"), author.get("family")] if part))
+        row_affiliations = _crossref_author_affiliations(author)
+        affiliations.extend(row_affiliations)
         if name:
             authors.append(name)
+        if name or row_affiliations:
+            author_affiliations.append(
+                {
+                    "author": name,
+                    "affiliations": row_affiliations,
+                    "sequence": clean_text(author.get("sequence")) or None,
+                    "corresponding": bool(author.get("corresponding")),
+                }
+            )
+    affiliations = list(dict.fromkeys(affiliations))
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source="crossref",
+    )
     subjects = [clean_text(value) for value in item.get("subject") or [] if clean_text(value)]
     doi = normalize_doi(item.get("DOI"))
     return {
@@ -219,7 +251,10 @@ def crossref_work_metadata(item: dict[str, Any]) -> dict[str, Any]:
         "source_url": clean_text(item.get("URL")) or (f"https://doi.org/{doi}" if doi else None),
         "summary_rss": clean_text(item.get("abstract")) or None,
         "authors_rss": list(dict.fromkeys(authors)),
+        "author_affiliations": author_affiliations,
+        "affiliations": affiliations,
         "tags_rss": list(dict.fromkeys(subjects)),
         "crossref_type": clean_text(item.get("type")) or None,
         "container_title": clean_text((item.get("container-title") or [""])[0]) or None,
+        **china_team,
     }
