@@ -7,7 +7,13 @@ def test_crossref_item_maps_to_record():
         "DOI": "10.1126/science.example",
         "title": ["A Science result"],
         "URL": "https://doi.org/10.1126/science.example",
-        "author": [{"given": "Ada", "family": "Lovelace"}],
+        "author": [
+            {
+                "given": "Ada",
+                "family": "Lovelace",
+                "affiliation": [{"name": "Tsinghua University, Beijing, China"}],
+            }
+        ],
         "published-online": {"date-parts": [[2026, 7, 27]]},
         "created": {"date-time": "2026-07-28T02:00:00Z"},
         "subject": ["Neuroscience"],
@@ -20,6 +26,9 @@ def test_crossref_item_maps_to_record():
     assert record["title"] == "A Science result"
     assert record["authors_rss"] == ["Ada Lovelace"]
     assert record["rss_reported_time"].startswith("2026-07-27")
+    assert record["affiliations"] == ["Tsinghua University, Beijing, China"]
+    assert record["china_team_status"] == "china_led"
+    assert record["china_key_authors"] == ["Ada Lovelace"]
 
 
 def test_unseeded_journal_uses_publication_bootstrap_window():
