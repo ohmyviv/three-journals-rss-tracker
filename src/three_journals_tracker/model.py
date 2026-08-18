@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
+from .china_team import classify_china_team
 from .normalize import clean_text, extract_doi, temporary_item_key
 from .time_utils import parse_any_datetime
 
@@ -65,6 +66,18 @@ def entry_to_record(
         term = getattr(tag, "term", None) or (tag.get("term") if isinstance(tag, dict) else None)
         if term:
             tags.append(clean_text(term))
+
+    author_affiliations = list(getattr(entry, "author_affiliations", []) or [])
+    affiliations = [clean_text(value) for value in getattr(entry, "affiliations", []) or [] if clean_text(value)]
+    source_hint = "crossref" if getattr(entry, "crossref_type", None) is not None else (
+        "europe_pmc" if getattr(entry, "europe_pmc_source", None) is not None else "rss"
+    )
+    china_team = classify_china_team(
+        author_affiliations=author_affiliations,
+        affiliations=affiliations,
+        source=source_hint,
+    )
+
     return {
         "item_key": item_key,
         "doi": doi,
@@ -74,7 +87,10 @@ def entry_to_record(
         "source_url": source_url,
         "rss_reported_time": reported_time,
         "authors_rss": list(dict.fromkeys(authors)),
+        "author_affiliations": author_affiliations,
+        "affiliations": list(dict.fromkeys(affiliations)),
         "tags_rss": list(dict.fromkeys(tags)),
         "summary_rss": clean_text(getattr(entry, "summary", None) or getattr(entry, "description", None)),
         "first_seen_at": first_seen_at,
+        **china_team,
     }
