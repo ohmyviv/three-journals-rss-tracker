@@ -1,55 +1,56 @@
 {
-  "generated_at": "2026-08-19T21:29:04+08:00",
+  "generated_at": "2026-08-20T06:45:42+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 49,
-      "successful_checks": 48,
+      "checks": 50,
+      "successful_checks": 49,
       "failed_checks": 1,
-      "checks_with_new_items": 8,
-      "total_new_items_observed": 16,
+      "checks_with_new_items": 9,
+      "total_new_items_observed": 19,
       "new_item_checks_by_hour": {
         "07:00-07:59": 3,
+        "06:00-06:59": 3,
         "21:00-21:59": 2,
-        "06:00-06:59": 2,
         "16:00-16:59": 1
       },
       "new_item_checks_by_weekday": {
         "Tuesday": 4,
         "Wednesday": 2,
         "Friday": 1,
-        "Saturday": 1
+        "Saturday": 1,
+        "Thursday": 1
       },
-      "last_checked_at": "2026-08-19T21:28:59+08:00",
-      "last_success_at": "2026-08-19T21:28:59+08:00"
+      "last_checked_at": "2026-08-20T06:45:35+08:00",
+      "last_success_at": "2026-08-20T06:45:35+08:00"
     },
     "nature": {
-      "checks": 49,
-      "successful_checks": 49,
+      "checks": 50,
+      "successful_checks": 50,
       "failed_checks": 0,
-      "checks_with_new_items": 15,
-      "total_new_items_observed": 113,
+      "checks_with_new_items": 16,
+      "total_new_items_observed": 145,
       "new_item_checks_by_hour": {
         "21:00-21:59": 6,
         "17:00-17:59": 3,
         "07:00-07:59": 3,
-        "06:00-06:59": 2,
+        "06:00-06:59": 3,
         "16:00-16:59": 1
       },
       "new_item_checks_by_weekday": {
         "Tuesday": 5,
         "Monday": 3,
         "Wednesday": 3,
-        "Thursday": 2,
+        "Thursday": 3,
         "Friday": 1,
         "Saturday": 1
       },
-      "last_checked_at": "2026-08-19T21:28:59+08:00",
-      "last_success_at": "2026-08-19T21:28:59+08:00"
+      "last_checked_at": "2026-08-20T06:45:35+08:00",
+      "last_success_at": "2026-08-20T06:45:35+08:00"
     },
     "science": {
-      "checks": 49,
-      "successful_checks": 49,
+      "checks": 50,
+      "successful_checks": 50,
       "failed_checks": 0,
       "checks_with_new_items": 2,
       "total_new_items_observed": 39,
@@ -61,8 +62,8 @@
         "Friday": 1,
         "Saturday": 1
       },
-      "last_checked_at": "2026-08-19T21:28:59+08:00",
-      "last_success_at": "2026-08-19T21:28:59+08:00"
+      "last_checked_at": "2026-08-20T06:45:35+08:00",
+      "last_success_at": "2026-08-20T06:45:35+08:00"
     }
   }
 }

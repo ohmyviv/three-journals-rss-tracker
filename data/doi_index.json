@@ -57484,9 +57484,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-13T16:30:00+08:00",
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
@@ -57520,9 +57520,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-13T16:30:00+08:00",
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
@@ -57556,9 +57556,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-13T16:30:00+08:00",
     "triggered_at": "2026-08-13T17:41:29+08:00",
     "scheduler_delay_minutes": 71.5,
@@ -59054,9 +59054,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-13T20:30:00+08:00",
     "triggered_at": "2026-08-13T21:59:47+08:00",
     "scheduler_delay_minutes": 89.8,
@@ -59090,9 +59090,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-13T20:30:00+08:00",
     "triggered_at": "2026-08-13T21:59:47+08:00",
     "scheduler_delay_minutes": 89.8,
@@ -59126,9 +59126,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -59162,9 +59162,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -59198,9 +59198,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -59234,9 +59234,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -59270,9 +59270,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -67580,9 +67580,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -67616,9 +67616,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -67652,9 +67652,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -67688,9 +67688,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -67724,9 +67724,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -67760,9 +67760,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -69007,9 +69007,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69043,9 +69043,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69079,9 +69079,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69115,9 +69115,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69151,9 +69151,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69187,9 +69187,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-17T20:30:00+08:00",
     "triggered_at": "2026-08-17T21:22:34+08:00",
     "scheduler_delay_minutes": 52.6,
@@ -69223,9 +69223,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T06:23:00+08:00",
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
@@ -69261,9 +69261,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T06:23:00+08:00",
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
@@ -69297,9 +69297,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T06:23:00+08:00",
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
@@ -69333,9 +69333,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T06:23:00+08:00",
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
@@ -69387,9 +69387,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-08-18",
     "batched_at": "2026-08-18T13:02:46+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T06:23:00+08:00",
     "triggered_at": "2026-08-18T06:44:52+08:00",
     "scheduler_delay_minutes": 21.9,
@@ -69522,9 +69522,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69556,9 +69556,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69590,9 +69590,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69624,9 +69624,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69658,9 +69658,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69692,9 +69692,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69726,9 +69726,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69760,9 +69760,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69794,9 +69794,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69828,9 +69828,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69873,9 +69873,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "scheduled_for": "2026-08-18T20:43:00+08:00",
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
@@ -69976,9 +69976,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -70016,9 +70016,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -70056,9 +70056,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -70117,9 +70117,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [
       {
         "author": "Yongjin Wang",
@@ -70360,9 +70360,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [
       {
         "author": "Xiao Zhang",
@@ -70879,9 +70879,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [
       {
         "author": "Hannah Docter-Loeb",
@@ -70921,9 +70921,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -70956,9 +70956,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [
       {
         "author": "Uzma Rentia",
@@ -70998,9 +70998,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-08-19T21:28:59+08:00",
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-08-19T21:28:59+08:00",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
     "author_affiliations": [
       {
         "author": "Ximing Zhang",
@@ -71017,6 +71017,3805 @@
     "scheduled_for": "2026-08-19T20:43:00+08:00",
     "triggered_at": "2026-08-19T21:28:59+08:00",
     "scheduler_delay_minutes": 46.0,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-11037-x": {
+    "doi": "10.1038/s41586-026-11037-x",
+    "journal": "Nature",
+    "title_first_seen": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
+    "current_title": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
+    "source_url": "https://www.nature.com/articles/s41586-026-11037-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Zheyan Wang",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Gabriel Cardoso",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Liu Yang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xun Gong",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chi Zhang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yufei Zhu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dongbo Zhang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nan Pan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Hongbing Cai",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yong P. Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Qing-Dong Jiang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Guanghui Cheng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Frank Wilczek",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Changgan Zeng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02554-w": {
+    "doi": "10.1038/d41586-026-02554-w",
+    "journal": "Nature",
+    "title_first_seen": "Too much mate choice overwhelms frogs",
+    "current_title": "Too much mate choice overwhelms frogs",
+    "source_url": "https://www.nature.com/articles/d41586-026-02554-w",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02607-0": {
+    "doi": "10.1038/d41586-026-02607-0",
+    "journal": "Nature",
+    "title_first_seen": "A black hole's spin could finally be measured by a high-speed star",
+    "current_title": "A black hole's spin could finally be measured by a high-speed star",
+    "source_url": "https://www.nature.com/articles/d41586-026-02607-0",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Benjamin Thompson",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Nick Petrić Howe",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10776-1": {
+    "doi": "10.1038/s41586-026-10776-1",
+    "journal": "Nature",
+    "title_first_seen": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "current_title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "source_url": "https://www.nature.com/articles/s41586-026-10776-1",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Chen Weng",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan S. Weissman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vijay G. Sankaran",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10777-0": {
+    "doi": "10.1038/s41586-026-10777-0",
+    "journal": "Nature",
+    "title_first_seen": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "current_title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "source_url": "https://www.nature.com/articles/s41586-026-10777-0",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Caleb A. Lareau",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Spencer Chapman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Livius Penter",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tal Nawy",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dana Pe’er",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Leif S. Ludwig",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10951-4": {
+    "doi": "10.1038/s41586-026-10951-4",
+    "journal": "Nature",
+    "title_first_seen": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+    "current_title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+    "source_url": "https://www.nature.com/articles/s41586-026-10951-4",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jang Hyun Park",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Daviti Abramishvili",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gustavo Gastão Davanzo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ruben Silva",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xingxing Gu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Siling Du",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel D. Lee",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bernd H. Zinselmeyer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jackson S. Turner",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gwendalyn J. Randolph",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Igor Smirnov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan Kipnis",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10904-x": {
+    "doi": "10.1038/s41586-026-10904-x",
+    "journal": "Nature",
+    "title_first_seen": "Observation of conformal field theory spectra in a quantum simulator",
+    "current_title": "Observation of conformal field theory spectra in a quantum simulator",
+    "source_url": "https://www.nature.com/articles/s41586-026-10904-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Xiangkai Sun",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Yuan Le",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Stephen Naus",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Richard Bing-Shiun Tsai",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lewis R. B. Picard",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sara Murciano",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Knap",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jason Alicea",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manuel Endres",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10928-3": {
+    "doi": "10.1038/s41586-026-10928-3",
+    "journal": "Nature",
+    "title_first_seen": "Wake-activated neuronal populations that regulate sleep drive",
+    "current_title": "Wake-activated neuronal populations that regulate sleep drive",
+    "source_url": "https://www.nature.com/articles/s41586-026-10928-3",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "William Joo",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Clare Diester",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vassilis Bitsikas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Myrto Panopoulou",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Amelia Hidalgo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Konstantinos Ntemos",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rodrigo C. G. Pena",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Fabia Imhof",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Iris Odstrcil",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Flavio Donato",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Geoffrey Fucile",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel Kroeger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Thomas E. Scammell",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander F. Schier",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10935-4": {
+    "doi": "10.1038/s41586-026-10935-4",
+    "journal": "Nature",
+    "title_first_seen": "Increasing CO 2 levels fertilize C 4 grass production",
+    "current_title": "Increasing CO 2 levels fertilize C 4 grass production",
+    "source_url": "https://www.nature.com/articles/s41586-026-10935-4",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Kimberley J. Simpson",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "A. Carla Staver",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "James A. King",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "William J. Bond",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Corli Coetsee",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nita C. M. Pallett",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Adam F. A. Pellegrini",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah L. Raubenheimer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Brad S. Ripley",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Maria Val Martin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Colin P. Osborne",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10938-1": {
+    "doi": "10.1038/s41586-026-10938-1",
+    "journal": "Nature",
+    "title_first_seen": "A global atmospheric methane record from a tropical ice core",
+    "current_title": "A global atmospheric methane record from a tropical ice core",
+    "source_url": "https://www.nature.com/articles/s41586-026-10938-1",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Kara A. Lamantia",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Lonnie G. Thompson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mary E. Davis",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ben Riddell-Young",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ivo Strawson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Emilie Beaudon",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ellen Mosley-Thompson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Newton Nguyen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Edward J. Brook",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10926-5": {
+    "doi": "10.1038/s41586-026-10926-5",
+    "journal": "Nature",
+    "title_first_seen": "Family genetic designs in MoBa provide insights into health and functioning",
+    "current_title": "Family genetic designs in MoBa provide insights into health and functioning",
+    "source_url": "https://www.nature.com/articles/s41586-026-10926-5",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Elizabeth C. Corfield",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Alexey A. Shadrin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Oleksandr Frei",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Zillur Rahman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bayram Cevdet Akdeniz",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tahir Tekin Filiz",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aihua Lin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Isabella Badini",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Laura Hegemann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lavinia Athanasiu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Robyn E. Wootton",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chloe Austerberry",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Amanda M. Hughes",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Martin Tesli",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Espen Hagen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ragnhild E. Brandlistuen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Espen Moen Eilertsen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lars T. Westlye",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pål R. Njølstad",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Per Magnus",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eivind Hovig",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tetyana Zayats",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Helga Ask",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ted Reichborn-Kjennerud",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gibran Hemani",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Neil M. Davies",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Laurie J. Hannigan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ole A. Andreassen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexandra Karoline Havdahl",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10900-1": {
+    "doi": "10.1038/s41586-026-10900-1",
+    "journal": "Nature",
+    "title_first_seen": "Asymmetric prefrontal representations for leader–follower dynamics",
+    "current_title": "Asymmetric prefrontal representations for leader–follower dynamics",
+    "source_url": "https://www.nature.com/articles/s41586-026-10900-1",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Yuan Cheng",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Yusi Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Myungji Kwak",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ross P. Kempner",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rudramani Singha",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jared Winslow",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Runqi Liu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Umais Khan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tessa Spangler",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alvi Khan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Talmo Pereira",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthew Whiteway",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Evan S. Schaffer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nuttida Rungratsameetaweemana",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nan Yang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Herbert Zheng Wu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10914-9": {
+    "doi": "10.1038/s41586-026-10914-9",
+    "journal": "Nature",
+    "title_first_seen": "Atomic-scale double-slit interferometry with a focused electron probe",
+    "current_title": "Atomic-scale double-slit interferometry with a focused electron probe",
+    "source_url": "https://www.nature.com/articles/s41586-026-10914-9",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Koudai Tabata",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Takehito Seki",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Toma Susi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ryo Ishikawa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Naoya Shibata",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10933-6": {
+    "doi": "10.1038/s41586-026-10933-6",
+    "journal": "Nature",
+    "title_first_seen": "Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit",
+    "current_title": "Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit",
+    "source_url": "https://www.nature.com/articles/s41586-026-10933-6",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Abigail J. Bracken",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Alexandra P. Lawrie",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Isabella F. Romita",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mark D. Levin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10877-x": {
+    "doi": "10.1038/s41586-026-10877-x",
+    "journal": "Nature",
+    "title_first_seen": "Human brain organoids record the passage of time over multiple years",
+    "current_title": "Human brain organoids record the passage of time over multiple years",
+    "source_url": "https://www.nature.com/articles/s41586-026-10877-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Irene Faravelli",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Noelia Antón-Bolaños",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Anqi Wei",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tyler Faits",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Abhishek Sampath Kumar",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sophia Andreadis",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rahel Kastli",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Marta Montero Crespo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mara Steiger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel Leible",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Elizabeth Zhang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bobae An",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yaron Meirovitch",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sayara Silwal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sung Min Yang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander Kovacsovics",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xian Adiconis",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Helene Kretzmer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Joshua Z. Levin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Edward S. Boyden",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jeff Lichtman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aviv Regev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander Meissner",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Paola Arlotta",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10912-x": {
+    "doi": "10.1038/s41586-026-10912-x",
+    "journal": "Nature",
+    "title_first_seen": "Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss",
+    "current_title": "Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss",
+    "source_url": "https://www.nature.com/articles/s41586-026-10912-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Yunhe Wang",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Qinghua Ding",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiaofeng Li",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Thomas J. Ballinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yoshihiro Nakayama",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dániel Topál",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eric J. Steig",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10917-6": {
+    "doi": "10.1038/s41586-026-10917-6",
+    "journal": "Nature",
+    "title_first_seen": "The HydroGym reinforcement learning platform for fluid dynamics",
+    "current_title": "The HydroGym reinforcement learning platform for fluid dynamics",
+    "source_url": "https://www.nature.com/articles/s41586-026-10917-6",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Christian Lagemann",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sajeda Mokbel",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Miro Gondrum",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mario Rüttgers",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yuning Wang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pol Suárez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ludger Paehler",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Deniz A. Bezgin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aaron B. Buhendwa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jared L. Callaham",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Samuel Ahnert",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nicholas Zolman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiao Shao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jean-Christophe Loiseau",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nikolaus A. Adams",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthias Meinke",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Wolfgang Schröder",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kai Lagemann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Esther Lagemann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ricardo Vinuesa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Steven L. Brunton",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10924-7": {
+    "doi": "10.1038/s41586-026-10924-7",
+    "journal": "Nature",
+    "title_first_seen": "An Icelandic pangenome reference",
+    "current_title": "An Icelandic pangenome reference",
+    "source_url": "https://www.nature.com/articles/s41586-026-10924-7",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Guillaume Holley",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Hannes P. Eggertsson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Snaedis Kristmundsdottir",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Doruk Beyter",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Astros Th Skuladottir",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kristjan H. S. Moore",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pall I. Olason",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Arnaldur Gylfason",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Olafur T. Magnusson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Asmundur Oddsson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Hreinn Stefansson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Agnar Helgason",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gisli Masson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Patrick Sulem",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel F. Gudbjartsson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kari Stefansson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bjarni V. Halldorsson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10910-z": {
+    "doi": "10.1038/s41586-026-10910-z",
+    "journal": "Nature",
+    "title_first_seen": "Psychedelics align brain activity with context",
+    "current_title": "Psychedelics align brain activity with context",
+    "source_url": "https://www.nature.com/articles/s41586-026-10910-z",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Devon Stoliker",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Leonardo Novelli",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Moein Khajehnejad",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mana Biabani",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthew D. Greaves",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tamrin Barta",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Martin Williams",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sidhant Chopra",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Olivier Bazin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Otto Simonsson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Richard Chambers",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Frederick S. Barrett",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gustavo Deco",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Katrin H. Preller",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Robin L. Carhart-Harris",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Anil K. Seth",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Suresh Sundram",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gary F. Egan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Adeel Razi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10894-w": {
+    "doi": "10.1038/s41586-026-10894-w",
+    "journal": "Nature",
+    "title_first_seen": "Discovery of a star sensitive to the spin of Sagittarius A*",
+    "current_title": "Discovery of a star sensitive to the spin of Sagittarius A*",
+    "source_url": "https://www.nature.com/articles/s41586-026-10894-w",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "K. Abd El Dayem",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "R. Abuter",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "N. Aimar",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "P. Amaro-Seoane",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Berdeu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J.-P. Berger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "G. Bourdarot",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "W. Brandner",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Burkert",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D. Caldéron",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "C. Correia",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Cuadra",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Davies",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D. Defrère",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "L. Delit",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Drescher",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Eisenhauer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "L. Esteras Otal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Fabricius",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "H. Feuchtgruber",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Flesch",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "N. M. Förster Schreiber",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Foschi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Q. Fournier",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "P. Garcia",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Garcia Lopez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Generozov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Genzel",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Gillessen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Gonté",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "X. Haubois",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. F. Hönig",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Houllé",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Joharle",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Kaufer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Kammerer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "P. Kervella",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Kolb",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "L. Kreidberg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "L. Labadie",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Lacour",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "O. Lai",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Laugier",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J.-B. Le Bouquin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Leftley",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Li",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "B. Lopez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D. Lutz",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Mang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "A. Mérand",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Millour",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Montargès",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "N. Morujão",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "H. Nowacki",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Nowak",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Oberti",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Osorno",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "T. Ott",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "T. Paumard",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "C. Paladini",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Pappert",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "H. B. Perets",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "K. Perraut",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "G. Perrin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Petrov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "P. O. Petrucci",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "T. Piran",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "N. Pourré",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Rabien",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D. C. Ribeiro",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Robbe-Dubois",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Sadun Bordoni",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Sanchez-Bermudez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D. Santos",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "R. Sari",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Sauter",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "S. Scheithauer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Scigliuto",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Shangguan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "T. T. Shimizu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Soulez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Stadler",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "C. Straubmeier",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "E. Sturm",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "M. Subroweit",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "C. Sykes",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "L. J. Tacconi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "P. Thévenet",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "I. Urso",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "F. Vincent",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J. Woillez",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "G. Zins",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "J.-B. Le Bouquin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10687-1": {
+    "doi": "10.1038/s41586-026-10687-1",
+    "journal": "Nature",
+    "title_first_seen": "Safety and security of large language models in healthcare",
+    "current_title": "Safety and security of large language models in healthcare",
+    "source_url": "https://www.nature.com/articles/s41586-026-10687-1",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jan Clusmann",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Oscar Freyer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Max Ostermann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dyke Ferber",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Narmin Ghaffari Laleh",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lars Hilgers",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Fiona R. Kolbinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Carolin V. Schneider",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andrea Downing",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Magdalena Katharina Wekenborg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Stephen Gilbert",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sebastian Foersch",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel Truhn",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Isabella C. Wiest",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jakob Nikolas Kather",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10934-5": {
+    "doi": "10.1038/s41586-026-10934-5",
+    "journal": "Nature",
+    "title_first_seen": "Pervasive phosphorylation by phage T7 kinase disarms bacterial defences",
+    "current_title": "Pervasive phosphorylation by phage T7 kinase disarms bacterial defences",
+    "source_url": "https://www.nature.com/articles/s41586-026-10934-5",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Tara Bartolec",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Karin Mitosch",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Clément Potel",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Federico Corona",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alessio Ling Jie Yang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nicolai Karcher",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mira Lea Burtscher",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexandra Koumoutsi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Isabelle Becher",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lena Sarah Müller",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jacob Bobonis",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manjeet Kumar",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Marco Galardini",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Athanasios Typas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mikhail M. Savitski",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/s41586-026-10892-y": {
+    "doi": "10.1038/s41586-026-10892-y",
+    "journal": "Nature",
+    "title_first_seen": "A biased allosteric modulator is a molecular glue for β 2 AR dimerization",
+    "current_title": "A biased allosteric modulator is a molecular glue for β 2 AR dimerization",
+    "source_url": "https://www.nature.com/articles/s41586-026-10892-y",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jiemin Shen",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Teja Nikhil Peddada",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Konstantin E. Komolov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Francesco De Pascali",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander M. Garces",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Haoqing Wang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Muhammad Ehsan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pil Seok Chae",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael T. Lerch",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jeffrey L. Benovic",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jun Xu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Brian K. Kobilka",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02537-x": {
+    "doi": "10.1038/d41586-026-02537-x",
+    "journal": "Nature",
+    "title_first_seen": "Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences",
+    "current_title": "Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences",
+    "source_url": "https://www.nature.com/articles/d41586-026-02537-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02587-1": {
+    "doi": "10.1038/d41586-026-02587-1",
+    "journal": "Nature",
+    "title_first_seen": "How do people live beyond 110? Abundance of cancer-killing cells might be key",
+    "current_title": "How do people live beyond 110? Abundance of cancer-killing cells might be key",
+    "source_url": "https://www.nature.com/articles/d41586-026-02587-1",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Katherine Bourzac",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02377-9": {
+    "doi": "10.1038/d41586-026-02377-9",
+    "journal": "Nature",
+    "title_first_seen": "Psychedelics tune the brain to the environment",
+    "current_title": "Psychedelics tune the brain to the environment",
+    "source_url": "https://www.nature.com/articles/d41586-026-02377-9",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Stefan Borgwardt",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Mihai Avram",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02610-5": {
+    "doi": "10.1038/d41586-026-02610-5",
+    "journal": "Nature",
+    "title_first_seen": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
+    "current_title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
+    "source_url": "https://www.nature.com/articles/d41586-026-02610-5",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Garnet Kin-Lic Chan",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Kenneth H. Marcus",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02495-4": {
+    "doi": "10.1038/d41586-026-02495-4",
+    "journal": "Nature",
+    "title_first_seen": "AI tool lets researchers 'vibe code' in the quantum realm",
+    "current_title": "AI tool lets researchers 'vibe code' in the quantum realm",
+    "source_url": "https://www.nature.com/articles/d41586-026-02495-4",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Davide Castelvecchi",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02375-x": {
+    "doi": "10.1038/d41586-026-02375-x",
+    "journal": "Nature",
+    "title_first_seen": "Computational ‘gym’ trains AI models to control turbulence",
+    "current_title": "Computational ‘gym’ trains AI models to control turbulence",
+    "source_url": "https://www.nature.com/articles/d41586-026-02375-x",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Clara M. Velte",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02585-3": {
+    "doi": "10.1038/d41586-026-02585-3",
+    "journal": "Nature",
+    "title_first_seen": "Human organoids that mimic brain development grown for years in lab",
+    "current_title": "Human organoids that mimic brain development grown for years in lab",
+    "source_url": "https://www.nature.com/articles/d41586-026-02585-3",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Rachel Fieldhouse",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02373-z": {
+    "doi": "10.1038/d41586-026-02373-z",
+    "journal": "Nature",
+    "title_first_seen": "Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel",
+    "current_title": "Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel",
+    "source_url": "https://www.nature.com/articles/d41586-026-02373-z",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Filip Podjaski",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-02376-w": {
+    "doi": "10.1038/d41586-026-02376-w",
+    "journal": "Nature",
+    "title_first_seen": "The Antarctic ice sheet has gained mass — but probably not for long",
+    "current_title": "The Antarctic ice sheet has gained mass — but probably not for long",
+    "source_url": "https://www.nature.com/articles/d41586-026-02376-w",
+    "rss_reported_time": "2026-08-19T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jonathan Wille",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.07.051": {
+    "doi": "10.1016/j.cell.2026.07.051",
+    "journal": "Cell",
+    "title_first_seen": "RNA structures regulate norovirus life cycle and enable rational attenuation in vivo",
+    "current_title": "RNA structures regulate norovirus life cycle and enable rational attenuation in vivo",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.051",
+    "rss_reported_time": "2026-08-01T08:00:00+08:00",
+    "authors_rss": [
+      "Tanja Hann",
+      "Arya B. Ökten",
+      "Renata B. Filler",
+      "Craig B. Wilen",
+      "Anna Marie Pyle"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Tanja Hann",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Arya B. Ökten",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Renata B. Filler",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Craig B. Wilen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Anna Marie Pyle",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.07.055": {
+    "doi": "10.1016/j.cell.2026.07.055",
+    "journal": "Cell",
+    "title_first_seen": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits",
+    "current_title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.055",
+    "rss_reported_time": "2026-08-01T08:00:00+08:00",
+    "authors_rss": [
+      "Andrei L. Kleschyov",
+      "Miho Shimari",
+      "Ariela Maína Boeder",
+      "Tomas A. Schiffer",
+      "Sander van Riet",
+      "Gianluigi Pironti",
+      "Nadja I. Bork",
+      "Alexander Rotmann",
+      "Zhengbing Zhuge",
+      "Drielle D. Guimarães",
+      "Gaia Picozzi",
+      "Chiara H. Moretti",
+      "Lucas R.R.A. Carvalho",
+      "Carina Nihlén",
+      "Ellen I. Closs",
+      "Viacheslav O. Nikolaev",
+      "Magnus Ingelman-Sundberg",
+      "Eddie Weitzberg",
+      "Jon O. Lundberg",
+      "Mattias Carlström"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Andrei L. Kleschyov",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Miho Shimari",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ariela Maína Boeder",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tomas A. Schiffer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sander van Riet",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gianluigi Pironti",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nadja I. Bork",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander Rotmann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Zhengbing Zhuge",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Drielle D. Guimarães",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gaia Picozzi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chiara H. Moretti",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lucas R.R.A. Carvalho",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Carina Nihlén",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ellen I. Closs",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Viacheslav O. Nikolaev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Magnus Ingelman-Sundberg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eddie Weitzberg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jon O. Lundberg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mattias Carlström",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.07.054": {
+    "doi": "10.1016/j.cell.2026.07.054",
+    "journal": "Cell",
+    "title_first_seen": "Synthetic transcription factors designed by domain recombination enhance CAR T cell antitumor function",
+    "current_title": "Synthetic transcription factors designed by domain recombination enhance CAR T cell antitumor function",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.07.054",
+    "rss_reported_time": "2026-08-01T08:00:00+08:00",
+    "authors_rss": [
+      "Oliver Takacsi-Nagy",
+      "Sivakanthan Kasinathan",
+      "Austin Hartman",
+      "Yajie Yin",
+      "Lujing Wu",
+      "Andy Y. Chen",
+      "Laura M. Moser",
+      "Audre P. May",
+      "Gabriella C. Reeder",
+      "Emily Celallos Fuentes",
+      "Courtney Kernick",
+      "Johnathan Lu",
+      "Alison K. McClellan",
+      "Colin J. Raposo",
+      "Brendan Terrall",
+      "Nicole E. Theberath",
+      "Patrick K. Yan",
+      "Peng Xu",
+      "Elena Sotillo",
+      "Justin Eyquem",
+      "Crystal L. Mackall",
+      "Theodore L. Roth",
+      "Ansuman T. Satpathy"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_absent_at": "2026-08-19T21:28:59+08:00",
+    "appearance_window_start": "2026-08-19T21:28:59+08:00",
+    "appearance_window_end": "2026-08-20T06:45:35+08:00",
+    "first_seen_run_id": "discover-2026-08-20T064535p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-08-20T06:45:35+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-20T06:45:35+08:00",
+    "author_affiliations": [
+      {
+        "author": "Oliver Takacsi-Nagy",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sivakanthan Kasinathan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Austin Hartman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yajie Yin",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lujing Wu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andy Y. Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Laura M. Moser",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Audre P. May",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gabriella C. Reeder",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Emily Celallos Fuentes",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Courtney Kernick",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Johnathan Lu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alison K. McClellan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Colin J. Raposo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Brendan Terrall",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nicole E. Theberath",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Patrick K. Yan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Peng Xu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Elena Sotillo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Justin Eyquem",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Crystal L. Mackall",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Theodore L. Roth",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ansuman T. Satpathy",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-08-20T06:23:00+08:00",
+    "triggered_at": "2026-08-20T06:45:35+08:00",
+    "scheduler_delay_minutes": 22.6,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
   }
