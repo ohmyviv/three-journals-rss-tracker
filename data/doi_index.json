@@ -33563,9 +33563,9 @@
     "first_formal_batch_date": "2026-07-29",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-19T09:52:24+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Native biological language models are strategically relevant to AI-for-biology even if the article is conceptual rather than a primary experimental paper.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次基于 Cell/ScienceDirect 可访问的正式 Perspective 文本完成重点解读；主题直指生物学原生语言模型和 AI for Biology 方法论。",
     "deep_analysis_priority_level": "P1",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
@@ -33589,7 +33589,10 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   },
   "10.1016/j.cell.2026.07.012": {
     "doi": "10.1016/j.cell.2026.07.012",
@@ -41814,10 +41817,10 @@
     "first_formal_batch_date": "2026-07-31",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-19T09:52:24+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Ancestral-recombination-graph analysis of archaic introgression is methodologically relevant to population genomics and bioinformatics.",
-    "deep_analysis_priority_level": "P2",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次已审阅；古人类基因渗入/祖先重组图方法学虽有基因组学价值，但与当前生物医药、转化和投资重点直接相关性较低，退出 active backlog。",
+    "deep_analysis_priority_level": "P3",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
       {
@@ -41863,7 +41866,8 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-19"
   },
   "10.1126/science.aej3543": {
     "doi": "10.1126/science.aej3543",
@@ -42779,9 +42783,9 @@
     "europe_pmc_last_seen_at": "2026-08-19T07:56:38+08:00",
     "europe_pmc_first_seen_at": "2026-08-03T23:51:04+08:00",
     "last_enrichment_success_at": "2026-08-19T09:52:24+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "A spatial atlas of human brain vasculature is directly relevant to human brain cell states, spatial omics, and neurovascular biology.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次基于正式数据集说明及研究机构公开材料核验研究设计与关键发现后完成重点解读；人脑血管空间图谱与神经血管疾病、空间组学高度相关。",
     "deep_analysis_priority_level": "P1",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
@@ -43001,7 +43005,10 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   },
   "10.1038/d41586-026-02339-1": {
     "doi": "10.1038/d41586-026-02339-1",
@@ -46594,11 +46601,14 @@
     "late_discovery_recovery": false,
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "CD40/MHC-II astrocyte antigen presentation in CNS autoimmunity is a direct neuroimmunology and autoimmune-disease mechanism.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次已读取 Nature 正式摘要并完成重点解读；CD40/MHC-II 阳性星形胶质细胞驱动 CNS 自身免疫，具明确免疫机制和转化价值。",
     "deep_analysis_priority_level": "P1",
-    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1"
+    "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   },
   "10.1038/s41586-026-10884-y": {
     "doi": "10.1038/s41586-026-10884-y",
@@ -49238,9 +49248,9 @@
     "europe_pmc_first_seen_at": "2026-08-08T08:05:01+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Adaptive theta sweeps during brain navigation are directly relevant to neural coding and circuit-level neuroscience.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次基于作者正式预印本取得实质方法与结果证据并完成重点解读；导航回路 theta sweep 的任务自适应机制与脑科学高度相关。",
     "deep_analysis_priority_level": "P1",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
@@ -49285,7 +49295,10 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   },
   "10.1126/science.ael2157": {
     "doi": "10.1126/science.ael2157",
@@ -52302,9 +52315,9 @@
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "last_enrichment_success_at": "2026-08-19T09:52:24+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "Human acrocentric chromosome mutation and recombination are relevant to complete-genome analysis and structural-variation interpretation.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_reason": "本次已读取可核实的正式全文/摘要证据并完成重点解读；人类近端着丝粒染色体短臂突变与重组图谱属于长读长人类基因组学的重要基础工作。",
     "deep_analysis_priority_level": "P2",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
@@ -52419,7 +52432,10 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   },
   "10.1016/j.cell.2026.07.017": {
     "doi": "10.1016/j.cell.2026.07.017",
@@ -69513,7 +69529,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Correspondence，聚焦热浪与食品系统韧性，与当前重点生命科学投资方向直接相关性不足。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02575-5": {
     "doi": "10.1038/d41586-026-02575-5",
@@ -69542,7 +69563,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Correspondence，虽涉及生物数据库基础设施，但属于短评倡议而非原创研究或正式综述，当前不进入深度解读。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02578-2": {
     "doi": "10.1038/d41586-026-02578-2",
@@ -69571,7 +69597,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Correspondence，主题为欧洲巨型野火适应，与当前生物医药和生命科学投资方向缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02576-4": {
     "doi": "10.1038/d41586-026-02576-4",
@@ -69600,7 +69631,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Correspondence，属于健康寿命政策/公共卫生倡议而非原创研究或正式综述，不进入重点解读队列。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-01932-8": {
     "doi": "10.1038/d41586-026-01932-8",
@@ -69629,7 +69665,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Career 内容，属于职业建议，按文章类型规则不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02527-z": {
     "doi": "10.1038/d41586-026-02527-z",
@@ -69658,7 +69699,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature News Feature，外骨骼与康复/医疗器械存在邻接价值，但本次未取得足够实质正文证据且非原创研究，暂不进入深度队列。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02466-9": {
     "doi": "10.1038/d41586-026-02466-9",
@@ -69687,7 +69733,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "主题为针织数学/材料结构，与生命科学、AI 生物医药及相关投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02535-z": {
     "doi": "10.1038/d41586-026-02535-z",
@@ -69716,7 +69767,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Technology Feature；3D 打印实验室工具具有工具侧邻接价值，但不是原创研究/正式综述，本期不足以优先于高相关研究论文。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02531-3": {
     "doi": "10.1038/d41586-026-02531-3",
@@ -69745,7 +69801,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Comment，聚焦中东可持续航空燃料政策与产业生态，属于能源议题而非当前生命科学重点。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02589-z": {
     "doi": "10.1038/d41586-026-02589-z",
@@ -69774,7 +69835,12 @@
     "triggered_at": "2026-08-18T21:27:30+08:00",
     "scheduler_delay_minutes": 44.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Briefing，为已报道发作性睡病药物新闻的二次简报内容，信息增量有限且属于原则排除的每日简报类型。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.021": {
     "doi": "10.1016/j.cell.2026.08.021",
@@ -69883,7 +69949,12 @@
     "china_key_authors": [],
     "china_team_evidence": [],
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-21T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-21T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "主题属于高价值空间转录组/单细胞工具，但当前 formal DOI 与检索到的同名 2025 Cell Resource DOI 存在身份冲突，且本 DOI 仍为 Crossref-only 空摘要；待身份与证据富化后再解读。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02381-z": {
     "doi": "10.1038/d41586-026-02381-z",
@@ -69918,7 +69989,12 @@
     "triggered_at": "2026-08-19T06:44:42+08:00",
     "scheduler_delay_minutes": 21.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature 非原创报道/特写，主题为科学考察与天气，和当前重点研究与投资方向直接相关性不足。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02584-4": {
     "doi": "10.1038/d41586-026-02584-4",
@@ -69953,7 +70029,12 @@
     "triggered_at": "2026-08-19T06:44:42+08:00",
     "scheduler_delay_minutes": 21.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature News，聚焦 NIH 资助评分改革，对科研政策有意义但与当前生命科学投资判断的直接价值有限。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02524-2": {
     "doi": "10.1038/d41586-026-02524-2",
@@ -69988,7 +70069,12 @@
     "triggered_at": "2026-08-19T06:44:42+08:00",
     "scheduler_delay_minutes": 21.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "Nature Editorial，iPSC 临床转化与治理高度相关，但本次可访问正文仅足以确认社论立场和主题，未达到完整重点解读的实质证据门槛；作为社论也不需进入未来 active backlog。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.07.048": {
     "doi": "10.1016/j.cell.2026.07.048",
@@ -70167,7 +70253,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-22T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-22T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "当前仅有 Crossref 元数据且无实质摘要；主题集中于拟南芥-细菌互作和磷营养，和当前生命科学投资重点的直接连接较弱。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.07.045": {
     "doi": "10.1016/j.cell.2026.07.045",
@@ -70759,6 +70850,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-22T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-22T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-19",
+    "deep_analysis_reason": "本次已基于作者正式 bioRxiv 预印本完成重点解读；猕猴全生命周期多模态脑细胞图谱与神经退行性疾病、脑科学和多组学高度相关。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-19T15:26:47+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-19"
   }
 }
