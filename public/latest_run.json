@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-08-21T115742p0800",
+  "run_id": "discover-2026-08-21T171017p0800",
   "mode": "live",
-  "checked_at": "2026-08-21T11:57:42+08:00",
+  "checked_at": "2026-08-21T17:10:17+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "7 3 * * *",
-  "scheduled_for": "2026-08-21T11:07:00+08:00",
-  "triggered_at": "2026-08-21T11:57:42+08:00",
-  "scheduler_delay_minutes": 50.7,
+  "schedule_expression_utc": "37 8 * * *",
+  "scheduled_for": "2026-08-21T16:37:00+08:00",
+  "triggered_at": "2026-08-21T17:10:17+08:00",
+  "scheduler_delay_minutes": 33.3,
   "scheduler_delayed": true,
   "late_discovery_recovery": false,
   "intended_batch_date": null,
@@ -37,5 +37,5 @@
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-08-21T11:57:43+08:00"
+  "completed_at": "2026-08-21T17:10:19+08:00"
 }
