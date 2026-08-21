@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-21T10:35:48+08:00",
+  "generated_at": "2026-08-21T11:26:18+08:00",
   "status": "degraded_fallback_sources",
-  "latest_run_id": "discover-2026-08-21T103546p0800",
+  "latest_run_id": "discover-2026-08-21T112612p0800",
   "source_status": {
     "nature": "not_modified",
     "science": "fallback_crossref",
     "cell": "fallback_crossref"
   },
   "scheduler_delayed": true,
-  "scheduler_delay_minutes": 88.8,
+  "scheduler_delay_minutes": 63.2,
   "late_discovery_recovery": false,
   "doi_index_count": 1069,
   "pending_doi_count": 0,
