@@ -1,0 +1,71 @@
+{
+  "batch_id": "daily-2026-08-22",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02352-4",
+      "disposition": "completed",
+      "reason": "Nature News directly relevant to life-science research tools, reagent validation and AI-for-science literature quality; substantive publisher text was read in this run and the item was fully analyzed.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02566-6",
+      "disposition": "not_selected",
+      "reason": "World View on pro-worker AI is not directly connected enough to the life-science/biomed investment remit and is non-original commentary.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02626-x",
+      "disposition": "not_selected",
+      "reason": "Nature Podcast/Briefing Chat; largely revisits the orexin/narcolepsy topic already covered in a prior daily deep analysis and is an excluded low-priority format.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02617-y",
+      "disposition": "not_selected",
+      "reason": "Daily Briefing item, a low-information aggregation format, and it reiterates the centenarian cancer-killing-cell story already surfaced previously.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02596-0",
+      "disposition": "not_selected",
+      "reason": "Geology story outside the defined life-science, biomedicine, AI-for-life-science and related investment scope.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1126/science.225.4661.499",
+      "disposition": "not_selected",
+      "reason": "Data-quality anomaly: a 1984 Science article was newly surfaced by Europe PMC on 2026-08-22. It is not a genuine current-period journal update and is outside the deep-analysis remit; retained in the formal batch solely for auditability.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.004",
+      "disposition": "completed",
+      "reason": "Historical backlog completed in the 2026-08-22 report after substantive article abstract and corroborating publication evidence were obtained; directly relevant to generative AI, systems biology and predictive cell biology.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.055",
+      "disposition": "completed",
+      "reason": "Historical backlog completed in the 2026-08-22 report after substantive evidence was obtained for the microbiota-derived DNIC mechanism and cardiometabolic phenotypes.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.051",
+      "disposition": "completed",
+      "reason": "Historical backlog completed in the 2026-08-22 report after substantive article/method evidence was obtained for viral RNA-structure mapping and rational norovirus attenuation.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.013",
+      "disposition": "completed",
+      "reason": "Historical backlog completed in the 2026-08-22 report using the formal Cell Review text; directly relevant to aging biology and sex-specific geroscience.",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.024",
+      "disposition": "completed",
+      "reason": "Historical backlog completed in the 2026-08-22 report after substantive evidence was obtained for reproductive/sex-dependent intestinal muscle remodeling and organ-size control.",
+      "priority_level": "P2"
+    }
+  ]
+}
