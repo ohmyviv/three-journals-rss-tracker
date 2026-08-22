@@ -52985,9 +52985,9 @@
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T20:45:12+08:00",
-    "deep_analysis_reason": "The reproductive-resilience hypothesis is directly relevant to sex-specific aging biology and merits lower-priority review despite likely non-primary article type.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_reason": "Historical backlog completed in the 2026-08-22 report using the formal Cell Review text; directly relevant to aging biology and sex-specific geroscience.",
     "deep_analysis_priority_level": "P2",
     "deep_analysis_migration_id": "legacy-backlog-triage-2026-08-12-v1",
     "author_affiliations": [
@@ -53039,7 +53039,10 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1016/j.cell.2026.07.049": {
     "doi": "10.1016/j.cell.2026.07.049",
@@ -56251,10 +56254,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-15T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-12T15:24:48+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-12",
-    "deep_analysis_reason": "Relevant basic biology of intestinal tissue plasticity and reproductive physiology, but the formal Cell record remains Crossref-only and no substantive current-paper evidence was obtained.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Historical backlog completed in the 2026-08-22 report after substantive evidence was obtained for reproductive/sex-dependent intestinal muscle remodeling and organ-size control.",
     "deep_analysis_priority_level": "P2",
     "pmid": "42580334",
     "europe_pmc_source": "MED",
@@ -56445,7 +56448,9 @@
     "china_key_authors": [],
     "china_team_evidence": [
       "europe_pmc:affiliation_checked"
-    ]
+    ],
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1016/j.cell.2026.07.034": {
     "doi": "10.1016/j.cell.2026.07.034",
@@ -69430,10 +69435,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-08-25T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-18T15:20:53+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-18",
-    "deep_analysis_reason": "AI与细胞生物学主题高度相关，未来解读价值高；当前正式批次仅有 Crossref 元数据且未取得合格的实质性正文/摘要证据，等待证据富化后再解读。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Historical backlog completed in the 2026-08-22 report after substantive article abstract and corroborating publication evidence were obtained; directly relevant to generative AI, systems biology and predictive cell biology.",
     "deep_analysis_priority_level": "P1",
     "author_affiliations": [
       {
@@ -69541,7 +69546,9 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1038/d41586-026-02577-3": {
     "doi": "10.1038/d41586-026-02577-3",
@@ -74816,13 +74823,15 @@
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-20T15:52:09+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-20",
-    "deep_analysis_reason": "Relevant antiviral/RNA-structure study, but formal batch is Crossref-only and no qualifying abstract/full text was obtained in this run.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Historical backlog completed in the 2026-08-22 report after substantive article/method evidence was obtained for viral RNA-structure mapping and rational norovirus attenuation.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-08-20",
-    "first_formal_batch_date": "2026-08-20"
+    "first_formal_batch_date": "2026-08-20",
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1016/j.cell.2026.07.055": {
     "doi": "10.1016/j.cell.2026.07.055",
@@ -75002,13 +75011,15 @@
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-20T15:52:09+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-20",
-    "deep_analysis_reason": "Highly relevant microbiome-cardiometabolic mechanism, but formal batch is Crossref-only with no qualifying abstract/full text obtained in this run.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Historical backlog completed in the 2026-08-22 report after substantive evidence was obtained for the microbiota-derived DNIC mechanism and cardiometabolic phenotypes.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-08-20",
-    "first_formal_batch_date": "2026-08-20"
+    "first_formal_batch_date": "2026-08-20",
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1016/j.cell.2026.07.054": {
     "doi": "10.1016/j.cell.2026.07.054",
@@ -80162,7 +80173,12 @@
     "triggered_at": "2026-08-21T21:29:55+08:00",
     "scheduler_delay_minutes": 46.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "World View on pro-worker AI is not directly connected enough to the life-science/biomed investment remit and is non-original commentary.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02352-4": {
     "doi": "10.1038/d41586-026-02352-4",
@@ -80204,7 +80220,14 @@
     "triggered_at": "2026-08-21T21:29:55+08:00",
     "scheduler_delay_minutes": 46.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Nature News directly relevant to life-science research tools, reagent validation and AI-for-science literature quality; substantive publisher text was read in this run and the item was fully analyzed.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-22"
   },
   "10.1038/d41586-026-02626-x": {
     "doi": "10.1038/d41586-026-02626-x",
@@ -80252,7 +80275,12 @@
     "triggered_at": "2026-08-22T06:45:11+08:00",
     "scheduler_delay_minutes": 22.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Nature Podcast/Briefing Chat; largely revisits the orexin/narcolepsy topic already covered in a prior daily deep analysis and is an excluded low-priority format.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02596-0": {
     "doi": "10.1038/d41586-026-02596-0",
@@ -80287,7 +80315,12 @@
     "triggered_at": "2026-08-22T06:45:11+08:00",
     "scheduler_delay_minutes": 22.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Geology story outside the defined life-science, biomedicine, AI-for-life-science and related investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02617-y": {
     "doi": "10.1038/d41586-026-02617-y",
@@ -80329,7 +80362,12 @@
     "triggered_at": "2026-08-22T06:45:11+08:00",
     "scheduler_delay_minutes": 22.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Daily Briefing item, a low-information aggregation format, and it reiterates the centenarian cancer-killing-cell story already surfaced previously.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.225.4661.499": {
     "doi": "10.1126/science.225.4661.499",
@@ -80385,6 +80423,11 @@
     "first_publication_date": "1984-08-01",
     "first_index_date": "2010-07-03",
     "europe_pmc_last_seen_at": "2026-08-22T07:58:19+08:00",
-    "europe_pmc_first_seen_at": "2026-08-22T07:58:19+08:00"
+    "europe_pmc_first_seen_at": "2026-08-22T07:58:19+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-22T15:19:22+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-22",
+    "deep_analysis_reason": "Data-quality anomaly: a 1984 Science article was newly surfaced by Europe PMC on 2026-08-22. It is not a genuine current-period journal update and is outside the deep-analysis remit; retained in the formal batch solely for auditability.",
+    "deep_analysis_priority_level": "P3"
   }
 }
