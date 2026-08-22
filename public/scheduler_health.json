@@ -1,24 +1,20 @@
 {
-  "generated_at": "2026-08-23T06:43:07+08:00",
+  "generated_at": "2026-08-23T07:55:52+08:00",
   "status": "scheduler_delayed",
-  "total_events": 170,
+  "total_events": 171,
   "latest_event": {
-    "workflow": "freeze_daily_batch",
-    "trigger_type": "workflow_run",
-    "schedule_expression_utc": null,
-    "scheduled_for": null,
-    "triggered_at": "2026-08-23T06:43:07+08:00",
-    "delay_minutes": null,
+    "workflow": "europe_pmc_audit",
+    "trigger_type": "schedule",
+    "schedule_expression_utc": "41 23 * * *",
+    "scheduled_for": "2026-08-23T07:41:00+08:00",
+    "triggered_at": "2026-08-23T07:55:50+08:00",
+    "delay_minutes": 14.8,
     "delay_threshold_minutes": 15,
     "scheduler_delayed": false,
-    "status": "non_scheduled",
-    "batch_id": "daily-2026-08-23",
-    "target_date": "2026-08-23",
-    "outcome": "too_early",
-    "completed_at": "2026-08-23T06:43:07+08:00",
-    "now_at": "2026-08-23T06:43:07+08:00",
-    "cutoff_at": "2026-08-23T12:17:00+08:00",
-    "existing_premature_batch": false
+    "status": "on_time",
+    "run_id": "europe-pmc-2026-08-23T075550p0800",
+    "outcome": "success",
+    "completed_at": "2026-08-23T07:55:52+08:00"
   },
   "workflows": {
     "rss_discovery": {
@@ -68,23 +64,23 @@
       }
     },
     "europe_pmc_audit": {
-      "runs": 12,
-      "scheduled_runs": 11,
+      "runs": 13,
+      "scheduled_runs": 12,
       "delayed_runs": 9,
       "max_delay_minutes": 58.0,
       "latest_event": {
         "workflow": "europe_pmc_audit",
         "trigger_type": "schedule",
         "schedule_expression_utc": "41 23 * * *",
-        "scheduled_for": "2026-08-22T07:41:00+08:00",
-        "triggered_at": "2026-08-22T07:58:19+08:00",
-        "delay_minutes": 17.3,
+        "scheduled_for": "2026-08-23T07:41:00+08:00",
+        "triggered_at": "2026-08-23T07:55:50+08:00",
+        "delay_minutes": 14.8,
         "delay_threshold_minutes": 15,
-        "scheduler_delayed": true,
-        "status": "scheduler_delayed",
-        "run_id": "europe-pmc-2026-08-22T075819p0800",
+        "scheduler_delayed": false,
+        "status": "on_time",
+        "run_id": "europe-pmc-2026-08-23T075550p0800",
         "outcome": "success",
-        "completed_at": "2026-08-22T07:58:22+08:00"
+        "completed_at": "2026-08-23T07:55:52+08:00"
       }
     }
   }
