@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-21T09:56:46+08:00",
+  "generated_at": "2026-08-22T09:48:55+08:00",
   "timezone": "Asia/Shanghai",
   "retry_days": [
     3,
@@ -9,86 +9,26 @@
   ],
   "status": "success",
   "counts": {
-    "doi_records_seen": 1069,
-    "formal_batch_fields_backfilled": 40,
+    "doi_records_seen": 1075,
+    "formal_batch_fields_backfilled": 49,
     "crossref_metadata_only": 40,
     "awaiting_enrichment": 40,
-    "due": 14,
-    "attempted": 14,
+    "due": 2,
+    "attempted": 2,
     "enriched_from_existing_europe_pmc": 0,
     "enriched_from_crossref": 0,
-    "still_metadata_only": 14,
+    "still_metadata_only": 2,
     "exhausted": 13,
     "failed": 0
   },
   "attempted_dois": [
     {
-      "doi": "10.1126/science.aej9456",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.ael1782",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aek0207",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aek2112",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aej6212",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1016/j.cell.2026.07.049",
-      "retry_day": 14,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.ael3844",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aej6968",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.ael2764",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aek2193",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aej7857",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1126/science.aek7995",
-      "retry_day": 7,
-      "status": "success"
-    },
-    {
-      "doi": "10.1016/j.cell.2026.07.004",
+      "doi": "10.1016/j.cell.2026.07.048",
       "retry_day": 3,
       "status": "success"
     },
     {
-      "doi": "10.1016/j.cell.2026.08.021",
+      "doi": "10.1016/j.cell.2026.07.045",
       "retry_day": 3,
       "status": "success"
     }
@@ -110,5 +50,5 @@
     "10.1016/j.cell.2026.07.049"
   ],
   "failures": [],
-  "completed_at": "2026-08-21T09:56:55+08:00"
+  "completed_at": "2026-08-22T09:48:58+08:00"
 }
