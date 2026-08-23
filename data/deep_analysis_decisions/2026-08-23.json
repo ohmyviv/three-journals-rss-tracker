@@ -1,0 +1,49 @@
+{
+  "batch_id": "daily-2026-08-23",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.054",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实的Cell论文摘要完成重点解读；研究直接涉及CAR-T、合成转录因子、T细胞耗竭/效应/持久性重编程，主题和证据均达标。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.05.039",
+      "disposition": "completed",
+      "reason": "本次日报已基于Cell论文摘要及中科院团队公开的实验方法和结果完成重点解读；该Matters Arising包含实质性原创谱系示踪和疾病模型数据，并具有中国团队接触价值。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.aee2448",
+      "disposition": "completed",
+      "reason": "本次日报已基于Science/AAAS对Perspective的实质性公开内容完成重点解读；主题为AI、自驱实验室、机器人、高通量实验和科研数据基础设施，与AI for Science投资方向直接相关。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.015",
+      "disposition": "queued",
+      "reason": "已取得足够摘要证据且神经免疫/神经退行性疾病高度相关，但本期非原创研究/非正式Review类名额已由骨淋巴管Matters Arising和Science自驱实验室Perspective占满，顺延至后续日报。",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "queue_reason": ["article_type_quota"]
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.042",
+      "disposition": "not_selected",
+      "reason": "该条为Cell评论性文章，主要解读同一期Lei等人的原始cuproptosis研究；虽与肿瘤免疫相关，但作为二级评论来源边际价值不足，不再保留为未来重点解读积压。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.049",
+      "disposition": "not_selected",
+      "reason": "仓库中的2026 DOI/题目记录与可核实的2024 Cell论文（DOI 10.1016/j.cell.2024.02.004）发生明显身份冲突，且D+14富化已耗尽；为避免把错误元数据作为新文献继续分析，本条退出active backlog。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.021",
+      "disposition": "not_selected",
+      "reason": "仓库中的2026 DOI/题目与已正式发表的2025 Cell Resource（DOI 10.1016/j.cell.2025.09.006）完全同名且当前2026 DOI缺乏可核实独立文献证据，属于显著bibliographic identity冲突；不再作为active backlog持续消耗处理容量。",
+      "priority_level": "P1"
+    }
+  ]
+}
