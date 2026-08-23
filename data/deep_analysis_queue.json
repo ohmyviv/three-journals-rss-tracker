@@ -37,7 +37,7 @@
     "first_formal_batch_date": "2026-07-29",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.003",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-19T15:26:47+08:00",
     "completed_in_batch_id": "daily-2026-08-19"
   },
@@ -60,7 +60,7 @@
     "first_formal_batch_date": "2026-07-29",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.012",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -328,7 +328,7 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.011",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -356,7 +356,7 @@
     "first_formal_batch_date": "2026-07-30",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.016",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -408,7 +408,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.ady0832",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-11T17:44:51+08:00",
     "completed_in_batch_id": "daily-2026-08-11"
   },
@@ -436,7 +436,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.adz7928",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -464,7 +464,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.adz8081",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -492,7 +492,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aec2906",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-20T15:52:09+08:00",
     "completed_in_batch_id": "daily-2026-08-20"
   },
@@ -520,7 +520,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.ads5397",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -548,7 +548,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1126/science.aef5438",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -576,7 +576,7 @@
     "first_formal_batch_date": "2026-07-31",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.020",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -606,7 +606,7 @@
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.007",
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-04T00:00:00+08:00",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-19T15:26:47+08:00",
     "completed_in_batch_id": "daily-2026-08-19"
   },
@@ -651,7 +651,7 @@
     "last_reviewed_at": "2026-08-12T15:24:48+08:00",
     "source_url": "https://doi.org/10.1126/science.aef3178",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "first_formal_batch_id": "daily-2026-08-04",
     "first_formal_batch_date": "2026-08-04",
     "completed_at": "2026-08-12T15:24:48+08:00",
@@ -681,7 +681,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.026",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -709,7 +709,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.021",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-12T15:24:48+08:00",
     "completed_in_batch_id": "daily-2026-08-12"
   },
@@ -737,7 +737,7 @@
     "first_formal_batch_date": "2026-08-04",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.022",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -767,7 +767,7 @@
     "next_enrichment_retry_at": "2026-08-07T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -797,7 +797,7 @@
     "next_enrichment_retry_at": "2026-08-08T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -827,7 +827,7 @@
     "next_enrichment_retry_at": "2026-08-08T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-05",
     "first_formal_batch_date": "2026-08-05",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16"
   },
@@ -1217,7 +1217,7 @@
     "next_enrichment_retry_at": "2026-08-09T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-06",
     "first_formal_batch_date": "2026-08-06",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-20T15:52:09+08:00",
     "completed_in_batch_id": "daily-2026-08-20"
   },
@@ -1244,7 +1244,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aeh1475",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "completed_at": "2026-08-12T15:24:48+08:00",
@@ -1273,7 +1273,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aef4184",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "completed_at": "2026-08-19T15:26:47+08:00",
@@ -1302,7 +1302,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.adu6688",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "completed_at": "2026-08-20T15:52:09+08:00",
@@ -1331,7 +1331,7 @@
     "late_discovery_recovery": false,
     "source_url": "https://doi.org/10.1126/science.aec2657",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "completed_at": "2026-08-17T15:30:13+08:00",
@@ -1363,7 +1363,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-19T15:26:47+08:00",
     "completed_in_batch_id": "daily-2026-08-19"
   },
@@ -1393,7 +1393,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-22T15:19:22+08:00",
     "completed_in_batch_id": "daily-2026-08-22"
   },
@@ -1425,7 +1425,7 @@
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
     "last_enrichment_attempt_at": "2026-08-21T09:56:46+08:00",
-    "enrichment_exhausted_at": "2026-08-22T09:48:55+08:00"
+    "enrichment_exhausted_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.06.016": {
     "doi": "10.1016/j.cell.2026.06.016",
@@ -1453,7 +1453,7 @@
     "next_enrichment_retry_at": "2026-08-10T00:00:00+08:00",
     "first_formal_batch_id": "daily-2026-08-07",
     "first_formal_batch_date": "2026-08-07",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-11T17:44:51+08:00",
     "completed_in_batch_id": "daily-2026-08-11"
   },
@@ -1533,7 +1533,7 @@
     "completed_in_batch_id": "daily-2026-08-11",
     "first_formal_batch_id": "daily-2026-08-11",
     "first_formal_batch_date": "2026-08-11",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.029": {
     "doi": "10.1016/j.cell.2026.07.029",
@@ -1555,7 +1555,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.029",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-20T15:52:09+08:00",
     "completed_in_batch_id": "daily-2026-08-20"
   },
@@ -1580,7 +1580,7 @@
     "completed_at": "2026-08-12T15:24:48+08:00",
     "completed_in_batch_id": "daily-2026-08-12",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.024": {
     "doi": "10.1016/j.cell.2026.07.024",
@@ -1602,7 +1602,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.024",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-22T15:19:22+08:00",
     "completed_in_batch_id": "daily-2026-08-22"
   },
@@ -1626,7 +1626,7 @@
     "first_formal_batch_date": "2026-08-12",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.034",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -1650,7 +1650,7 @@
     "first_formal_batch_date": "2026-08-14",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.038",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-17T15:30:13+08:00",
     "completed_in_batch_id": "daily-2026-08-17"
   },
@@ -1890,7 +1890,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aeg4720": {
     "doi": "10.1126/science.aeg4720",
@@ -1913,7 +1913,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aee7004": {
     "doi": "10.1126/science.aee7004",
@@ -1936,7 +1936,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aea7605": {
     "doi": "10.1126/science.aea7605",
@@ -1959,7 +1959,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.adz1083": {
     "doi": "10.1126/science.adz1083",
@@ -1982,7 +1982,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.adz7427": {
     "doi": "10.1126/science.adz7427",
@@ -2005,7 +2005,7 @@
     "completed_at": "2026-08-14T15:29:00+08:00",
     "completed_in_batch_id": "daily-2026-08-14",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.043": {
     "doi": "10.1016/j.cell.2026.07.043",
@@ -2027,7 +2027,7 @@
     "first_formal_batch_date": "2026-08-16",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.043",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00",
     "completed_at": "2026-08-20T15:52:09+08:00",
     "completed_in_batch_id": "daily-2026-08-20"
   },
@@ -2052,7 +2052,7 @@
     "completed_at": "2026-08-16T15:18:32+08:00",
     "completed_in_batch_id": "daily-2026-08-16",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.004": {
     "doi": "10.1016/j.cell.2026.07.004",
@@ -2064,7 +2064,8 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2073,11 +2074,12 @@
     "first_formal_batch_id": "daily-2026-08-18",
     "first_formal_batch_date": "2026-08-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.004",
-    "evidence_level": "metadata_only",
+    "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-25T00:00:00+08:00",
     "last_enrichment_attempt_at": "2026-08-21T09:56:46+08:00",
     "completed_at": "2026-08-22T15:19:22+08:00",
-    "completed_in_batch_id": "daily-2026-08-22"
+    "completed_in_batch_id": "daily-2026-08-22",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1038/d41586-026-02552-y": {
     "doi": "10.1038/d41586-026-02552-y",
@@ -2170,7 +2172,8 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2181,9 +2184,10 @@
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.045",
     "completed_at": "2026-08-19T15:26:47+08:00",
     "completed_in_batch_id": "daily-2026-08-19",
-    "evidence_level": "metadata_only",
+    "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-26T00:00:00+08:00",
-    "last_enrichment_attempt_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_attempt_at": "2026-08-22T09:48:55+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.055": {
     "doi": "10.1016/j.cell.2026.07.055",
@@ -2195,7 +2199,8 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2204,10 +2209,11 @@
     "first_formal_batch_id": "daily-2026-08-20",
     "first_formal_batch_date": "2026-08-20",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.055",
-    "evidence_level": "metadata_only",
+    "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00",
     "completed_at": "2026-08-22T15:19:22+08:00",
-    "completed_in_batch_id": "daily-2026-08-22"
+    "completed_in_batch_id": "daily-2026-08-22",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.051": {
     "doi": "10.1016/j.cell.2026.07.051",
@@ -2219,7 +2225,8 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2228,10 +2235,11 @@
     "first_formal_batch_id": "daily-2026-08-20",
     "first_formal_batch_date": "2026-08-20",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.051",
-    "evidence_level": "metadata_only",
+    "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00",
     "completed_at": "2026-08-22T15:19:22+08:00",
-    "completed_in_batch_id": "daily-2026-08-22"
+    "completed_in_batch_id": "daily-2026-08-22",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.054": {
     "doi": "10.1016/j.cell.2026.07.054",
@@ -2243,17 +2251,19 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-20T15:52:09+08:00",
     "first_formal_batch_id": "daily-2026-08-20",
     "first_formal_batch_date": "2026-08-20",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.054",
-    "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00"
+    "evidence_level": "abstract_available",
+    "next_enrichment_retry_at": "2026-08-23T00:00:00+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1038/s41586-026-10892-y": {
     "doi": "10.1038/s41586-026-10892-y",
@@ -2476,17 +2486,19 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-21T15:22:38+08:00",
     "first_formal_batch_id": "daily-2026-08-21",
     "first_formal_batch_date": "2026-08-21",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.042",
-    "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00"
+    "evidence_level": "abstract_available",
+    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.05.039": {
     "doi": "10.1016/j.cell.2026.05.039",
@@ -2498,17 +2510,19 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-21T15:22:38+08:00",
     "first_formal_batch_id": "daily-2026-08-21",
     "first_formal_batch_date": "2026-08-21",
     "source_url": "https://doi.org/10.1016/j.cell.2026.05.039",
-    "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00"
+    "evidence_level": "abstract_available",
+    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1016/j.cell.2026.07.015": {
     "doi": "10.1016/j.cell.2026.07.015",
@@ -2520,17 +2534,19 @@
     "priority_score": null,
     "queue_reason": [
       "awaiting_enrichment",
-      "metadata_only_awaiting_enrichment"
+      "metadata_only_awaiting_enrichment",
+      "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
     "last_reviewed_at": "2026-08-21T15:22:38+08:00",
     "first_formal_batch_id": "daily-2026-08-21",
     "first_formal_batch_date": "2026-08-21",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.015",
-    "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00"
+    "evidence_level": "abstract_available",
+    "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00",
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1038/d41586-026-02553-x": {
     "doi": "10.1038/d41586-026-02553-x",
@@ -2598,7 +2614,8 @@
     "priority_level": "P2",
     "priority_score": null,
     "queue_reason": [
-      "abstract_available"
+      "abstract_available",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2610,7 +2627,7 @@
     "completed_at": "2026-08-21T15:22:38+08:00",
     "completed_in_batch_id": "daily-2026-08-21",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aeb5077": {
     "doi": "10.1126/science.aeb5077",
@@ -2621,7 +2638,8 @@
     "priority_level": "P1",
     "priority_score": null,
     "queue_reason": [
-      "abstract_available"
+      "abstract_available",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2633,7 +2651,7 @@
     "completed_at": "2026-08-21T15:22:38+08:00",
     "completed_in_batch_id": "daily-2026-08-21",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aed9286": {
     "doi": "10.1126/science.aed9286",
@@ -2644,7 +2662,8 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [
-      "abstract_available"
+      "abstract_available",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2656,7 +2675,7 @@
     "completed_at": "2026-08-21T15:22:38+08:00",
     "completed_in_batch_id": "daily-2026-08-21",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.ady1619": {
     "doi": "10.1126/science.ady1619",
@@ -2667,7 +2686,8 @@
     "priority_level": "P2",
     "priority_score": null,
     "queue_reason": [
-      "abstract_available"
+      "abstract_available",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2679,7 +2699,7 @@
     "completed_at": "2026-08-21T15:22:38+08:00",
     "completed_in_batch_id": "daily-2026-08-21",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.aee2448": {
     "doi": "10.1126/science.aee2448",
@@ -2701,7 +2721,7 @@
     "first_formal_batch_date": "2026-08-21",
     "source_url": "https://doi.org/10.1126/science.aee2448",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1126/science.ady3027": {
     "doi": "10.1126/science.ady3027",
@@ -2712,7 +2732,8 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [
-      "abstract_available"
+      "abstract_available",
+      "europe_pmc_abstract_enriched"
     ],
     "analysis_status": "completed",
     "target_complete_by": null,
@@ -2724,7 +2745,7 @@
     "completed_at": "2026-08-21T15:22:38+08:00",
     "completed_in_batch_id": "daily-2026-08-21",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-08-22T09:48:55+08:00"
+    "last_enrichment_success_at": "2026-08-23T09:59:07+08:00"
   },
   "10.1038/d41586-026-02352-4": {
     "doi": "10.1038/d41586-026-02352-4",
