@@ -76504,7 +76504,7 @@
     "doi": "10.1126/science.aek5595",
     "journal": "Science",
     "title_first_seen": "Dryland restoration needs shared evidence",
-    "current_title": "Dryland restoration needs shared evidence.",
+    "current_title": "Dryland restoration needs shared evidence",
     "source_url": "https://doi.org/10.1126/science.aek5595",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -76526,50 +76526,55 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Yang H",
+        "author": "Hong Yang",
         "affiliations": [
           "College of Energy and Carbon Neutrality Science and Education Integration, Zhejiang University of Technology, Hangzhou, China.",
           "Department of Geography and Environmental Science, University of Reading, Reading, UK.",
           "Moganshan Institute, Zhejiang University of Technology, Deqing, China."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Gao X",
+        "author": "Xiang Gao",
         "affiliations": [
           "College of Energy and Carbon Neutrality Science and Education Integration, Zhejiang University of Technology, Hangzhou, China.",
           "State Key Laboratory of Clean Energy Utilization, Zhejiang University, Hangzhou, China.",
           "Zhejiang Key Laboratory of Clean Energy Conversion and Utilization, Zhejiang University of Technology, Hangzhou, China.",
           "Dalian University of Technology, Dalian, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu J",
+        "author": "Jianhua Wu",
         "affiliations": [
           "Moganshan Institute, Zhejiang University of Technology, Deqing, China.",
           "Research Center for Two Mountains Transformation and Green Development, Zhejiang University of Technology, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen Y",
+        "author": "Yao Chen",
         "affiliations": [
           "School of Management, Zhejiang University of Technology, Hangzhou, China.",
           "Institute for Green Innovation and Development, Zhejiang University of Technology, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yu W",
+        "author": "Wubin Yu",
         "affiliations": [
           "College of Energy and Carbon Neutrality Science and Education Integration, Zhejiang University of Technology, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -76596,14 +76601,14 @@
       "Institute for Green Innovation and Development, Zhejiang University of Technology, Hangzhou, China."
     ],
     "china_key_authors": [
-      "Yang H",
-      "Gao X",
-      "Wu J",
-      "Chen Y",
-      "Yu W"
+      "Hong Yang",
+      "Xiang Gao",
+      "Jianhua Wu",
+      "Yao Chen",
+      "Wubin Yu"
     ],
     "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
+      "crossref:all_author_affiliations"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -76645,7 +76650,7 @@
     "doi": "10.1126/science.aej2368",
     "journal": "Science",
     "title_first_seen": "Experiences and economic decision-making",
-    "current_title": "Experiences and economic decision-making.",
+    "current_title": "Experiences and economic decision-making",
     "source_url": "https://doi.org/10.1126/science.aej2368",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -76663,15 +76668,16 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Rasul I",
+        "author": "Imran Rasul",
         "affiliations": [
           "Imran Rasul is a professor of economics at University College London, London, UK, and research director at the Institute for Fiscal Studies, London, UK."
         ],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -76682,7 +76688,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -76720,7 +76726,7 @@
     "doi": "10.1126/science.ael6250",
     "journal": "Science",
     "title_first_seen": "Key animal and plant disease lab stalled by biosafety issues",
-    "current_title": "Key animal and plant disease lab stalled by biosafety issues.",
+    "current_title": "Key animal and plant disease lab stalled by biosafety issues",
     "source_url": "https://doi.org/10.1126/science.ael6250",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -76738,13 +76744,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Li KJ",
+        "author": "Kate Jen Li",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -76790,7 +76797,7 @@
     "doi": "10.1126/science.aed9286",
     "journal": "Science",
     "title_first_seen": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
-    "current_title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation.",
+    "current_title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
     "source_url": "https://doi.org/10.1126/science.aed9286",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -76817,80 +76824,90 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Tsansizi LI",
+        "author": "Lorenza Iolanda Tsansizi",
         "affiliations": [
           "Antimicrobial Defence Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Guan SY",
+        "author": "Sophie Yihan Guan",
         "affiliations": [
           "Antimicrobial Defence Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Aramburu IV",
+        "author": "Iker Valle Aramburu",
         "affiliations": [
           "Antimicrobial Defence Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Punatar RS",
+        "author": "Rajvee Shah Punatar",
         "affiliations": [
           "DNA Recombination and Repair Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Williams TJ",
+        "author": "Thomas J. Williams",
         "affiliations": [
           "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Qiao YE",
+        "author": "Yihe E. Qiao",
         "affiliations": [
           "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Reed A",
+        "author": "Anna Reed",
         "affiliations": [
           "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London, UK.",
-          "Respiratory & Transplant Medicine, Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation Trust and Imperial College London, London, UK."
+          "Respiratory & Transplant Medicine, Royal Brompton and Harefield Hospitals, Guy’s and St Thomas’ NHS Foundation Trust and Imperial College London, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Armstrong-James D",
+        "author": "Darius Armstrong-James",
         "affiliations": [
           "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London, UK.",
-          "Department of Respiratory Medicine, Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+          "Department of Respiratory Medicine, Royal Brompton and Harefield Hospitals, Guy’s and St Thomas’ NHS Foundation Trust, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "West SC",
+        "author": "Stephen C. West",
         "affiliations": [
           "DNA Recombination and Repair Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Papayannopoulos V",
+        "author": "Venizelos Papayannopoulos",
         "affiliations": [
           "Antimicrobial Defence Laboratory, The Francis Crick Institute, London, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -76898,14 +76915,14 @@
       "Antimicrobial Defence Laboratory, The Francis Crick Institute, London, UK.",
       "DNA Recombination and Repair Laboratory, The Francis Crick Institute, London, UK.",
       "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London, UK.",
-      "Respiratory & Transplant Medicine, Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation Trust and Imperial College London, London, UK.",
-      "Department of Respiratory Medicine, Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+      "Respiratory & Transplant Medicine, Royal Brompton and Harefield Hospitals, Guy’s and St Thomas’ NHS Foundation Trust and Imperial College London, London, UK.",
+      "Department of Respiratory Medicine, Royal Brompton and Harefield Hospitals, Guy’s and St Thomas’ NHS Foundation Trust, London, UK."
     ],
     "china_team_status": "no_china_signal",
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -76955,7 +76972,7 @@
     "doi": "10.1126/science.aek1809",
     "journal": "Science",
     "title_first_seen": "Touch and pain shape what brain imaging sees",
-    "current_title": "Touch and pain shape what brain imaging sees.",
+    "current_title": "Touch and pain shape what brain imaging sees",
     "source_url": "https://doi.org/10.1126/science.aek1809",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -76974,25 +76991,27 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Rakymzhan A",
+        "author": "Adiya Rakymzhan",
         "affiliations": [
           "Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA, USA."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Lewis LD",
+        "author": "Laura D. Lewis",
         "affiliations": [
           "Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA, USA.",
           "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA.",
           "Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA, USA.",
           "Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Boston, MA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -77006,7 +77025,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -77047,7 +77066,7 @@
     "doi": "10.1126/science.aea7978",
     "journal": "Science",
     "title_first_seen": "Laser Mössbauer spectroscopy of 229 Th in CaF 2",
-    "current_title": "Laser Mössbauer spectroscopy of 229 Th in CaF 2 .",
+    "current_title": "Laser Mössbauer spectroscopy of 229 Th in CaF 2",
     "source_url": "https://doi.org/10.1126/science.aea7978",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -77090,193 +77109,219 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Hiraki T",
+        "author": "Takahiro Hiraki",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Masuda T",
+        "author": "Takahiko Masuda",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Takatori S",
+        "author": "Sayuri Takatori",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schaden F",
+        "author": "Fabian Schaden",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bartokos M",
+        "author": "Michael Bartokos",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Beeks K",
+        "author": "Kjeld Beeks",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria.",
           "Institute of Physics, Laboratory for Ultrafast Microscopy and Electron Scattering LUMES, École Polytechnique Fédérale de Lausanne, Station 6, Lausanne, Switzerland."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fukunaga Y",
+        "author": "Yuta Fukunaga",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Grüneis A",
+        "author": "Andreas Grüneis",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Guan M",
+        "author": "Ming Guan",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kazakov G",
+        "author": "Georgy Kazakov",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria.",
           "Wolfgang Pauli Institute, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "LaGrange T",
+        "author": "Thomas LaGrange",
         "affiliations": [
           "Institute of Physics, Laboratory for Ultrafast Microscopy and Electron Scattering LUMES, École Polytechnique Fédérale de Lausanne, Station 6, Lausanne, Switzerland."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Leitner A",
+        "author": "Adrian Leitner",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Morawetz I",
+        "author": "Ira Morawetz",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ogake R",
+        "author": "Ryoichiro Ogake",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Okai K",
+        "author": "Koichi Okai",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pimon M",
+        "author": "Martin Pimon",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pressler M",
+        "author": "Martin Pressler",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Riebner T",
+        "author": "Thomas Riebner",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sasao N",
+        "author": "Noboru Sasao",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schneider F",
+        "author": "Felix Schneider",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schumm T",
+        "author": "Thorsten Schumm",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shimizu K",
+        "author": "Kotaro Shimizu",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "de Col LT",
+        "author": "Luca Toscani de Col",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sikorsky T",
+        "author": "Tomas Sikorsky",
         "affiliations": [
           "Faculty of Physics, TU Wien, Vienna, Austria.",
           "Department of Chemical Physics and Optics, Charles University, Prague, Czechia."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yoshimi A",
+        "author": "Akihiro Yoshimi",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yoshimura K",
+        "author": "Koji Yoshimura",
         "affiliations": [
           "Research Institute for Interdisciplinary Science, Okayama University, Okayama, Japan."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -77291,7 +77336,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -77355,7 +77400,7 @@
     "doi": "10.1126/science.aee0747",
     "journal": "Science",
     "title_first_seen": "China’s solar expansion policy reduces bird diversity",
-    "current_title": "China's solar expansion policy reduces bird diversity.",
+    "current_title": "China’s solar expansion policy reduces bird diversity",
     "source_url": "https://doi.org/10.1126/science.aee0747",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -77381,71 +77426,80 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Zhang H",
+        "author": "Huiming Zhang",
         "affiliations": [
           "School of Business & Institute of Climate Economy and Low-Carbon Industry, Nanjing University of Information Science & Technology, Nanjing, China."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zhang A",
+        "author": "Aixin Zhang",
         "affiliations": [
           "School of Management Science and Engineering, Nanjing University of Information Science & Technology, Nanjing, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu K",
+        "author": "Kai Wu",
         "affiliations": [
           "School of Finance, Central University of Finance and Economics, Beijing, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cai Y",
+        "author": "Yinyin Cai",
         "affiliations": [
           "Institute of Atmospheric Environmental Economics, Nanjing University of Information Science & Technology, Nanjing, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li S",
+        "author": "Shanjun Li",
         "affiliations": [
           "Stanford Doerr School of Sustainability and Freeman Spogli Institute for International Studies, Stanford University, Stanford, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang S",
+        "author": "Shouyang Wang",
         "affiliations": [
           "School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Qiu YL",
+        "author": "Yueming (Lucy) Qiu",
         "affiliations": [
           "School of Public Policy, University of Maryland, College Park, MD, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang S",
+        "author": "Shoujun Huang",
         "affiliations": [
           "International School of Business & Finance, Sun Yat-Sen University, Guangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Phan TTA",
+        "author": "Thi Thuc Anh Phan",
         "affiliations": [
           "Smart Green Transformation Center, VinUniversity, Hanoi, Vietnam."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -77470,15 +77524,15 @@
       "International School of Business & Finance, Sun Yat-Sen University, Guangzhou, China."
     ],
     "china_key_authors": [
-      "Zhang H",
-      "Zhang A",
-      "Wu K",
-      "Cai Y",
-      "Wang S",
-      "Huang S"
+      "Huiming Zhang",
+      "Aixin Zhang",
+      "Kai Wu",
+      "Yinyin Cai",
+      "Shouyang Wang",
+      "Shoujun Huang"
     ],
     "china_team_evidence": [
-      "europe_pmc:author_affiliation"
+      "crossref:author_affiliation"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -77525,7 +77579,7 @@
     "doi": "10.1126/science.aeb5077",
     "journal": "Science",
     "title_first_seen": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
-    "current_title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks.",
+    "current_title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
     "source_url": "https://doi.org/10.1126/science.aeb5077",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -77549,78 +77603,85 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Malescot A",
+        "author": "Antoine Malescot",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
-          "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada."
+          "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada"
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Malheiros-Lima MR",
+        "author": "Milene R. Malheiros-Lima",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
           "Department of Stomatology, Faculty of Dentistry, Université de Montréal, Montreal, QC, Canada."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zana L",
+        "author": "Laurianne Zana",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
           "Department of Neuroscience, Faculty of Medicine, Université de Montreal, Montreal, QC, Canada."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bennett MC",
+        "author": "Michael C. Bennett",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
           "Department of Neuroscience, Faculty of Medicine, Université de Montreal, Montreal, QC, Canada."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Martineau É",
+        "author": "Éric Martineau",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
           "Department of Neuroscience, Faculty of Medicine, Université de Montreal, Montreal, QC, Canada."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schmid F",
+        "author": "Franca Schmid",
         "affiliations": [
           "ARTORG Center for Biomedical Engineering Research, University of Bern, Bern, Switzerland."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Rungta RL",
+        "author": "Ravi L. Rungta",
         "affiliations": [
           "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
           "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
-          "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada.",
+          "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada",
           "Department of Stomatology, Faculty of Dentistry, Université de Montréal, Montreal, QC, Canada.",
           "Department of Neuroscience, Faculty of Medicine, Université de Montreal, Montreal, QC, Canada."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
     "affiliations": [
       "Center for Interdisciplinary Research on the Brain and Learning (CIRCA), Montreal, QC, Canada.",
       "Courtois Institute for Biomedical Innovation (CI2B), Montreal, QC, Canada.",
-      "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada.",
+      "Institute of Biomedical Engineering, Université de Montréal, Montreal, QC, Canada",
       "Department of Stomatology, Faculty of Dentistry, Université de Montréal, Montreal, QC, Canada.",
       "Department of Neuroscience, Faculty of Medicine, Université de Montreal, Montreal, QC, Canada.",
       "ARTORG Center for Biomedical Engineering Research, University of Bern, Bern, Switzerland."
@@ -77629,7 +77690,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -77676,7 +77737,7 @@
     "doi": "10.1126/science.ady1619",
     "journal": "Science",
     "title_first_seen": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
-    "current_title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice.",
+    "current_title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
     "source_url": "https://doi.org/10.1126/science.ady1619",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -77714,155 +77775,176 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Li Z",
+        "author": "Zhiyong Li",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Li G",
+        "author": "Guan Li",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu Z",
+        "author": "Zhichao Liu",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cheng Z",
+        "author": "Zhen Cheng",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu Y",
+        "author": "Yibo Wu",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu X",
+        "author": "Xixi Liu",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu X",
+        "author": "Xinyong Liu",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ai X",
+        "author": "Xin Ai",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu W",
+        "author": "Wanning Liu",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li G",
+        "author": "Guanghao Li",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chang L",
+        "author": "Longxue Chang",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yin M",
+        "author": "Man Yin",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cheng Y",
+        "author": "Yichen Cheng",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cheng Y",
+        "author": "Yu Cheng",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang Y",
+        "author": "Yifeng Wang",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tong X",
+        "author": "Xiaohong Tong",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang J",
+        "author": "Jie Huang",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang G",
+        "author": "Guoming Zhang",
         "affiliations": [
           "Biotechnology Institute, Heilongjiang Academy of Agricultural Sciences, Harbin, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hou Y",
+        "author": "Yuxuan Hou",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ying J",
+        "author": "Jiezheng Ying",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang J",
+        "author": "Jian Zhang",
         "affiliations": [
           "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -77876,27 +77958,30 @@
       "Biotechnology Institute, Heilongjiang Academy of Agricultural Sciences, Harbin, China."
     ],
     "china_key_authors": [
-      "Li Z",
-      "Li G",
-      "Liu Z",
-      "Cheng Z",
-      "Wu Y",
-      "Liu X",
-      "Ai X",
-      "Liu W",
-      "Chang L",
-      "Yin M",
-      "Cheng Y",
-      "Wang Y",
-      "Tong X",
-      "Huang J",
-      "Zhang G",
-      "Hou Y",
-      "Ying J",
-      "Zhang J"
+      "Zhiyong Li",
+      "Guan Li",
+      "Zhichao Liu",
+      "Zhen Cheng",
+      "Yibo Wu",
+      "Xixi Liu",
+      "Xinyong Liu",
+      "Xin Ai",
+      "Wanning Liu",
+      "Guanghao Li",
+      "Longxue Chang",
+      "Man Yin",
+      "Yichen Cheng",
+      "Yu Cheng",
+      "Yifeng Wang",
+      "Xiaohong Tong",
+      "Jie Huang",
+      "Guoming Zhang",
+      "Yuxuan Hou",
+      "Jiezheng Ying",
+      "Jian Zhang"
     ],
     "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
+      "crossref:all_author_affiliations"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -77954,7 +78039,7 @@
     "doi": "10.1126/science.aeg0028",
     "journal": "Science",
     "title_first_seen": "Ultralong sheathed single-metal-atom chains synthesized under high pressure",
-    "current_title": "Ultralong sheathed single-metal-atom chains synthesized under high pressure.",
+    "current_title": "Ultralong sheathed single-metal-atom chains synthesized under high pressure",
     "source_url": "https://doi.org/10.1126/science.aeg0028",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -77997,191 +78082,217 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Zhang J",
+        "author": "Jie Zhang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Dong X",
+        "author": "Xiao Dong",
         "affiliations": [
           "Key Laboratory of Weak-Light Nonlinear Photonics, School of Physics, Nankai University, Tianjin, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Qiu S",
+        "author": "Shengchao Qiu",
         "affiliations": [
           "Key Laboratory of Weak-Light Nonlinear Photonics, School of Physics, Nankai University, Tianjin, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yang X",
+        "author": "Xin Yang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li C",
+        "author": "Chengyu Li",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma H",
+        "author": "Hongfei Ma",
         "affiliations": [
           "College of Chemistry and Molecular Engineering, Peking University, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fei Y",
+        "author": "Yunfan Fei",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zeng Q",
+        "author": "Qingchao Zeng",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li F",
+        "author": "Fang Li",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xie Y",
+        "author": "Yi Xie",
         "affiliations": [
           "Spin-X Institute, School of Chemistry and Chemical Engineering, State Key Laboratory of Luminescent Materials and Devices, Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials, South China University of Technology, Guangzhou, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Duan Y",
+        "author": "Yan Duan",
         "affiliations": [
           "Spin-X Institute, School of Chemistry and Chemical Engineering, State Key Laboratory of Luminescent Materials and Devices, Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials, South China University of Technology, Guangzhou, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jiang X",
+        "author": "Xudong Jiang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu J",
+        "author": "Jingqin Xu",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lang P",
+        "author": "Puyi Lang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yuan J",
+        "author": "Jiarui Yuan",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Luo H",
+        "author": "Hao Luo",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fang Y",
+        "author": "Yuan Fang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhao Z",
+        "author": "Zilin Zhao",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bao Y",
+        "author": "Yikun Bao",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang Y",
+        "author": "Yajie Wang",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen Y",
+        "author": "Yongjin Chen",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sun J",
+        "author": "Junliang Sun",
         "affiliations": [
           "College of Chemistry and Molecular Engineering, Peking University, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jiang S",
+        "author": "Shangda Jiang",
         "affiliations": [
           "Spin-X Institute, School of Chemistry and Chemical Engineering, State Key Laboratory of Luminescent Materials and Devices, Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials, South China University of Technology, Guangzhou, P.R. China.",
           "Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area, Shenzhen, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mao HK",
+        "author": "Ho-kwang Mao",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zheng H",
+        "author": "Haiyan Zheng",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li K",
+        "author": "Kuo Li",
         "affiliations": [
           "Center for High Pressure Science and Technology Advanced Research, Beijing, P.R. China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -78199,32 +78310,32 @@
       "College of Chemistry and Molecular Engineering, Peking University, Beijing, P.R. China."
     ],
     "china_key_authors": [
-      "Zhang J",
-      "Dong X",
-      "Qiu S",
-      "Yang X",
-      "Li C",
-      "Ma H",
-      "Fei Y",
-      "Zeng Q",
-      "Li F",
-      "Jiang X",
-      "Xu J",
-      "Lang P",
-      "Yuan J",
-      "Luo H",
-      "Fang Y",
-      "Zhao Z",
-      "Bao Y",
-      "Wang Y",
-      "Chen Y",
-      "Sun J",
-      "Mao HK",
-      "Zheng H",
-      "Li K"
+      "Jie Zhang",
+      "Xiao Dong",
+      "Shengchao Qiu",
+      "Xin Yang",
+      "Chengyu Li",
+      "Hongfei Ma",
+      "Yunfan Fei",
+      "Qingchao Zeng",
+      "Fang Li",
+      "Xudong Jiang",
+      "Jingqin Xu",
+      "Puyi Lang",
+      "Jiarui Yuan",
+      "Hao Luo",
+      "Yuan Fang",
+      "Zilin Zhao",
+      "Yikun Bao",
+      "Yajie Wang",
+      "Yongjin Chen",
+      "Junliang Sun",
+      "Ho-kwang Mao",
+      "Haiyan Zheng",
+      "Kuo Li"
     ],
     "china_team_evidence": [
-      "europe_pmc:first_last_author_affiliations"
+      "crossref:first_last_author_affiliations"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -78306,9 +78417,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T06:42:45+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-23T06:42:45+08:00",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
         "author": "Milad Abolhasani",
@@ -78347,7 +78458,7 @@
     "doi": "10.1126/science.aed8133",
     "journal": "Science",
     "title_first_seen": "A Brussels Effect for battery sustainability",
-    "current_title": "A Brussels Effect for battery sustainability.",
+    "current_title": "A Brussels Effect for battery sustainability",
     "source_url": "https://doi.org/10.1126/science.aed8133",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -78369,46 +78480,51 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Liang Y",
+        "author": "Yanan Liang",
         "affiliations": [
           "Institute of Environmental Sciences (CML), Leiden University, Leiden, Netherlands."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Hertwich E",
+        "author": "Edgar Hertwich",
         "affiliations": [
           "International Institute for Applied Systems Analysis, Laxenburg, Austria.",
           "Department of Energy and Process Engineering, Norwegian University of Science and Technology, Trondheim, Norway."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Istrate R",
+        "author": "Robert Istrate",
         "affiliations": [
           "Institute of Environmental Sciences (CML), Leiden University, Leiden, Netherlands."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Valente A",
+        "author": "Antonio Valente",
         "affiliations": [
           "ecoinvent Association, Zurich, Switzerland."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang R",
+        "author": "Ranran Wang",
         "affiliations": [
           "Institute of Environmental Sciences (CML), Leiden University, Leiden, Netherlands.",
           "State Key Laboratory of Water Pollution Control and Green Resource Recycling, School of the Environment, Nanjing University, Nanjing, China.",
           "Institute for the Environment and Health, Nanjing University Suzhou Campus, Suzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -78426,10 +78542,10 @@
       "Institute for the Environment and Health, Nanjing University Suzhou Campus, Suzhou, China."
     ],
     "china_key_authors": [
-      "Wang R"
+      "Ranran Wang"
     ],
     "china_team_evidence": [
-      "europe_pmc:author_affiliation"
+      "crossref:author_affiliation"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -78472,7 +78588,7 @@
     "doi": "10.1126/science.ael6249",
     "journal": "Science",
     "title_first_seen": "Hundreds of paper-mill papers peddled in ads were later published",
-    "current_title": "Hundreds of paper-mill papers peddled in ads were later published.",
+    "current_title": "Hundreds of paper-mill papers peddled in ads were later published",
     "source_url": "https://doi.org/10.1126/science.ael6249",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -78490,13 +78606,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Brainard J",
+        "author": "Jeffrey Brainard",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -78542,7 +78659,7 @@
     "doi": "10.1126/science.ael6247",
     "journal": "Science",
     "title_first_seen": "Arson attack jolts Italy’s bid to host the Einstein Telescope",
-    "current_title": "Arson attack jolts Italy's bid to host the Einstein Telescope.",
+    "current_title": "Arson attack jolts Italy’s bid to host the Einstein Telescope",
     "source_url": "https://doi.org/10.1126/science.ael6247",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -78560,13 +78677,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Cozzolino A",
+        "author": "Alessio Cozzolino",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -78612,7 +78730,7 @@
     "doi": "10.1126/science.adv0443",
     "journal": "Science",
     "title_first_seen": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
-    "current_title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses.",
+    "current_title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
     "source_url": "https://doi.org/10.1126/science.adv0443",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -78654,192 +78772,217 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Takeda-Kimura Y",
+        "author": "Yuri Takeda-Kimura",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA.",
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA.",
           "Faculty of Agriculture, Yamagata University, Tsuruoka, Yamagata, Japan."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Moore B",
+        "author": "Bethany Moore",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA."
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Holden S",
+        "author": "Samuel Holden",
         "affiliations": [
           "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park, Norwich, UK."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Morris JS",
+        "author": "Jae S. Morris",
         "affiliations": [
           "Department of Biology, Washington University in St. Louis, St. Louis, MO, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Deb SK",
+        "author": "Sontosh K. Deb",
         "affiliations": [
           "Department of Biological Sciences, University of Alabama, Tuscaloosa, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sanders C",
+        "author": "Carly Sanders",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA."
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "El-Azaz J",
+        "author": "Jorge El-Azaz",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA."
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Barrett M",
+        "author": "Matt Barrett",
         "affiliations": [
           "Australian Tropical Herbarium, James Cook University Nguma Bada Campus, Smithfield, QLD, Australia."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lorence D",
+        "author": "David Lorence",
         "affiliations": [
           "National Tropical Botanical Garden, Kalaheo, HI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "de Oliveira MVV",
+        "author": "Marcos V. V. de Oliveira",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA."
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Havranek W",
+        "author": "Wynne Havranek",
         "affiliations": [
           "Department of Biology, Washington University in St. Louis, St. Louis, MO, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Grimwood J",
+        "author": "Jane Grimwood",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Williams M",
+        "author": "Melissa Williams",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Boston LB",
+        "author": "Lori Beth Boston",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jenkins J",
+        "author": "Jerry Jenkins",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Plott C",
+        "author": "Christopher Plott",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shu S",
+        "author": "Shengqiang Shu",
         "affiliations": [
           "US Department of Energy Joint Genome Institute, Berkeley, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Barry K",
+        "author": "Kerrie Barry",
         "affiliations": [
           "US Department of Energy Joint Genome Institute, Berkeley, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Goodstein DM",
+        "author": "David M. Goodstein",
         "affiliations": [
           "US Department of Energy Joint Genome Institute, Berkeley, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schmutz J",
+        "author": "Jeremy Schmutz",
         "affiliations": [
           "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA.",
           "US Department of Energy Joint Genome Institute, Berkeley, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jez JM",
+        "author": "Joseph M. Jez",
         "affiliations": [
           "Department of Biology, Washington University in St. Louis, St. Louis, MO, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Moscou MJ",
+        "author": "Matthew J. Moscou",
         "affiliations": [
           "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park, Norwich, UK.",
-          "US Department of Agriculture-Agricultural Research Service (USDA-ARS), Cereal Disease Laboratory, St. Paul, MN, USA."
+          "US Department of Agriculture–Agricultural Research Service (USDA-ARS), Cereal Disease Laboratory, St. Paul, MN, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "McKain MR",
+        "author": "Michael R. McKain",
         "affiliations": [
           "Department of Biological Sciences, University of Alabama, Tuscaloosa, AL, USA.",
           "CONSERVE Research Group, Alabama Water Institute, University of Alabama, Tuscaloosa, AL, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Leebens-Mack JH",
+        "author": "James H. Leebens-Mack",
         "affiliations": [
           "Department of Plant Biology, University of Georgia, Athens, GA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Maeda HA",
+        "author": "Hiroshi A. Maeda",
         "affiliations": [
-          "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA."
+          "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
     "affiliations": [
-      "Department of Botany, University of Wisconsin-Madison, Madison, WI, USA.",
+      "Department of Botany, University of Wisconsin–Madison, Madison, WI, USA.",
       "Faculty of Agriculture, Yamagata University, Tsuruoka, Yamagata, Japan.",
       "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park, Norwich, UK.",
       "Department of Biology, Washington University in St. Louis, St. Louis, MO, USA.",
@@ -78848,7 +78991,7 @@
       "National Tropical Botanical Garden, Kalaheo, HI, USA.",
       "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA.",
       "US Department of Energy Joint Genome Institute, Berkeley, CA, USA.",
-      "US Department of Agriculture-Agricultural Research Service (USDA-ARS), Cereal Disease Laboratory, St. Paul, MN, USA.",
+      "US Department of Agriculture–Agricultural Research Service (USDA-ARS), Cereal Disease Laboratory, St. Paul, MN, USA.",
       "CONSERVE Research Group, Alabama Water Institute, University of Alabama, Tuscaloosa, AL, USA.",
       "Department of Plant Biology, University of Georgia, Athens, GA, USA."
     ],
@@ -78856,7 +78999,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -78921,7 +79064,7 @@
     "doi": "10.1126/science.aec4203",
     "journal": "Science",
     "title_first_seen": "A serendipitous sunset on Mars",
-    "current_title": "A serendipitous sunset on Mars.",
+    "current_title": "A serendipitous sunset on Mars",
     "source_url": "https://doi.org/10.1126/science.aec4203",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -78939,15 +79082,16 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Fox PL",
+        "author": "Paul L. Fox",
         "affiliations": [
           "Department of Heart, Blood, and Kidney Research, Cleveland Clinic Research, Cleveland, OH, USA."
         ],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -78958,7 +79102,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -78996,7 +79140,7 @@
     "doi": "10.1126/science.ael6246",
     "journal": "Science",
     "title_first_seen": "Scientists challenge unexpected finding of lymphatic vessels in bone",
-    "current_title": "Scientists challenge unexpected finding of lymphatic vessels in bone.",
+    "current_title": "Scientists challenge unexpected finding of lymphatic vessels in bone",
     "source_url": "https://doi.org/10.1126/science.ael6246",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79014,13 +79158,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Offord C",
+        "author": "Catherine Offord",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79066,7 +79211,7 @@
     "doi": "10.1126/science.ael5805",
     "journal": "Science",
     "title_first_seen": "In Other Journals",
-    "current_title": "In Other Journals.",
+    "current_title": "In Other Journals",
     "source_url": "https://doi.org/10.1126/science.ael5805",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79090,43 +79235,50 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Nusinovich Y",
+        "author": "Yevgeniya Nusinovich",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Sirois C",
+        "author": "Cheri Sirois",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Osório J",
+        "author": "Joana Osório",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Vignieri S",
+        "author": "Sacha Vignieri",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jin S",
+        "author": "Sumin Jin",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yeston JS",
+        "author": "Jake S. Yeston",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hessler A",
+        "author": "Angela Hessler",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -79178,7 +79330,7 @@
     "doi": "10.1126/science.ael6245",
     "journal": "Science",
     "title_first_seen": "Justice Department calls three NSF diversity programs unconstitutional",
-    "current_title": "Justice Department calls three NSF diversity programs unconstitutional.",
+    "current_title": "Justice Department calls three NSF diversity programs unconstitutional",
     "source_url": "https://doi.org/10.1126/science.ael6245",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79196,13 +79348,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Mervis J",
+        "author": "Jeffrey Mervis",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79248,7 +79401,7 @@
     "doi": "10.1126/science.ael5804",
     "journal": "Science",
     "title_first_seen": "In Science Journals",
-    "current_title": "In Science Journals.",
+    "current_title": "In Science Journals",
     "source_url": "https://doi.org/10.1126/science.ael5804",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79282,93 +79435,110 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Fan J",
+        "author": "Jonathan Fan",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Funk MA",
+        "author": "Michael A. Funk",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Stajic J",
+        "author": "Jelena Stajic",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jiang D",
+        "author": "Di Jiang",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Smith KT",
+        "author": "Keith T. Smith",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang J",
+        "author": "Jack Huang",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Norton ML",
+        "author": "Melissa L. Norton",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hurtley SM",
+        "author": "Stella M. Hurtley",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sonawala U",
+        "author": "Unnati Sonawala",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Seale M",
+        "author": "Madeleine Seale",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ross SH",
+        "author": "Sarah H. Ross",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Nusinovich Y",
+        "author": "Yevgeniya Nusinovich",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Maroso M",
+        "author": "Mattia Maroso",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Vignieri S",
+        "author": "Sacha Vignieri",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Isles H",
+        "author": "Hannah Isles",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wong W",
+        "author": "Wei Wong",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Szuromi P",
+        "author": "Phil Szuromi",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -79430,7 +79600,7 @@
     "doi": "10.1126/science.ael6251",
     "journal": "Science",
     "title_first_seen": "Powers of persuasion",
-    "current_title": "Powers of persuasion.",
+    "current_title": "Powers of persuasion",
     "source_url": "https://doi.org/10.1126/science.ael6251",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79448,13 +79618,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Kupferschmidt K",
+        "author": "Kai Kupferschmidt",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79518,15 +79689,16 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Holz T",
+        "author": "Thorsten Holz",
         "affiliations": [
           "Thorsten Holz is a scientific director at the Max Planck Institute for Security and Privacy, Bochum, Germany."
         ],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79537,7 +79709,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -79594,9 +79766,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T06:42:45+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-23T06:42:45+08:00",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
         "author": "Martin D. Burke",
@@ -79637,7 +79809,7 @@
     "doi": "10.1126/science.ael6248",
     "journal": "Science",
     "title_first_seen": "China mission aims to probe the Moon’s hidden water",
-    "current_title": "China mission aims to probe the Moon's hidden water.",
+    "current_title": "China mission aims to probe the Moon’s hidden water",
     "source_url": "https://doi.org/10.1126/science.ael6248",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79655,13 +79827,14 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Normile D",
+        "author": "Dennis Normile",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79725,26 +79898,27 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Mills W",
+        "author": "William Mills",
         "affiliations": [
-          "William Mills is an assistant professor at Mount St. Mary's University. Do you have an interesting career story to share? See our author guidelines at https://scim.ag/WorkingLife."
+          "William Mills is an assistant professor at Mount St. Mary’s University. Do you have an interesting career story to share? See our author guidelines at ."
         ],
+        "sequence": "first",
         "corresponding": false
       }
     ],
     "affiliations": [
-      "William Mills is an assistant professor at Mount St. Mary's University. Do you have an interesting career story to share? See our author guidelines at https://scim.ag/WorkingLife."
+      "William Mills is an assistant professor at Mount St. Mary’s University. Do you have an interesting career story to share? See our author guidelines at ."
     ],
     "china_team_status": "no_china_signal",
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -79782,7 +79956,7 @@
     "doi": "10.1126/science.aek6651",
     "journal": "Science",
     "title_first_seen": "Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”",
-    "current_title": "Erratum for the Report \"Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders\".",
+    "current_title": "Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”",
     "source_url": "https://doi.org/10.1126/science.aek6651",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [],
@@ -79798,9 +79972,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -79859,9 +80033,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T06:42:45+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-23T06:42:45+08:00",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
         "author": "Carissa Véliz",
@@ -79900,7 +80074,7 @@
     "doi": "10.1126/science.aek1460",
     "journal": "Science",
     "title_first_seen": "Beyond carbon in renewable energy policy",
-    "current_title": "Beyond carbon in renewable energy policy.",
+    "current_title": "Beyond carbon in renewable energy policy",
     "source_url": "https://doi.org/10.1126/science.aek1460",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -79918,15 +80092,16 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Liang Y",
+        "author": "Yuanning Liang",
         "affiliations": [
           "School of Economics, Peking University, Beijing, China."
         ],
+        "sequence": "first",
         "corresponding": false
       }
     ],
@@ -79938,10 +80113,10 @@
       "School of Economics, Peking University, Beijing, China."
     ],
     "china_key_authors": [
-      "Liang Y"
+      "Yuanning Liang"
     ],
     "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
+      "crossref:all_author_affiliations"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -79981,7 +80156,7 @@
     "doi": "10.1126/science.aeg8415",
     "journal": "Science",
     "title_first_seen": "Redirecting wet–interfacial redox pathways for efficient inverted perovskite solar cells",
-    "current_title": "Redirecting wet-interfacial redox pathways for efficient inverted perovskite solar cells.",
+    "current_title": "Redirecting wet–interfacial redox pathways for efficient inverted perovskite solar cells",
     "source_url": "https://doi.org/10.1126/science.aeg8415",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -80022,181 +80197,205 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Liang Z",
+        "author": "Zheng Liang",
         "affiliations": [
           "Sustainable Energy and Environment Thrust, Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
           "School of Chemical Engineering and Center for Antibonding Regulated Crystals, Sungkyunkwan University, Suwon, Republic of Korea."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Liu B",
+        "author": "Boyuan Liu",
         "affiliations": [
           "University of Science and Technology of China, Hefei, China.",
           "Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li Y",
+        "author": "Yuelong Li",
         "affiliations": [
           "Institute of Photoelectronic Thin Film Devices and Technology of Nankai University, Tianjin Key Laboratory of Efficient Utilization of Solar Energy, Engineering Research Center of Thin Film Optoelectronics Technology (MOE), State Key Laboratory of Photovoltaic Materials and Cells, College of Outstanding Engineers, and Academy for Advanced Interdisciplinary Studies, Nankai University, Tianjin, China.",
           "Shenzhen Research Institute of Nankai University, Shenzhen, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang Y",
+        "author": "Yalan Zhang",
         "affiliations": [
           "School of Chemical Engineering and Center for Antibonding Regulated Crystals, Sungkyunkwan University, Suwon, Republic of Korea."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yang Y",
+        "author": "Yi Yang",
         "affiliations": [
           "Global Institute of Future Technology (GIFT), Shanghai Jiao Tong University, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cheng S",
+        "author": "Shengbin Cheng",
         "affiliations": [
           "Sustainable Energy and Environment Thrust, Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma L",
+        "author": "Linchuan Ma",
         "affiliations": [
           "Institute of Photoelectronic Thin Film Devices and Technology of Nankai University, Tianjin Key Laboratory of Efficient Utilization of Solar Energy, Engineering Research Center of Thin Film Optoelectronics Technology (MOE), State Key Laboratory of Photovoltaic Materials and Cells, College of Outstanding Engineers, and Academy for Advanced Interdisciplinary Studies, Nankai University, Tianjin, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tu B",
+        "author": "Bao Tu",
         "affiliations": [
           "Fujian Science and Technology Innovation Laboratory for Energy Devices of China (CATL 21C Lab), Ningde, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu HC",
+        "author": "Hua-Chao Liu",
         "affiliations": [
           "College of Materials Science and Engineering, Shenzhen University, Shenzhen, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu H",
+        "author": "Huifen Xu",
         "affiliations": [
           "University of Science and Technology of China, Hefei, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bao Y",
+        "author": "Yuqi Bao",
         "affiliations": [
           "Sustainable Energy and Environment Thrust, Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fan M",
+        "author": "Minghui Fan",
         "affiliations": [
           "University of Science and Technology of China, Hefei, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhu P",
+        "author": "Peide Zhu",
         "affiliations": [
           "Department of Materials Science and Engineering, Southern University of Science and Technology, Shenzhen, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang X",
+        "author": "Xianfu Zhang",
         "affiliations": [
           "Frontiers Science Center for Transformative Molecules, State Key Laboratory of Fluorine-Containing Functional Membrane Materials, Shanghai Jiao Tong University, Shanghai 200240, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li C",
+        "author": "Congqi Li",
         "affiliations": [
           "College of Materials Science and Opto- Electronic Technology, University of Chinese Academy of Sciences, Beijing, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang H",
+        "author": "Hui Zhang",
         "affiliations": [
           "University of Science and Technology of China, Hefei, China.",
           "Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang X",
+        "author": "Xinyuan Zhang",
         "affiliations": [
           "Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li Y",
+        "author": "Yuheng Li",
         "affiliations": [
           "Sustainable Energy and Environment Thrust, Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen G",
+        "author": "Guodong Chen",
         "affiliations": [
           "Fujian Science and Technology Innovation Laboratory for Energy Devices of China (CATL 21C Lab), Ningde, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu C",
+        "author": "Cheng Liu",
         "affiliations": [
           "Frontiers Science Center for Transformative Molecules, State Key Laboratory of Fluorine-Containing Functional Membrane Materials, Shanghai Jiao Tong University, Shanghai 200240, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhu C",
+        "author": "Chen Zhu",
         "affiliations": [
           "Fujian Science and Technology Innovation Laboratory for Energy Devices of China (CATL 21C Lab), Ningde, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ouyang C",
+        "author": "Chuying Ouyang",
         "affiliations": [
           "Fujian Science and Technology Innovation Laboratory for Energy Devices of China (CATL 21C Lab), Ningde, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Park NG",
+        "author": "Nam-Gyu Park",
         "affiliations": [
           "School of Chemical Engineering and Center for Antibonding Regulated Crystals, Sungkyunkwan University, Suwon, Republic of Korea.",
           "SKKU National Lab for Intelligent Energy Solution Technology (SIEST), Sungkyunkwan University, Suwon, Republic of Korea."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang Y",
+        "author": "Yong Zhang",
         "affiliations": [
           "Sustainable Energy and Environment Thrust, Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -80229,25 +80428,26 @@
       "College of Materials Science and Opto- Electronic Technology, University of Chinese Academy of Sciences, Beijing, China."
     ],
     "china_key_authors": [
-      "Liu B",
-      "Li Y",
-      "Yang Y",
-      "Ma L",
-      "Tu B",
-      "Liu HC",
-      "Xu H",
-      "Fan M",
-      "Zhu P",
-      "Zhang X",
-      "Li C",
-      "Zhang H",
-      "Chen G",
-      "Liu C",
-      "Zhu C",
-      "Ouyang C"
+      "Boyuan Liu",
+      "Yuelong Li",
+      "Yi Yang",
+      "Linchuan Ma",
+      "Bao Tu",
+      "Hua-Chao Liu",
+      "Huifen Xu",
+      "Minghui Fan",
+      "Peide Zhu",
+      "Xianfu Zhang",
+      "Congqi Li",
+      "Hui Zhang",
+      "Xinyuan Zhang",
+      "Guodong Chen",
+      "Cheng Liu",
+      "Chen Zhu",
+      "Chuying Ouyang"
     ],
     "china_team_evidence": [
-      "europe_pmc:author_affiliation"
+      "crossref:author_affiliation"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -80306,7 +80506,7 @@
     "doi": "10.1126/science.ady3027",
     "journal": "Science",
     "title_first_seen": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
-    "current_title": "Tracing the origins of de novo coronary collateral formation in cardiac repair.",
+    "current_title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
     "source_url": "https://doi.org/10.1126/science.ady3027",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -80335,95 +80535,107 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Zhang M",
+        "author": "Mingjun Zhang",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Han M",
+        "author": "Maoying Han",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hou Y",
+        "author": "Yangfeng Hou",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, Department of Chemical Pathology, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu Z",
+        "author": "Zixin Liu",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang Y",
+        "author": "Yilian Wang",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang X",
+        "author": "Xiuzhen Huang",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ho CK",
+        "author": "Cheng Kiu Ho",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, Department of Chemical Pathology, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Qu H",
+        "author": "Hang Qu",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, Department of Chemical Pathology, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang QD",
+        "author": "Qing-Dong Wang",
         "affiliations": [
           "Bioscience Cardiovascular, Research and Early Development, Cardiovascular, Renal and Metabolism, BioPharmaceuticals R&D, AstraZeneca, Gothenburg, Mölndal, Sweden."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma X",
+        "author": "Xin Ma",
         "affiliations": [
           "Department of Pharmacology, Wuxi School of Medicine, Jiangnan University, Wuxi, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lui KO",
+        "author": "Kathy O. Lui",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, Department of Chemical Pathology, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhou B",
+        "author": "Bin Zhou",
         "affiliations": [
           "CAS CEMCS-CUHK Joint Laboratory, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.",
           "CAS CEMCS-CUHK Joint Laboratory, Department of Chemical Pathology, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China.",
           "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou, China.",
           "School of Life Science and Technology, ShanghaiTech University, Shanghai, China."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -80443,16 +80655,16 @@
       "School of Life Science and Technology, ShanghaiTech University, Shanghai, China."
     ],
     "china_key_authors": [
-      "Zhang M",
-      "Han M",
-      "Liu Z",
-      "Wang Y",
-      "Huang X",
-      "Ma X",
-      "Zhou B"
+      "Mingjun Zhang",
+      "Maoying Han",
+      "Zixin Liu",
+      "Yilian Wang",
+      "Xiuzhen Huang",
+      "Xin Ma",
+      "Bin Zhou"
     ],
     "china_team_evidence": [
-      "europe_pmc:first_last_author_affiliations"
+      "crossref:first_last_author_affiliations"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -80522,9 +80734,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T06:42:45+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-23T06:42:45+08:00",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
         "author": "Jonathan Wai",
@@ -80563,7 +80775,7 @@
     "doi": "10.1126/science.aej9284",
     "journal": "Science",
     "title_first_seen": "Biodiversity monitoring misses behavior",
-    "current_title": "Biodiversity monitoring misses behavior.",
+    "current_title": "Biodiversity monitoring misses behavior",
     "source_url": "https://doi.org/10.1126/science.aej9284",
     "rss_reported_time": "2026-08-20T08:00:00+08:00",
     "authors_rss": [
@@ -80583,29 +80795,32 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Mikula P",
+        "author": "Peter Mikula",
         "affiliations": [
           "Faculty of Environmental Sciences, Czech University of Life Sciences Prague, Prague, Czech Republic."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Blumstein DT",
+        "author": "Daniel T. Blumstein",
         "affiliations": [
           "Department of Ecology and Evolutionary Biology, University of California, Los Angeles, Los Angeles, CA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tryjanowski P",
+        "author": "Piotr Tryjanowski",
         "affiliations": [
           "Department of Zoology, Poznan University of Life Sciences, Poznan, Poland."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -80618,7 +80833,7 @@
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
@@ -80658,7 +80873,7 @@
     "doi": "10.1016/j.cell.2026.07.036",
     "journal": "Cell",
     "title_first_seen": "Protein condensate as a plant sunscreen",
-    "current_title": "Protein condensate as a plant sunscreen.",
+    "current_title": "Protein condensate as a plant sunscreen",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.036",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -80677,41 +80892,28 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Wu X",
-        "affiliations": [
-          "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China."
-        ],
+        "author": "Xiandeng Wu",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zhang M",
-        "affiliations": [
-          "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China. Electronic address: zhangmj@sustech.edu.cn."
-        ],
+        "author": "Mingjie Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China.",
-      "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China. Electronic address: zhangmj@sustech.edu.cn."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China.",
-      "School of Life Sciences, Southern University of Science and Technology, Shenzhen 518055, China. Electronic address: zhangmj@sustech.edu.cn."
-    ],
-    "china_key_authors": [
-      "Wu X",
-      "Zhang M"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
@@ -80751,7 +80953,7 @@
     "doi": "10.1016/j.cell.2026.07.015",
     "journal": "Cell",
     "title_first_seen": "Neurodegeneration as a dysregulation of neuroimmune crosstalk",
-    "current_title": "Neurodegeneration as a dysregulation of neuroimmune crosstalk.",
+    "current_title": "Neurodegeneration as a dysregulation of neuroimmune crosstalk",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.015",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -80772,51 +80974,40 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Bennett FC",
-        "affiliations": [
-          "Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Division of Neurology, Department of Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA, USA. Electronic address: frederick.bennett@pennmedicine.upenn.edu."
-        ],
+        "author": "F. Chris Bennett",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Hong S",
-        "affiliations": [
-          "UK Dementia Research Institute, Institute of Neurology, University College London, London, UK. Electronic address: soyon.hong@ucl.ac.uk."
-        ],
+        "author": "Soyon Hong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jiang N",
-        "affiliations": [
-          "Department of Bioengineering, University of Pennsylvania, Philadelphia, PA, USA; Institute for Immunology and Immune Health, University of Pennsylvania, Philadelphia, PA, USA; Center for Cellular Immunotherapies, University of Pennsylvania, Philadelphia, PA, USA; Abramsom Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Institute for RNA Innovation, University of Pennsylvania, Philadelphia, PA, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: jnjiang@seas.upenn.edu."
-        ],
+        "author": "Ning Jiang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Marazzi I",
-        "affiliations": [
-          "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA; Center for Epigenetics and Metabolism, University of California, Irvine, Irvine, CA, USA. Electronic address: imarazzi@uci.edu."
-        ],
+        "author": "Ivan Marazzi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Division of Neurology, Department of Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA, USA. Electronic address: frederick.bennett@pennmedicine.upenn.edu.",
-      "UK Dementia Research Institute, Institute of Neurology, University College London, London, UK. Electronic address: soyon.hong@ucl.ac.uk.",
-      "Department of Bioengineering, University of Pennsylvania, Philadelphia, PA, USA; Institute for Immunology and Immune Health, University of Pennsylvania, Philadelphia, PA, USA; Center for Cellular Immunotherapies, University of Pennsylvania, Philadelphia, PA, USA; Abramsom Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Institute for RNA Innovation, University of Pennsylvania, Philadelphia, PA, USA; Center for Precision Engineering for Health, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: jnjiang@seas.upenn.edu.",
-      "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA; Center for Epigenetics and Metabolism, University of California, Irvine, Irvine, CA, USA. Electronic address: imarazzi@uci.edu."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
@@ -80858,7 +81049,7 @@
     "doi": "10.1016/j.cell.2026.07.014",
     "journal": "Cell",
     "title_first_seen": "Modern science outreach: A guide for scientists",
-    "current_title": "Modern science outreach: A guide for scientists.",
+    "current_title": "Modern science outreach: A guide for scientists",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.014",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -80890,138 +81081,106 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Moses A",
-        "affiliations": [
-          "Nancy Pritzker Laboratory, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, USA."
-        ],
+        "author": "Ashley Moses",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zhang A",
-        "affiliations": [
-          "School of Communication, Florida State University, Tallahassee, FL, USA."
-        ],
+        "author": "Annie Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Todorovic M",
-        "affiliations": [
-          "Faculty of Health, Science and Medicine, Bond University, Robina, QLD, Australia."
-        ],
+        "author": "Michael Todorovic",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ramakrishna R",
-        "affiliations": [
-          "Department of Neurological Surgery, Weill Cornell Medicine, New York, NY, USA."
-        ],
+        "author": "Rohan Ramakrishna",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Facciani M",
-        "affiliations": [
-          "School of Public Health, Yale University, New Haven, CT, USA."
-        ],
+        "author": "Matthew Facciani",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Eagleman DM",
-        "affiliations": [
-          "Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, USA."
-        ],
+        "author": "David M. Eagleman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sever R",
-        "affiliations": [
-          "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA."
-        ],
+        "author": "Richard Sever",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Eyre HA",
-        "affiliations": [
-          "Neuro-Policy Program, Center for Health and Bioscience, Baker Institute for Public Policy, Rice University, Houston, TX, USA."
-        ],
+        "author": "Harris A. Eyre",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bhamla S",
-        "affiliations": [
-          "Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
-        ],
+        "author": "Saad Bhamla",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Moore JP",
-        "affiliations": [
-          "Department of Medical Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
-        ],
+        "author": "John P. Moore",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chapman SB",
-        "affiliations": [
-          "Center for BrainHealth, University of Texas at Dallas, Dallas, TX, USA."
-        ],
+        "author": "Sandra Bond Chapman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ramos KM",
-        "affiliations": [
-          "Dana Foundation, New York, NY, USA."
-        ],
+        "author": "Khara M. Ramos",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hayden EC",
-        "affiliations": [
-          "University of California, Santa Cruz, Santa Cruz, CA, USA."
-        ],
+        "author": "Erika C. Hayden",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Malenka RC",
-        "affiliations": [
-          "Nancy Pritzker Laboratory, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, USA."
-        ],
+        "author": "Robert C. Malenka",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Rein B",
-        "affiliations": [
-          "Mind Science Foundation, San Antonio, TX, USA; Department of Psychiatry, Jacobs School of Medicine & Biomedical Sciences, SUNY Buffalo, Buffalo, NY, USA. Electronic address: brein@mindscience.org."
-        ],
+        "author": "Ben Rein",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Nancy Pritzker Laboratory, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, USA.",
-      "School of Communication, Florida State University, Tallahassee, FL, USA.",
-      "Faculty of Health, Science and Medicine, Bond University, Robina, QLD, Australia.",
-      "Department of Neurological Surgery, Weill Cornell Medicine, New York, NY, USA.",
-      "School of Public Health, Yale University, New Haven, CT, USA.",
-      "Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, USA.",
-      "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.",
-      "Neuro-Policy Program, Center for Health and Bioscience, Baker Institute for Public Policy, Rice University, Houston, TX, USA.",
-      "Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA.",
-      "Department of Medical Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA.",
-      "Center for BrainHealth, University of Texas at Dallas, Dallas, TX, USA.",
-      "Dana Foundation, New York, NY, USA.",
-      "University of California, Santa Cruz, Santa Cruz, CA, USA.",
-      "Mind Science Foundation, San Antonio, TX, USA; Department of Psychiatry, Jacobs School of Medicine & Biomedical Sciences, SUNY Buffalo, Buffalo, NY, USA. Electronic address: brein@mindscience.org."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
@@ -81074,7 +81233,7 @@
     "doi": "10.1016/j.cell.2026.05.039",
     "journal": "Cell",
     "title_first_seen": "Lymphatic vessels invade bone in disease but are absent in health and regeneration",
-    "current_title": "Lymphatic vessels invade bone in disease but are absent in health and regeneration.",
+    "current_title": "Lymphatic vessels invade bone in disease but are absent in health and regeneration",
     "source_url": "https://doi.org/10.1016/j.cell.2026.05.039",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -81108,171 +81267,118 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Meng X",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China."
-        ],
+        "author": "Xinfeng Meng",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Liu K",
-        "affiliations": [
-          "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China."
-        ],
+        "author": "Kuo Liu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tang M",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Muxue Tang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Weng W",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Wendong Weng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang Z",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Zhenqian Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang X",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Xiuzhen Huang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "He Z",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Zhen He",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Han X",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China."
-        ],
+        "author": "Ximeng Han",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sun R",
-        "affiliations": [
-          "Shanghai Model Organisms Center, Inc., Shanghai 201318, China."
-        ],
+        "author": "Ruilin Sun",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shen R",
-        "affiliations": [
-          "Shanghai Laboratory Animal Research Center, Shanghai 201203, China."
-        ],
+        "author": "Ruling Shen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma X",
-        "affiliations": [
-          "Department of Pharmacology, Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China."
-        ],
+        "author": "Xin Ma",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Petrova TV",
-        "affiliations": [
-          "Department of Fundamental Oncology, Ludwig Institute for Cancer Research Lausanne and University of Lausanne, Lausanne 1066, Switzerland."
-        ],
+        "author": "Tatiana V. Petrova",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mäkinen T",
-        "affiliations": [
-          "Translational Cancer Medicine Program, Research Programs Unit, Biomedicum Helsinki, University of Helsinki, 00014 Helsinki, Finland; Wihuri Research Institute, Haartmaninkatu 8, 00290 Helsinki, Finland."
-        ],
+        "author": "Taija Mäkinen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dellinger MT",
-        "affiliations": [
-          "Division of Surgical Oncology, Department of Surgery and The Hamon Center for Therapeutic Oncology Research, UT Southwestern Medical Center, Dallas, TX 75390, USA."
-        ],
+        "author": "Michael T. Dellinger",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kruse K",
-        "affiliations": [
-          "Max Planck Institute for Molecular Biomedicine, Bioinformatics Service Unit, Münster 48149, Germany."
-        ],
+        "author": "Kai Kruse",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Adams RH",
-        "affiliations": [
-          "Max Planck Institute for Molecular Biomedicine, Department of Tissue Morphogenesis, Münster 48149, Germany. Electronic address: ralf.adams@mpi-muenster.mpg.de."
-        ],
+        "author": "Ralf H. Adams",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhou B",
-        "affiliations": [
-          "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China; Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China. Electronic address: zhoubin@sibs.ac.cn."
-        ],
+        "author": "Bin Zhou",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China.",
-      "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China.",
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China.",
-      "Shanghai Model Organisms Center, Inc., Shanghai 201318, China.",
-      "Shanghai Laboratory Animal Research Center, Shanghai 201203, China.",
-      "Department of Pharmacology, Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China.",
-      "Department of Fundamental Oncology, Ludwig Institute for Cancer Research Lausanne and University of Lausanne, Lausanne 1066, Switzerland.",
-      "Translational Cancer Medicine Program, Research Programs Unit, Biomedicum Helsinki, University of Helsinki, 00014 Helsinki, Finland; Wihuri Research Institute, Haartmaninkatu 8, 00290 Helsinki, Finland.",
-      "Division of Surgical Oncology, Department of Surgery and The Hamon Center for Therapeutic Oncology Research, UT Southwestern Medical Center, Dallas, TX 75390, USA.",
-      "Max Planck Institute for Molecular Biomedicine, Bioinformatics Service Unit, Münster 48149, Germany.",
-      "Max Planck Institute for Molecular Biomedicine, Department of Tissue Morphogenesis, Münster 48149, Germany. Electronic address: ralf.adams@mpi-muenster.mpg.de.",
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China; Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China. Electronic address: zhoubin@sibs.ac.cn."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China.",
-      "Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China.",
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China.",
-      "Shanghai Model Organisms Center, Inc., Shanghai 201318, China.",
-      "Shanghai Laboratory Animal Research Center, Shanghai 201203, China.",
-      "Department of Pharmacology, Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China.",
-      "CAS CEMCS-CUHK Joint Laboratories, New Cornerstone Science Laboratory, Key Laboratory of Multi-Cell Systems, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai 200031, China; School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China; Key Laboratory of Systems Health Science of Zhejiang Province, School of Life Science, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China. Electronic address: zhoubin@sibs.ac.cn."
-    ],
-    "china_key_authors": [
-      "Meng X",
-      "Liu K",
-      "Tang M",
-      "Weng W",
-      "Zhang Z",
-      "Huang X",
-      "He Z",
-      "Han X",
-      "Sun R",
-      "Shen R",
-      "Ma X",
-      "Zhou B"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:first_last_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
@@ -81326,7 +81432,7 @@
     "doi": "10.1016/j.cell.2026.06.026",
     "journal": "Cell",
     "title_first_seen": "Multimodal evidence for bone lymphatics in skeletal health and repair",
-    "current_title": "Multimodal evidence for bone lymphatics in skeletal health and repair.",
+    "current_title": "Multimodal evidence for bone lymphatics in skeletal health and repair",
     "source_url": "https://doi.org/10.1016/j.cell.2026.06.026",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -81352,94 +81458,70 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Yang Y",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore."
-        ],
+        "author": "Yang Yang",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zhang Y",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore."
-        ],
+        "author": "Yuheng Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shi Y",
-        "affiliations": [
-          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China."
-        ],
+        "author": "Yixin Shi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jain S",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore."
-        ],
+        "author": "Sanyam Jain",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Joseph JD",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore."
-        ],
+        "author": "Jessy D. Joseph",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Singh A",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; Multidisciplinary Institute of Ageing, University of Coimbra, 3005-504 Coimbra, Portugal."
-        ],
+        "author": "Amit Singh",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen J",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China. Electronic address: junyuchen@scu.edu.cn."
-        ],
+        "author": "Junyu Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ramasamy SK",
-        "affiliations": [
-          "Nutrition, Metabolism and Health Research Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore."
-        ],
+        "author": "Saravana K. Ramasamy",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kusumbe AP",
-        "affiliations": [
-          "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; Multidisciplinary Institute of Ageing, University of Coimbra, 3005-504 Coimbra, Portugal. Electronic address: anjali.pkusumbe@ntu.edu.sg."
-        ],
+        "author": "Anjali P. Kusumbe",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore.",
-      "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
-      "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; Multidisciplinary Institute of Ageing, University of Coimbra, 3005-504 Coimbra, Portugal.",
-      "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China. Electronic address: junyuchen@scu.edu.cn.",
-      "Nutrition, Metabolism and Health Research Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore.",
-      "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; Multidisciplinary Institute of Ageing, University of Coimbra, 3005-504 Coimbra, Portugal. Electronic address: anjali.pkusumbe@ntu.edu.sg."
-    ],
-    "china_team_status": "china_participating",
-    "china_institutions": [
-      "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.",
-      "Tissue and Tumor Microenvironments Laboratory, Cancer Discovery and Regenerative Medicine Program, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore 636921, Singapore; State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China. Electronic address: junyuchen@scu.edu.cn."
-    ],
-    "china_key_authors": [
-      "Shi Y",
-      "Chen J"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:author_affiliation"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
@@ -81485,7 +81567,7 @@
     "doi": "10.1016/j.cell.2026.07.042",
     "journal": "Cell",
     "title_first_seen": "Cuproptosis enters the cancer-immunity circuit",
-    "current_title": "Cuproptosis enters the cancer-immunity circuit.",
+    "current_title": "Cuproptosis enters the cancer-immunity circuit",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.042",
     "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
@@ -81504,41 +81586,28 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-21",
     "batched_at": "2026-08-21T13:05:10+08:00",
-    "last_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-23T07:55:50+08:00",
+    "last_seen_at": "2026-08-23T10:35:28+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-23T10:35:28+08:00",
     "author_affiliations": [
       {
-        "author": "Gao Y",
-        "affiliations": [
-          "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China."
-        ],
+        "author": "Yunhao Gao",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Xing N",
-        "affiliations": [
-          "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China. Electronic address: xingnianzeng@126.com."
-        ],
+        "author": "Nianzeng Xing",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China.",
-      "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China. Electronic address: xingnianzeng@126.com."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China.",
-      "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China; State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China. Electronic address: xingnianzeng@126.com."
-    ],
-    "china_key_authors": [
-      "Gao Y",
-      "Xing N"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-21T06:23:00+08:00",
     "triggered_at": "2026-08-21T06:49:08+08:00",
     "scheduler_delay_minutes": 26.1,
