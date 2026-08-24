@@ -1,0 +1,11 @@
+{
+  "batch_id": "daily-2026-08-24",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.015",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实的Cell Perspective摘要完成重点解读；文章系统讨论神经退行性疾病中的神经-免疫串扰、免疫稳态、炎症调节与免疫状态表观遗传调控，主题与神经科学/神经免疫及潜在治疗开发高度相关，且证据门槛已满足。",
+      "priority_level": "P1"
+    }
+  ]
+}
