@@ -81211,10 +81211,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-08-23T15:16:08+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-08-23",
-    "deep_analysis_reason": "已取得足够摘要证据且神经免疫/神经退行性疾病高度相关，但本期非原创研究/非正式Review类名额已由骨淋巴管Matters Arising和Science自驱实验室Perspective占满，顺延至后续日报。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-24T15:19:12+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-24",
+    "deep_analysis_reason": "本次日报已基于可核实的Cell Perspective摘要完成重点解读；文章系统讨论神经退行性疾病中的神经-免疫串扰、免疫稳态、炎症调节与免疫状态表观遗传调控，主题与神经科学/神经免疫及潜在治疗开发高度相关，且证据门槛已满足。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-08-21",
     "first_formal_batch_date": "2026-08-21",
@@ -81239,7 +81239,9 @@
     "first_index_date": "2026-08-22",
     "europe_pmc_last_seen_at": "2026-08-24T07:55:46+08:00",
     "europe_pmc_first_seen_at": "2026-08-23T07:55:50+08:00",
-    "last_enrichment_success_at": "2026-08-24T09:56:25+08:00"
+    "last_enrichment_success_at": "2026-08-24T09:56:25+08:00",
+    "deep_analysis_completed_at": "2026-08-24T15:19:12+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-24"
   },
   "10.1016/j.cell.2026.07.014": {
     "doi": "10.1016/j.cell.2026.07.014",

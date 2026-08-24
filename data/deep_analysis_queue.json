@@ -2463,16 +2463,18 @@
       "article_type_quota",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-08-23T15:16:08+08:00",
+    "last_reviewed_at": "2026-08-24T15:19:12+08:00",
     "first_formal_batch_id": "daily-2026-08-21",
     "first_formal_batch_date": "2026-08-21",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.015",
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-08-24T00:00:00+08:00",
-    "last_enrichment_success_at": "2026-08-24T09:56:25+08:00"
+    "last_enrichment_success_at": "2026-08-24T09:56:25+08:00",
+    "completed_at": "2026-08-24T15:19:12+08:00",
+    "completed_in_batch_id": "daily-2026-08-24"
   },
   "10.1038/d41586-026-02553-x": {
     "doi": "10.1038/d41586-026-02553-x",
