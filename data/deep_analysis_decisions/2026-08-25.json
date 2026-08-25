@@ -1,0 +1,41 @@
+{
+  "batch_id": "daily-2026-08-25",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.041",
+      "disposition": "completed",
+      "reason": "Original Cell research directly relevant to cancer biology, genome stability and neurodevelopment; this run obtained and reviewed the authors' bioRxiv preprint with substantive mechanistic evidence.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02616-z",
+      "disposition": "completed",
+      "reason": "Nature News with direct translational relevance to mitochondrial therapy and ophthalmology; publisher full text was reviewed in this run and supports a substantive, appropriately qualified interpretation.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02571-9",
+      "disposition": "not_selected",
+      "reason": "Book Review focused on philosophy of AI consciousness; outside the direct life-science, biomedicine and AI-for-biology investment scope and excluded by article-type policy.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02572-8",
+      "disposition": "not_selected",
+      "reason": "Comment on public procurement and frontier-technology market structure; relevant to technology policy broadly but not directly connected to the life-science and biomedical investment scope for deep analysis.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02641-y",
+      "disposition": "not_selected",
+      "reason": "Nature Video on consumer exoskeleton adoption; related to devices but this format is ordinarily excluded and the item does not clear the threshold for a major direct life-science investment impact.",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02620-3",
+      "disposition": "not_selected",
+      "reason": "Fusion-energy and nuclear-weapons technology news is outside the specified life-science, biomedicine and directly related investment scope.",
+      "priority_level": "P3"
+    }
+  ]
+}
