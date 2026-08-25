@@ -82312,7 +82312,14 @@
     "triggered_at": "2026-08-24T17:26:50+08:00",
     "scheduler_delay_minutes": 49.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Nature News with direct translational relevance to mitochondrial therapy and ophthalmology; publisher full text was reviewed in this run and supports a substantive, appropriately qualified interpretation.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-25"
   },
   "10.1038/d41586-026-02641-y": {
     "doi": "10.1038/d41586-026-02641-y",
@@ -82354,7 +82361,12 @@
     "triggered_at": "2026-08-24T21:34:35+08:00",
     "scheduler_delay_minutes": 51.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Nature Video on consumer exoskeleton adoption; related to devices but this format is ordinarily excluded and the item does not clear the threshold for a major direct life-science investment impact.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02572-8": {
     "doi": "10.1038/d41586-026-02572-8",
@@ -82402,7 +82414,12 @@
     "triggered_at": "2026-08-24T21:34:35+08:00",
     "scheduler_delay_minutes": 51.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Comment on public procurement and frontier-technology market structure; relevant to technology policy broadly but not directly connected to the life-science and biomedical investment scope for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02571-9": {
     "doi": "10.1038/d41586-026-02571-9",
@@ -82444,7 +82461,12 @@
     "triggered_at": "2026-08-24T21:34:35+08:00",
     "scheduler_delay_minutes": 51.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Book Review focused on philosophy of AI consciousness; outside the direct life-science, biomedicine and AI-for-biology investment scope and excluded by article-type policy.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02620-3": {
     "doi": "10.1038/d41586-026-02620-3",
@@ -82479,7 +82501,12 @@
     "triggered_at": "2026-08-25T06:47:40+08:00",
     "scheduler_delay_minutes": 24.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Fusion-energy and nuclear-weapons technology news is outside the specified life-science, biomedicine and directly related investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.07.041": {
     "doi": "10.1016/j.cell.2026.07.041",
@@ -82672,6 +82699,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-28T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-28T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-25",
+    "deep_analysis_reason": "Original Cell research directly relevant to cancer biology, genome stability and neurodevelopment; this run obtained and reviewed the authors' bioRxiv preprint with substantive mechanistic evidence.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-25T15:17:23+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-25"
   }
 }
