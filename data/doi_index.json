@@ -82806,7 +82806,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Addendum，且主题为沿海灾害/海平面，与生命科学投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02633-y": {
     "doi": "10.1038/d41586-026-02633-y",
@@ -82860,7 +82865,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Correspondence，讨论 AI 版权许可，非 AI×生命科学直接主题，投资相关性不足。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02631-0": {
     "doi": "10.1038/d41586-026-02631-0",
@@ -82902,7 +82912,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Correspondence，讨论同行评议中的 AI 使用，属于科研流程议题而非 AI×生命科学直接研究。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02634-x": {
     "doi": "10.1038/d41586-026-02634-x",
@@ -82944,7 +82959,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Correspondence，主题为战区教育保护，与生命科学投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02382-y": {
     "doi": "10.1038/d41586-026-02382-y",
@@ -82979,7 +82999,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "News & Views/历史科学内容，主题为古代测量工具，与重点方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02632-z": {
     "doi": "10.1038/d41586-026-02632-z",
@@ -83039,7 +83064,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Correspondence，主题为 AI 时代学生评估，不属于生命科学或生物医药投资重点。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02115-1": {
     "doi": "10.1038/d41586-026-02115-1",
@@ -83087,7 +83117,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Career Column，主要是科研职业建议，不属于生命科学投资重点解读范围。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02094-3": {
     "doi": "10.1038/d41586-026-02094-3",
@@ -83129,7 +83164,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Career Feature，聚焦英国政府科研职业史，不属于重点研究/投资方向。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02622-1": {
     "doi": "10.1038/d41586-026-02622-1",
@@ -83171,7 +83211,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "World View，虽涉及中国生物技术和全球健康合作，但属于宏观观点，未达到本期有限非原创名额下的重点解读优先级。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02573-7": {
     "doi": "10.1038/d41586-026-02573-7",
@@ -83225,7 +83270,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Comment，讨论睡眠增强技术的伦理和隐私，邻接健康但科学与投资增量不足。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02550-0": {
     "doi": "10.1038/d41586-026-02550-0",
@@ -83267,7 +83317,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Career News，属于科研经费趣闻/职业内容，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02665-4": {
     "doi": "10.1038/d41586-026-02665-4",
@@ -83302,7 +83357,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Nature Briefing，主题为地球物理且属于聚合内容，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02638-7": {
     "doi": "10.1038/d41586-026-02638-7",
@@ -83337,7 +83397,12 @@
     "triggered_at": "2026-08-25T21:32:58+08:00",
     "scheduler_delay_minutes": 50.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Nature Briefing，且个体化 mRNA 肿瘤疫苗核心进展此前已完成实质解读，避免重复。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02611-4": {
     "doi": "10.1038/d41586-026-02611-4",
@@ -83372,7 +83437,12 @@
     "triggered_at": "2026-08-26T06:49:11+08:00",
     "scheduler_delay_minutes": 26.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "哮喘/神经-免疫机制与药物发现相关且已有出版商实质证据，但本期非原创研究/评论类名额已由更高优先级条目占用，顺延处理。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02567-5": {
     "doi": "10.1038/d41586-026-02567-5",
@@ -83407,7 +83477,12 @@
     "triggered_at": "2026-08-26T06:49:11+08:00",
     "scheduler_delay_minutes": 26.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "Editorial，讨论通用 AI 风险治理，与 AI×生命科学直接投资主题连接不足。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02661-8": {
     "doi": "10.1038/d41586-026-02661-8",
@@ -83449,7 +83524,14 @@
     "triggered_at": "2026-08-26T06:49:11+08:00",
     "scheduler_delay_minutes": 26.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "本次已读取 Nature News 与其对应 Nature Medicine 正式原创论文，完成成人海马神经发生与 MDD 的重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-26"
   },
   "10.1038/d41586-026-02569-3": {
     "doi": "10.1038/d41586-026-02569-3",
@@ -83497,7 +83579,12 @@
     "triggered_at": "2026-08-26T06:49:11+08:00",
     "scheduler_delay_minutes": 26.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "News Feature，主要讨论 AI 文本检测与出版流程，不属于生命科学 AI 的直接投资主题。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02635-w": {
     "doi": "10.1038/d41586-026-02635-w",
@@ -83539,7 +83626,14 @@
     "triggered_at": "2026-08-26T06:49:11+08:00",
     "scheduler_delay_minutes": 26.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "本次已读取 Nature 正文并完成重点解读；商业抗体验证图像的大规模完整性问题直接影响生命科学工具、数据可信度和 AI 生物学训练数据。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-26"
   },
   "10.1016/j.cell.2026.07.039": {
     "doi": "10.1016/j.cell.2026.07.039",
@@ -83648,6 +83742,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-08-29T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-08-29T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-26",
+    "deep_analysis_reason": "本次已基于作者正式 bioRxiv 预印本完成重点解读；Spatial Hi-C-RNA 与空间多组学、3D 基因组和神经科学工具高度相关。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-08-26T15:15:10+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-26"
   }
 }
