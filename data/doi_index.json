@@ -82522,9 +82522,9 @@
     "doi": "10.1016/j.cell.2026.07.041",
     "journal": "Cell",
     "title_first_seen": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development",
-    "current_title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+    "current_title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.041",
-    "rss_reported_time": "2026-08-24T08:00:00+08:00",
+    "rss_reported_time": "2026-08-01T08:00:00+08:00",
     "authors_rss": [
       "Kaima Tsukada",
       "Liudmyla Lototska",
@@ -82561,187 +82561,148 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-25",
     "batched_at": "2026-08-25T13:06:01+08:00",
-    "last_seen_at": "2026-08-26T07:57:56+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-08-26T07:57:56+08:00",
+    "last_seen_at": "2026-08-26T10:37:45+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-08-26T10:37:45+08:00",
     "author_affiliations": [
       {
-        "author": "Tsukada K",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Kaima Tsukada",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Lototska L",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Liudmyla Lototska",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tsukada A",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Aya Tsukada",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sarusie MVK",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Menachem V.K. Sarusie",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gönenç II",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Ipek Ilgin Gönenç",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sherlaw-Sturrock C",
-        "affiliations": [
-          "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK."
-        ],
+        "author": "Charlotte Sherlaw-Sturrock",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kanade M",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Manil Kanade",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Palek M",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Matous Palek",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Oliver AW",
-        "affiliations": [
-          "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK."
-        ],
+        "author": "Antony W. Oliver",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jones SE",
-        "affiliations": [
-          "Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK."
-        ],
+        "author": "Samuel E. Jones",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jhujh SS",
-        "affiliations": [
-          "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK."
-        ],
+        "author": "Satpal S. Jhujh",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bannister J",
-        "affiliations": [
-          "Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK."
-        ],
+        "author": "Julius Bannister",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ali A",
-        "affiliations": [
-          "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan."
-        ],
+        "author": "Asmat Ali",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Raza M",
-        "affiliations": [
-          "Department of Paediatrics and Child Health, Aga Khan University, Karachi, Pakistan."
-        ],
+        "author": "Muhammad Raza",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Toft M",
-        "affiliations": [
-          "Department of Neurology, Oslo University Hospital, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
-        ],
+        "author": "Mathias Toft",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Iqbal Z",
-        "affiliations": [
-          "Department of Neurology, Oslo University Hospital, Oslo, Norway."
-        ],
+        "author": "Zafar Iqbal",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fatima A",
-        "affiliations": [
-          "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan; Centre for Regenerative Medicine and Stem Cell Research, Aga Khan University, Karachi, Pakistan."
-        ],
+        "author": "Ambrin Fatima",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Miller TCR",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark."
-        ],
+        "author": "Thomas C.R. Miller",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Larsen LA",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; College of Health Sciences, VinUniversity, Hanoi, Vietnam."
-        ],
+        "author": "Lars Allan Larsen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Stewart GS",
-        "affiliations": [
-          "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK."
-        ],
+        "author": "Grant S. Stewart",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ochs F",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark. Electronic address: fenaochs@sund.ku.dk."
-        ],
+        "author": "Fena Ochs",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Blackford AN",
-        "affiliations": [
-          "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark; Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK. Electronic address: ablackford@sund.ku.dk."
-        ],
+        "author": "Andrew N. Blackford",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark.",
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark.",
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark.",
-      "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, UK.",
-      "Genome Damage and Stability Centre, School of Life Sciences, University of Sussex, Brighton, UK.",
-      "Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK.",
-      "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan.",
-      "Department of Paediatrics and Child Health, Aga Khan University, Karachi, Pakistan.",
-      "Department of Neurology, Oslo University Hospital, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway.",
-      "Department of Neurology, Oslo University Hospital, Oslo, Norway.",
-      "Department of Biological and Biomedical Sciences, Aga Khan University, Karachi, Pakistan; Centre for Regenerative Medicine and Stem Cell Research, Aga Khan University, Karachi, Pakistan.",
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; College of Health Sciences, VinUniversity, Hanoi, Vietnam.",
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Gene Expression, University of Copenhagen, Copenhagen, Denmark. Electronic address: fenaochs@sund.ku.dk.",
-      "Department of Cellular and Molecular Medicine, University of Copenhagen, Copenhagen, Denmark; Center for Chromosome Stability, University of Copenhagen, Copenhagen, Denmark; Department of Oncology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, UK. Electronic address: ablackford@sund.ku.dk."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-08-25T06:23:00+08:00",
     "triggered_at": "2026-08-25T06:47:40+08:00",
     "scheduler_delay_minutes": 24.7,
@@ -83611,9 +83572,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-08-26T06:49:11+08:00",
+    "last_seen_at": "2026-08-26T10:37:45+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-08-26T06:49:11+08:00",
+    "last_updated_at": "2026-08-26T10:37:45+08:00",
     "author_affiliations": [
       {
         "author": "Pengfei Guo",
