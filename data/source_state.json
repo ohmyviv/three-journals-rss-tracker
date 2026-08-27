@@ -1,33 +1,33 @@
 {
   "nature": {
-    "etag": "\"94686753a6bf7d73e9f059cce7046266\"",
+    "etag": "\"7585e17071461aea44954e0d2d53e453\"",
     "last_modified": null,
-    "feed_hash": "227671150e0b60cd4fb128e4dd95d5c0927673f7dae2ab3700b2bf7a141ec63e",
-    "last_success_at": "2026-08-27T22:05:40+08:00",
-    "last_checked_at": "2026-08-27T22:05:40+08:00",
+    "feed_hash": "56a7b98ad90e0fb8535414176ab39473c97a4c91a5098c90560323829fc41c89",
+    "last_success_at": "2026-08-28T03:14:04+08:00",
+    "last_checked_at": "2026-08-28T03:14:04+08:00",
     "last_status": "success",
     "last_error": null
   },
   "science": {
-    "last_checked_at": "2026-08-27T22:05:40+08:00",
+    "last_checked_at": "2026-08-28T03:14:04+08:00",
     "last_status": "fallback_crossref",
     "last_error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
-    "last_success_at": "2026-08-27T22:05:40+08:00",
+    "last_success_at": "2026-08-28T03:14:04+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
-    "fallback_last_success_at": "2026-08-27T22:05:40+08:00",
+    "fallback_last_success_at": "2026-08-28T03:14:04+08:00",
     "fallback_last_status": "success",
     "fallback_query_mode": "created",
     "fallback_query_start": "2026-08-25"
   },
   "cell": {
-    "last_checked_at": "2026-08-27T22:05:40+08:00",
+    "last_checked_at": "2026-08-28T03:14:04+08:00",
     "last_status": "fallback_crossref",
     "last_error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
-    "last_success_at": "2026-08-27T22:05:40+08:00",
+    "last_success_at": "2026-08-28T03:14:04+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
-    "fallback_last_success_at": "2026-08-27T22:05:40+08:00",
+    "fallback_last_success_at": "2026-08-28T03:14:04+08:00",
     "fallback_last_status": "success",
     "fallback_query_mode": "created",
     "fallback_query_start": "2026-08-25"
