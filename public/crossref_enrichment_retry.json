@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-26T09:57:38+08:00",
+  "generated_at": "2026-08-27T17:44:31+08:00",
   "timezone": "Asia/Shanghai",
   "retry_days": [
     3,
@@ -9,8 +9,8 @@
   ],
   "status": "success",
   "counts": {
-    "doi_records_seen": 1100,
-    "formal_batch_fields_backfilled": 6,
+    "doi_records_seen": 1142,
+    "formal_batch_fields_backfilled": 19,
     "crossref_metadata_only": 29,
     "awaiting_enrichment": 29,
     "due": 0,
@@ -41,5 +41,5 @@
     "10.1016/j.cell.2026.07.046"
   ],
   "failures": [],
-  "completed_at": "2026-08-26T09:57:38+08:00"
+  "completed_at": "2026-08-27T17:44:31+08:00"
 }
