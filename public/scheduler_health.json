@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-08-27T20:54:53+08:00",
+  "generated_at": "2026-08-27T20:55:09+08:00",
   "status": "scheduler_delayed",
-  "total_events": 234,
+  "total_events": 235,
   "latest_event": {
-    "workflow": "rss_discovery",
-    "trigger_type": "schedule",
-    "schedule_expression_utc": "23 2 * * *",
-    "scheduled_for": "2026-08-27T10:23:00+08:00",
-    "triggered_at": "2026-08-27T20:54:51+08:00",
-    "delay_minutes": 631.9,
+    "workflow": "freeze_daily_batch",
+    "trigger_type": "workflow_run",
+    "schedule_expression_utc": null,
+    "scheduled_for": null,
+    "triggered_at": "2026-08-27T20:55:09+08:00",
+    "delay_minutes": null,
     "delay_threshold_minutes": 15,
-    "scheduler_delayed": true,
-    "status": "scheduler_delayed",
-    "late_discovery_recovery": true,
-    "intended_batch_date": "2026-08-27",
-    "run_id": "discover-2026-08-27T205451p0800",
-    "outcome": "degraded_fallback_sources",
-    "completed_at": "2026-08-27T20:54:53+08:00"
+    "scheduler_delayed": false,
+    "status": "non_scheduled",
+    "batch_id": "daily-2026-08-27",
+    "target_date": "2026-08-27",
+    "outcome": "checked_existing_no_new_recovery",
+    "completed_at": "2026-08-27T20:55:09+08:00"
   },
   "workflows": {
     "rss_discovery": {
@@ -42,7 +41,7 @@
       }
     },
     "freeze_daily_batch": {
-      "runs": 123,
+      "runs": 124,
       "scheduled_runs": 30,
       "delayed_runs": 30,
       "max_delay_minutes": 248.3,
@@ -51,19 +50,15 @@
         "trigger_type": "workflow_run",
         "schedule_expression_utc": null,
         "scheduled_for": null,
-        "triggered_at": "2026-08-27T19:09:26+08:00",
+        "triggered_at": "2026-08-27T20:55:09+08:00",
         "delay_minutes": null,
         "delay_threshold_minutes": 15,
         "scheduler_delayed": false,
         "status": "non_scheduled",
         "batch_id": "daily-2026-08-27",
         "target_date": "2026-08-27",
-        "outcome": "degraded_sources",
-        "late_recovery_dois": 1,
-        "cross_day_carryover_dois": 13,
-        "cross_day_carryover_missing_doi": 0,
-        "recovery_updated_batch": false,
-        "completed_at": "2026-08-27T19:09:26+08:00"
+        "outcome": "checked_existing_no_new_recovery",
+        "completed_at": "2026-08-27T20:55:09+08:00"
       }
     },
     "europe_pmc_audit": {
