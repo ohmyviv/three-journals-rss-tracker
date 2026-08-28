@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-08-27T130125p0800",
-  "checked_at": "2026-08-27T13:01:25+08:00",
+  "run_id": "europe-pmc-2026-08-28T150417p0800",
+  "checked_at": "2026-08-28T15:04:17+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-08-27T07:41:00+08:00",
-  "triggered_at": "2026-08-27T13:01:25+08:00",
-  "scheduler_delay_minutes": 320.4,
+  "scheduled_for": "2026-08-28T07:41:00+08:00",
+  "triggered_at": "2026-08-28T15:04:17+08:00",
+  "scheduler_delay_minutes": 443.3,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 196,
+    "items_seen": 195,
     "new_dois": 0,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 196,
+    "duplicates": 195,
     "records_enriched": 1,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
@@ -28,11 +28,11 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-07-28 TO 2026-08-27]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-07-29 TO 2026-08-28]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.587,
+      "duration_seconds": 2.47,
       "pages": 1,
       "items_returned": 146,
       "error": null,
@@ -43,19 +43,19 @@
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-07-28 TO 2026-08-27]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-07-29 TO 2026-08-28]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.183,
+      "duration_seconds": 1.48,
       "pages": 1,
-      "items_returned": 50,
+      "items_returned": 49,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 50,
+      "duplicates": 49,
       "records_enriched": 1
     }
   },
-  "completed_at": "2026-08-27T13:01:29+08:00"
+  "completed_at": "2026-08-28T15:04:21+08:00"
 }
