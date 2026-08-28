@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-28T20:42:20+08:00",
+  "generated_at": "2026-08-28T22:25:47+08:00",
   "status": "degraded_fallback_sources",
-  "latest_run_id": "discover-2026-08-28T204218p0800",
+  "latest_run_id": "discover-2026-08-28T222544p0800",
   "source_status": {
     "nature": "success",
     "science": "fallback_crossref",
     "cell": "fallback_crossref"
   },
   "scheduler_delayed": true,
-  "scheduler_delay_minutes": 695.3,
+  "scheduler_delay_minutes": 722.7,
   "late_discovery_recovery": true,
-  "doi_index_count": 1192,
+  "doi_index_count": 1194,
   "pending_doi_count": 0,
   "deep_analysis_queue_count": 0,
   "deep_analysis_record_count": 127
