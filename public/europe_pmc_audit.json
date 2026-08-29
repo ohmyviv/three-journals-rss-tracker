@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-08-28T150417p0800",
-  "checked_at": "2026-08-28T15:04:17+08:00",
+  "run_id": "europe-pmc-2026-08-29T121846p0800",
+  "checked_at": "2026-08-29T12:18:46+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-08-28T07:41:00+08:00",
-  "triggered_at": "2026-08-28T15:04:17+08:00",
-  "scheduler_delay_minutes": 443.3,
+  "scheduled_for": "2026-08-29T07:41:00+08:00",
+  "triggered_at": "2026-08-29T12:18:46+08:00",
+  "scheduler_delay_minutes": 277.8,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 195,
+    "items_seen": 193,
     "new_dois": 0,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 195,
-    "records_enriched": 1,
+    "duplicates": 193,
+    "records_enriched": 0,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
@@ -28,11 +28,11 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-07-29 TO 2026-08-28]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-07-30 TO 2026-08-29]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 2.47,
+      "duration_seconds": 2.014,
       "pages": 1,
       "items_returned": 146,
       "error": null,
@@ -43,19 +43,19 @@
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-07-29 TO 2026-08-28]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-07-30 TO 2026-08-29]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.48,
+      "duration_seconds": 1.79,
       "pages": 1,
-      "items_returned": 49,
+      "items_returned": 47,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 49,
-      "records_enriched": 1
+      "duplicates": 47,
+      "records_enriched": 0
     }
   },
-  "completed_at": "2026-08-28T15:04:21+08:00"
+  "completed_at": "2026-08-29T12:18:50+08:00"
 }
