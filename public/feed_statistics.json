@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T17:09:41+08:00",
+  "generated_at": "2026-08-30T21:58:16+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 113,
-      "successful_checks": 112,
+      "checks": 114,
+      "successful_checks": 113,
       "failed_checks": 1,
       "checks_with_new_items": 14,
       "total_new_items_observed": 30,
@@ -23,17 +23,17 @@
         "Saturday": 2,
         "Thursday": 2
       },
-      "last_checked_at": "2026-08-30T17:09:39+08:00",
-      "last_success_at": "2026-08-30T17:09:39+08:00"
+      "last_checked_at": "2026-08-30T21:58:12+08:00",
+      "last_success_at": "2026-08-30T21:58:12+08:00"
     },
     "nature": {
-      "checks": 113,
-      "successful_checks": 113,
+      "checks": 114,
+      "successful_checks": 114,
       "failed_checks": 0,
-      "checks_with_new_items": 36,
-      "total_new_items_observed": 241,
+      "checks_with_new_items": 37,
+      "total_new_items_observed": 242,
       "new_item_checks_by_hour": {
-        "21:00-21:59": 11,
+        "21:00-21:59": 12,
         "06:00-06:59": 7,
         "17:00-17:59": 6,
         "07:00-07:59": 3,
@@ -52,14 +52,15 @@
         "Wednesday": 6,
         "Friday": 6,
         "Monday": 5,
-        "Saturday": 3
+        "Saturday": 3,
+        "Sunday": 1
       },
-      "last_checked_at": "2026-08-30T17:09:39+08:00",
-      "last_success_at": "2026-08-30T17:09:39+08:00"
+      "last_checked_at": "2026-08-30T21:58:12+08:00",
+      "last_success_at": "2026-08-30T21:58:12+08:00"
     },
     "science": {
-      "checks": 113,
-      "successful_checks": 113,
+      "checks": 114,
+      "successful_checks": 114,
       "failed_checks": 0,
       "checks_with_new_items": 4,
       "total_new_items_observed": 109,
@@ -73,8 +74,8 @@
         "Friday": 3,
         "Saturday": 1
       },
-      "last_checked_at": "2026-08-30T17:09:39+08:00",
-      "last_success_at": "2026-08-30T17:09:39+08:00"
+      "last_checked_at": "2026-08-30T21:58:12+08:00",
+      "last_success_at": "2026-08-30T21:58:12+08:00"
     }
   }
 }
