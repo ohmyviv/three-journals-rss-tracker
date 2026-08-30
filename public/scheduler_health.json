@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-08-30T08:25:59+08:00",
+  "generated_at": "2026-08-30T08:26:18+08:00",
   "status": "scheduler_delayed",
-  "total_events": 274,
+  "total_events": 275,
   "latest_event": {
-    "workflow": "rss_discovery",
-    "trigger_type": "schedule",
-    "schedule_expression_utc": "23 22 * * *",
-    "scheduled_for": "2026-08-30T06:23:00+08:00",
-    "triggered_at": "2026-08-30T08:25:56+08:00",
-    "delay_minutes": 122.9,
+    "workflow": "freeze_daily_batch",
+    "trigger_type": "workflow_run",
+    "schedule_expression_utc": null,
+    "scheduled_for": null,
+    "triggered_at": "2026-08-30T08:26:18+08:00",
+    "delay_minutes": null,
     "delay_threshold_minutes": 15,
-    "scheduler_delayed": true,
-    "status": "scheduler_delayed",
-    "late_discovery_recovery": false,
-    "intended_batch_date": null,
-    "run_id": "discover-2026-08-30T082556p0800",
-    "outcome": "degraded_fallback_sources",
-    "completed_at": "2026-08-30T08:25:59+08:00"
+    "scheduler_delayed": false,
+    "status": "non_scheduled",
+    "batch_id": "daily-2026-08-30",
+    "target_date": "2026-08-30",
+    "outcome": "too_early",
+    "completed_at": "2026-08-30T08:26:18+08:00",
+    "now_at": "2026-08-30T08:26:18+08:00",
+    "cutoff_at": "2026-08-30T12:17:00+08:00",
+    "existing_premature_batch": false
   },
   "workflows": {
     "rss_discovery": {
@@ -42,7 +44,7 @@
       }
     },
     "freeze_daily_batch": {
-      "runs": 145,
+      "runs": 146,
       "scheduled_runs": 36,
       "delayed_runs": 36,
       "max_delay_minutes": 739.9,
@@ -51,7 +53,7 @@
         "trigger_type": "workflow_run",
         "schedule_expression_utc": null,
         "scheduled_for": null,
-        "triggered_at": "2026-08-30T00:51:59+08:00",
+        "triggered_at": "2026-08-30T08:26:18+08:00",
         "delay_minutes": null,
         "delay_threshold_minutes": 15,
         "scheduler_delayed": false,
@@ -59,8 +61,8 @@
         "batch_id": "daily-2026-08-30",
         "target_date": "2026-08-30",
         "outcome": "too_early",
-        "completed_at": "2026-08-30T00:51:59+08:00",
-        "now_at": "2026-08-30T00:51:59+08:00",
+        "completed_at": "2026-08-30T08:26:18+08:00",
+        "now_at": "2026-08-30T08:26:18+08:00",
         "cutoff_at": "2026-08-30T12:17:00+08:00",
         "existing_premature_batch": false
       }
