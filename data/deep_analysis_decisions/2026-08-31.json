@@ -1,0 +1,17 @@
+{
+  "batch_id": "daily-2026-08-31",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02727-7",
+      "disposition": "not_selected",
+      "reason": "Nature News on the Roman Space Telescope and dark-energy astronomy; outside the life-science, biomedicine, AI-for-life-science and related investment relevance gate.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02684-1",
+      "disposition": "completed",
+      "reason": "Completed in the 2026-08-31 daily brief using the full Nature Technology Feature as substantive evidence; directly relevant to AI-enabled zoonotic surveillance, pandemic preparedness and biomedical/public-health data infrastructure.",
+      "priority_level": "P1"
+    }
+  ]
+}
