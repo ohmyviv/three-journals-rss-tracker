@@ -482,15 +482,16 @@
   "daily-2026-08-31": {
     "batch_id": "daily-2026-08-31",
     "date": "2026-08-31",
-    "generated_at": "2026-08-31T14:59:26+08:00",
+    "generated_at": "2026-08-31T16:44:33+08:00",
     "status": "degraded_sources",
     "flags": [
       "scheduler_delayed",
+      "late_discovery_recovery",
       "cross_day_carryover"
     ],
-    "new_doi_count": 2,
+    "new_doi_count": 3,
     "new_missing_doi_count": 0,
-    "late_recovery_doi_count": 0,
+    "late_recovery_doi_count": 1,
     "cross_day_carryover_doi_count": 1,
     "cross_day_carryover_missing_doi_count": 0,
     "path": "public/batches/2026-08-31.json"
