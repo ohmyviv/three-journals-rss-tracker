@@ -95326,7 +95326,12 @@
     "triggered_at": "2026-08-30T21:58:12+08:00",
     "scheduler_delay_minutes": 321.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-08-31T15:23:16+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-31",
+    "deep_analysis_reason": "Nature News on the Roman Space Telescope and dark-energy astronomy; outside the life-science, biomedicine, AI-for-life-science and related investment relevance gate.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02684-1": {
     "doi": "10.1038/d41586-026-02684-1",
@@ -95368,6 +95373,13 @@
     "triggered_at": "2026-08-31T08:39:22+08:00",
     "scheduler_delay_minutes": 136.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-08-31T15:23:16+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-08-31",
+    "deep_analysis_reason": "Completed in the 2026-08-31 daily brief using the full Nature Technology Feature as substantive evidence; directly relevant to AI-enabled zoonotic surveillance, pandemic preparedness and biomedical/public-health data infrastructure.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-08-31T15:23:16+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-08-31"
   }
 }

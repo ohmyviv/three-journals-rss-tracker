@@ -3011,5 +3011,24 @@
     "completed_in_batch_id": "daily-2026-08-28",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-08-31T13:31:06+08:00"
+  },
+  "10.1038/d41586-026-02684-1": {
+    "doi": "10.1038/d41586-026-02684-1",
+    "journal": "Nature",
+    "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+    "first_seen_at": "2026-08-31T08:39:22+08:00",
+    "queued_at": "2026-08-31T15:23:16+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-08-31T15:23:16+08:00",
+    "first_formal_batch_id": "daily-2026-08-31",
+    "first_formal_batch_date": "2026-08-31",
+    "source_url": "https://www.nature.com/articles/d41586-026-02684-1",
+    "completed_at": "2026-08-31T15:23:16+08:00",
+    "completed_in_batch_id": "daily-2026-08-31"
   }
 }
