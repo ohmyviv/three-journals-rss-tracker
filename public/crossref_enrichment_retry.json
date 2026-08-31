@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-30T13:21:55+08:00",
+  "generated_at": "2026-08-31T13:31:06+08:00",
   "timezone": "Asia/Shanghai",
   "retry_days": [
     3,
@@ -9,19 +9,60 @@
   ],
   "status": "success",
   "counts": {
-    "doi_records_seen": 1197,
-    "formal_batch_fields_backfilled": 3,
-    "crossref_metadata_only": 38,
-    "awaiting_enrichment": 38,
-    "due": 0,
-    "attempted": 0,
-    "enriched_from_existing_europe_pmc": 0,
+    "doi_records_seen": 1199,
+    "formal_batch_fields_backfilled": 0,
+    "crossref_metadata_only": 36,
+    "awaiting_enrichment": 36,
+    "due": 8,
+    "attempted": 8,
+    "enriched_from_existing_europe_pmc": 2,
     "enriched_from_crossref": 0,
-    "still_metadata_only": 0,
+    "still_metadata_only": 8,
     "exhausted": 21,
     "failed": 0
   },
-  "attempted_dois": [],
+  "attempted_dois": [
+    {
+      "doi": "10.1126/science.aej9417",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.aek5038",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.aek8173",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.ael0147",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.ael0871",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.ael6254",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.ael7896",
+      "retry_day": 3,
+      "status": "success"
+    },
+    {
+      "doi": "10.1126/science.ael7924",
+      "retry_day": 3,
+      "status": "success"
+    }
+  ],
   "enriched_dois": [],
   "exhausted_dois": [
     "10.1126/science.aek9790",
@@ -47,5 +88,5 @@
     "10.1126/science.aek7995"
   ],
   "failures": [],
-  "completed_at": "2026-08-30T13:21:55+08:00"
+  "completed_at": "2026-08-31T13:31:08+08:00"
 }
