@@ -95556,7 +95556,14 @@
     "triggered_at": "2026-09-01T00:20:41+08:00",
     "scheduler_delay_minutes": 463.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-01",
+    "deep_analysis_reason": "Completed in the 2026-09-01 brief; Nature News & Views was supported by the underlying formal PLOS Medicine global snakebite burden study, with direct relevance to neglected-disease therapeutics, antivenom access, and public health.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-01"
   },
   "10.1038/d41586-026-02687-y": {
     "doi": "10.1038/d41586-026-02687-y",
@@ -95598,7 +95605,12 @@
     "triggered_at": "2026-09-01T00:20:41+08:00",
     "scheduler_delay_minutes": 463.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-01",
+    "deep_analysis_reason": "Nature Comment on demographic and socioeconomic optimism; not directly connected to life sciences, biomedicine, AI-for-biology, or the user's investment-research scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.07.052": {
     "doi": "10.1016/j.cell.2026.07.052",
@@ -95861,7 +95873,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-04T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-04T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-01",
+    "deep_analysis_reason": "Completed in the 2026-09-01 brief using the authors' formal bioRxiv preprint as substantive evidence; high-priority virtual-cell and perturbation-response modeling work.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-01"
   },
   "10.1016/j.cell.2026.07.058": {
     "doi": "10.1016/j.cell.2026.07.058",
@@ -96019,6 +96038,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-04T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-04T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-01",
+    "deep_analysis_reason": "Completed in the 2026-09-01 brief using the authors' formal bioRxiv preprint as substantive evidence; directly relevant neuroscience and GPCR/neuropeptide biology.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-01T15:18:20+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-01"
   }
 }
