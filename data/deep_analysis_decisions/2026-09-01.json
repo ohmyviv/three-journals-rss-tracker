@@ -1,0 +1,29 @@
+{
+  "batch_id": "daily-2026-09-01",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.07.058",
+      "disposition": "completed",
+      "reason": "Completed in the 2026-09-01 brief using the authors' formal bioRxiv preprint as substantive evidence; directly relevant neuroscience and GPCR/neuropeptide biology.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.052",
+      "disposition": "completed",
+      "reason": "Completed in the 2026-09-01 brief using the authors' formal bioRxiv preprint as substantive evidence; high-priority virtual-cell and perturbation-response modeling work.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02642-x",
+      "disposition": "completed",
+      "reason": "Completed in the 2026-09-01 brief; Nature News & Views was supported by the underlying formal PLOS Medicine global snakebite burden study, with direct relevance to neglected-disease therapeutics, antivenom access, and public health.",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02687-y",
+      "disposition": "not_selected",
+      "reason": "Nature Comment on demographic and socioeconomic optimism; not directly connected to life sciences, biomedicine, AI-for-biology, or the user's investment-research scope.",
+      "priority_level": "P3"
+    }
+  ]
+}
