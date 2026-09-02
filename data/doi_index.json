@@ -96198,7 +96198,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature Correspondence on China biomedical regulation is strategically relevant, but it is a brief non-original policy correspondence and no substantive article body was obtained for deep analysis; no future deep-analysis backlog needed.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02735-7": {
     "doi": "10.1038/d41586-026-02735-7",
@@ -96240,7 +96245,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature Correspondence on accountability for AI science; non-original policy commentary and lower direct investment relevance than selected research items.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02738-4": {
     "doi": "10.1038/d41586-026-02738-4",
@@ -96288,7 +96298,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature Correspondence on plastics treaty and energy insecurity; outside life-science/biopharma scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02736-6": {
     "doi": "10.1038/d41586-026-02736-6",
@@ -96336,7 +96351,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature Correspondence on PhD training policy; outside the defined life-science investment deep-analysis scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02636-9": {
     "doi": "10.1038/d41586-026-02636-9",
@@ -96378,7 +96398,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature News on Indian researcher recruitment policy; not directly tied to life-science/biopharma investment analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02370-2": {
     "doi": "10.1038/d41586-026-02370-2",
@@ -96420,7 +96445,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Career Feature on student AI use and assessment; excluded career/education content for this deep-analysis product.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02686-z": {
     "doi": "10.1038/d41586-026-02686-z",
@@ -96462,7 +96492,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature Comment on AI-assisted scientific authorship; non-original publishing policy content, not selected for this life-science investment deep-analysis issue.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02119-x": {
     "doi": "10.1038/d41586-026-02119-x",
@@ -96497,7 +96532,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Career Column on literature-reading workflow; career/advice content excluded from deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02682-3": {
     "doi": "10.1038/d41586-026-02682-3",
@@ -96539,7 +96579,12 @@
     "triggered_at": "2026-09-01T21:39:21+08:00",
     "scheduler_delay_minutes": 302.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Cross-day Nature News Feature on cultural/cognitive homogenization by generative AI; not directly within life-science/biopharma investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02383-x": {
     "doi": "10.1038/d41586-026-02383-x",
@@ -96574,7 +96619,12 @@
     "triggered_at": "2026-09-02T00:54:02+08:00",
     "scheduler_delay_minutes": 251.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Comet-related culture/science content; outside defined life-science investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-01985-9": {
     "doi": "10.1038/d41586-026-01985-9",
@@ -96609,7 +96659,12 @@
     "triggered_at": "2026-09-02T00:54:02+08:00",
     "scheduler_delay_minutes": 251.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Dark-matter physics News; explicitly outside the deep-analysis subject scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02609-y": {
     "doi": "10.1038/d41586-026-02609-y",
@@ -96644,7 +96699,14 @@
     "triggered_at": "2026-09-02T00:54:02+08:00",
     "scheduler_delay_minutes": 251.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Directly relevant AI-for-biology/genome-function News with full Nature body read in this run and a large systematic mutational experiment underlying the report.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-02"
   },
   "10.1038/d41586-026-02456-x": {
     "doi": "10.1038/d41586-026-02456-x",
@@ -96679,7 +96741,12 @@
     "triggered_at": "2026-09-02T00:54:02+08:00",
     "scheduler_delay_minutes": 251.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Career feature on celebrating academic milestones; excluded career content.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.005": {
     "doi": "10.1016/j.cell.2026.08.005",
@@ -96788,7 +96855,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "High-relevance Cell original research on nondestructive longitudinal live-cell transcriptomics; author bioRxiv full text obtained and reviewed in this run.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-02"
   },
   "10.1016/j.cell.2026.08.006": {
     "doi": "10.1016/j.cell.2026.08.006",
@@ -97030,7 +97104,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "High-relevance Cell original research on striatal single-cell/spatial disease vulnerabilities; substantive Medline-indexed abstract and publisher-linked evidence obtained in this run.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-02"
   },
   "10.1016/j.cell.2026.08.011": {
     "doi": "10.1016/j.cell.2026.08.011",
@@ -97111,7 +97192,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "High-value microbiome/immunology original research, but frozen record is Crossref-only with empty abstract and no qualifying primary abstract/full text/preprint was obtained in this run.",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1016/j.cell.2026.08.007": {
     "doi": "10.1016/j.cell.2026.08.007",
@@ -97283,7 +97369,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "High-value life-science imaging/de novo protein-design tool, but frozen record is Crossref-only with empty abstract and this run did not obtain a qualifying primary abstract/full text/preprint source.",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1016/j.cell.2026.08.009": {
     "doi": "10.1016/j.cell.2026.08.009",
@@ -97427,7 +97518,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-05T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "High-relevance synthetic-biology/drug-discovery tool for converting protein degradation into scalable transcriptional outputs; author preprint/PubMed evidence obtained and reviewed.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-02"
   },
   "10.1038/s41586-026-11071-9": {
     "doi": "10.1038/s41586-026-11071-9",
@@ -97619,7 +97717,12 @@
     "triggered_at": "2026-09-02T08:19:26+08:00",
     "scheduler_delay_minutes": 116.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Author Correction; excluded article type under the deep-analysis rules.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02734-8": {
     "doi": "10.1038/d41586-026-02734-8",
@@ -97654,7 +97757,12 @@
     "triggered_at": "2026-09-02T08:19:26+08:00",
     "scheduler_delay_minutes": 116.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Research Highlight on feral pigs and greenhouse-gas emissions; environmental/climate topic outside defined scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02342-6": {
     "doi": "10.1038/d41586-026-02342-6",
@@ -97689,7 +97797,12 @@
     "triggered_at": "2026-09-02T08:19:26+08:00",
     "scheduler_delay_minutes": 116.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Career-oriented laboratory emotional-intelligence advice; excluded career content.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02743-7": {
     "doi": "10.1038/d41586-026-02743-7",
@@ -97731,7 +97844,12 @@
     "triggered_at": "2026-09-02T08:19:26+08:00",
     "scheduler_delay_minutes": 116.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Nature News on researcher recruitment; science-policy topic without a direct life-science/biopharma investment connection.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02753-5": {
     "doi": "10.1038/d41586-026-02753-5",
@@ -97774,7 +97892,12 @@
     "scheduler_delay_minutes": 277.1,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-02"
+    "intended_batch_date": "2026-09-02",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Same-day late-recovery Nature climate News; outside life-science/biopharma scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02746-4": {
     "doi": "10.1038/d41586-026-02746-4",
@@ -97810,6 +97933,11 @@
     "scheduler_delay_minutes": 287.5,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-02"
+    "intended_batch_date": "2026-09-02",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-02T15:14:55+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-02",
+    "deep_analysis_reason": "Same-day late-recovery Nature disaster/satellite-imaging News; outside life-science/biopharma scope.",
+    "deep_analysis_priority_level": "P3"
   }
 }
