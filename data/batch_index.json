@@ -527,5 +527,21 @@
     "cross_day_carryover_doi_count": 9,
     "cross_day_carryover_missing_doi_count": 0,
     "path": "public/batches/2026-09-02.json"
+  },
+  "daily-2026-09-03": {
+    "batch_id": "daily-2026-09-03",
+    "date": "2026-09-03",
+    "generated_at": "2026-09-03T13:43:56+08:00",
+    "status": "degraded_sources",
+    "flags": [
+      "scheduler_delayed",
+      "cross_day_carryover"
+    ],
+    "new_doi_count": 40,
+    "new_missing_doi_count": 0,
+    "late_recovery_doi_count": 0,
+    "cross_day_carryover_doi_count": 3,
+    "cross_day_carryover_missing_doi_count": 0,
+    "path": "public/batches/2026-09-03.json"
   }
 }
