@@ -98719,9 +98719,9 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-03T15:17:18+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-03",
-    "deep_analysis_reason": "Highly relevant long-COVID/post-viral syndromes feature, but the current run already uses the two allowed non-original slots.",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Historical backlog reviewed today; high-value long-COVID/post-viral treatment feature has full evidence, but non-original-content quota is already consumed by higher-priority in-vivo CAR-T and brain-immune-lineage items.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-03",
     "first_formal_batch_date": "2026-09-03"
@@ -106384,13 +106384,15 @@
     "scheduler_delay_minutes": 247.9,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-03T15:17:18+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-03",
-    "deep_analysis_reason": "Ageing/CNS immune-cell replacement is relevant, but non-original quota is full; retain for future review.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Historical backlog completed today after reading the Nature Research Briefing and underlying lineage-tracing result on blood-derived immune-cell replacement of ageing human microglia.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-03",
-    "first_formal_batch_date": "2026-09-03"
+    "first_formal_batch_date": "2026-09-03",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1038/d41586-026-02468-7": {
     "doi": "10.1038/d41586-026-02468-7",
@@ -108642,7 +108644,12 @@
     "triggered_at": "2026-09-03T20:58:52+08:00",
     "scheduler_delay_minutes": 261.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Daily Briefing on dark matter; low relevance and excluded briefing type.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-11091-5": {
     "doi": "10.1038/s41586-026-11091-5",
@@ -108696,7 +108703,14 @@
     "triggered_at": "2026-09-04T00:40:16+08:00",
     "scheduler_delay_minutes": 237.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Nature abstract on Pd-catalysed ketone homologation and skeletal editing with direct medicinal-chemistry relevance.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1038/d41586-026-02765-1": {
     "doi": "10.1038/d41586-026-02765-1",
@@ -108738,7 +108752,14 @@
     "triggered_at": "2026-09-04T00:40:16+08:00",
     "scheduler_delay_minutes": 237.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today after reading Nature's full report on the small in-vivo lentiviral CAR-T autoimmune trial, including MS outcomes and key limitations.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1016/j.cell.2026.07.037": {
     "doi": "10.1016/j.cell.2026.07.037",
@@ -108791,7 +108812,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Commentary-style ferroptosis item rather than the underlying primary study; does not merit a separate deep-analysis slot.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.07.050": {
     "doi": "10.1016/j.cell.2026.07.050",
@@ -109005,7 +109031,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Ancient genomics/social-practice study; scientifically interesting but outside the core biomedical and life-science investment focus for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.07.056": {
     "doi": "10.1016/j.cell.2026.07.056",
@@ -109072,7 +109103,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Remembrance/obituary-style content; excluded article type for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.001": {
     "doi": "10.1016/j.cell.2026.08.001",
@@ -109125,7 +109161,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Highly relevant inflammation-fibrosis framework, but the formal batch is Crossref-only with no usable abstract and no qualifying primary/full-text evidence was obtained this run.",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1016/j.cell.2026.08.008": {
     "doi": "10.1016/j.cell.2026.08.008",
@@ -109178,7 +109219,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Cell commentary-style item on enteric glial serotonin/CRC; related original 5-HT2AR work is already separately published and this item is not prioritized as an independent deep-analysis target.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.08.014": {
     "doi": "10.1016/j.cell.2026.08.014",
@@ -109259,7 +109305,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today using the author preprint/institutional publication evidence on organization of Drosophila visual pathways.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1016/j.cell.2026.08.015": {
     "doi": "10.1016/j.cell.2026.08.015",
@@ -110075,7 +110128,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today using the authors' bioRxiv/PMC evidence on the complete male Drosophila CNS connectome and sex-dimorphic circuitry.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1016/j.cell.2026.08.016": {
     "doi": "10.1016/j.cell.2026.08.016",
@@ -110191,7 +110251,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today using publisher/institutional research release evidence on the complete gustatory connectome and sensory-to-behavior circuits.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1038/d41586-026-02744-6": {
     "doi": "10.1038/d41586-026-02744-6",
@@ -110226,7 +110293,12 @@
     "triggered_at": "2026-09-04T08:09:45+08:00",
     "scheduler_delay_minutes": 106.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "News duplicate of the primary Science psilocybin/CIPN paper, which is deeply analyzed directly today.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02650-x": {
     "doi": "10.1038/d41586-026-02650-x",
@@ -110261,7 +110333,12 @@
     "triggered_at": "2026-09-04T08:09:45+08:00",
     "scheduler_delay_minutes": 106.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Ig Nobel news; excluded low-priority news content.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02517-1": {
     "doi": "10.1038/d41586-026-02517-1",
@@ -110303,7 +110380,12 @@
     "triggered_at": "2026-09-04T08:09:45+08:00",
     "scheduler_delay_minutes": 106.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Research-governance news; outside core life-science investment deep-analysis priorities.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adx3863": {
     "doi": "10.1126/science.adx3863",
@@ -110441,7 +110523,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract on uneven alpha/beta TCR-chain pairing constraints and implications for specificity inference.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.adx7334": {
     "doi": "10.1126/science.adx7334",
@@ -115497,7 +115586,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Particle-physics EDM measurement; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ady2886": {
     "doi": "10.1126/science.ady2886",
@@ -115900,7 +115994,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract on neonatal C. difficile colonization, toxin-dependent stem-cell remodeling, and mRNA-LNP maternal vaccination rescue.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.ady5180": {
     "doi": "10.1126/science.ady5180",
@@ -116121,7 +116222,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract on thalamic NRXN1 contacts with outer radial glia and excitatory neurogenesis in human organoids.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.adz8203": {
     "doi": "10.1126/science.adz8203",
@@ -116474,7 +116582,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract defining extracellular PRDX1 as a tumor antioxidant immunosuppression mechanism and intervention point.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.aea4611": {
     "doi": "10.1126/science.aea4611",
@@ -116595,7 +116710,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract on replication-linked sister-chromatid conformational asymmetry and DNA-repair implications.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.aec6116": {
     "doi": "10.1126/science.aec6116",
@@ -116931,7 +117053,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal Science abstract on psilocybin prophylaxis for chemotherapy-induced peripheral neuropathy and mitochondrial trafficking.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.aed2974": {
     "doi": "10.1126/science.aed2974",
@@ -117458,7 +117587,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Alpine plant-extinction ecology; outside core investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aed4911": {
     "doi": "10.1126/science.aed4911",
@@ -117592,7 +117726,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Hydrogen/graphite industrial-energy process; outside biomedical/life-science investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aed6035": {
     "doi": "10.1126/science.aed6035",
@@ -117747,7 +117886,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal abstract describing embryo-derived PIPL7/IKU2 signalling that establishes Arabidopsis endosperm polarity.",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.aed6452": {
     "doi": "10.1126/science.aed6452",
@@ -118015,7 +118161,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Completed today from the formal longitudinal multi-omic aging cohort abstract, with direct precision-aging and biomarker relevance.",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-04"
   },
   "10.1126/science.aed8723": {
     "doi": "10.1126/science.aed8723",
@@ -118175,7 +118328,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Industrial-scale photonic-film manufacturing; primarily materials/industrial process and outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aef7190": {
     "doi": "10.1126/science.aef7190",
@@ -118454,7 +118612,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Heavy-industry climate policy; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeg9547": {
     "doi": "10.1126/science.aeg9547",
@@ -118547,7 +118710,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Polarized polymer-film materials study; potential biomedical-device use is generic rather than a demonstrated direct life-science application.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aej8902": {
     "doi": "10.1126/science.aej8902",
@@ -118650,7 +118818,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Mining/environment policy commentary; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek3865": {
     "doi": "10.1126/science.aek3865",
@@ -118702,7 +118875,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Perspective accompanying the primary psilocybin/CIPN paper, which is analyzed directly today.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aek3898": {
     "doi": "10.1126/science.aek3898",
@@ -118794,7 +118972,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Wildlife-trafficking commentary; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek5854": {
     "doi": "10.1126/science.aek5854",
@@ -118848,7 +119031,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Commentary accompanying the primary tumor-PRDX1 paper, which is analyzed directly today.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aek6900": {
     "doi": "10.1126/science.aek6900",
@@ -118918,7 +119106,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Materials commentary on molecular dipoles; no direct biomedical/medtech connection sufficient for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek8246": {
     "doi": "10.1126/science.aek8246",
@@ -118979,7 +119172,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Commentary accompanying the primary C. difficile study, which is analyzed directly today.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aek8358": {
     "doi": "10.1126/science.aek8358",
@@ -119031,7 +119229,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Commentary/ethics-style item with no abstract and no qualifying evidence; not selected.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek9910": {
     "doi": "10.1126/science.aek9910",
@@ -119099,7 +119302,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Marine-disaster policy commentary; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael0869": {
     "doi": "10.1126/science.ael0869",
@@ -119231,7 +119439,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Book-review roundup; excluded article type.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael2773": {
     "doi": "10.1126/science.ael2773",
@@ -119268,7 +119481,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Erratum; excluded article type.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael8715": {
     "doi": "10.1126/science.ael8715",
@@ -119330,7 +119548,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Policy/commentary on mass GLP-1 prescribing; non-original and not prioritized over today's primary biomedical research.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.ael9089": {
     "doi": "10.1126/science.ael9089",
@@ -119367,7 +119590,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Erratum; excluded article type.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0116": {
     "doi": "10.1126/science.aem0116",
@@ -119532,7 +119760,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Low-information Science-family roundup; excluded aggregate content.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0117": {
     "doi": "10.1126/science.aem0117",
@@ -119620,7 +119853,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Low-information literature roundup; excluded aggregate content.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0118": {
     "doi": "10.1126/science.aem0118",
@@ -119672,7 +119910,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Career/education-style content with no qualifying research evidence; excluded.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0437": {
     "doi": "10.1126/science.aem0437",
@@ -119718,7 +119961,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Flood/geology news; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0438": {
     "doi": "10.1126/science.aem0438",
@@ -119764,7 +120012,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Invasive-fish management news; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0439": {
     "doi": "10.1126/science.aem0439",
@@ -119810,7 +120063,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "US research-funding news; not a biomedical research target for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0440": {
     "doi": "10.1126/science.aem0440",
@@ -119856,7 +120114,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Research-facilities/geopolitics news; outside core scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0441": {
     "doi": "10.1126/science.aem0441",
@@ -119902,7 +120165,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Bird-flu/research-station news with only a short summary; not selected for deep analysis.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aem0442": {
     "doi": "10.1126/science.aem0442",
@@ -119948,7 +120216,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "News item on non-invasive brain stimulation in women's health with only a brief summary; evidence/article type not strong enough for deep analysis this run.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aem0443": {
     "doi": "10.1126/science.aem0443",
@@ -119994,7 +120267,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "AI peer-review news/feature; non-original and lower priority than today's primary AI/biomed research.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aec3917": {
     "doi": "10.1126/science.aec3917",
@@ -120120,7 +120398,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00"
+    "last_enrichment_success_at": "2026-09-04T12:29:33+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Quantum-optical spin-glass physics; outside core scope despite neural-network analogy.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02739-3": {
     "doi": "10.1038/d41586-026-02739-3",
@@ -120156,6 +120439,11 @@
     "scheduler_delay_minutes": 281.4,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-04"
+    "intended_batch_date": "2026-09-04",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-04",
+    "deep_analysis_reason": "Late-recovery archaeology/artworks news; outside core thematic scope.",
+    "deep_analysis_priority_level": "P3"
   }
 }
