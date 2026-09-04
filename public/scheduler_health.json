@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-04T15:55:34+08:00",
+  "generated_at": "2026-09-04T15:55:52+08:00",
   "status": "scheduler_delayed",
-  "total_events": 356,
+  "total_events": 357,
   "latest_event": {
-    "workflow": "rss_discovery",
-    "trigger_type": "schedule",
-    "schedule_expression_utc": "7 3 * * *",
-    "scheduled_for": "2026-09-04T11:07:00+08:00",
-    "triggered_at": "2026-09-04T15:55:33+08:00",
-    "delay_minutes": 288.6,
+    "workflow": "freeze_daily_batch",
+    "trigger_type": "workflow_run",
+    "schedule_expression_utc": null,
+    "scheduled_for": null,
+    "triggered_at": "2026-09-04T15:55:52+08:00",
+    "delay_minutes": null,
     "delay_threshold_minutes": 15,
-    "scheduler_delayed": true,
-    "status": "scheduler_delayed",
-    "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-04",
-    "run_id": "discover-2026-09-04T155533p0800",
-    "outcome": "degraded_fallback_sources",
-    "completed_at": "2026-09-04T15:55:34+08:00"
+    "scheduler_delayed": false,
+    "status": "non_scheduled",
+    "batch_id": "daily-2026-09-04",
+    "target_date": "2026-09-04",
+    "outcome": "checked_existing_no_new_recovery",
+    "completed_at": "2026-09-04T15:55:52+08:00"
   },
   "workflows": {
     "rss_discovery": {
@@ -42,7 +41,7 @@
       }
     },
     "freeze_daily_batch": {
-      "runs": 188,
+      "runs": 189,
       "scheduled_runs": 46,
       "delayed_runs": 46,
       "max_delay_minutes": 739.9,
@@ -51,7 +50,7 @@
         "trigger_type": "workflow_run",
         "schedule_expression_utc": null,
         "scheduled_for": null,
-        "triggered_at": "2026-09-04T15:18:32+08:00",
+        "triggered_at": "2026-09-04T15:55:52+08:00",
         "delay_minutes": null,
         "delay_threshold_minutes": 15,
         "scheduler_delayed": false,
@@ -59,7 +58,7 @@
         "batch_id": "daily-2026-09-04",
         "target_date": "2026-09-04",
         "outcome": "checked_existing_no_new_recovery",
-        "completed_at": "2026-09-04T15:18:32+08:00"
+        "completed_at": "2026-09-04T15:55:52+08:00"
       }
     },
     "europe_pmc_audit": {
