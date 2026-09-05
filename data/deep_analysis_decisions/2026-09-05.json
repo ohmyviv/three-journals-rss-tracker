@@ -1,0 +1,59 @@
+{
+  "batch_id": "daily-2026-09-05",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02741-9",
+      "disposition": "not_selected",
+      "reason": "Optical-clock metrology/physics news; outside the life-science, biopharma and AI-biology investment scope.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02801-0",
+      "disposition": "not_selected",
+      "reason": "Obituary/biographical article; scientifically important history but not a research or investment-relevant deep-analysis candidate.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02800-1",
+      "disposition": "not_selected",
+      "reason": "Nature Podcast/Briefing Chat and low-information aggregation; excluded by article-type rules.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02758-0",
+      "disposition": "not_selected",
+      "reason": "Relevant to laboratory practice but a secondary News item with limited direct investment significance; non-original slots are better used by higher-priority therapeutic content.",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02740-w",
+      "disposition": "completed",
+      "reason": "Completed this run using the Nature Research Highlight plus the underlying NEJM phase 1a one-year CTX310 ANGPTL3-editing report; highly relevant to in vivo CRISPR and cardiometabolic therapeutics.",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02643-w",
+      "disposition": "not_selected",
+      "reason": "AI weather forecasting/climate application without a direct life-science, biomedical or healthcare investment connection.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02799-5",
+      "disposition": "not_selected",
+      "reason": "Research-funding and US government policy news; not sufficiently direct to the core life-science investment scope for deep analysis.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02683-2",
+      "disposition": "completed",
+      "reason": "Historical backlog completed this run after full Nature News Feature review; high relevance to post-viral syndromes, immune mechanisms, antivirals and emerging therapeutic trials.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.001",
+      "disposition": "completed",
+      "reason": "Historical backlog completed this run after Europe PMC abstract enrichment confirmed a formal Cell Review; highly relevant to fibrosis, immune-stromal crosstalk and therapeutic reprogramming of fibrotic cell states.",
+      "priority_level": "P1"
+    }
+  ]
+}
