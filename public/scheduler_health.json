@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-05T15:37:04+08:00",
+  "generated_at": "2026-09-05T16:30:17+08:00",
   "status": "scheduler_delayed",
-  "total_events": 372,
+  "total_events": 373,
   "latest_event": {
     "workflow": "freeze_daily_batch",
-    "trigger_type": "workflow_run",
-    "schedule_expression_utc": null,
-    "scheduled_for": null,
-    "triggered_at": "2026-09-05T15:37:04+08:00",
-    "delay_minutes": null,
+    "trigger_type": "schedule",
+    "schedule_expression_utc": "31 4 * * *",
+    "scheduled_for": "2026-09-05T12:31:00+08:00",
+    "triggered_at": "2026-09-05T16:30:17+08:00",
+    "delay_minutes": 239.3,
     "delay_threshold_minutes": 15,
-    "scheduler_delayed": false,
-    "status": "non_scheduled",
+    "scheduler_delayed": true,
+    "status": "scheduler_delayed",
     "batch_id": "daily-2026-09-05",
     "target_date": "2026-09-05",
-    "outcome": "checked_existing_no_new_recovery",
-    "completed_at": "2026-09-05T15:37:04+08:00"
+    "outcome": "checked_existing",
+    "completed_at": "2026-09-05T16:30:17+08:00",
+    "path": "/home/runner/work/three-journals-rss-tracker/three-journals-rss-tracker/public/batches/2026-09-05.json"
   },
   "workflows": {
     "rss_discovery": {
@@ -41,24 +42,25 @@
       }
     },
     "freeze_daily_batch": {
-      "runs": 197,
-      "scheduled_runs": 48,
-      "delayed_runs": 48,
+      "runs": 198,
+      "scheduled_runs": 49,
+      "delayed_runs": 49,
       "max_delay_minutes": 739.9,
       "latest_event": {
         "workflow": "freeze_daily_batch",
-        "trigger_type": "workflow_run",
-        "schedule_expression_utc": null,
-        "scheduled_for": null,
-        "triggered_at": "2026-09-05T15:37:04+08:00",
-        "delay_minutes": null,
+        "trigger_type": "schedule",
+        "schedule_expression_utc": "31 4 * * *",
+        "scheduled_for": "2026-09-05T12:31:00+08:00",
+        "triggered_at": "2026-09-05T16:30:17+08:00",
+        "delay_minutes": 239.3,
         "delay_threshold_minutes": 15,
-        "scheduler_delayed": false,
-        "status": "non_scheduled",
+        "scheduler_delayed": true,
+        "status": "scheduler_delayed",
         "batch_id": "daily-2026-09-05",
         "target_date": "2026-09-05",
-        "outcome": "checked_existing_no_new_recovery",
-        "completed_at": "2026-09-05T15:37:04+08:00"
+        "outcome": "checked_existing",
+        "completed_at": "2026-09-05T16:30:17+08:00",
+        "path": "/home/runner/work/three-journals-rss-tracker/three-journals-rss-tracker/public/batches/2026-09-05.json"
       }
     },
     "europe_pmc_audit": {
