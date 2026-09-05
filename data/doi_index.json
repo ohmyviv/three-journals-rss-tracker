@@ -98720,13 +98720,15 @@
     "scheduler_delay_minutes": 259.3,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-04",
-    "deep_analysis_reason": "Historical backlog reviewed today; high-value long-COVID/post-viral treatment feature has full evidence, but non-original-content quota is already consumed by higher-priority in-vivo CAR-T and brain-immune-lineage items.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Historical backlog completed this run after full Nature News Feature review; high relevance to post-viral syndromes, immune mechanisms, antivirals and emerging therapeutic trials.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-03",
-    "first_formal_batch_date": "2026-09-03"
+    "first_formal_batch_date": "2026-09-03",
+    "deep_analysis_completed_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-05"
   },
   "10.1038/s41586-026-11104-3": {
     "doi": "10.1038/s41586-026-11104-3",
@@ -109258,10 +109260,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-09-07T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-04T15:21:25+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-04",
-    "deep_analysis_reason": "Highly relevant inflammation-fibrosis framework, but the formal batch is Crossref-only with no usable abstract and no qualifying primary/full-text evidence was obtained this run.",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Historical backlog completed this run after Europe PMC abstract enrichment confirmed a formal Cell Review; highly relevant to fibrosis, immune-stromal crosstalk and therapeutic reprogramming of fibrotic cell states.",
     "deep_analysis_priority_level": "P1",
     "pmid": "42691994",
     "europe_pmc_source": "MED",
@@ -109284,7 +109286,9 @@
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
-    "last_enrichment_success_at": "2026-09-05T12:24:24+08:00"
+    "last_enrichment_success_at": "2026-09-05T12:24:24+08:00",
+    "deep_analysis_completed_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-05"
   },
   "10.1016/j.cell.2026.08.008": {
     "doi": "10.1016/j.cell.2026.08.008",
@@ -122526,7 +122530,12 @@
     "triggered_at": "2026-09-04T20:53:27+08:00",
     "scheduler_delay_minutes": 256.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Optical-clock metrology/physics news; outside the life-science, biopharma and AI-biology investment scope.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02800-1": {
     "doi": "10.1038/d41586-026-02800-1",
@@ -122574,7 +122583,12 @@
     "triggered_at": "2026-09-05T00:35:19+08:00",
     "scheduler_delay_minutes": 232.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Nature Podcast/Briefing Chat and low-information aggregation; excluded by article-type rules.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02643-w": {
     "doi": "10.1038/d41586-026-02643-w",
@@ -122622,7 +122636,12 @@
     "triggered_at": "2026-09-05T00:35:19+08:00",
     "scheduler_delay_minutes": 232.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "AI weather forecasting/climate application without a direct life-science, biomedical or healthcare investment connection.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02801-0": {
     "doi": "10.1038/d41586-026-02801-0",
@@ -122664,7 +122683,12 @@
     "triggered_at": "2026-09-05T00:35:19+08:00",
     "scheduler_delay_minutes": 232.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Obituary/biographical article; scientifically important history but not a research or investment-relevant deep-analysis candidate.",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02758-0": {
     "doi": "10.1038/d41586-026-02758-0",
@@ -122699,7 +122723,12 @@
     "triggered_at": "2026-09-05T00:35:19+08:00",
     "scheduler_delay_minutes": 232.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Relevant to laboratory practice but a secondary News item with limited direct investment significance; non-original slots are better used by higher-priority therapeutic content.",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02740-w": {
     "doi": "10.1038/d41586-026-02740-w",
@@ -122734,7 +122763,14 @@
     "triggered_at": "2026-09-05T00:35:19+08:00",
     "scheduler_delay_minutes": 232.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Completed this run using the Nature Research Highlight plus the underlying NEJM phase 1a one-year CTX310 ANGPTL3-editing report; highly relevant to in vivo CRISPR and cardiometabolic therapeutics.",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-05"
   },
   "10.1038/d41586-026-02799-5": {
     "doi": "10.1038/d41586-026-02799-5",
@@ -122776,6 +122812,11 @@
     "triggered_at": "2026-09-05T08:10:36+08:00",
     "scheduler_delay_minutes": 107.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-05T15:17:42+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-05",
+    "deep_analysis_reason": "Research-funding and US government policy news; not sufficiently direct to the core life-science investment scope for deep analysis.",
+    "deep_analysis_priority_level": "P3"
   }
 }
