@@ -122612,5 +122612,294 @@
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.08.018": {
+    "doi": "10.1016/j.cell.2026.08.018",
+    "journal": "Cell",
+    "title_first_seen": "Identification of the tendon/ligament stem cell in mice and humans",
+    "current_title": "Identification of the tendon/ligament stem cell in mice and humans",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.018",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "authors_rss": [
+      "Lingling Hu",
+      "Jun Sun",
+      "Kyle W. Morse",
+      "Seoyeon Bok",
+      "Yimin Zheng",
+      "Un In Chan",
+      "Han Choi",
+      "Eugenie Macfarlane",
+      "Alisha R. Yallowitz",
+      "Michelle Cung",
+      "Ting Cong",
+      "Peyton Lee Carpen",
+      "Federico La Manna",
+      "Shawon Debnath",
+      "Haiyin Li",
+      "Tim Xu",
+      "Lipeng Wang",
+      "Yangkang Zheng",
+      "Takeshi Hirose",
+      "Ryan N. Serio",
+      "Billy Lu",
+      "Ryan J. Chaffee",
+      "Armin Scheben",
+      "Ling J. Zheng",
+      "Jason McCormick",
+      "Daniel Shinn",
+      "Anthony Pajak",
+      "Kasra Araghi",
+      "Eric Zhao",
+      "Anna Yemelyanova",
+      "Chike Cao",
+      "Geoffrey S. Pitt",
+      "Scott A. Rodeo",
+      "Dawid G. Nowak",
+      "Sravisht Iyer",
+      "Matthew B. Greenblatt"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-09-08T01:53:52+08:00",
+    "last_absent_at": "2026-09-07T22:24:44+08:00",
+    "appearance_window_start": "2026-09-07T22:24:44+08:00",
+    "appearance_window_end": "2026-09-08T01:53:52+08:00",
+    "first_seen_run_id": "discover-2026-09-08T015352p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-09-08T01:53:52+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-08T01:53:52+08:00",
+    "author_affiliations": [
+      {
+        "author": "Lingling Hu",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Jun Sun",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kyle W. Morse",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Seoyeon Bok",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yimin Zheng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Un In Chan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Han Choi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eugenie Macfarlane",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alisha R. Yallowitz",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michelle Cung",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ting Cong",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Peyton Lee Carpen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Federico La Manna",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Shawon Debnath",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Haiyin Li",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tim Xu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lipeng Wang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yangkang Zheng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Takeshi Hirose",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ryan N. Serio",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Billy Lu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ryan J. Chaffee",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Armin Scheben",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ling J. Zheng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jason McCormick",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel Shinn",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Anthony Pajak",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kasra Araghi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eric Zhao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Anna Yemelyanova",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chike Cao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Geoffrey S. Pitt",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Scott A. Rodeo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dawid G. Nowak",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sravisht Iyer",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthew B. Greenblatt",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-09-07T20:43:00+08:00",
+    "triggered_at": "2026-09-08T01:53:52+08:00",
+    "scheduler_delay_minutes": 310.9,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
   }
 }
