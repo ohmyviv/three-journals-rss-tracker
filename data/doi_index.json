@@ -122233,7 +122233,12 @@
     "triggered_at": "2026-09-07T22:24:44+08:00",
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "Author Correction，属于原则排除的更正类内容，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-11094-2": {
     "doi": "10.1038/s41586-026-11094-2",
@@ -122479,7 +122484,12 @@
     "triggered_at": "2026-09-07T22:24:44+08:00",
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "Author Correction，属于原则排除的更正类内容，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02805-w": {
     "doi": "10.1038/d41586-026-02805-w",
@@ -122521,7 +122531,12 @@
     "triggered_at": "2026-09-07T22:24:44+08:00",
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "单细胞蛋白组学Technology Feature，证据充分且与生命科学工具、科研仪器和多组学平台高度相关；本期非原创内容名额已被更高优先级项目占用，保留后续重点处理。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02470-z": {
     "doi": "10.1038/d41586-026-02470-z",
@@ -122569,7 +122584,14 @@
     "triggered_at": "2026-09-07T22:24:44+08:00",
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "Nature News & Views，直接涉及HR+乳腺癌、CDK4/6抑制和Rb/ER转录机制；本次已读取出版商正文并取得对应Nature原创研究PubMed摘要，完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-08"
   },
   "10.1038/d41586-026-02808-7": {
     "doi": "10.1038/d41586-026-02808-7",
@@ -122611,7 +122633,12 @@
     "triggered_at": "2026-09-07T22:24:44+08:00",
     "scheduler_delay_minutes": 347.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "科学史/牛顿争议内容，与生命科学、生物医药或AI生命科学投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.018": {
     "doi": "10.1016/j.cell.2026.08.018",
@@ -122902,7 +122929,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-11T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-11T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "Cell原创研究，主题直接涉及肌腱/韧带干细胞、腰椎管狭窄与潜在可药钙信号机制；本次已取得PubMed正式摘要并完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-08"
   },
   "10.1038/d41586-026-02822-9": {
     "doi": "10.1038/d41586-026-02822-9",
@@ -122944,7 +122978,12 @@
     "triggered_at": "2026-09-08T08:30:00+08:00",
     "scheduler_delay_minutes": 127.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "AI形式化费马大定理属于数学/AI for mathematics，与生命科学、生物医药和相关投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02407-6": {
     "doi": "10.1038/d41586-026-02407-6",
@@ -122980,7 +123019,12 @@
     "scheduler_delay_minutes": 287.2,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-08"
+    "intended_batch_date": "2026-09-08",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "中国IIT/Order 818监管News Explainer，与细胞/基因治疗产业和投资尽调高度相关且已读取Nature正文；本期非原创内容名额已满，保留后续重点处理。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02497-2": {
     "doi": "10.1038/d41586-026-02497-2",
@@ -123016,6 +123060,13 @@
     "scheduler_delay_minutes": 287.2,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-09-08"
+    "intended_batch_date": "2026-09-08",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-08",
+    "deep_analysis_reason": "Nature News，直接涉及中国两起儿童基因治疗死亡事件、AAV/基因编辑安全性与监管影响；本次已读取完整出版商正文并完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-08T15:19:25+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-08"
   }
 }
