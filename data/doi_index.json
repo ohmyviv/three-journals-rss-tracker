@@ -122654,9 +122654,9 @@
     "doi": "10.1016/j.cell.2026.08.018",
     "journal": "Cell",
     "title_first_seen": "Identification of the tendon/ligament stem cell in mice and humans",
-    "current_title": "Identification of the tendon/ligament stem cell in mice and humans.",
+    "current_title": "Identification of the tendon/ligament stem cell in mice and humans",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.018",
-    "rss_reported_time": "2026-09-07T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Lingling Hu",
       "Jun Sun",
@@ -122707,297 +122707,232 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-08",
     "batched_at": "2026-09-08T13:54:29+08:00",
-    "last_seen_at": "2026-09-09T09:31:07+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-09T09:31:07+08:00",
+    "last_seen_at": "2026-09-09T13:55:44+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-09T13:55:44+08:00",
     "author_affiliations": [
       {
-        "author": "Hu L",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA."
-        ],
+        "author": "Lingling Hu",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Sun J",
-        "affiliations": [
-          "Key Laboratory of Immune Response and Immunotherapy, School of Basic Medical Sciences, University of Science and Technology of China, Hefe 230027, China."
-        ],
+        "author": "Jun Sun",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Morse KW",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA."
-        ],
+        "author": "Kyle W. Morse",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bok S",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Seoyeon Bok",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zheng Y",
-        "affiliations": [
-          "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences, Vienna 1090, Austria."
-        ],
+        "author": "Yimin Zheng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chan UI",
-        "affiliations": [
-          "Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Un In Chan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Choi H",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Han Choi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Macfarlane E",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; ANZAC Research Institute, The University of Sydney, Concord, NSW, Australia."
-        ],
+        "author": "Eugenie Macfarlane",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yallowitz AR",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Alisha R. Yallowitz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cung M",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Michelle Cung",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cong T",
-        "affiliations": [
-          "Bethel Musculoskeletal Research Center, UPMC Sports Medicine, Department of Orthopedic Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA 15213, USA."
-        ],
+        "author": "Ting Cong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Carpen PL",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Peyton Lee Carpen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "La Manna F",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Federico La Manna",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Debnath S",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Shawon Debnath",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li H",
-        "affiliations": [
-          "Center for Musculoskeletal Research, Department of Orthopedics, University of Rochester Medical Center, Rochester, NY 14642, USA."
-        ],
+        "author": "Haiyin Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu T",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Tim Xu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang L",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Orthopedic Surgery, Zhongshan Hospital, Institute of Bone and Joint Diseases, Fudan University, Shanghai 200032, China."
-        ],
+        "author": "Lipeng Wang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zheng Y",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Yangkang Zheng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hirose T",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Takeshi Hirose",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Serio RN",
-        "affiliations": [
-          "Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Ryan N. Serio",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lu B",
-        "affiliations": [
-          "Department of Pharmacology, Weill Cornell Medicine, New York, NY 10021, USA."
-        ],
+        "author": "Billy Lu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chaffee RJ",
-        "affiliations": [
-          "Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Ryan J. Chaffee",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Scheben A",
-        "affiliations": [
-          "The Jackson Laboratory-NYSCF, New York, NY 10019, USA."
-        ],
+        "author": "Armin Scheben",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zheng LJ",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Ling J. Zheng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "McCormick J",
-        "affiliations": [
-          "Flow Cytometry Laboratory, Department of Pharmacology, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Jason McCormick",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shinn D",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Daniel Shinn",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pajak A",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Anthony Pajak",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Araghi K",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Kasra Araghi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhao E",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Eric Zhao",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yemelyanova A",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Anna Yemelyanova",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cao C",
-        "affiliations": [
-          "Center for Musculoskeletal Research, Department of Orthopedics, University of Rochester Medical Center, Rochester, NY 14642, USA."
-        ],
+        "author": "Chike Cao",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pitt GS",
-        "affiliations": [
-          "Cardiovascular Research Institute, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Geoffrey S. Pitt",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Rodeo SA",
-        "affiliations": [
-          "Sports Medicine Institute, Hospital for Special Surgery, New York, NY 10021, USA."
-        ],
+        "author": "Scott A. Rodeo",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Nowak DG",
-        "affiliations": [
-          "Department of Pharmacology, Weill Cornell Medicine, New York, NY 10021, USA; Division of Hematology and Medical Oncology, Department of Medicine, New York Presbyterian Hospital, Weill Cornell Medicine, New York, NY 10065, USA; Meyer Cancer Center, New York Presbyterian Hospital, Weill Cornell Medicine, New York, NY 10065, USA."
-        ],
+        "author": "Dawid G. Nowak",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Iyer S",
-        "affiliations": [
-          "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA. Electronic address: iyers@hss.edu."
-        ],
+        "author": "Sravisht Iyer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Greenblatt MB",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA; Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA. Electronic address: mag3003@med.cornell.edu."
-        ],
+        "author": "Matthew B. Greenblatt",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA.",
-      "Key Laboratory of Immune Response and Immunotherapy, School of Basic Medical Sciences, University of Science and Technology of China, Hefe 230027, China.",
-      "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA.",
-      "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences, Vienna 1090, Austria.",
-      "Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; ANZAC Research Institute, The University of Sydney, Concord, NSW, Australia.",
-      "Bethel Musculoskeletal Research Center, UPMC Sports Medicine, Department of Orthopedic Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA 15213, USA.",
-      "Center for Musculoskeletal Research, Department of Orthopedics, University of Rochester Medical Center, Rochester, NY 14642, USA.",
-      "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Orthopedic Surgery, Zhongshan Hospital, Institute of Bone and Joint Diseases, Fudan University, Shanghai 200032, China.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA.",
-      "Department of Pharmacology, Weill Cornell Medicine, New York, NY 10021, USA.",
-      "The Jackson Laboratory-NYSCF, New York, NY 10019, USA.",
-      "Flow Cytometry Laboratory, Department of Pharmacology, Weill Cornell Medicine, New York, NY 10065, USA.",
-      "Cardiovascular Research Institute, Weill Cornell Medicine, New York, NY 10065, USA.",
-      "Sports Medicine Institute, Hospital for Special Surgery, New York, NY 10021, USA.",
-      "Department of Pharmacology, Weill Cornell Medicine, New York, NY 10021, USA; Division of Hematology and Medical Oncology, Department of Medicine, New York Presbyterian Hospital, Weill Cornell Medicine, New York, NY 10065, USA; Meyer Cancer Center, New York Presbyterian Hospital, Weill Cornell Medicine, New York, NY 10065, USA.",
-      "Department of Spine Surgery, Hospital for Special Surgery, New York, NY 10021, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA. Electronic address: iyers@hss.edu.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Skeletal Health and Orthopedic Research Program, Hospital for Special Surgery, New York, NY, USA; Sandra and Edward Meyer Cancer Center, Weill Cornell Medicine, New York, NY 10065, USA. Electronic address: mag3003@med.cornell.edu."
-    ],
-    "china_team_status": "china_participating",
-    "china_institutions": [
-      "Key Laboratory of Immune Response and Immunotherapy, School of Basic Medical Sciences, University of Science and Technology of China, Hefe 230027, China.",
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY 10065, USA; Department of Orthopedic Surgery, Zhongshan Hospital, Institute of Bone and Joint Diseases, Fudan University, Shanghai 200032, China."
-    ],
-    "china_key_authors": [
-      "Sun J",
-      "Wang L"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:author_affiliation"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-07T20:43:00+08:00",
     "triggered_at": "2026-09-08T01:53:52+08:00",
     "scheduler_delay_minutes": 310.9,
@@ -123928,9 +123863,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-09T08:21:04+08:00",
+    "last_seen_at": "2026-09-09T13:55:44+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-09T08:21:04+08:00",
+    "last_updated_at": "2026-09-09T13:55:44+08:00",
     "author_affiliations": [
       {
         "author": "Shigeki Nagai",
@@ -124108,9 +124043,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-09T08:21:04+08:00",
+    "last_seen_at": "2026-09-09T13:55:44+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-09T08:21:04+08:00",
+    "last_updated_at": "2026-09-09T13:55:44+08:00",
     "author_affiliations": [
       {
         "author": "Xiaolong Zhang",
