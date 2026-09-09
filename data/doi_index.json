@@ -122707,9 +122707,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-08",
     "batched_at": "2026-09-08T13:54:29+08:00",
-    "last_seen_at": "2026-09-09T13:55:44+08:00",
+    "last_seen_at": "2026-09-09T15:27:26+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-09T13:55:44+08:00",
+    "last_updated_at": "2026-09-09T15:27:26+08:00",
     "author_affiliations": [
       {
         "author": "Lingling Hu",
@@ -123932,9 +123932,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-09-09T13:55:44+08:00",
+    "last_seen_at": "2026-09-09T15:27:26+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-09T13:55:44+08:00",
+    "last_updated_at": "2026-09-09T15:27:26+08:00",
     "author_affiliations": [
       {
         "author": "Shigeki Nagai",
@@ -124129,9 +124129,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-09-09T13:55:44+08:00",
+    "last_seen_at": "2026-09-09T15:27:26+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-09T13:55:44+08:00",
+    "last_updated_at": "2026-09-09T15:27:26+08:00",
     "author_affiliations": [
       {
         "author": "Xiaolong Zhang",
