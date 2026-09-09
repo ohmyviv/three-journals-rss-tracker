@@ -123087,13 +123087,15 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
     "intended_batch_date": "2026-09-08",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-08T15:19:25+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-08",
-    "deep_analysis_reason": "中国IIT/Order 818监管News Explainer，与细胞/基因治疗产业和投资尽调高度相关且已读取Nature正文；本期非原创内容名额已满，保留后续重点处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "历史积压，原始批次 2026-09-08。Nature News Explainer 正文证据充分；Order 818 对中国细胞/基因治疗 IIT 路径、临床转化和投资尽调具有直接重大影响，本次完成重点解读。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-08",
-    "first_formal_batch_date": "2026-09-08"
+    "first_formal_batch_date": "2026-09-08",
+    "deep_analysis_completed_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-09"
   },
   "10.1038/d41586-026-02497-2": {
     "doi": "10.1038/d41586-026-02497-2",
@@ -123330,7 +123332,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Author Correction，属于原则性排除文章类型，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02796-8": {
     "doi": "10.1038/d41586-026-02796-8",
@@ -123378,7 +123385,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Correspondence，医疗 AI 治理方向相关但信息量较低，缺乏足以支持独立深度解读的研究或产业证据；不机械入队。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02794-w": {
     "doi": "10.1038/d41586-026-02794-w",
@@ -123420,7 +123432,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Correspondence，主题为尼泊尔复合气候风险，与生命科学和生物医药投资无直接关系。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02797-7": {
     "doi": "10.1038/d41586-026-02797-7",
@@ -123462,7 +123479,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Correspondence，讨论中国科研资源配置与利益结构，和生命科学/生物医药投资方向连接较弱。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02795-9": {
     "doi": "10.1038/d41586-026-02795-9",
@@ -123510,7 +123532,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Correspondence，讨论临床试验结果预测市场的伦理/政策风险，虽与临床研发相关但篇幅与实质信息有限，投资增量不足以占用重点解读名额。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02803-y": {
     "doi": "10.1038/d41586-026-02803-y",
@@ -123552,7 +123579,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "UK Biobank 数据泄露与安全架构对生物医学数据平台具有直接产业意义，Nature News Feature 正文证据充分；但本期非原创文章名额优先用于 AlphaGenome Atlas 和中国 IIT 监管积压，留待后续重点解读。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02802-z": {
     "doi": "10.1038/d41586-026-02802-z",
@@ -123594,7 +123626,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "World View，天文学史与科研人物主题，属于低相关领域。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02807-8": {
     "doi": "10.1038/d41586-026-02807-8",
@@ -123636,7 +123673,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Comment，主题为宏观发展与代际资本配置，与生命科学、AI 生物医药及相关投资方向缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02831-8": {
     "doi": "10.1038/d41586-026-02831-8",
@@ -123678,7 +123720,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Daily Briefing，低信息量聚合内容，且相关原始新闻此前已处理，不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02812-x": {
     "doi": "10.1038/d41586-026-02812-x",
@@ -123720,7 +123767,12 @@
     "triggered_at": "2026-09-08T21:01:28+08:00",
     "scheduler_delay_minutes": 264.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Daily Briefing，低信息量聚合内容；其对应裸盖菇素/CIPN 原创 Science 研究已在此前日报完成重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02722-y": {
     "doi": "10.1038/d41586-026-02722-y",
@@ -123755,7 +123807,12 @@
     "triggered_at": "2026-09-09T00:50:14+08:00",
     "scheduler_delay_minutes": 247.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "News & Views/历史档案，主题为 Kelvin/William Thomson 科学史，属于纯物理与历史内容。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02678-z": {
     "doi": "10.1038/d41586-026-02678-z",
@@ -123790,7 +123847,12 @@
     "triggered_at": "2026-09-09T00:50:14+08:00",
     "scheduler_delay_minutes": 247.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Editorial，主题为世界银行研究可重复性；科研治理意义存在，但与用户生命科学和生物医药投资关注不够直接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02835-4": {
     "doi": "10.1038/d41586-026-02835-4",
@@ -123832,7 +123894,14 @@
     "triggered_at": "2026-09-09T00:50:14+08:00",
     "scheduler_delay_minutes": 247.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Nature News，但本次已实际读取出版商全文并交叉核验 Google DeepMind 官方 AlphaGenome Atlas 资料；与 AI for Biology、变异功能预测、罕见病和靶点发现高度相关，本次完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-09"
   },
   "10.1016/j.cell.2026.08.020": {
     "doi": "10.1016/j.cell.2026.08.020",
@@ -123927,7 +123996,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-12T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-12T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "原创 Cell 结构生物学研究；本次已从 PubMed 取得正式摘要，证据充分。SWI/SNF-PIC-Mediator 复合体机制与转录调控、肿瘤表观遗传靶点直接相关，本次完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-09"
   },
   "10.1038/d41586-026-02457-w": {
     "doi": "10.1038/d41586-026-02457-w",
@@ -123969,7 +124045,12 @@
     "triggered_at": "2026-09-09T08:21:04+08:00",
     "scheduler_delay_minutes": 118.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "Career Q&A，科研职业与倡议内容，属于原则性低优先级非原创类型。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02842-5": {
     "doi": "10.1038/d41586-026-02842-5",
@@ -124011,7 +124092,12 @@
     "triggered_at": "2026-09-09T08:21:04+08:00",
     "scheduler_delay_minutes": 118.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "News，AI 数学/千禧年难题方向，与生命科学和生物医药投资无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeh6251": {
     "doi": "10.1126/science.aeh6251",
@@ -124155,6 +124241,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-09T12:39:02+08:00"
+    "last_enrichment_success_at": "2026-09-09T12:39:02+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-09",
+    "deep_analysis_reason": "原创 Science 研究，Crossref 已取得正式摘要；多取代 bicyclo[1.1.0]butane 的立体选择性构建与 medicinal chemistry/骨架设计直接相关，并由中国团队主导，本次完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-09T15:20:06+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-09"
   }
 }

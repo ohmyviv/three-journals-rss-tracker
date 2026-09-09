@@ -3950,13 +3950,15 @@
     "queue_reason": [
       "article_type_quota"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-09-08T15:19:25+08:00",
+    "last_reviewed_at": "2026-09-09T15:20:06+08:00",
     "first_formal_batch_id": "daily-2026-09-08",
     "first_formal_batch_date": "2026-09-08",
-    "source_url": "https://www.nature.com/articles/d41586-026-02407-6"
+    "source_url": "https://www.nature.com/articles/d41586-026-02407-6",
+    "completed_at": "2026-09-09T15:20:06+08:00",
+    "completed_in_batch_id": "daily-2026-09-09"
   },
   "10.1038/d41586-026-02497-2": {
     "doi": "10.1038/d41586-026-02497-2",
@@ -3976,5 +3978,81 @@
     "source_url": "https://www.nature.com/articles/d41586-026-02497-2",
     "completed_at": "2026-09-08T15:19:25+08:00",
     "completed_in_batch_id": "daily-2026-09-08"
+  },
+  "10.1016/j.cell.2026.08.020": {
+    "doi": "10.1016/j.cell.2026.08.020",
+    "journal": "Cell",
+    "title": "Structural basis of a SWI/SNF-associated transcription pre-initiation complex",
+    "first_seen_at": "2026-09-09T00:50:14+08:00",
+    "queued_at": "2026-09-09T15:20:06+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-09T15:20:06+08:00",
+    "first_formal_batch_id": "daily-2026-09-09",
+    "first_formal_batch_date": "2026-09-09",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.020",
+    "completed_at": "2026-09-09T15:20:06+08:00",
+    "completed_in_batch_id": "daily-2026-09-09"
+  },
+  "10.1038/d41586-026-02803-y": {
+    "doi": "10.1038/d41586-026-02803-y",
+    "journal": "Nature",
+    "title": "A data leak shut a top research biobank: lessons from the recovery",
+    "first_seen_at": "2026-09-08T21:01:28+08:00",
+    "queued_at": "2026-09-09T15:20:06+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [
+      "article_type_quota"
+    ],
+    "analysis_status": "pending",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-09T15:20:06+08:00",
+    "first_formal_batch_id": "daily-2026-09-09",
+    "first_formal_batch_date": "2026-09-09",
+    "source_url": "https://www.nature.com/articles/d41586-026-02803-y"
+  },
+  "10.1038/d41586-026-02835-4": {
+    "doi": "10.1038/d41586-026-02835-4",
+    "journal": "Nature",
+    "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
+    "first_seen_at": "2026-09-09T00:50:14+08:00",
+    "queued_at": "2026-09-09T15:20:06+08:00",
+    "priority_level": "P0",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-09T15:20:06+08:00",
+    "first_formal_batch_id": "daily-2026-09-09",
+    "first_formal_batch_date": "2026-09-09",
+    "source_url": "https://www.nature.com/articles/d41586-026-02835-4",
+    "completed_at": "2026-09-09T15:20:06+08:00",
+    "completed_in_batch_id": "daily-2026-09-09"
+  },
+  "10.1126/science.aeh6251": {
+    "doi": "10.1126/science.aeh6251",
+    "journal": "Science",
+    "title": "Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution",
+    "first_seen_at": "2026-09-09T08:21:04+08:00",
+    "queued_at": "2026-09-09T15:20:06+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-09T15:20:06+08:00",
+    "first_formal_batch_id": "daily-2026-09-09",
+    "first_formal_batch_date": "2026-09-09",
+    "source_url": "https://doi.org/10.1126/science.aeh6251",
+    "completed_at": "2026-09-09T15:20:06+08:00",
+    "completed_in_batch_id": "daily-2026-09-09"
   }
 }
