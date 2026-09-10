@@ -124027,9 +124027,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-09-10T21:05:00+08:00",
+    "last_seen_at": "2026-09-11T00:39:30+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-10T21:05:00+08:00",
+    "last_updated_at": "2026-09-11T00:39:30+08:00",
     "author_affiliations": [
       {
         "author": "Shigeki Nagai",
@@ -124256,9 +124256,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-09-10T21:05:00+08:00",
+    "last_seen_at": "2026-09-11T00:39:30+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-10T21:05:00+08:00",
+    "last_updated_at": "2026-09-11T00:39:30+08:00",
     "author_affiliations": [
       {
         "author": "Xiaolong Zhang",
@@ -129423,9 +129423,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-10",
     "batched_at": "2026-09-10T13:54:59+08:00",
-    "last_seen_at": "2026-09-10T21:05:00+08:00",
+    "last_seen_at": "2026-09-11T00:39:30+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-10T21:05:00+08:00",
+    "last_updated_at": "2026-09-11T00:39:30+08:00",
     "author_affiliations": [
       {
         "author": "Marta Grońska-Pęski",
@@ -129804,6 +129804,255 @@
     "scheduled_for": "2026-09-10T16:37:00+08:00",
     "triggered_at": "2026-09-10T21:05:00+08:00",
     "scheduler_delay_minutes": 268.0,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.08.022": {
+    "doi": "10.1016/j.cell.2026.08.022",
+    "journal": "Cell",
+    "title_first_seen": "Architecture of the serotonergic projectome in the mouse brain",
+    "current_title": "Architecture of the serotonergic projectome in the mouse brain",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.022",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "authors_rss": [
+      "Jun Ho Song",
+      "Drew Friedmann",
+      "Yunming Wu",
+      "Ashley Moses",
+      "Jalal Kenji Baruni",
+      "Yuan Yuan",
+      "Isabella Rana",
+      "Kelly Zhao",
+      "Tom Hindmarsh Sten",
+      "Qian Wang",
+      "Shuyun Alina Xiao",
+      "Xiaoke Chen",
+      "Scott W. Linderman",
+      "Liqun Luo"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-09-11T00:39:30+08:00",
+    "last_absent_at": "2026-09-10T21:05:00+08:00",
+    "appearance_window_start": "2026-09-10T21:05:00+08:00",
+    "appearance_window_end": "2026-09-11T00:39:30+08:00",
+    "first_seen_run_id": "discover-2026-09-11T003930p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-09-11T00:39:30+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-11T00:39:30+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jun Ho Song",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Drew Friedmann",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yunming Wu",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ashley Moses",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jalal Kenji Baruni",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yuan Yuan",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Isabella Rana",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kelly Zhao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tom Hindmarsh Sten",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Qian Wang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Shuyun Alina Xiao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiaoke Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Scott W. Linderman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Liqun Luo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-09-10T20:43:00+08:00",
+    "triggered_at": "2026-09-11T00:39:30+08:00",
+    "scheduler_delay_minutes": 236.5,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.08.028": {
+    "doi": "10.1016/j.cell.2026.08.028",
+    "journal": "Cell",
+    "title_first_seen": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning",
+    "current_title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.028",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "authors_rss": [
+      "Dhruv Agarwal",
+      "Zichen Wang",
+      "Eric Arkfeld",
+      "Andre Modolo",
+      "Parth Natekar",
+      "Hiroyuki Hakozaki",
+      "Mehul Arora",
+      "Gillian McMahon",
+      "Siddharth Nahar",
+      "Manav Doshi",
+      "Johannes Schöneberg"
+    ],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-09-11T00:39:30+08:00",
+    "last_absent_at": "2026-09-10T21:05:00+08:00",
+    "appearance_window_start": "2026-09-10T21:05:00+08:00",
+    "appearance_window_end": "2026-09-11T00:39:30+08:00",
+    "first_seen_run_id": "discover-2026-09-11T003930p0800",
+    "discovery_source": "cell_crossref",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "crossref_only",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-09-11T00:39:30+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-11T00:39:30+08:00",
+    "author_affiliations": [
+      {
+        "author": "Dhruv Agarwal",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Zichen Wang",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eric Arkfeld",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andre Modolo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Parth Natekar",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Hiroyuki Hakozaki",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mehul Arora",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Gillian McMahon",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Siddharth Nahar",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manav Doshi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Johannes Schöneberg",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-09-10T20:43:00+08:00",
+    "triggered_at": "2026-09-11T00:39:30+08:00",
+    "scheduler_delay_minutes": 236.5,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
   }
