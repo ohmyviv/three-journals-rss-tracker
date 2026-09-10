@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-10T16:04:08+08:00",
+  "generated_at": "2026-09-10T21:05:09+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 179,
-      "successful_checks": 178,
+      "checks": 180,
+      "successful_checks": 179,
       "failed_checks": 1,
       "checks_with_new_items": 21,
       "total_new_items_observed": 49,
@@ -25,17 +25,17 @@
         "Friday": 3,
         "Saturday": 2
       },
-      "last_checked_at": "2026-09-10T16:04:02+08:00",
-      "last_success_at": "2026-09-10T16:04:02+08:00"
+      "last_checked_at": "2026-09-10T21:05:00+08:00",
+      "last_success_at": "2026-09-10T21:05:00+08:00"
     },
     "nature": {
-      "checks": 179,
-      "successful_checks": 179,
+      "checks": 180,
+      "successful_checks": 180,
       "failed_checks": 0,
-      "checks_with_new_items": 67,
-      "total_new_items_observed": 397,
+      "checks_with_new_items": 68,
+      "total_new_items_observed": 399,
       "new_item_checks_by_hour": {
-        "21:00-21:59": 15,
+        "21:00-21:59": 16,
         "08:00-08:59": 8,
         "17:00-17:59": 7,
         "06:00-06:59": 7,
@@ -53,20 +53,20 @@
         "04:00-04:59": 1
       },
       "new_item_checks_by_weekday": {
+        "Thursday": 16,
         "Wednesday": 15,
-        "Thursday": 15,
         "Tuesday": 12,
         "Friday": 10,
         "Monday": 9,
         "Saturday": 5,
         "Sunday": 1
       },
-      "last_checked_at": "2026-09-10T16:04:02+08:00",
-      "last_success_at": "2026-09-10T16:04:02+08:00"
+      "last_checked_at": "2026-09-10T21:05:00+08:00",
+      "last_success_at": "2026-09-10T21:05:00+08:00"
     },
     "science": {
-      "checks": 179,
-      "successful_checks": 179,
+      "checks": 180,
+      "successful_checks": 180,
       "failed_checks": 0,
       "checks_with_new_items": 6,
       "total_new_items_observed": 147,
@@ -82,8 +82,8 @@
         "Saturday": 1,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-09-10T16:04:02+08:00",
-      "last_success_at": "2026-09-10T16:04:02+08:00"
+      "last_checked_at": "2026-09-10T21:05:00+08:00",
+      "last_success_at": "2026-09-10T21:05:00+08:00"
     }
   }
 }
