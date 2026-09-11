@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-11T00:39:32+08:00",
+  "generated_at": "2026-09-11T08:14:35+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 181,
-      "successful_checks": 180,
+      "checks": 182,
+      "successful_checks": 181,
       "failed_checks": 1,
       "checks_with_new_items": 22,
       "total_new_items_observed": 51,
@@ -25,18 +25,18 @@
         "Thursday": 4,
         "Saturday": 2
       },
-      "last_checked_at": "2026-09-11T00:39:30+08:00",
-      "last_success_at": "2026-09-11T00:39:30+08:00"
+      "last_checked_at": "2026-09-11T08:14:29+08:00",
+      "last_success_at": "2026-09-11T08:14:29+08:00"
     },
     "nature": {
-      "checks": 181,
-      "successful_checks": 181,
+      "checks": 182,
+      "successful_checks": 182,
       "failed_checks": 0,
-      "checks_with_new_items": 68,
-      "total_new_items_observed": 399,
+      "checks_with_new_items": 69,
+      "total_new_items_observed": 401,
       "new_item_checks_by_hour": {
         "21:00-21:59": 16,
-        "08:00-08:59": 8,
+        "08:00-08:59": 9,
         "17:00-17:59": 7,
         "06:00-06:59": 7,
         "00:00-00:59": 7,
@@ -56,34 +56,34 @@
         "Thursday": 16,
         "Wednesday": 15,
         "Tuesday": 12,
-        "Friday": 10,
+        "Friday": 11,
         "Monday": 9,
         "Saturday": 5,
         "Sunday": 1
       },
-      "last_checked_at": "2026-09-11T00:39:30+08:00",
-      "last_success_at": "2026-09-11T00:39:30+08:00"
+      "last_checked_at": "2026-09-11T08:14:29+08:00",
+      "last_success_at": "2026-09-11T08:14:29+08:00"
     },
     "science": {
-      "checks": 181,
-      "successful_checks": 181,
+      "checks": 182,
+      "successful_checks": 182,
       "failed_checks": 0,
-      "checks_with_new_items": 6,
-      "total_new_items_observed": 147,
+      "checks_with_new_items": 7,
+      "total_new_items_observed": 185,
       "new_item_checks_by_hour": {
-        "08:00-08:59": 2,
+        "08:00-08:59": 3,
         "07:00-07:59": 1,
         "16:00-16:59": 1,
         "06:00-06:59": 1,
         "03:00-03:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Friday": 4,
+        "Friday": 5,
         "Saturday": 1,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-09-11T00:39:30+08:00",
-      "last_success_at": "2026-09-11T00:39:30+08:00"
+      "last_checked_at": "2026-09-11T08:14:29+08:00",
+      "last_success_at": "2026-09-11T08:14:29+08:00"
     }
   }
 }
