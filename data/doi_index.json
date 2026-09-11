@@ -129527,9 +129527,9 @@
     "doi": "10.1016/j.cell.2026.08.013",
     "journal": "Cell",
     "title_first_seen": "Caloric restriction modulates genome-wide somatic mutation in mice",
-    "current_title": "Caloric restriction modulates genome-wide somatic mutation in mice.",
+    "current_title": "Caloric restriction modulates genome-wide somatic mutation in mice",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.013",
-    "rss_reported_time": "2026-09-09T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Marta Grońska-Pęski",
       "Victoria Acosta-Rodríguez",
@@ -129553,89 +129553,70 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-10",
     "batched_at": "2026-09-10T13:54:59+08:00",
-    "last_seen_at": "2026-09-11T09:27:43+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-11T09:27:43+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
-        "author": "Grońska-Pęski M",
-        "affiliations": [
-          "Center for Human Genetics and Genomics, New York University Grossman School of Medicine, New York, NY, USA."
-        ],
+        "author": "Marta Grońska-Pęski",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Acosta-Rodríguez V",
-        "affiliations": [
-          "Circadian Biology of Aging Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA."
-        ],
+        "author": "Victoria Acosta-Rodríguez",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Srinivasa A",
-        "affiliations": [
-          "Center for Human Genetics and Genomics, New York University Grossman School of Medicine, New York, NY, USA."
-        ],
+        "author": "Amoolya Srinivasa",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Garrido A",
-        "affiliations": [
-          "Circadian Biology of Aging Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA."
-        ],
+        "author": "Amanda Garrido",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Picciotto S",
-        "affiliations": [
-          "Department of Urology, University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA."
-        ],
+        "author": "Shany Picciotto",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Green CB",
-        "affiliations": [
-          "Department of Neuroscience, Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Carla B. Green",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Takahashi JS",
-        "affiliations": [
-          "Department of Neuroscience, Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Joseph S. Takahashi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shoag JE",
-        "affiliations": [
-          "Department of Urology, University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA. Electronic address: jxs218@case.edu."
-        ],
+        "author": "Jonathan E. Shoag",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Evrony GD",
-        "affiliations": [
-          "Center for Human Genetics and Genomics, New York University Grossman School of Medicine, New York, NY, USA; Department of Pediatrics, Department of Neuroscience, Institute for Systems Genetics, Perlmutter Cancer Center, Institute for Translational Neuroscience and Optimal Aging Institute, New York University Grossman School of Medicine, New York, NY, USA. Electronic address: gilad.evrony@nyulangone.org."
-        ],
+        "author": "Gilad D. Evrony",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Center for Human Genetics and Genomics, New York University Grossman School of Medicine, New York, NY, USA.",
-      "Circadian Biology of Aging Unit, Translational Gerontology Branch, National Institute on Aging, National Institutes of Health, Baltimore, MD, USA.",
-      "Department of Urology, University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
-      "Department of Neuroscience, Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neuroscience, Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Urology, University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA. Electronic address: jxs218@case.edu.",
-      "Center for Human Genetics and Genomics, New York University Grossman School of Medicine, New York, NY, USA; Department of Pediatrics, Department of Neuroscience, Institute for Systems Genetics, Perlmutter Cancer Center, Institute for Translational Neuroscience and Optimal Aging Institute, New York University Grossman School of Medicine, New York, NY, USA. Electronic address: gilad.evrony@nyulangone.org."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-09T20:43:00+08:00",
     "triggered_at": "2026-09-10T00:53:01+08:00",
     "scheduler_delay_minutes": 250.0,
@@ -130030,9 +130011,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jun Ho Song",
@@ -130164,9 +130145,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Dhruv Agarwal",
@@ -130372,9 +130353,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Philippe J. Batut",
@@ -130454,9 +130435,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Qianli Ma",
@@ -130742,9 +130723,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Monica Sharma",
@@ -130987,9 +130968,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Noriyuki Kawasaki",
@@ -131798,9 +131779,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Anna Wenger",
@@ -132214,9 +132195,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jingwen Li",
@@ -132339,9 +132320,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Qilin Li",
@@ -132476,9 +132457,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Meghan C. Curtin",
@@ -132607,9 +132588,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Hehao Qin",
@@ -132766,9 +132747,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Melissa A. Johnson",
@@ -133010,9 +132991,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Ruiqing Wang",
@@ -133232,9 +133213,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Antoine Cabon",
@@ -133824,9 +133805,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Xiao-Le Lei",
@@ -134063,9 +134044,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Noam Angrist",
@@ -134197,9 +134178,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Rafi Ahmed",
@@ -134262,9 +134243,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Marilina de Sautu",
@@ -134370,9 +134351,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Yue Wang",
@@ -134560,9 +134541,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Sarah Boon",
@@ -134616,9 +134597,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jiangwei Zhu",
@@ -134716,9 +134697,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Tao Liang",
@@ -134788,9 +134769,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Yogesh Joglekar",
@@ -134840,9 +134821,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Zishan Ahmad Wani",
@@ -134895,9 +134876,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Sanjeev A. Vasudevan",
@@ -134957,9 +134938,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Alondra Nelson",
@@ -135020,9 +135001,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Arup K. Chakraborty",
@@ -135074,9 +135055,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Dan Wang",
@@ -135140,9 +135121,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Corinne Simonti",
@@ -135276,9 +135257,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Bianca Lopez",
@@ -135358,9 +135339,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Violeta J. Rodriguez",
@@ -135408,9 +135389,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -135447,9 +135428,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Richard Stone",
@@ -135503,9 +135484,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jeffrey Mervis",
@@ -135549,9 +135530,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jocelyn Kaiser",
@@ -135601,9 +135582,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Warren Cornwall",
@@ -135647,9 +135628,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Jennie Erin Smith",
@@ -135693,9 +135674,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Andrew Lawler",
@@ -135768,9 +135749,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Pedro Jiménez-Sandoval",
@@ -136041,9 +136022,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-11T08:14:29+08:00",
+    "last_seen_at": "2026-09-11T13:53:33+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-11T08:14:29+08:00",
+    "last_updated_at": "2026-09-11T13:53:33+08:00",
     "author_affiliations": [
       {
         "author": "Haixia Zhou",
