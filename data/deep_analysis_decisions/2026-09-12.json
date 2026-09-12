@@ -1,0 +1,111 @@
+{
+  "batch_id": "daily-2026-09-12",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.08.017",
+      "disposition": "completed",
+      "reason": "已取得PubMed正式摘要；首次人体糖萼编辑自体MSC治疗重度骨质疏松，主题高度相关，本次完成重点解读。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.024",
+      "disposition": "completed",
+      "reason": "已取得PubMed正式摘要；Metax直接关联临床宏基因组、微生物组和生物信息学平台，本次完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.023",
+      "disposition": "completed",
+      "reason": "已取得PubMed正式摘要；揭示线粒体ATP-磷酸肌酸-BAF染色质重塑调控CD8效应分化，并有抗肿瘤验证，本次完成重点解读。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02763-3",
+      "disposition": "not_selected",
+      "reason": "气候传播/公众参与新闻，与生命科学、生物医药和AI生命科学投资主线无直接连接。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02866-x",
+      "disposition": "not_selected",
+      "reason": "微塑料河流输出新闻，属于环境科学，和本期生命科学投资主题缺乏直接连接。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02893-8",
+      "disposition": "not_selected",
+      "reason": "Briefing Chat/播客型低信息量内容，按文章类型规则原则上不进入重点解读。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02888-5",
+      "disposition": "not_selected",
+      "reason": "Daily Briefing聚合型内容，且主题为教育干预，按规则不进入重点解读。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02828-3",
+      "disposition": "not_selected",
+      "reason": "Nature新闻报道对应同日Cell原创骨质疏松MSC论文；原创论文已完成重点解读，为避免重复不再单独解读新闻稿。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02883-w",
+      "disposition": "not_selected",
+      "reason": "公众对科学家的信任研究新闻，和用户生命科学/生物医药投资方向连接较弱。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02827-4",
+      "disposition": "not_selected",
+      "reason": "科研职业与导师网络类内容，属于排除型Career主题。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02892-9",
+      "disposition": "not_selected",
+      "reason": "NSF科研资助政策新闻，与生命科学投资主题缺乏足够直接的产业连接。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1126/science.ael8642",
+      "disposition": "not_selected",
+      "reason": "临床试验预测市场政策评论，Crossref-only空摘要且为非原创评论；未来获得正文也不足以优先于现有高相关候选。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.028",
+      "disposition": "completed",
+      "reason": "历史积压今日已由Europe PMC/PubMed富化为正式摘要；MitoSpace与AI生命科学、高内涵表型筛选直接相关，本次完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02659-2",
+      "disposition": "completed",
+      "reason": "历史积压Nature Outlook，已读取出版商正文；亚细胞/线粒体靶向递送与药物递送投资方向高度相关，本次占用非原创名额完成。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02657-4",
+      "disposition": "completed",
+      "reason": "历史积压Nature Outlook，已读取出版商正文；工程细菌肿瘤递药与合成生物学、肿瘤治疗高度相关，本次占用非原创名额完成。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02660-9",
+      "disposition": "queued",
+      "reason": "长效药物工程与递送高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "queue_reason": ["article_type_quota"]
+    },
+    {
+      "doi": "10.1038/d41586-026-02656-5",
+      "disposition": "queued",
+      "reason": "鼻腔/黏膜疫苗与感染防控高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "queue_reason": ["article_type_quota"]
+    }
+  ]
+}
