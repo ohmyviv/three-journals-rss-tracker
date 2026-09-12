@@ -128883,13 +128883,15 @@
     "scheduler_delay_minutes": 250.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-11T15:21:33+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-11",
-    "deep_analysis_reason": "已实际检查且证据充分、主题高相关，但本期非原创文章名额已满，继续保留后续处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "历史积压Nature Outlook，已读取出版商正文；工程细菌肿瘤递药与合成生物学、肿瘤治疗高度相关，本次占用非原创名额完成。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
-    "first_formal_batch_date": "2026-09-10"
+    "first_formal_batch_date": "2026-09-10",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1038/d41586-026-02709-9": {
     "doi": "10.1038/d41586-026-02709-9",
@@ -129563,9 +129565,9 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-11T15:21:33+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-11",
-    "deep_analysis_reason": "已实际检查且证据充分、主题高相关，但本期非原创文章名额已满，继续保留后续处理。",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "长效药物工程与递送高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
     "first_formal_batch_date": "2026-09-10"
@@ -129605,9 +129607,9 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-11T15:21:33+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-11",
-    "deep_analysis_reason": "已实际检查且主题高相关，但本期非原创文章名额已满，继续保留后续处理。",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "鼻腔/黏膜疫苗与感染防控高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
     "first_formal_batch_date": "2026-09-10"
@@ -129730,13 +129732,15 @@
     "scheduler_delay_minutes": 250.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-11T15:21:33+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-11",
-    "deep_analysis_reason": "已实际检查且证据充分、主题高相关，但本期非原创文章名额已满，继续保留后续处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "历史积压Nature Outlook，已读取出版商正文；亚细胞/线粒体靶向递送与药物递送投资方向高度相关，本次占用非原创名额完成。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
-    "first_formal_batch_date": "2026-09-10"
+    "first_formal_batch_date": "2026-09-10",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1016/j.cell.2026.08.013": {
     "doi": "10.1016/j.cell.2026.08.013",
@@ -130519,10 +130523,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-09-14T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-11T15:21:33+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-11",
-    "deep_analysis_reason": "主题高度相关（线粒体表型×表征学习），但仓库为 Crossref-only 空摘要，本次未取得正式摘要、全文或作者正式预印本；等待证据富化。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "历史积压今日已由Europe PMC/PubMed富化为正式摘要；MitoSpace与AI生命科学、高内涵表型筛选直接相关，本次完成重点解读。",
     "deep_analysis_priority_level": "P1",
     "pmid": "42721963",
     "europe_pmc_source": "MED",
@@ -130554,7 +130558,9 @@
     "europe_pmc_first_seen_at": "2026-09-12T09:32:43+08:00",
     "first_formal_batch_id": "daily-2026-09-11",
     "first_formal_batch_date": "2026-09-11",
-    "last_enrichment_success_at": "2026-09-12T12:31:46+08:00"
+    "last_enrichment_success_at": "2026-09-12T12:31:46+08:00",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1038/s41586-026-11079-1": {
     "doi": "10.1038/s41586-026-11079-1",
@@ -137952,7 +137958,12 @@
     "triggered_at": "2026-09-11T20:59:11+08:00",
     "scheduler_delay_minutes": 262.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "气候传播/公众参与新闻，与生命科学、生物医药和AI生命科学投资主线无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02866-x": {
     "doi": "10.1038/d41586-026-02866-x",
@@ -137987,7 +137998,12 @@
     "triggered_at": "2026-09-11T20:59:11+08:00",
     "scheduler_delay_minutes": 262.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "微塑料河流输出新闻，属于环境科学，和本期生命科学投资主题缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02893-8": {
     "doi": "10.1038/d41586-026-02893-8",
@@ -138035,7 +138051,12 @@
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "Briefing Chat/播客型低信息量内容，按文章类型规则原则上不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02883-w": {
     "doi": "10.1038/d41586-026-02883-w",
@@ -138077,7 +138098,12 @@
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "公众对科学家的信任研究新闻，和用户生命科学/生物医药投资方向连接较弱。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02827-4": {
     "doi": "10.1038/d41586-026-02827-4",
@@ -138119,7 +138145,12 @@
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "科研职业与导师网络类内容，属于排除型Career主题。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02828-3": {
     "doi": "10.1038/d41586-026-02828-3",
@@ -138161,7 +138192,12 @@
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "Nature新闻报道对应同日Cell原创骨质疏松MSC论文；原创论文已完成重点解读，为避免重复不再单独解读新闻稿。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02888-5": {
     "doi": "10.1038/d41586-026-02888-5",
@@ -138203,7 +138239,12 @@
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "Daily Briefing聚合型内容，且主题为教育干预，按规则不进入重点解读。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael8642": {
     "doi": "10.1126/science.ael8642",
@@ -138267,7 +138308,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "临床试验预测市场政策评论，Crossref-only空摘要且为非原创评论；未来获得正文也不足以优先于现有高相关候选。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.024": {
     "doi": "10.1016/j.cell.2026.08.024",
@@ -138327,7 +138373,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "已取得PubMed正式摘要；Metax直接关联临床宏基因组、微生物组和生物信息学平台，本次完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1016/j.cell.2026.08.017": {
     "doi": "10.1016/j.cell.2026.08.017",
@@ -138492,7 +138545,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "已取得PubMed正式摘要；首次人体糖萼编辑自体MSC治疗重度骨质疏松，主题高度相关，本次完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1016/j.cell.2026.08.023": {
     "doi": "10.1016/j.cell.2026.08.023",
@@ -138720,7 +138780,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-15T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "已取得PubMed正式摘要；揭示线粒体ATP-磷酸肌酸-BAF染色质重塑调控CD8效应分化，并有抗肿瘤验证，本次完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-12"
   },
   "10.1038/d41586-026-02892-9": {
     "doi": "10.1038/d41586-026-02892-9",
@@ -138762,6 +138829,11 @@
     "triggered_at": "2026-09-12T08:22:15+08:00",
     "scheduler_delay_minutes": 119.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-12",
+    "deep_analysis_reason": "NSF科研资助政策新闻，与生命科学投资主题缺乏足够直接的产业连接。",
+    "deep_analysis_priority_level": "P3"
   }
 }
