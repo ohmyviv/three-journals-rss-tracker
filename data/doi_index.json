@@ -137864,7 +137864,7 @@
     "doi": "10.1126/science.ael8642",
     "journal": "Science",
     "title_first_seen": "Ban bets on unfinished clinical trials",
-    "current_title": "Ban bets on unfinished clinical trials.",
+    "current_title": "Ban bets on unfinished clinical trials",
     "source_url": "https://doi.org/10.1126/science.ael8642",
     "rss_reported_time": "2026-09-11T08:00:00+08:00",
     "authors_rss": [
@@ -137883,36 +137883,38 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-13T09:24:27+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-13T09:24:27+08:00",
+    "last_seen_at": "2026-09-13T14:02:13+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-13T14:02:13+08:00",
     "author_affiliations": [
       {
-        "author": "Yang YT",
+        "author": "Y. Tony Yang",
         "affiliations": [
           "Y. Tony Yang is an endowed professor at the Center for Health Policy and Media Engagement, George Washington University School of Nursing, and Department of Health Policy and Management, Milken Institute School of Public Health, George Washington University, Washington, DC, USA.",
-          "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
+          "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital, Boston, MA, USA."
         ],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Kesselheim AS",
+        "author": "Aaron S. Kesselheim",
         "affiliations": [
           "Y. Tony Yang is an endowed professor at the Center for Health Policy and Media Engagement, George Washington University School of Nursing, and Department of Health Policy and Management, Milken Institute School of Public Health, George Washington University, Washington, DC, USA.",
-          "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
+          "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital, Boston, MA, USA."
         ],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
     "affiliations": [
       "Y. Tony Yang is an endowed professor at the Center for Health Policy and Media Engagement, George Washington University School of Nursing, and Department of Health Policy and Management, Milken Institute School of Public Health, George Washington University, Washington, DC, USA.",
-      "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
+      "Aaron S. Kesselheim is a professor of medicine at Harvard Medical School and a faculty member in the Program On Regulation, Therapeutics, And Law, Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital, Boston, MA, USA."
     ],
     "china_team_status": "no_china_signal",
     "china_institutions": [],
     "china_key_authors": [],
     "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
+      "crossref:affiliation_checked"
     ],
     "scheduled_for": "2026-09-11T20:43:00+08:00",
     "triggered_at": "2026-09-12T00:45:03+08:00",
@@ -137952,9 +137954,9 @@
     "doi": "10.1016/j.cell.2026.08.024",
     "journal": "Cell",
     "title_first_seen": "Metax enables accurate cross-domain taxonomic profiling of metagenomes",
-    "current_title": "Metax enables accurate cross-domain taxonomic profiling of metagenomes.",
+    "current_title": "Metax enables accurate cross-domain taxonomic profiling of metagenomes",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.024",
-    "rss_reported_time": "2026-09-11T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Zhi-Luo Deng",
       "Nasim Safaei",
@@ -137972,43 +137974,34 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-13T09:24:27+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-13T09:24:27+08:00",
+    "last_seen_at": "2026-09-13T14:02:13+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-13T14:02:13+08:00",
     "author_affiliations": [
       {
-        "author": "Deng ZL",
-        "affiliations": [
-          "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany; Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, 38106 Braunschweig, Germany; German Center for Infection Research (DZIF), partner site Hannover-Braunschweig, 38124 Braunschweig, Germany; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, 30625 Hannover, Germany. Electronic address: zde14@helmholtz-hzi.de."
-        ],
+        "author": "Zhi-Luo Deng",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Safaei N",
-        "affiliations": [
-          "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany."
-        ],
+        "author": "Nasim Safaei",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "McHardy AC",
-        "affiliations": [
-          "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany; Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, 38106 Braunschweig, Germany; German Center for Infection Research (DZIF), partner site Hannover-Braunschweig, 38124 Braunschweig, Germany; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, 30625 Hannover, Germany. Electronic address: amc14@helmholtz-hzi.de."
-        ],
+        "author": "Alice Carolyn McHardy",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany; Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, 38106 Braunschweig, Germany; German Center for Infection Research (DZIF), partner site Hannover-Braunschweig, 38124 Braunschweig, Germany; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, 30625 Hannover, Germany. Electronic address: zde14@helmholtz-hzi.de.",
-      "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany.",
-      "Computational Biology of Infection Research, Helmholtz Centre for Infection Research, 38124 Braunschweig, Germany; Centre for Individualised Infection Medicine (CiiM), a joint initiative of the Helmholtz Centre for Infection Research (HZI) and Hannover Medical School (MHH), 30625 Hannover, Germany; Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, 38106 Braunschweig, Germany; German Center for Infection Research (DZIF), partner site Hannover-Braunschweig, 38124 Braunschweig, Germany; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, 30625 Hannover, Germany. Electronic address: amc14@helmholtz-hzi.de."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-11T20:43:00+08:00",
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
@@ -138052,9 +138045,9 @@
     "doi": "10.1016/j.cell.2026.08.017",
     "journal": "Cell",
     "title_first_seen": "Glycocalyx-edited mesenchymal stem/stromal cell therapy in advanced osteoporosis",
-    "current_title": "Glycocalyx-edited mesenchymal stem/stromal cell therapy in advanced osteoporosis.",
+    "current_title": "Glycocalyx-edited mesenchymal stem/stromal cell therapy in advanced osteoporosis",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.017",
-    "rss_reported_time": "2026-09-11T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Jose M. Moraleda",
       "Luis F. Linares",
@@ -138087,155 +138080,124 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-13T09:24:27+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-13T09:24:27+08:00",
+    "last_seen_at": "2026-09-13T14:02:13+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-13T14:02:13+08:00",
     "author_affiliations": [
       {
-        "author": "Moraleda JM",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Hematology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain; Medicine Department, University of Murcia, Murcia, Spain."
-        ],
+        "author": "Jose M. Moraleda",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Linares LF",
-        "affiliations": [
-          "Rheumatology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Luis F. Linares",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "García-Bernal D",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Biochemistry, Molecular Biology and Immunology Department, University of Murcia, Murcia, Spain."
-        ],
+        "author": "David García-Bernal",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lozano-Rivas N",
-        "affiliations": [
-          "Rheumatology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Nuria Lozano-Rivas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ruiz-Sará J",
-        "affiliations": [
-          "Rheumatology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Jenifer Ruiz-Sará",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Blanquer M",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Hematology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Miguel Blanquer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "López-Lucas MD",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain."
-        ],
+        "author": "M. Dolores López-Lucas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sánchez-Salinas D",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain."
-        ],
+        "author": "Darío Sánchez-Salinas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Algueró MC",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain."
-        ],
+        "author": "M. Carmen Algueró",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Molina-Molina MM",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain."
-        ],
+        "author": "M. Mar Molina-Molina",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ruiz-Espejo F",
-        "affiliations": [
-          "Genomics Laboratory, Department of Clinical Analyses, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Francisco Ruiz-Espejo",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Peris-Serra JL",
-        "affiliations": [
-          "Instituto de Biomecánica de Valencia, Universitat Politècnica de València, Valencia, Spain."
-        ],
+        "author": "José L. Peris-Serra",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Arrabal PM",
-        "affiliations": [
-          "Department of Cell Biology, Genetics and Physiology, University of Malaga and Andalusian Nanomedicine and Biotechnology Center (IBIMA-BIONAND), Malaga, Spain; Bioengineering, Biomaterials, and Nanomedicine Center (CIBER-BBN), Malaga, Spain."
-        ],
+        "author": "Pilar M. Arrabal",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Becerra J",
-        "affiliations": [
-          "Department of Cell Biology, Genetics and Physiology, University of Malaga and Andalusian Nanomedicine and Biotechnology Center (IBIMA-BIONAND), Malaga, Spain; Bioengineering, Biomaterials, and Nanomedicine Center (CIBER-BBN), Malaga, Spain."
-        ],
+        "author": "José Becerra",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kiwitt-Cárdenas J",
-        "affiliations": [
-          "Preventive Medicine Department, Virgen del Castillo Hospital, Yecla, Spain."
-        ],
+        "author": "Jonathan Kiwitt-Cárdenas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Marras C",
-        "affiliations": [
-          "Rheumatology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Carlos Marras",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "García-Hernández AM",
-        "affiliations": [
-          "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Hematology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain."
-        ],
+        "author": "Ana M. García-Hernández",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sackstein R",
-        "affiliations": [
-          "Translational Glycobiology Program, Miami Veterans Affairs Medical Center, Miami, FL, USA. Electronic address: sacksteingps@aol.com."
-        ],
+        "author": "Robert Sackstein",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Hematology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain; Medicine Department, University of Murcia, Murcia, Spain.",
-      "Rheumatology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain.",
-      "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Biochemistry, Molecular Biology and Immunology Department, University of Murcia, Murcia, Spain.",
-      "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain; Hematology Department, Virgen de la Arrixaca University Hospital, Murcia, Spain.",
-      "Hematopoietic Cell Transplant and Cellular Therapy Unit, Instituto Murciano de Investigación Biosanitaria, Murcia, Spain.",
-      "Genomics Laboratory, Department of Clinical Analyses, Virgen de la Arrixaca University Hospital, Murcia, Spain.",
-      "Instituto de Biomecánica de Valencia, Universitat Politècnica de València, Valencia, Spain.",
-      "Department of Cell Biology, Genetics and Physiology, University of Malaga and Andalusian Nanomedicine and Biotechnology Center (IBIMA-BIONAND), Malaga, Spain; Bioengineering, Biomaterials, and Nanomedicine Center (CIBER-BBN), Malaga, Spain.",
-      "Preventive Medicine Department, Virgen del Castillo Hospital, Yecla, Spain.",
-      "Translational Glycobiology Program, Miami Veterans Affairs Medical Center, Miami, FL, USA. Electronic address: sacksteingps@aol.com."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-11T20:43:00+08:00",
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
@@ -138294,9 +138256,9 @@
     "doi": "10.1016/j.cell.2026.08.023",
     "journal": "Cell",
     "title_first_seen": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility",
-    "current_title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility.",
+    "current_title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.023",
-    "rss_reported_time": "2026-09-11T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Charles Ng",
       "Tak Shun Fung",
@@ -138338,230 +138300,178 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-13T09:24:27+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-13T09:24:27+08:00",
+    "last_seen_at": "2026-09-13T14:02:13+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-13T14:02:13+08:00",
     "author_affiliations": [
       {
-        "author": "Ng C",
-        "affiliations": [
-          "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA; Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Charles Ng",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Fung TS",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Tak Shun Fung",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li D",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Dayi Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kropp KN",
-        "affiliations": [
-          "Immuno-Oncology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA; Center for Cellular Immunotherapy, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Korbinian N. Kropp",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Somarribas Patterson LF",
-        "affiliations": [
-          "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Luis F. Somarribas Patterson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Markovitz A",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Alexandria Markovitz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Weinberg DN",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Daniel N. Weinberg",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jones O",
-        "affiliations": [
-          "Program in Interdisciplinary Biological Sciences, Northwestern University, Evanston, IL, USA."
-        ],
+        "author": "Olivia Jones",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kim JY",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Ji-Young Kim",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang G",
-        "affiliations": [
-          "Proteomics and Metabolomics Core Facility, Weill Cornell Medicine, New York, NY, USA."
-        ],
+        "author": "Guoan Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Koche R",
-        "affiliations": [
-          "Center for Epigenetics Research, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Richard Koche",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Monetti M",
-        "affiliations": [
-          "Proteomics and Metabolomics Core, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Mara Monetti",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tang H",
-        "affiliations": [
-          "Institute of Neurological and Psychiatric Disorders, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
-        ],
+        "author": "Huayuan Tang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "He Y",
-        "affiliations": [
-          "Translational Innovation Center, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
-        ],
+        "author": "Yun He",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu Z",
-        "affiliations": [
-          "Translational Innovation Center, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
-        ],
+        "author": "Zhengshuang Xu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cai X",
-        "affiliations": [
-          "Department of Radiation Oncology, UT Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Xin Cai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yu Z",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Ziqi Yu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bhagavatula G",
-        "affiliations": [
-          "Department of Medicine and the Mucosal Inflammation Program, University of Colorado School of Medicine, Aurora, CO, USA."
-        ],
+        "author": "Geetha Bhagavatula",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Colgan SP",
-        "affiliations": [
-          "Department of Medicine and the Mucosal Inflammation Program, University of Colorado School of Medicine, Aurora, CO, USA."
-        ],
+        "author": "Sean P. Colgan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lin YH",
-        "affiliations": [
-          "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Ya-Hui Lin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li Z",
-        "affiliations": [
-          "Proteomics and Metabolomics Core, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Zhuoning Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Steinert EM",
-        "affiliations": [
-          "Department of Medicine, Division of Pulmonary and Critical Care Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
-        ],
+        "author": "Elizabeth M. Steinert",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Klebanoff CA",
-        "affiliations": [
-          "Immuno-Oncology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA; Center for Cellular Immunotherapy, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Christopher A. Klebanoff",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Vardhana SA",
-        "affiliations": [
-          "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
-        ],
+        "author": "Santosha A. Vardhana",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chandel NS",
-        "affiliations": [
-          "Department of Medicine, Division of Pulmonary and Critical Care Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
-        ],
+        "author": "Navdeep S. Chandel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu L",
-        "affiliations": [
-          "Institute of Neurological and Psychiatric Disorders, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
-        ],
+        "author": "Lin Wu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Thompson CB",
-        "affiliations": [
-          "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. Electronic address: thompsonc@mskcc.org."
-        ],
+        "author": "Craig B. Thompson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA; Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Immuno-Oncology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA; Center for Cellular Immunotherapy, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Program in Interdisciplinary Biological Sciences, Northwestern University, Evanston, IL, USA.",
-      "Proteomics and Metabolomics Core Facility, Weill Cornell Medicine, New York, NY, USA.",
-      "Center for Epigenetics Research, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Proteomics and Metabolomics Core, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
-      "Institute of Neurological and Psychiatric Disorders, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China.",
-      "Translational Innovation Center, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China.",
-      "Department of Radiation Oncology, UT Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Medicine and the Mucosal Inflammation Program, University of Colorado School of Medicine, Aurora, CO, USA.",
-      "Department of Medicine, Division of Pulmonary and Critical Care Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
-      "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. Electronic address: thompsonc@mskcc.org."
-    ],
-    "china_team_status": "china_participating",
-    "china_institutions": [
-      "Institute of Neurological and Psychiatric Disorders, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China.",
-      "Translational Innovation Center, Shenzhen Bay Laboratory, Shenzhen, Guangdong, China."
-    ],
-    "china_key_authors": [
-      "Tang H",
-      "He Y",
-      "Xu Z",
-      "Wu L"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:author_affiliation"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-11T20:43:00+08:00",
     "triggered_at": "2026-09-12T00:45:03+08:00",
     "scheduler_delay_minutes": 242.1,
