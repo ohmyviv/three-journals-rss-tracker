@@ -1,0 +1,23 @@
+{
+  "batch_id": "daily-2026-09-14",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02826-5",
+      "disposition": "not_selected",
+      "reason": "Nature climate/news item on the 2026 super El Niño; outside the configured life-science, biomedical, AI-for-biology and related investment-focus hard gate, so it should remain in the formal batch for audit/deduplication but not enter the deep-analysis backlog.",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02660-9",
+      "disposition": "completed",
+      "reason": "Historical active backlog reviewed and completed in the 2026-09-14 brief. Nature Outlook feature on ultra-long-acting drug delivery is directly relevant to therapeutics and drug-delivery investment; substantive publisher text and references were actually read in this run.",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02656-5",
+      "disposition": "completed",
+      "reason": "Historical active backlog reviewed and completed in the 2026-09-14 brief. Nature Outlook feature on intranasal/mucosal vaccines is directly relevant to vaccines, infectious disease and drug delivery; substantive publisher text and references were actually read in this run.",
+      "priority_level": "P1"
+    }
+  ]
+}
