@@ -4159,13 +4159,15 @@
     "queue_reason": [
       "article_type_quota"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-09-12T15:20:21+08:00",
+    "last_reviewed_at": "2026-09-14T15:23:26+08:00",
     "first_formal_batch_id": "daily-2026-09-10",
     "first_formal_batch_date": "2026-09-10",
-    "source_url": "https://www.nature.com/articles/d41586-026-02660-9"
+    "source_url": "https://www.nature.com/articles/d41586-026-02660-9",
+    "completed_at": "2026-09-14T15:23:26+08:00",
+    "completed_in_batch_id": "daily-2026-09-14"
   },
   "10.1038/d41586-026-02659-2": {
     "doi": "10.1038/d41586-026-02659-2",
@@ -4275,13 +4277,15 @@
     "queue_reason": [
       "article_type_quota"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 0,
-    "last_reviewed_at": "2026-09-12T15:20:21+08:00",
+    "last_reviewed_at": "2026-09-14T15:23:26+08:00",
     "first_formal_batch_id": "daily-2026-09-10",
     "first_formal_batch_date": "2026-09-10",
-    "source_url": "https://www.nature.com/articles/d41586-026-02656-5"
+    "source_url": "https://www.nature.com/articles/d41586-026-02656-5",
+    "completed_at": "2026-09-14T15:23:26+08:00",
+    "completed_in_batch_id": "daily-2026-09-14"
   },
   "10.1038/s41586-026-10876-y": {
     "doi": "10.1038/s41586-026-10876-y",

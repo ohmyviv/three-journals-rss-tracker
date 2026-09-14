@@ -129564,13 +129564,15 @@
     "scheduler_delay_minutes": 250.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-12",
-    "deep_analysis_reason": "长效药物工程与递送高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-14T15:23:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-14",
+    "deep_analysis_reason": "Historical active backlog reviewed and completed in the 2026-09-14 brief. Nature Outlook feature on ultra-long-acting drug delivery is directly relevant to therapeutics and drug-delivery investment; substantive publisher text and references were actually read in this run.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
-    "first_formal_batch_date": "2026-09-10"
+    "first_formal_batch_date": "2026-09-10",
+    "deep_analysis_completed_at": "2026-09-14T15:23:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-14"
   },
   "10.1038/d41586-026-02656-5": {
     "doi": "10.1038/d41586-026-02656-5",
@@ -129606,13 +129608,15 @@
     "scheduler_delay_minutes": 250.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-12T15:20:21+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-12",
-    "deep_analysis_reason": "鼻腔/黏膜疫苗与感染防控高度相关且正文证据充分，但本期非原创文章名额已满，继续留在active backlog。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-14T15:23:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-14",
+    "deep_analysis_reason": "Historical active backlog reviewed and completed in the 2026-09-14 brief. Nature Outlook feature on intranasal/mucosal vaccines is directly relevant to vaccines, infectious disease and drug delivery; substantive publisher text and references were actually read in this run.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-10",
-    "first_formal_batch_date": "2026-09-10"
+    "first_formal_batch_date": "2026-09-10",
+    "deep_analysis_completed_at": "2026-09-14T15:23:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-14"
   },
   "10.1038/d41586-026-02472-x": {
     "doi": "10.1038/d41586-026-02472-x",
@@ -138745,6 +138749,11 @@
     "triggered_at": "2026-09-14T08:15:59+08:00",
     "scheduler_delay_minutes": 113.0,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-14T15:23:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-14",
+    "deep_analysis_reason": "Nature climate/news item on the 2026 super El Niño; outside the configured life-science, biomedical, AI-for-biology and related investment-focus hard gate, so it should remain in the formal batch for audit/deduplication but not enter the deep-analysis backlog.",
+    "deep_analysis_priority_level": "P3"
   }
 }
