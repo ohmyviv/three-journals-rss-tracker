@@ -139165,9 +139165,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-16T15:46:15+08:00",
+    "last_seen_at": "2026-09-16T16:30:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T15:46:15+08:00",
+    "last_updated_at": "2026-09-16T16:30:35+08:00",
     "author_affiliations": [
       {
         "author": "Liu-zheng Wu",
@@ -139364,9 +139364,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-16T15:46:15+08:00",
+    "last_seen_at": "2026-09-16T16:30:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T15:46:15+08:00",
+    "last_updated_at": "2026-09-16T16:30:35+08:00",
     "author_affiliations": [
       {
         "author": "Sami Saarenpää",
@@ -140492,9 +140492,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-16T15:46:15+08:00",
+    "last_seen_at": "2026-09-16T16:30:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T15:46:15+08:00",
+    "last_updated_at": "2026-09-16T16:30:35+08:00",
     "author_affiliations": [
       {
         "author": "Tianyi Chang",
@@ -140749,9 +140749,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-16T15:46:15+08:00",
+    "last_seen_at": "2026-09-16T16:30:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T15:46:15+08:00",
+    "last_updated_at": "2026-09-16T16:30:35+08:00",
     "author_affiliations": [
       {
         "author": "Kalil G. Abdullah",
@@ -141264,9 +141264,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-16T15:46:15+08:00",
+    "last_seen_at": "2026-09-16T16:30:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T15:46:15+08:00",
+    "last_updated_at": "2026-09-16T16:30:35+08:00",
     "author_affiliations": [
       {
         "author": "Audrey Xavier",
