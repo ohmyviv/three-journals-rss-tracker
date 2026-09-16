@@ -139130,9 +139130,9 @@
     "doi": "10.1016/j.cell.2026.08.030",
     "journal": "Cell",
     "title_first_seen": "Copper ion-induced MYH9 polymerization executes cuproptosis",
-    "current_title": "Copper ion-induced MYH9 polymerization executes cuproptosis.",
+    "current_title": "Copper ion-induced MYH9 polymerization executes cuproptosis",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.030",
-    "rss_reported_time": "2026-09-14T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Liu-zheng Wu",
       "Xiang-yu Mi",
@@ -139165,185 +139165,124 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-16T09:38:43+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-16T09:38:43+08:00",
+    "last_seen_at": "2026-09-16T13:56:43+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-16T13:56:43+08:00",
     "author_affiliations": [
       {
-        "author": "Wu LZ",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Liu-zheng Wu",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Mi XY",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Xiang-yu Mi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu ZJ",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Zai-jun Liu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ding Y",
-        "affiliations": [
-          "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China."
-        ],
+        "author": "Yang Ding",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hong WB",
-        "affiliations": [
-          "The First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, China."
-        ],
+        "author": "Wen-bin Hong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cai CX",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Chen-xi Cai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hu HJ",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Hai-jing Hu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ai YL",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Yuan-li Ai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhao BX",
-        "affiliations": [
-          "The United Innovation of Mengchao Hepatobiliary Technology Key Laboratory of Fujian Province, Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou, China."
-        ],
+        "author": "Bi-Xing Zhao",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Qiu DD",
-        "affiliations": [
-          "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China."
-        ],
+        "author": "Duo-duo Qiu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma JS",
-        "affiliations": [
-          "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China."
-        ],
+        "author": "Jing-song Ma",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen XQ",
-        "affiliations": [
-          "The First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, China."
-        ],
+        "author": "Xue-qin Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "You H",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China."
-        ],
+        "author": "Han You",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lin T",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: twlin@xmu.edu.cn."
-        ],
+        "author": "Tianwei Lin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li FN",
-        "affiliations": [
-          "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China. Electronic address: fnlee5@xmu.edu.cn."
-        ],
+        "author": "Fu-nan Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hong XH",
-        "affiliations": [
-          "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: hongxu@xmu.edu.cn."
-        ],
+        "author": "Xue-hui Hong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen HZ",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: chenhz@xmu.edu.cn."
-        ],
+        "author": "Hang-zi Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu Q",
-        "affiliations": [
-          "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China; Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: qiaow@xmu.edu.cn."
-        ],
+        "author": "Qiao Wu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China.",
-      "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China.",
-      "The First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, China.",
-      "The United Innovation of Mengchao Hepatobiliary Technology Key Laboratory of Fujian Province, Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou, China.",
-      "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: twlin@xmu.edu.cn.",
-      "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China. Electronic address: fnlee5@xmu.edu.cn.",
-      "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: hongxu@xmu.edu.cn.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: chenhz@xmu.edu.cn.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China; Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: qiaow@xmu.edu.cn."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China.",
-      "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China.",
-      "The First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, China.",
-      "The United Innovation of Mengchao Hepatobiliary Technology Key Laboratory of Fujian Province, Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou, China.",
-      "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: twlin@xmu.edu.cn.",
-      "Fujian Provincial Key Laboratory of Innovative Drug Target Research, School of Pharmaceutical Sciences, Xiamen University, Xiamen 361102, China. Electronic address: fnlee5@xmu.edu.cn.",
-      "Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: hongxu@xmu.edu.cn.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China. Electronic address: chenhz@xmu.edu.cn.",
-      "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian 361102, China; Department of Gastrointestinal Surgery, Zhongshan Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, Fujian 361004, China. Electronic address: qiaow@xmu.edu.cn."
-    ],
-    "china_key_authors": [
-      "Wu LZ",
-      "Mi XY",
-      "Liu ZJ",
-      "Ding Y",
-      "Hong WB",
-      "Cai CX",
-      "Hu HJ",
-      "Ai YL",
-      "Zhao BX",
-      "Qiu DD",
-      "Ma JS",
-      "Chen XQ",
-      "You H",
-      "Lin T",
-      "Li FN",
-      "Hong XH",
-      "Chen HZ",
-      "Wu Q"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-14T16:37:00+08:00",
     "triggered_at": "2026-09-14T23:12:43+08:00",
     "scheduler_delay_minutes": 395.7,
@@ -139394,9 +139333,9 @@
     "doi": "10.1016/j.cell.2026.08.033",
     "journal": "Cell",
     "title_first_seen": "Norway spruce spatiotemporal programs of conifer reproductive development",
-    "current_title": "Norway spruce spatiotemporal programs of conifer reproductive development.",
+    "current_title": "Norway spruce spatiotemporal programs of conifer reproductive development",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.033",
-    "rss_reported_time": "2026-09-14T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Sami Saarenpää",
       "Nathan Zivi",
@@ -139425,125 +139364,100 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-16T09:38:43+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-16T09:38:43+08:00",
+    "last_seen_at": "2026-09-16T13:56:43+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-16T13:56:43+08:00",
     "author_affiliations": [
       {
-        "author": "Saarenpää S",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Sami Saarenpää",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zivi N",
-        "affiliations": [
-          "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden; Skogforsk, Uppsala Science Park, SE-751 83 Uppsala, Sweden."
-        ],
+        "author": "Nathan Zivi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Masarapu Y",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Yuvarani Masarapu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mishra LS",
-        "affiliations": [
-          "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden."
-        ],
+        "author": "Laxmi S. Mishra",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Rouot S",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Sofia Rouot",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Orozco A",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Alina Orozco",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Herrera-Foessel SA",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Sybil A. Herrera-Foessel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ahlgren Kalman T",
-        "affiliations": [
-          "Umeå Plant Science Centre, Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden."
-        ],
+        "author": "Teitur Ahlgren Kalman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liva M",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden."
-        ],
+        "author": "Mario Liva",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yadav S",
-        "affiliations": [
-          "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden."
-        ],
+        "author": "Sonam Yadav",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Englund M",
-        "affiliations": [
-          "Uppsala Universitet, Department of Organismal Biology, SE-752 36 Uppsala, Sweden."
-        ],
+        "author": "Marie Englund",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Street NR",
-        "affiliations": [
-          "Umeå Plant Science Centre, Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden; Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden; Science for Life Laboratory (SciLifeLab), Umeå University, SE-901 87 Umeå, Sweden."
-        ],
+        "author": "Nathaniel R. Street",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sundström JF",
-        "affiliations": [
-          "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden. Electronic address: jens.sundstrom@slu.se."
-        ],
+        "author": "Jens F. Sundström",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Giacomello S",
-        "affiliations": [
-          "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden. Electronic address: stefania.giacomello@scilifelab.se."
-        ],
+        "author": "Stefania Giacomello",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden.",
-      "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden; Skogforsk, Uppsala Science Park, SE-751 83 Uppsala, Sweden.",
-      "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden.",
-      "Umeå Plant Science Centre, Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden.",
-      "Uppsala Universitet, Department of Organismal Biology, SE-752 36 Uppsala, Sweden.",
-      "Umeå Plant Science Centre, Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden; Department of Plant Physiology, Umeå University, SE-901 87 Umeå, Sweden; Science for Life Laboratory (SciLifeLab), Umeå University, SE-901 87 Umeå, Sweden.",
-      "Department of Plant Biology, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden. Electronic address: jens.sundstrom@slu.se.",
-      "Department of Gene Technology, School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden; Science for Life Laboratory (SciLifeLab), KTH Royal Institute of Technology, SE-171 65 Solna, Sweden. Electronic address: stefania.giacomello@scilifelab.se."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-14T16:37:00+08:00",
     "triggered_at": "2026-09-14T23:12:43+08:00",
     "scheduler_delay_minutes": 395.7,
@@ -140578,9 +140492,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-16T08:28:33+08:00",
+    "last_seen_at": "2026-09-16T13:56:43+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T08:28:33+08:00",
+    "last_updated_at": "2026-09-16T13:56:43+08:00",
     "author_affiliations": [
       {
         "author": "Tianyi Chang",
@@ -140835,9 +140749,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-16T08:28:33+08:00",
+    "last_seen_at": "2026-09-16T13:56:43+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T08:28:33+08:00",
+    "last_updated_at": "2026-09-16T13:56:43+08:00",
     "author_affiliations": [
       {
         "author": "Kalil G. Abdullah",
@@ -141350,9 +141264,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-16T08:28:33+08:00",
+    "last_seen_at": "2026-09-16T13:56:43+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-16T08:28:33+08:00",
+    "last_updated_at": "2026-09-16T13:56:43+08:00",
     "author_affiliations": [
       {
         "author": "Audrey Xavier",
