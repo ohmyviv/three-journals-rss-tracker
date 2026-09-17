@@ -1,0 +1,32 @@
+{
+  "batch_id": "daily-2026-09-17",
+  "decisions": [
+    {"doi":"10.1038/s41586-026-11014-4","disposition":"completed","reason":"原创神经发育研究；已读取 Nature 正式全文并完成本期重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11020-6","disposition":"completed","reason":"原创铁死亡/肿瘤转化研究；已取得 Nature 正式摘要并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11024-2","disposition":"completed","reason":"原创基因编辑研究；prime assembly 直接关联基因治疗，已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11055-9","disposition":"completed","reason":"原创肿瘤免疫/γδTCR研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11012-6","disposition":"completed","reason":"原创病原基因组学研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11045-x","disposition":"completed","reason":"原创医学影像AI研究；已读取 Nature 正式摘要并完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11032-2","disposition":"completed","reason":"原创脑类器官/神经科学研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11030-4","disposition":"completed","reason":"原创RSV抗体逃逸研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-10948-z","disposition":"completed","reason":"原创VLP自组装研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11034-0","disposition":"completed","reason":"原创DNA复制压力研究；已取得 Nature 正式正文证据并完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11044-y","disposition":"completed","reason":"原创AI4S/Paper2Agent研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11013-5","disposition":"completed","reason":"原创药物化学/配体优化研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11035-z","disposition":"completed","reason":"原创转移性膀胱癌多组学研究；已读取 Nature 正式全文并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/s41586-026-11110-5","disposition":"completed","reason":"正式 Alzheimer’s disease Review；已取得 Nature 正式摘要并完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02914-6","disposition":"completed","reason":"高相关阿尔茨海默病 microprotein News；已实际读取 Nature 出版商正文，作为本期非原创内容之一完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1038/d41586-026-02849-y","disposition":"completed","reason":"高信息量生命起源/Asgard archaea News Feature；已实际读取 Nature 出版商正文，作为本期第二篇非原创内容完成重点解读。","priority_level":"P2"},
+    {"doi":"10.1016/j.cell.2026.08.038","disposition":"queued","reason":"Cell 原创三维基因组/作物改良研究，主题具生物技术价值；仓库当前为 Crossref-only 空摘要，等待正式证据富化后再深读。","priority_level":"P2","analysis_status":"deferred","queue_reason":["awaiting_enrichment"]},
+    {"doi":"10.1038/d41586-026-02886-7","disposition":"not_selected","reason":"AI attribution Editorial，非生命科学/生物医药直接研究且属于评论类，不进入重点解读。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02859-w","disposition":"not_selected","reason":"非用户生命科学投资重点的低信息量/非研究内容，不进入重点解读。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02671-6","disposition":"not_selected","reason":"消费级可穿戴研究伦理 Spotlight，虽涉及数字健康但非原创研究/正式Review，本期高质量研究充足，不占非原创名额。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02844-3","disposition":"not_selected","reason":"可穿戴技术与临床试验的非原创内容；本期原创研究充足，不占有限非原创名额。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-10996-5","disposition":"not_selected","reason":"分子计算基础研究与生命科学/生物医药投资连接不够直接，按主题硬门槛不选。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-11000-w","disposition":"not_selected","reason":"集成光子学/材料与生命科学投资方向无直接连接，按主题硬门槛不选。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-11123-0","disposition":"not_selected","reason":"植物水杨酸受体转录机制，基础植物免疫研究；相较本期医药/AI/转化候选优先级较低。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-10918-5","disposition":"not_selected","reason":"不可水解合成聚合物生物降解 Perspective，偏环境材料且非原创研究/正式Review，不进入重点解读。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-11057-7","disposition":"not_selected","reason":"植物减数分裂基础遗传学，与当前生物医药/AI/转化投资关注连接较弱。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-11026-0","disposition":"queued","reason":"原创 locus coeruleus 神经环路研究，主题相关且有未来解读价值；本期容量已达目标，顺延。","priority_level":"P2","analysis_status":"pending"}
+  ]
+}
