@@ -140560,9 +140560,9 @@
     "doi": "10.1016/j.cell.2026.08.036",
     "journal": "Cell",
     "title_first_seen": "Single-cell-resolved genome atlas of prokaryoplankton inhabiting the ocean’s interior",
-    "current_title": "Single-cell-resolved genome atlas of prokaryoplankton inhabiting the ocean's interior.",
+    "current_title": "Single-cell-resolved genome atlas of prokaryoplankton inhabiting the ocean’s interior",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.036",
-    "rss_reported_time": "2026-09-15T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Tianyi Chang",
       "Maria G. Pachiadaki",
@@ -140602,214 +140602,166 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T09:41:11+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-17T09:41:11+08:00",
+    "last_seen_at": "2026-09-17T14:05:00+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-17T14:05:00+08:00",
     "author_affiliations": [
       {
-        "author": "Chang T",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA; Helmholtz Institute for Functional Marine Biodiversity, 26129 Oldenburg, Germany."
-        ],
+        "author": "Tianyi Chang",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Pachiadaki MG",
-        "affiliations": [
-          "Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA."
-        ],
+        "author": "Maria G. Pachiadaki",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gavelis GS",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Gregory S. Gavelis",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Poulton NJ",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Nicole J. Poulton",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Thompson B",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Brian Thompson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mascena C",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Corianna Mascena",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Macartney K",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Keir Macartney",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Brown JM",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Julia M. Brown",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "La Clair JJ",
-        "affiliations": [
-          "Department of Chemistry, University of California, San Diego, La Jolla, CA 92093, USA."
-        ],
+        "author": "James J. La Clair",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Weinheimer AR",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Alaina R. Weinheimer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yokokawa T",
-        "affiliations": [
-          "Institute for Extra-cutting-edge Science and Technology Avant-garde Research of Life (X-STAR), Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Japan; Advanced Institute for Marine Ecosystem Change (WPI-AIMEC), JAMSTEC, Yokosuka, Japan."
-        ],
+        "author": "Taichi Yokokawa",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ruiz-Fernández P",
-        "affiliations": [
-          "Departamento de Oceanografía and Instituto Milenio de Oceanografía, Universidad de Concepción, 4070386 Concepción, Chile; Graduate Program in Oceanography, Department of Oceanography, Faculty of Natural Sciences and Oceanography, University of Concepción, Concepción, Chile."
-        ],
+        "author": "Paula Ruiz-Fernández",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Anstett J",
-        "affiliations": [
-          "Genome Science and Technology Program, Life Science Institute, Department of Microbiology & Immunology, and Graduate Program in Bioinformatics, University of British Columbia, Vancouver, BC, Canada."
-        ],
+        "author": "Julia Anstett",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Berube PM",
-        "affiliations": [
-          "Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
-        ],
+        "author": "Paul M. Berube",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Biller SJ",
-        "affiliations": [
-          "Department of Biological Sciences, Wellesley College, Wellesley, MA 02481, USA."
-        ],
+        "author": "Steven J. Biller",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Orcutt BN",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA."
-        ],
+        "author": "Beth N. Orcutt",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Baltar F",
-        "affiliations": [
-          "College of Oceanography and Ecological Science, Shanghai Ocean University, Shanghai, China."
-        ],
+        "author": "Federico Baltar",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Burkart MD",
-        "affiliations": [
-          "Department of Chemistry, University of California, San Diego, La Jolla, CA 92093, USA."
-        ],
+        "author": "Michael D. Burkart",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hallam SJ",
-        "affiliations": [
-          "Genome Science and Technology Program, Life Science Institute, Department of Microbiology & Immunology, and Graduate Program in Bioinformatics, University of British Columbia, Vancouver, BC, Canada."
-        ],
+        "author": "Steven J. Hallam",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jürgens K",
-        "affiliations": [
-          "Leibniz Institute for Baltic Sea Research, Warnemünde, Germany."
-        ],
+        "author": "Klaus Jürgens",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ulloa O",
-        "affiliations": [
-          "Departamento de Oceanografía and Instituto Milenio de Oceanografía, Universidad de Concepción, 4070386 Concepción, Chile."
-        ],
+        "author": "Osvaldo Ulloa",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Nunoura T",
-        "affiliations": [
-          "Institute for Extra-cutting-edge Science and Technology Avant-garde Research of Life (X-STAR), Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Japan."
-        ],
+        "author": "Takuro Nunoura",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sintes E",
-        "affiliations": [
-          "Centro Oceanográfico de Baleares, Instituto Español de Oceanografía (IEO), CSIC, Palma, Spain."
-        ],
+        "author": "Eva Sintes",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Herndl GJ",
-        "affiliations": [
-          "Department of Functional and Evolutionary Ecology, Microbial Oceanography Unit, University of Vienna, 1030 Vienna, Austria."
-        ],
+        "author": "Gerhard J. Herndl",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Stepanauskas R",
-        "affiliations": [
-          "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA; Department of Chemistry and Bioscience, University of Aalborg, Aalborg, Denmark. Electronic address: rste@bio.aau.dk."
-        ],
+        "author": "Ramunas Stepanauskas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA; Helmholtz Institute for Functional Marine Biodiversity, 26129 Oldenburg, Germany.",
-      "Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA.",
-      "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA.",
-      "Department of Chemistry, University of California, San Diego, La Jolla, CA 92093, USA.",
-      "Institute for Extra-cutting-edge Science and Technology Avant-garde Research of Life (X-STAR), Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Japan; Advanced Institute for Marine Ecosystem Change (WPI-AIMEC), JAMSTEC, Yokosuka, Japan.",
-      "Departamento de Oceanografía and Instituto Milenio de Oceanografía, Universidad de Concepción, 4070386 Concepción, Chile; Graduate Program in Oceanography, Department of Oceanography, Faculty of Natural Sciences and Oceanography, University of Concepción, Concepción, Chile.",
-      "Genome Science and Technology Program, Life Science Institute, Department of Microbiology & Immunology, and Graduate Program in Bioinformatics, University of British Columbia, Vancouver, BC, Canada.",
-      "Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.",
-      "Department of Biological Sciences, Wellesley College, Wellesley, MA 02481, USA.",
-      "College of Oceanography and Ecological Science, Shanghai Ocean University, Shanghai, China.",
-      "Leibniz Institute for Baltic Sea Research, Warnemünde, Germany.",
-      "Departamento de Oceanografía and Instituto Milenio de Oceanografía, Universidad de Concepción, 4070386 Concepción, Chile.",
-      "Institute for Extra-cutting-edge Science and Technology Avant-garde Research of Life (X-STAR), Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokosuka, Japan.",
-      "Centro Oceanográfico de Baleares, Instituto Español de Oceanografía (IEO), CSIC, Palma, Spain.",
-      "Department of Functional and Evolutionary Ecology, Microbial Oceanography Unit, University of Vienna, 1030 Vienna, Austria.",
-      "Bigelow Laboratory for Ocean Sciences, East Boothbay, ME 04544, USA; Department of Chemistry and Bioscience, University of Aalborg, Aalborg, Denmark. Electronic address: rste@bio.aau.dk."
-    ],
-    "china_team_status": "china_participating",
-    "china_institutions": [
-      "College of Oceanography and Ecological Science, Shanghai Ocean University, Shanghai, China."
-    ],
-    "china_key_authors": [
-      "Baltar F"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:author_affiliation"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-15T20:43:00+08:00",
     "triggered_at": "2026-09-16T01:15:22+08:00",
     "scheduler_delay_minutes": 272.4,
@@ -140867,9 +140819,9 @@
     "doi": "10.1016/j.cell.2026.08.037",
     "journal": "Cell",
     "title_first_seen": "Gliomas phenocopy an inborn error of metabolism to drive neuronal activity and tumor growth",
-    "current_title": "Gliomas phenocopy an inborn error of metabolism to drive neuronal activity and tumor growth.",
+    "current_title": "Gliomas phenocopy an inborn error of metabolism to drive neuronal activity and tumor growth",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.037",
-    "rss_reported_time": "2026-09-15T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Kalil G. Abdullah",
       "Kenji Miki",
@@ -140952,530 +140904,424 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T09:41:11+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-17T09:41:11+08:00",
+    "last_seen_at": "2026-09-17T14:05:00+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-17T14:05:00+08:00",
     "author_affiliations": [
       {
-        "author": "Abdullah KG",
-        "affiliations": [
-          "Department of Neurosurgery, Northwell Health, Manhasset, NY, USA; Northwell Health Cancer Institute, Northwell Health, Manhasset, NY, USA; Institute of Cancer Research, Feinstein Institutes for Medical Research, Northwell Health, Manhasset, NY, USA; Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA. Electronic address: kabdullah1@northwell.edu."
-        ],
+        "author": "Kalil G. Abdullah",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Miki K",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA."
-        ],
+        "author": "Kenji Miki",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Edgar CK",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Medical Scientist Training Program, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Charles K. Edgar",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu SA",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Shuangcheng Alivia Wu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xiao Y",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Yi Xiao",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huang YT",
-        "affiliations": [
-          "Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Yuan-Tai Huang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Drexler R",
-        "affiliations": [
-          "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA."
-        ],
+        "author": "Richard Drexler",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Krishna S",
-        "affiliations": [
-          "Department of Neurological Surgery, University of California at San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Saritha Krishna",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Puliyappadamba VT",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Vinesh T. Puliyappadamba",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tay LWR",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Li Wei Rachel Tay",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yuan F",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA."
-        ],
+        "author": "Fanen Yuan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Savani MR",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Medical Scientist Training Program, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Milan R. Savani",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ghoche MT",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA."
-        ],
+        "author": "Maged T. Ghoche",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kotermanski SE",
-        "affiliations": [
-          "Department of Neuroscience, University of Pittsburgh, Pittsburgh, PA, USA."
-        ],
+        "author": "Shawn E. Kotermanski",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Traylor JI",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Jeffrey I. Traylor",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Guo L",
-        "affiliations": [
-          "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Lei Guo",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gunn K",
-        "affiliations": [
-          "Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA."
-        ],
+        "author": "Kathryn Gunn",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hicks WH",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA; Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "William H. Hicks",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shi DD",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Radiation Oncology, Mass General Brigham, Harvard Medical School, Boston, MA, USA; Krantz Family Center for Cancer Research, Massachusetts General Hospital, Boston, MA, USA."
-        ],
+        "author": "Diana D. Shi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yalçın B",
-        "affiliations": [
-          "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA."
-        ],
+        "author": "Belgin Yalçın",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kilian K",
-        "affiliations": [
-          "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA."
-        ],
+        "author": "Kim Kilian",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tang M",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Min Tang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Moyer M",
-        "affiliations": [
-          "Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, MD, USA."
-        ],
+        "author": "Mitchell Moyer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Levitt MM",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Michael M. Levitt",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "El-Shami M",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA."
-        ],
+        "author": "Mohamad El-Shami",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Oken S",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
-        ],
+        "author": "Skyler Oken",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Manoj N",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
-        ],
+        "author": "Namya Manoj",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gattie LC",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
-        ],
+        "author": "Lauren C. Gattie",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Smith BC",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Bailey C. Smith",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kaphle P",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Pranita Kaphle",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shipman T",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Tracey Shipman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "West RE 3rd",
-        "affiliations": [
-          "Small Molecule Biomarker Core and Department of Pharmacy and Therapeutics, University of Pittsburgh, Pittsburgh, PA, USA."
-        ],
+        "author": "Raymond E. West",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liang C",
-        "affiliations": [
-          "Department of Immunology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Chaoying Liang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Eshac Y",
-        "affiliations": [
-          "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA; Malnati Brain Tumor Institute of the Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
-        ],
+        "author": "Yasmina Eshac",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chia TY",
-        "affiliations": [
-          "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA; Malnati Brain Tumor Institute of the Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
-        ],
+        "author": "Tzu-Yi Chia",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Patel TR",
-        "affiliations": [
-          "Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Toral R. Patel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hatanpaa KJ",
-        "affiliations": [
-          "Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Kimmo J. Hatanpaa",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Raj P",
-        "affiliations": [
-          "Department of Immunology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Prithvi Raj",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Miska JM",
-        "affiliations": [
-          "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA; Malnati Brain Tumor Institute of the Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
-        ],
+        "author": "Jason M. Miska",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ramirez DMO",
-        "affiliations": [
-          "Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Neurology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Denise M.O. Ramirez",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma S",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Shang Ma",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Nolin TD",
-        "affiliations": [
-          "Small Molecule Biomarker Core and Department of Pharmacy and Therapeutics, University of Pittsburgh, Pittsburgh, PA, USA."
-        ],
+        "author": "Thomas D. Nolin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lega BC",
-        "affiliations": [
-          "Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Bradley C. Lega",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zinn PO",
-        "affiliations": [
-          "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA."
-        ],
+        "author": "Pascal O. Zinn",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kuhn BJ",
-        "affiliations": [
-          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
-        ],
+        "author": "Bianca J. Kuhn",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Clark NM",
-        "affiliations": [
-          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
-        ],
+        "author": "Natalie M. Clark",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Williams C",
-        "affiliations": [
-          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
-        ],
+        "author": "C. Williams",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mani DR",
-        "affiliations": [
-          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
-        ],
+        "author": "D.R. Mani",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gillette MA",
-        "affiliations": [
-          "Broad Institute of MIT and Harvard, Cambridge, MA, USA."
-        ],
+        "author": "Michael A. Gillette",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Calzado MA",
-        "affiliations": [
-          "Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Córdoba, Spain; Departamento de Biología Celular, Fisiología, e Inmunología, Universidad de Córdoba, Córdoba, Spain; Hospital Universitario Reina Sofía, Córdoba, Spain."
-        ],
+        "author": "Marco A. Calzado",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu L",
-        "affiliations": [
-          "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Lin Xu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zacharias LG",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Lauren G. Zacharias",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cai F",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Feng Cai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ksendzovsky A",
-        "affiliations": [
-          "Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, MD, USA."
-        ],
+        "author": "Alexander Ksendzovsky",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mathews TP",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Thomas P. Mathews",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Losman JA",
-        "affiliations": [
-          "Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA; Division of Hematology, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA."
-        ],
+        "author": "Julie-Aurore Losman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Levi B",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Surgery, Center for Organogenesis, Regeneration, and Trauma, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Benjamin Levi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Barron T",
-        "affiliations": [
-          "Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Tara Barron",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gibson JR",
-        "affiliations": [
-          "Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Jay R. Gibson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Richardson TE",
-        "affiliations": [
-          "Department of Pathology, Molecular, and Cell-Based Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
-        ],
+        "author": "Timothy E. Richardson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Khan OH",
-        "affiliations": [
-          "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA."
-        ],
+        "author": "Osaama H. Khan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Agnihotri S",
-        "affiliations": [
-          "Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA, USA."
-        ],
+        "author": "Sameer Agnihotri",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hervey-Jumper SL",
-        "affiliations": [
-          "Department of Neurological Surgery, University of California at San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Shawn L. Hervey-Jumper",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chamberland S",
-        "affiliations": [
-          "Department of Neuroscience, University of Pittsburgh, Pittsburgh, PA, USA."
-        ],
+        "author": "Simon Chamberland",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Monje M",
-        "affiliations": [
-          "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA; Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA; Department of Pathology, Stanford University, Stanford, CA, USA; Department of Pediatrics, Stanford University, Stanford, CA, USA; Department of Neurosurgery, Stanford University, Stanford, CA, USA; Howard Hughes Medical Institute, Stanford, CA, USA."
-        ],
+        "author": "Michelle Monje",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huber KM",
-        "affiliations": [
-          "Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Kimberly M. Huber",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "DeBerardinis RJ",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA; The Eugene McDermott Center of Human Growth and Development, University of Texas Southwestern Medical Center, Dallas, TX, USA; Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA."
-        ],
+        "author": "Ralph J. DeBerardinis",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "McBrayer SK",
-        "affiliations": [
-          "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic address: samuel.mcbrayer@utsouthwestern.edu."
-        ],
+        "author": "Samuel K. McBrayer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Neurosurgery, Northwell Health, Manhasset, NY, USA; Northwell Health Cancer Institute, Northwell Health, Manhasset, NY, USA; Institute of Cancer Research, Feinstein Institutes for Medical Research, Northwell Health, Manhasset, NY, USA; Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA. Electronic address: kabdullah1@northwell.edu.",
-      "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Medical Scientist Training Program, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA.",
-      "Department of Neurological Surgery, University of California at San Francisco, San Francisco, CA, USA.",
-      "Department of Neuroscience, University of Pittsburgh, Pittsburgh, PA, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
-      "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA; Hillman Comprehensive Cancer Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA; Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Radiation Oncology, Mass General Brigham, Harvard Medical School, Boston, MA, USA; Krantz Family Center for Cancer Research, Massachusetts General Hospital, Boston, MA, USA.",
-      "Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, MD, USA.",
-      "Department of Neurosurgery, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
-      "Small Molecule Biomarker Core and Department of Pharmacy and Therapeutics, University of Pittsburgh, Pittsburgh, PA, USA.",
-      "Department of Immunology, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA; Malnati Brain Tumor Institute of the Lurie Comprehensive Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
-      "Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Neurology, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neurological Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
-      "Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Córdoba, Spain; Departamento de Biología Celular, Fisiología, e Inmunología, Universidad de Córdoba, Córdoba, Spain; Hospital Universitario Reina Sofía, Córdoba, Spain.",
-      "Quantitative Biomedical Research Center, Department of Health Data Science & Biostatistics, Peter O'Donnell Jr. School of Public Health, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA; Division of Hematology, Department of Medicine, Brigham and Women's Hospital, Boston, MA, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Surgery, Center for Organogenesis, Regeneration, and Trauma, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Department of Pathology, Molecular, and Cell-Based Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
-      "Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.",
-      "Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA, USA.",
-      "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA; Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA; Department of Pathology, Stanford University, Stanford, CA, USA; Department of Pediatrics, Stanford University, Stanford, CA, USA; Department of Neurosurgery, Stanford University, Stanford, CA, USA; Howard Hughes Medical Institute, Stanford, CA, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA; The Eugene McDermott Center of Human Growth and Development, University of Texas Southwestern Medical Center, Dallas, TX, USA; Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-      "Children's Medical Center Research Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Harold C. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX, USA; Peter O'Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center, Dallas, TX, USA; Department of Pediatrics, University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic address: samuel.mcbrayer@utsouthwestern.edu."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-15T20:43:00+08:00",
     "triggered_at": "2026-09-16T01:15:22+08:00",
     "scheduler_delay_minutes": 272.4,
@@ -141620,9 +141466,9 @@
     "doi": "10.1016/j.cell.2026.08.031",
     "journal": "Cell",
     "title_first_seen": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication",
-    "current_title": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication.",
+    "current_title": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.031",
-    "rss_reported_time": "2026-09-14T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Audrey Xavier",
       "Melinda Kolling",
@@ -141663,217 +141509,172 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T09:41:11+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-17T09:41:11+08:00",
+    "last_seen_at": "2026-09-17T14:05:00+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-17T14:05:00+08:00",
     "author_affiliations": [
       {
-        "author": "Xavier A",
-        "affiliations": [
-          "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany."
-        ],
+        "author": "Audrey Xavier",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Kolling M",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Melinda Kolling",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bourke AM",
-        "affiliations": [
-          "Max Planck Institute for Brain Research, Frankfurt, Germany."
-        ],
+        "author": "Ashley M. Bourke",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mosler T",
-        "affiliations": [
-          "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany."
-        ],
+        "author": "Thorsten Mosler",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Prieto-Garcia C",
-        "affiliations": [
-          "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Instituto de Biomedicina de Sevilla (IBiS), Hospital Universitario Virgen del Rocío/CSIC/Universidad de Sevilla), Seville, Spain; Departamento de Biología Celular, Facultad de Biología, Universidad de Sevilla, Seville, Spain."
-        ],
+        "author": "Cristian Prieto-Garcia",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Karaulanov E",
-        "affiliations": [
-          "Institute of Molecular Biology (IMB), Mainz, Germany."
-        ],
+        "author": "Emil Karaulanov",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Reissland M",
-        "affiliations": [
-          "Department of Genome Regulation, Max Planck Institute for Molecular Genetics, Berlin, Germany."
-        ],
+        "author": "Michaela Reissland",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tassetto M",
-        "affiliations": [
-          "Department of Microbiology and Immunology, University of California, San Francisco, 600 16th Street, Room S572E, Box 2280, San Francisco, CA, USA."
-        ],
+        "author": "Michel Tassetto",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kim D",
-        "affiliations": [
-          "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Damian Kim",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Klaassen K",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Katleen Klaassen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Grikscheit K",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Katharina Grikscheit",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Torbica E",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Emma Torbica",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dederer V",
-        "affiliations": [
-          "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany."
-        ],
+        "author": "Verena Dederer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Busam J",
-        "affiliations": [
-          "Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany."
-        ],
+        "author": "Jonas Busam",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kazi R",
-        "affiliations": [
-          "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany."
-        ],
+        "author": "Rubina Kazi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Olmer R",
-        "affiliations": [
-          "Leibniz Research Laboratories for Biotechnology and Artificial Organs (LEBAO), Department of Cardiothoracic, Transplantation and Vascular Surgery (HTTG), REBIRTH-Research Center for Translational Regenerative Medicine, Biomedical Research in Endstage and Obstructive Lung Disease Hannover (BREATH), German Center for Lung Research (DZL), Hannover Medical School, Hannover, Germany."
-        ],
+        "author": "Ruth Olmer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pallerla SR",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Srinivas Reddy Pallerla",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mathea S",
-        "affiliations": [
-          "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany."
-        ],
+        "author": "Sebastian Mathea",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Diefenbacher ME",
-        "affiliations": [
-          "Comprehensive Pneumology Center (CPC), Institute of Lung Health and Immunity (LHI), Helmholtz Munich, Munich, Germany; Ludwig-Maximilian-Universität München (LMU), Munich, Germany; German Cancer Consortium (DKTK), LMU, Munich, Germany."
-        ],
+        "author": "Markus E. Diefenbacher",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zarnack K",
-        "affiliations": [
-          "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany."
-        ],
+        "author": "Kathi Zarnack",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bojkova D",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Denisa Bojkova",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Widera M",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany."
-        ],
+        "author": "Marek Widera",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Aviner R",
-        "affiliations": [
-          "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Ranen Aviner",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Andino R",
-        "affiliations": [
-          "Department of Microbiology and Immunology, University of California, San Francisco, 600 16th Street, Room S572E, Box 2280, San Francisco, CA, USA."
-        ],
+        "author": "Raul Andino",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ciesek S",
-        "affiliations": [
-          "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany; Fraunhofer Institute for Translational Medicine and Pharmacology (ITMP), 60596 Frankfurt am Main, Germany; German Center for Infection Research, DZIF, External Partner Site Frankfurt, Frankfurt, Germany."
-        ],
+        "author": "Sandra Ciesek",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dikic I",
-        "affiliations": [
-          "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Max Planck Institute of Biophysics, Frankfurt, Germany. Electronic address: dikic@biochem2.uni-frankfurt.de."
-        ],
+        "author": "Ivan Dikic",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany.",
-      "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany.",
-      "Max Planck Institute for Brain Research, Frankfurt, Germany.",
-      "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany.",
-      "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Instituto de Biomedicina de Sevilla (IBiS), Hospital Universitario Virgen del Rocío/CSIC/Universidad de Sevilla), Seville, Spain; Departamento de Biología Celular, Facultad de Biología, Universidad de Sevilla, Seville, Spain.",
-      "Institute of Molecular Biology (IMB), Mainz, Germany.",
-      "Department of Genome Regulation, Max Planck Institute for Molecular Genetics, Berlin, Germany.",
-      "Department of Microbiology and Immunology, University of California, San Francisco, 600 16th Street, Room S572E, Box 2280, San Francisco, CA, USA.",
-      "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA.",
-      "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany.",
-      "Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany.",
-      "Leibniz Research Laboratories for Biotechnology and Artificial Organs (LEBAO), Department of Cardiothoracic, Transplantation and Vascular Surgery (HTTG), REBIRTH-Research Center for Translational Regenerative Medicine, Biomedical Research in Endstage and Obstructive Lung Disease Hannover (BREATH), German Center for Lung Research (DZL), Hannover Medical School, Hannover, Germany.",
-      "Comprehensive Pneumology Center (CPC), Institute of Lung Health and Immunity (LHI), Helmholtz Munich, Munich, Germany; Ludwig-Maximilian-Universität München (LMU), Munich, Germany; German Cancer Consortium (DKTK), LMU, Munich, Germany.",
-      "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany.",
-      "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany; Fraunhofer Institute for Translational Medicine and Pharmacology (ITMP), 60596 Frankfurt am Main, Germany; German Center for Infection Research, DZIF, External Partner Site Frankfurt, Frankfurt, Germany.",
-      "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Max Planck Institute of Biophysics, Frankfurt, Germany. Electronic address: dikic@biochem2.uni-frankfurt.de."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-16T06:23:00+08:00",
     "triggered_at": "2026-09-16T08:28:33+08:00",
     "scheduler_delay_minutes": 125.5,
@@ -145693,9 +145494,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-17T08:38:25+08:00",
+    "last_seen_at": "2026-09-17T14:05:00+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-17T08:38:25+08:00",
+    "last_updated_at": "2026-09-17T14:05:00+08:00",
     "author_affiliations": [
       {
         "author": "Xianhui Huang",
