@@ -140602,9 +140602,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T15:49:03+08:00",
+    "last_seen_at": "2026-09-17T16:35:25+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-17T15:49:03+08:00",
+    "last_updated_at": "2026-09-17T16:35:25+08:00",
     "author_affiliations": [
       {
         "author": "Tianyi Chang",
@@ -140904,9 +140904,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T15:49:03+08:00",
+    "last_seen_at": "2026-09-17T16:35:25+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-17T15:49:03+08:00",
+    "last_updated_at": "2026-09-17T16:35:25+08:00",
     "author_affiliations": [
       {
         "author": "Kalil G. Abdullah",
@@ -141509,9 +141509,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-17T15:49:03+08:00",
+    "last_seen_at": "2026-09-17T16:35:25+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-17T15:49:03+08:00",
+    "last_updated_at": "2026-09-17T16:35:25+08:00",
     "author_affiliations": [
       {
         "author": "Audrey Xavier",
@@ -145494,9 +145494,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-09-17",
     "batched_at": "2026-09-17T14:05:32+08:00",
-    "last_seen_at": "2026-09-17T15:49:03+08:00",
+    "last_seen_at": "2026-09-17T16:35:25+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-17T15:49:03+08:00",
+    "last_updated_at": "2026-09-17T16:35:25+08:00",
     "author_affiliations": [
       {
         "author": "Xianhui Huang",
