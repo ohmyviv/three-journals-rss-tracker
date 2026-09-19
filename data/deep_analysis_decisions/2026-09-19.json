@@ -1,0 +1,23 @@
+{
+  "batch_id": "daily-2026-09-19",
+  "decisions": [
+    {"doi":"10.1016/j.cell.2026.08.041","disposition":"not_selected","reason":"原创植物冷胁迫/叶绿体信号研究，虽有充分PubMed摘要证据，但与当前生物医药、AI生命科学和转化投资重点连接较弱。","priority_level":"P3"},
+    {"doi":"10.1016/j.cell.2026.08.003","disposition":"completed","reason":"本次已取得PubMed正式摘要；为中枢神经系统少突胶质细胞健康、衰老与疾病的正式Review，完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1016/j.cell.2026.08.039","disposition":"completed","reason":"本次已取得PubMed正式摘要；LNP-mRNA编码CD19 T-cell engager治疗难治性免疫性血小板减少症，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02951-1","disposition":"not_selected","reason":"Daily Briefing聚合内容，按规则属于低信息量聚合，不进入重点解读。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02924-4","disposition":"not_selected","reason":"Daily Briefing聚合内容，按规则属于低信息量聚合，不进入重点解读。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02945-z","disposition":"completed","reason":"本次实际读取Nature出版商正文；罕见CHCHD10相关ALS个体化ASO治疗与核酸药开发高度相关，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02184-2","disposition":"not_selected","reason":"职业/科研管理类内容，与重点生命科学投资方向无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02984-6","disposition":"not_selected","reason":"Briefing Chat/考古聚合内容，与重点主题无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02919-1","disposition":"not_selected","reason":"欧洲航天政策新闻，与生命科学、AI生物医药投资方向无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02897-4","disposition":"not_selected","reason":"阿尔茨海默病Research Highlight具相关性，但本期非原创研究名额优先留给更高投资相关性的RNA治疗和脑发育/干细胞内容；无需继续进入未来active backlog。","priority_level":"P2"},
+    {"doi":"10.1038/d41586-026-02943-1","disposition":"completed","reason":"本次实际读取Nature出版商正文；脑发育双前体谱系及高效诱导后脑运动神经元与神经疾病模型/干细胞工具直接相关，完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1016/j.cell.2026.08.042","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，虚拟细胞world model与AI4Science高度相关，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.08.026","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，LongevityBench及衰老生物学专用LLM高度相关，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.07.025","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，为AI医疗可靠性正式Review，完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1016/j.cell.2026.08.019","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，聚焦AI改变生命科学及数据质量、可解释性和实验验证，完成重点解读。","priority_level":"P1"},
+    {"doi":"10.1016/j.cell.2026.08.034","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，发现天然RNA磷硫酰化及writer machinery，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.08.052","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，为科研智能体/自主科学正式Review，完成重点解读。","priority_level":"P0"},
+    {"doi":"10.1016/j.cell.2026.08.032","disposition":"completed","reason":"历史积压；本次取得PubMed正式摘要，为生物医学world model正式Review，完成重点解读。","priority_level":"P0"}
+  ]
+}
