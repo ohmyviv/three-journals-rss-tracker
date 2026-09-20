@@ -4841,15 +4841,17 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.042",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
+    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00",
+    "completed_at": "2026-09-20T15:17:03+08:00",
+    "completed_in_batch_id": "daily-2026-09-20"
   },
   "10.1016/j.cell.2026.08.026": {
     "doi": "10.1016/j.cell.2026.08.026",
@@ -4863,15 +4865,17 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.026",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
+    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00",
+    "completed_at": "2026-09-20T15:17:03+08:00",
+    "completed_in_batch_id": "daily-2026-09-20"
   },
   "10.1016/j.cell.2026.07.025": {
     "doi": "10.1016/j.cell.2026.07.025",
@@ -4885,37 +4889,17 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.07.025",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
-  },
-  "10.1016/j.cell.2026.08.019": {
-    "doi": "10.1016/j.cell.2026.08.019",
-    "journal": "Cell",
-    "title": "Changing minds: How AI is transforming the life sciences",
-    "first_seen_at": "2026-09-18T01:15:07+08:00",
-    "queued_at": "2026-09-18T15:16:49+08:00",
-    "priority_level": "P1",
-    "priority_score": null,
-    "queue_reason": [
-      "awaiting_enrichment",
-      "europe_pmc_abstract_enriched"
-    ],
-    "analysis_status": "pending",
-    "target_complete_by": null,
-    "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
-    "first_formal_batch_id": "daily-2026-09-18",
-    "first_formal_batch_date": "2026-09-18",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.019",
-    "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
+    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00",
+    "completed_at": "2026-09-20T15:17:03+08:00",
+    "completed_in_batch_id": "daily-2026-09-20"
   },
   "10.1016/j.cell.2026.08.034": {
     "doi": "10.1016/j.cell.2026.08.034",
@@ -4929,15 +4913,17 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.034",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
+    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00",
+    "completed_at": "2026-09-20T15:17:03+08:00",
+    "completed_in_batch_id": "daily-2026-09-20"
   },
   "10.1016/j.cell.2026.08.052": {
     "doi": "10.1016/j.cell.2026.08.052",
@@ -4951,15 +4937,17 @@
       "awaiting_enrichment",
       "europe_pmc_abstract_enriched"
     ],
-    "analysis_status": "pending",
+    "analysis_status": "completed",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.052",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
+    "last_enrichment_success_at": "2026-09-20T12:51:30+08:00",
+    "completed_at": "2026-09-20T15:17:03+08:00",
+    "completed_in_batch_id": "daily-2026-09-20"
   },
   "10.1016/j.cell.2026.08.032": {
     "doi": "10.1016/j.cell.2026.08.032",
@@ -4970,13 +4958,12 @@
     "priority_level": "P0",
     "priority_score": null,
     "queue_reason": [
-      "awaiting_enrichment",
-      "europe_pmc_abstract_enriched"
+      "article_type_cap"
     ],
     "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.032",
@@ -5020,44 +5007,6 @@
     "source_url": "https://www.nature.com/articles/d41586-026-02954-y",
     "completed_at": "2026-09-18T15:16:49+08:00",
     "completed_in_batch_id": "daily-2026-09-18"
-  },
-  "10.1038/d41586-026-02913-7": {
-    "doi": "10.1038/d41586-026-02913-7",
-    "journal": "Nature",
-    "title": "How fast are you ageing? Ask AI",
-    "first_seen_at": "2026-09-18T01:15:07+08:00",
-    "queued_at": "2026-09-18T15:16:49+08:00",
-    "priority_level": "P2",
-    "priority_score": null,
-    "queue_reason": [
-      "capacity_or_evidence_gate"
-    ],
-    "analysis_status": "deferred",
-    "target_complete_by": null,
-    "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
-    "first_formal_batch_id": "daily-2026-09-18",
-    "first_formal_batch_date": "2026-09-18",
-    "source_url": "https://www.nature.com/articles/d41586-026-02913-7"
-  },
-  "10.1038/d41586-026-02911-9": {
-    "doi": "10.1038/d41586-026-02911-9",
-    "journal": "Nature",
-    "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
-    "first_seen_at": "2026-09-18T01:15:07+08:00",
-    "queued_at": "2026-09-18T15:16:49+08:00",
-    "priority_level": "P2",
-    "priority_score": null,
-    "queue_reason": [
-      "capacity_or_evidence_gate"
-    ],
-    "analysis_status": "deferred",
-    "target_complete_by": null,
-    "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
-    "first_formal_batch_id": "daily-2026-09-18",
-    "first_formal_batch_date": "2026-09-18",
-    "source_url": "https://www.nature.com/articles/d41586-026-02911-9"
   },
   "10.1126/science.aei0498": {
     "doi": "10.1126/science.aei0498",
@@ -5252,13 +5201,12 @@
     "priority_level": "P1",
     "priority_score": null,
     "queue_reason": [
-      "capacity_or_evidence_gate",
-      "europe_pmc_abstract_enriched"
+      "article_type_cap"
     ],
-    "analysis_status": "deferred",
+    "analysis_status": "pending",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1126/science.aem4440",
@@ -5274,13 +5222,12 @@
     "priority_level": "P1",
     "priority_score": null,
     "queue_reason": [
-      "capacity_or_evidence_gate",
-      "europe_pmc_abstract_enriched"
+      "awaiting_enrichment"
     ],
     "analysis_status": "deferred",
     "target_complete_by": null,
     "defer_count": 1,
-    "last_reviewed_at": "2026-09-18T15:16:49+08:00",
+    "last_reviewed_at": "2026-09-20T15:17:03+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
     "source_url": "https://doi.org/10.1126/science.ael3062",
