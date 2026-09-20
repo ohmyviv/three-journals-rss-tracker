@@ -1,0 +1,77 @@
+{
+  "batch_id": "daily-2026-09-20",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.08.042",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实摘要完成重点解读；虚拟细胞世界模型与AI生命科学高度相关。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.026",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实摘要完成重点解读；LongevityBench及领域专用LLM与AI+衰老研究高度相关。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.034",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实摘要完成重点解读；首次天然RNA磷硫酰化及writer机制与核酸药和RNA生物学直接相关。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.052",
+      "disposition": "completed",
+      "reason": "本次日报已基于可核实摘要完成重点解读；agentic AI与自主科学直接对应科研智能体方向，并占用非原创研究/非正式Review名额。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.025",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式Review摘要完成重点解读；医疗AI可靠性、部署漂移和治理具有直接产业价值。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.032",
+      "disposition": "queued",
+      "reason": "主题高度相关且已有摘要证据，但本期非原创研究/非正式Review类名额已满，保留后续重点处理。",
+      "priority_level": "P0",
+      "analysis_status": "pending",
+      "queue_reason": ["article_type_cap"]
+    },
+    {
+      "doi": "10.1126/science.aem4440",
+      "disposition": "queued",
+      "reason": "AI生物安全对生命科学投资和治理有直接意义，但属于News且本期新闻/评论类名额已满，保留后续处理。",
+      "priority_level": "P1",
+      "analysis_status": "pending",
+      "queue_reason": ["article_type_cap"]
+    },
+    {
+      "doi": "10.1126/science.ael3062",
+      "disposition": "queued",
+      "reason": "自闭症异质性与神经科学相关，但当前可核实证据不足以支持完整重点解读，保留等待更充分正文证据。",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": ["awaiting_enrichment"]
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.019",
+      "disposition": "not_selected",
+      "reason": "Voices类观点汇编，虽主题相关但非原创研究或正式Review，信息增量低于同批次AI生命科学论文和综述。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02913-7",
+      "disposition": "not_selected",
+      "reason": "Nature新闻主要报道本次已完成解读的LongevityBench论文，内容高度重叠，无需独立进入未来重点队列。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02911-9",
+      "disposition": "not_selected",
+      "reason": "Nature新闻报道六名受试者的风险决策神经环路研究，虽属神经科学但为二手新闻且投资相关性较低。",
+      "priority_level": "P2"
+    }
+  ]
+}
