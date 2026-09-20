@@ -154776,9 +154776,9 @@
     "doi": "10.1016/j.cell.2026.08.041",
     "journal": "Cell",
     "title_first_seen": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway",
-    "current_title": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway.",
+    "current_title": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.041",
-    "rss_reported_time": "2026-09-18T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Sujuan Duan",
       "Yajun Zeng",
@@ -154806,139 +154806,94 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-20T14:08:02+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-20T14:08:02+08:00",
     "author_affiliations": [
       {
-        "author": "Duan S",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Sujuan Duan",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Zeng Y",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Yajun Zeng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lin S",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Shuang Lin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shi M",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China."
-        ],
+        "author": "Meihui Shi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen X",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Xiyan Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang P",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Pengxiang Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hong L",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Liu Hong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pan J",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Jiayi Pan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen Z",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
-        ],
+        "author": "Zhirong Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang J",
-        "affiliations": [
-          "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China."
-        ],
+        "author": "Jinfa Wang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang H",
-        "affiliations": [
-          "Yazhouwan National Laboratory, Sanya 572024, Hainan, China."
-        ],
+        "author": "Haiyang Wang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wang HB",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn."
-        ],
+        "author": "Hong-Bin Wang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jin HL",
-        "affiliations": [
-          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
-        ],
+        "author": "Hong-Lei Jin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China.",
-      "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China.",
-      "Yazhouwan National Laboratory, Sanya 572024, Hainan, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China.",
-      "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China.",
-      "Yazhouwan National Laboratory, Sanya 572024, Hainan, China.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn.",
-      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
-    ],
-    "china_key_authors": [
-      "Duan S",
-      "Zeng Y",
-      "Lin S",
-      "Shi M",
-      "Chen X",
-      "Zhang P",
-      "Hong L",
-      "Pan J",
-      "Chen Z",
-      "Wang J",
-      "Wang H",
-      "Wang HB",
-      "Jin HL"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
@@ -154985,9 +154940,9 @@
     "doi": "10.1016/j.cell.2026.08.003",
     "journal": "Cell",
     "title_first_seen": "Oligodendrocytes in central nervous system health and disease",
-    "current_title": "Oligodendrocytes in central nervous system health and disease.",
+    "current_title": "Oligodendrocytes in central nervous system health and disease",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.003",
-    "rss_reported_time": "2026-09-18T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Lucy J. Ryan",
       "Veronique E. Miron"
@@ -155004,35 +154959,28 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-20T14:08:02+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-20T14:08:02+08:00",
     "author_affiliations": [
       {
-        "author": "Ryan LJ",
-        "affiliations": [
-          "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK."
-        ],
+        "author": "Lucy J. Ryan",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Miron VE",
-        "affiliations": [
-          "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK; Keenan Research Centre for Biomedical Science at St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada; Department of Immunology, The University of Toronto, Toronto, Ontario, Canada. Electronic address: veronique.miron@unityhealth.to."
-        ],
+        "author": "Veronique E. Miron",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK.",
-      "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK; Keenan Research Centre for Biomedical Science at St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada; Department of Immunology, The University of Toronto, Toronto, Ontario, Canada. Electronic address: veronique.miron@unityhealth.to."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
@@ -155069,9 +155017,9 @@
     "doi": "10.1016/j.cell.2026.08.039",
     "journal": "Cell",
     "title_first_seen": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia",
-    "current_title": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia.",
+    "current_title": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.039",
-    "rss_reported_time": "2026-09-18T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Mengyan Wang",
       "Tingting Liu",
@@ -155111,232 +155059,166 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-20T14:08:02+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-20T14:08:02+08:00",
     "author_affiliations": [
       {
-        "author": "Wang M",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Mengyan Wang",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Liu T",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Tingting Liu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dai Q",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Qihua Dai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Teng J",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Jialin Teng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu Y",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Yaping Wu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jia J",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Jinchao Jia",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Meng J",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Jianfen Meng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ma Y",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Yuning Ma",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shi H",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Hui Shi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cheng X",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Xiaobing Cheng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu H",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Honglei Liu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Su Y",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Yutong Su",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ye J",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Junna Ye",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chi H",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Huihui Chi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhou Z",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Zhuochao Zhou",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sun Y",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
-        ],
+        "author": "Yue Sun",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wu Y",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
-        ],
+        "author": "Yan Wu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen J",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
-        ],
+        "author": "Jia Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yin W",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
-        ],
+        "author": "Wei Yin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gao P",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China."
-        ],
+        "author": "Peng Gao",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Song W",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China."
-        ],
+        "author": "Wenjie Song",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lin R",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
-        ],
+        "author": "Rui Lin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ying B",
-        "affiliations": [
-          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com."
-        ],
+        "author": "Bo Ying",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yang C",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com."
-        ],
+        "author": "Chengde Yang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hu Q",
-        "affiliations": [
-          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
-        ],
+        "author": "Qiongyi Hu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com.",
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com.",
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
-    ],
-    "china_team_status": "china_led",
-    "china_institutions": [
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China.",
-      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com.",
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com.",
-      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
-    ],
-    "china_key_authors": [
-      "Wang M",
-      "Liu T",
-      "Dai Q",
-      "Teng J",
-      "Wu Y",
-      "Jia J",
-      "Meng J",
-      "Ma Y",
-      "Shi H",
-      "Cheng X",
-      "Liu H",
-      "Su Y",
-      "Ye J",
-      "Chi H",
-      "Zhou Z",
-      "Sun Y",
-      "Chen J",
-      "Yin W",
-      "Gao P",
-      "Song W",
-      "Lin R",
-      "Ying B",
-      "Yang C",
-      "Hu Q"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:all_author_affiliations"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
