@@ -1,0 +1,17 @@
+{
+  "batch_id": "daily-2026-09-21",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.08.032",
+      "disposition": "completed",
+      "reason": "本次日报基于可核实摘要完成重点解读；该Cell观点文章系统提出生物医学world model的跨尺度、干预与纵向建模框架，与AI生命科学、虚拟细胞和闭环科研直接相关。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1126/science.aem4440",
+      "disposition": "completed",
+      "reason": "本次日报基于可核实出版信息完成重点解读；AI辅助生物武器风险直接关系AI生命科学治理与投资风险，本期非原创研究/非正式Review名额允许纳入。",
+      "priority_level": "P1"
+    }
+  ]
+}
