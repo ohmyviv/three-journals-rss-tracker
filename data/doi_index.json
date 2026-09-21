@@ -147812,10 +147812,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-09-21T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-20T15:17:03+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-20",
-    "deep_analysis_reason": "主题高度相关且已有摘要证据，但本期非原创研究/非正式Review类名额已满，保留后续重点处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-21T15:17:24+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-21",
+    "deep_analysis_reason": "本次日报基于可核实摘要完成重点解读；该Cell观点文章系统提出生物医学world model的跨尺度、干预与纵向建模框架，与AI生命科学、虚拟细胞和闭环科研直接相关。",
     "deep_analysis_priority_level": "P0",
     "pmid": "42753693",
     "europe_pmc_source": "MED",
@@ -147841,7 +147841,9 @@
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
-    "last_enrichment_success_at": "2026-09-21T12:52:30+08:00"
+    "last_enrichment_success_at": "2026-09-21T12:52:30+08:00",
+    "deep_analysis_completed_at": "2026-09-21T15:17:24+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-21"
   },
   "10.1016/j.cell.2026.08.035": {
     "doi": "10.1016/j.cell.2026.08.035",
@@ -154160,10 +154162,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-09-21T12:52:30+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-20T15:17:03+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-20",
-    "deep_analysis_reason": "AI生物安全对生命科学投资和治理有直接意义，但属于News且本期新闻/评论类名额已满，保留后续处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-21T15:17:24+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-21",
+    "deep_analysis_reason": "本次日报基于可核实出版信息完成重点解读；AI辅助生物武器风险直接关系AI生命科学治理与投资风险，本期非原创研究/非正式Review名额允许纳入。",
     "deep_analysis_priority_level": "P1",
     "pmid": "42752123",
     "europe_pmc_source": "MED",
@@ -154184,7 +154186,9 @@
     "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
-    "first_formal_batch_date": "2026-09-18"
+    "first_formal_batch_date": "2026-09-18",
+    "deep_analysis_completed_at": "2026-09-21T15:17:24+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-21"
   },
   "10.1126/science.aem4441": {
     "doi": "10.1126/science.aem4441",
