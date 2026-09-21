@@ -82882,9 +82882,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-25",
     "batched_at": "2026-08-25T13:06:01+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Tsukada K",
@@ -83114,7 +83114,7 @@
     "first_publication_date": "2026-08-24",
     "electronic_publication_date": "2026-08-24",
     "first_index_date": "2026-08-25",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-08-26T07:57:56+08:00",
     "first_formal_batch_id": "daily-2026-08-25",
     "first_formal_batch_date": "2026-08-25",
@@ -84064,9 +84064,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-26",
     "batched_at": "2026-08-26T13:06:17+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Guo P",
@@ -84195,7 +84195,7 @@
     "first_publication_date": "2026-08-25",
     "electronic_publication_date": "2026-08-25",
     "first_index_date": "2026-08-26",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-08-27T13:01:25+08:00",
     "first_formal_batch_id": "daily-2026-08-26",
     "first_formal_batch_date": "2026-08-26",
@@ -87269,9 +87269,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-27",
     "batched_at": "2026-08-27T22:06:02+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Goodarzi H",
@@ -87313,7 +87313,7 @@
     "first_publication_date": "2026-08-26",
     "electronic_publication_date": "2026-08-26",
     "first_index_date": "2026-08-27",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-08-28T15:04:17+08:00",
     "first_formal_batch_id": "daily-2026-08-27",
     "first_formal_batch_date": "2026-08-27",
@@ -95048,9 +95048,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-29",
     "batched_at": "2026-08-29T15:50:00+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Kundnani DL",
@@ -95362,7 +95362,7 @@
     "first_publication_date": "2026-08-28",
     "electronic_publication_date": "2026-08-28",
     "first_index_date": "2026-08-30",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-08-31T09:36:12+08:00",
     "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
   },
@@ -95400,9 +95400,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-29",
     "batched_at": "2026-08-29T15:50:00+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhu R",
@@ -95553,7 +95553,7 @@
     "first_publication_date": "2026-08-28",
     "electronic_publication_date": "2026-08-28",
     "first_index_date": "2026-08-30",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-08-31T09:36:12+08:00",
     "last_enrichment_success_at": "2026-09-20T12:51:30+08:00"
   },
@@ -95931,9 +95931,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-01",
     "batched_at": "2026-09-01T14:13:15+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Adduri AK",
@@ -96238,7 +96238,7 @@
     "first_publication_date": "2026-08-31",
     "electronic_publication_date": "2026-08-31",
     "first_index_date": "2026-09-01",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-02T09:23:26+08:00",
     "first_formal_batch_id": "daily-2026-09-01",
     "first_formal_batch_date": "2026-09-01",
@@ -96282,9 +96282,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-01",
     "batched_at": "2026-09-01T14:13:15+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Gowrishankar R",
@@ -96470,7 +96470,7 @@
     "first_publication_date": "2026-08-31",
     "electronic_publication_date": "2026-08-31",
     "first_index_date": "2026-09-01",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-02T09:23:26+08:00",
     "first_formal_batch_id": "daily-2026-09-01",
     "first_formal_batch_date": "2026-09-01",
@@ -97141,9 +97141,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Najia MA",
@@ -97270,7 +97270,7 @@
     "first_publication_date": "2026-09-01",
     "electronic_publication_date": "2026-09-01",
     "first_index_date": "2026-09-02",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-03T09:26:09+08:00",
     "first_formal_batch_id": "daily-2026-09-02",
     "first_formal_batch_date": "2026-09-02",
@@ -97326,9 +97326,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Linville RM",
@@ -97616,7 +97616,7 @@
     "first_publication_date": "2026-09-01",
     "electronic_publication_date": "2026-09-01",
     "first_index_date": "2026-09-02",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-03T09:26:09+08:00",
     "first_formal_batch_id": "daily-2026-09-02",
     "first_formal_batch_date": "2026-09-02",
@@ -97649,9 +97649,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Heo K",
@@ -97741,7 +97741,7 @@
     "first_publication_date": "2026-09-01",
     "electronic_publication_date": "2026-09-01",
     "first_index_date": "2026-09-02",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-03T09:26:09+08:00",
     "first_formal_batch_id": "daily-2026-09-02",
     "first_formal_batch_date": "2026-09-02",
@@ -97790,9 +97790,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Chen Y",
@@ -97990,7 +97990,7 @@
     "first_publication_date": "2026-09-01",
     "electronic_publication_date": "2026-09-01",
     "first_index_date": "2026-09-02",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-03T09:26:09+08:00",
     "first_formal_batch_id": "daily-2026-09-02",
     "first_formal_batch_date": "2026-09-02",
@@ -98034,9 +98034,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Gray MA",
@@ -98204,7 +98204,7 @@
     "first_publication_date": "2026-09-01",
     "electronic_publication_date": "2026-09-01",
     "first_index_date": "2026-09-02",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-03T09:26:09+08:00",
     "first_formal_batch_id": "daily-2026-09-02",
     "first_formal_batch_date": "2026-09-02",
@@ -107409,9 +107409,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-03",
     "batched_at": "2026-09-03T13:43:56+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Robert C. Jones",
@@ -108490,7 +108490,7 @@
     "first_publication_date": "2026-09-02",
     "electronic_publication_date": "2026-09-02",
     "first_index_date": "2026-09-03",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-04T09:21:26+08:00",
     "first_formal_batch_id": "daily-2026-09-03",
     "first_formal_batch_date": "2026-09-03",
@@ -109036,9 +109036,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Megarioti AH",
@@ -109094,7 +109094,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -109146,9 +109146,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Shi H",
@@ -109427,7 +109427,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -109571,9 +109571,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Alexanian M",
@@ -109629,7 +109629,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -109660,9 +109660,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Yang L",
@@ -109718,7 +109718,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -109751,9 +109751,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Hoeller J",
@@ -109842,7 +109842,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -109980,9 +109980,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Berg S",
@@ -110926,7 +110926,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -110964,9 +110964,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Tastekin I",
@@ -111114,7 +111114,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-04",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-05T09:23:20+08:00",
     "first_formal_batch_id": "daily-2026-09-04",
     "first_formal_batch_date": "2026-09-04",
@@ -122978,9 +122978,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-08",
     "batched_at": "2026-09-08T13:54:29+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Hu L",
@@ -123333,7 +123333,7 @@
     "first_publication_date": "2026-09-07",
     "electronic_publication_date": "2026-09-07",
     "first_index_date": "2026-09-09",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-09T09:31:07+08:00",
     "first_formal_batch_id": "daily-2026-09-08",
     "first_formal_batch_date": "2026-09-08",
@@ -124296,9 +124296,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Nagai S",
@@ -124407,7 +124407,7 @@
     "first_publication_date": "2026-09-08",
     "electronic_publication_date": "2026-09-08",
     "first_index_date": "2026-09-09",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-10T09:27:14+08:00",
     "first_formal_batch_id": "daily-2026-09-09",
     "first_formal_batch_date": "2026-09-09",
@@ -129803,9 +129803,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-10",
     "batched_at": "2026-09-10T13:54:59+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Grońska-Pęski M",
@@ -129923,7 +129923,7 @@
     "first_publication_date": "2026-09-09",
     "electronic_publication_date": "2026-09-09",
     "first_index_date": "2026-09-10",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-11T09:27:43+08:00",
     "first_formal_batch_id": "daily-2026-09-10",
     "first_formal_batch_date": "2026-09-10",
@@ -130298,9 +130298,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-11",
     "batched_at": "2026-09-11T13:53:56+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Song JH",
@@ -130458,7 +130458,7 @@
     "first_publication_date": "2026-09-10",
     "electronic_publication_date": "2026-09-10",
     "first_index_date": "2026-09-11",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-12T09:32:43+08:00",
     "first_formal_batch_id": "daily-2026-09-11",
     "first_formal_batch_date": "2026-09-11",
@@ -130496,9 +130496,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-11",
     "batched_at": "2026-09-11T13:53:56+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Agarwal D",
@@ -130626,7 +130626,7 @@
     "first_publication_date": "2026-09-10",
     "electronic_publication_date": "2026-09-10",
     "first_index_date": "2026-09-11",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-12T09:32:43+08:00",
     "first_formal_batch_id": "daily-2026-09-11",
     "first_formal_batch_date": "2026-09-11",
@@ -138059,9 +138059,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Deng ZL",
@@ -138128,7 +138128,7 @@
     "first_publication_date": "2026-09-11",
     "electronic_publication_date": "2026-09-11",
     "first_index_date": "2026-09-12",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-13T09:24:27+08:00",
     "first_formal_batch_id": "daily-2026-09-12",
     "first_formal_batch_date": "2026-09-12",
@@ -138173,9 +138173,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Moraleda JM",
@@ -138369,7 +138369,7 @@
     "first_publication_date": "2026-09-11",
     "electronic_publication_date": "2026-09-11",
     "first_index_date": "2026-09-12",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-13T09:24:27+08:00",
     "first_formal_batch_id": "daily-2026-09-12",
     "first_formal_batch_date": "2026-09-12",
@@ -138423,9 +138423,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Ng C",
@@ -138703,7 +138703,7 @@
     "first_publication_date": "2026-09-11",
     "electronic_publication_date": "2026-09-11",
     "first_index_date": "2026-09-12",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-13T09:24:27+08:00",
     "first_formal_batch_id": "daily-2026-09-12",
     "first_formal_batch_date": "2026-09-12",
@@ -139195,9 +139195,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Wu LZ",
@@ -139414,7 +139414,7 @@
     "first_publication_date": "2026-09-14",
     "electronic_publication_date": "2026-09-14",
     "first_index_date": "2026-09-15",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-16T09:38:43+08:00",
     "first_formal_batch_id": "daily-2026-09-15",
     "first_formal_batch_date": "2026-09-15",
@@ -139455,9 +139455,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Saarenpää S",
@@ -139610,7 +139610,7 @@
     "first_publication_date": "2026-09-14",
     "electronic_publication_date": "2026-09-14",
     "first_index_date": "2026-09-15",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-16T09:38:43+08:00",
     "first_formal_batch_id": "daily-2026-09-15",
     "first_formal_batch_date": "2026-09-15",
@@ -140632,9 +140632,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Chang T",
@@ -140887,7 +140887,7 @@
     "first_publication_date": "2026-09-15",
     "electronic_publication_date": "2026-09-15",
     "first_index_date": "2026-09-16",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-17T09:41:11+08:00",
     "first_formal_batch_id": "daily-2026-09-16",
     "first_formal_batch_date": "2026-09-16",
@@ -140982,9 +140982,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Abdullah KG",
@@ -141596,7 +141596,7 @@
     "first_publication_date": "2026-09-15",
     "electronic_publication_date": "2026-09-15",
     "first_index_date": "2026-09-16",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-17T09:41:11+08:00",
     "first_formal_batch_id": "daily-2026-09-16",
     "first_formal_batch_date": "2026-09-16",
@@ -141693,9 +141693,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-16",
     "batched_at": "2026-09-16T13:57:10+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Xavier A",
@@ -141952,7 +141952,7 @@
     "first_publication_date": "2026-09-14",
     "electronic_publication_date": "2026-09-14",
     "first_index_date": "2026-09-16",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-17T09:41:11+08:00",
     "first_formal_batch_id": "daily-2026-09-16",
     "first_formal_batch_date": "2026-09-16",
@@ -145811,9 +145811,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-17",
     "batched_at": "2026-09-17T14:05:32+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Huang X",
@@ -146168,7 +146168,7 @@
     "first_publication_date": "2026-09-16",
     "electronic_publication_date": "2026-09-16",
     "first_index_date": "2026-09-17",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-18T09:28:08+08:00",
     "first_formal_batch_id": "daily-2026-09-17",
     "first_formal_batch_date": "2026-09-17",
@@ -146682,9 +146682,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Maman A",
@@ -146951,7 +146951,7 @@
     "first_publication_date": "2026-09-17",
     "electronic_publication_date": "2026-09-17",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -146986,9 +146986,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Guo LY",
@@ -147080,7 +147080,7 @@
     "first_publication_date": "2026-09-17",
     "electronic_publication_date": "2026-09-17",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147114,9 +147114,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Salaudeen O",
@@ -147199,7 +147199,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147236,9 +147236,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Koller D",
@@ -147320,7 +147320,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147362,9 +147362,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Youngblut ND",
@@ -147530,7 +147530,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147570,9 +147570,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhavoronkov A",
@@ -147718,7 +147718,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147752,9 +147752,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Noori A",
@@ -147837,7 +147837,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -147904,9 +147904,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhang J",
@@ -148271,7 +148271,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -148299,9 +148299,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Pham JW",
@@ -148346,7 +148346,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18"
@@ -148374,9 +148374,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-09-20T09:37:26+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-20T09:37:26+08:00",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
         "author": "Xing EP",
@@ -148432,7 +148432,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-09-01",
     "first_index_date": "2026-09-18",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-19T09:35:01+08:00",
     "first_formal_batch_id": "daily-2026-09-18",
     "first_formal_batch_date": "2026-09-18",
@@ -154786,9 +154786,9 @@
     "doi": "10.1016/j.cell.2026.08.041",
     "journal": "Cell",
     "title_first_seen": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway",
-    "current_title": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway",
+    "current_title": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway.",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.041",
-    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "rss_reported_time": "2026-09-18T08:00:00+08:00",
     "authors_rss": [
       "Sujuan Duan",
       "Yajun Zeng",
@@ -154816,94 +154816,139 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-21T08:18:48+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-21T08:18:48+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
-        "author": "Sujuan Duan",
-        "affiliations": [],
-        "sequence": "first",
+        "author": "Duan S",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yajun Zeng",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Zeng Y",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Shuang Lin",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Lin S",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Meihui Shi",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Shi M",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Xiyan Chen",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Chen X",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Pengxiang Zhang",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Zhang P",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Liu Hong",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Hong L",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jiayi Pan",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Pan J",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Zhirong Chen",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Chen Z",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jinfa Wang",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Wang J",
+        "affiliations": [
+          "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Haiyang Wang",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Wang H",
+        "affiliations": [
+          "Yazhouwan National Laboratory, Sanya 572024, Hainan, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Hong-Bin Wang",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Wang HB",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn."
+        ],
         "corresponding": false
       },
       {
-        "author": "Hong-Lei Jin",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Jin HL",
+        "affiliations": [
+          "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
+        ],
         "corresponding": false
       }
     ],
-    "affiliations": [],
-    "china_team_status": "unknown",
-    "china_institutions": [],
-    "china_key_authors": [],
-    "china_team_evidence": [],
+    "affiliations": [
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China.",
+      "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China.",
+      "Yazhouwan National Laboratory, Sanya 572024, Hainan, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China.",
+      "School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China.",
+      "Yazhouwan National Laboratory, Sanya 572024, Hainan, China.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: wanghongbin@gzucm.edu.cn.",
+      "Institute of Medical Plant Physiology and Ecology/Key Laboratory of Chinese Medicinal Resource from Lingnan, School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Chinese Medicine Guangdong Laboratory, Guangdong Hengqin, China. Electronic address: jinhl@gzucm.edu.cn."
+    ],
+    "china_key_authors": [
+      "Duan S",
+      "Zeng Y",
+      "Lin S",
+      "Shi M",
+      "Chen X",
+      "Zhang P",
+      "Hong L",
+      "Pan J",
+      "Chen Z",
+      "Wang J",
+      "Wang H",
+      "Wang HB",
+      "Jin HL"
+    ],
+    "china_team_evidence": [
+      "europe_pmc:all_author_affiliations"
+    ],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
@@ -154931,7 +154976,6 @@
       "Jin HL"
     ],
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "journal_title": "Cell",
@@ -154940,7 +154984,7 @@
     "first_publication_date": "2026-09-18",
     "electronic_publication_date": "2026-09-18",
     "first_index_date": "2026-09-19",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-20T09:37:26+08:00",
     "first_formal_batch_id": "daily-2026-09-19",
     "first_formal_batch_date": "2026-09-19",
@@ -154950,9 +154994,9 @@
     "doi": "10.1016/j.cell.2026.08.003",
     "journal": "Cell",
     "title_first_seen": "Oligodendrocytes in central nervous system health and disease",
-    "current_title": "Oligodendrocytes in central nervous system health and disease",
+    "current_title": "Oligodendrocytes in central nervous system health and disease.",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.003",
-    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "rss_reported_time": "2026-09-18T08:00:00+08:00",
     "authors_rss": [
       "Lucy J. Ryan",
       "Veronique E. Miron"
@@ -154969,28 +155013,35 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-21T08:18:48+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-21T08:18:48+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
-        "author": "Lucy J. Ryan",
-        "affiliations": [],
-        "sequence": "first",
+        "author": "Ryan LJ",
+        "affiliations": [
+          "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK."
+        ],
         "corresponding": false
       },
       {
-        "author": "Veronique E. Miron",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Miron VE",
+        "affiliations": [
+          "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK; Keenan Research Centre for Biomedical Science at St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada; Department of Immunology, The University of Toronto, Toronto, Ontario, Canada. Electronic address: veronique.miron@unityhealth.to."
+        ],
         "corresponding": false
       }
     ],
-    "affiliations": [],
-    "china_team_status": "unknown",
+    "affiliations": [
+      "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK.",
+      "The United Kingdom Dementia Research Institute at The University of Edinburgh, Edinburgh, Scotland, UK; Keenan Research Centre for Biomedical Science at St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada; Department of Immunology, The University of Toronto, Toronto, Ontario, Canada. Electronic address: veronique.miron@unityhealth.to."
+    ],
+    "china_team_status": "no_china_signal",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
@@ -155007,7 +155058,6 @@
       "Miron VE"
     ],
     "publication_types": [
-      "IM",
       "Review",
       "Journal Article"
     ],
@@ -155017,7 +155067,7 @@
     "first_publication_date": "2026-09-18",
     "electronic_publication_date": "2026-09-18",
     "first_index_date": "2026-09-19",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-20T09:37:26+08:00",
     "first_formal_batch_id": "daily-2026-09-19",
     "first_formal_batch_date": "2026-09-19",
@@ -155027,9 +155077,9 @@
     "doi": "10.1016/j.cell.2026.08.039",
     "journal": "Cell",
     "title_first_seen": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia",
-    "current_title": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia",
+    "current_title": "mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia.",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.039",
-    "rss_reported_time": "2026-09-01T08:00:00+08:00",
+    "rss_reported_time": "2026-09-18T08:00:00+08:00",
     "authors_rss": [
       "Mengyan Wang",
       "Tingting Liu",
@@ -155069,166 +155119,232 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-09-21T08:18:48+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-21T08:18:48+08:00",
+    "last_seen_at": "2026-09-21T09:40:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-09-21T09:40:07+08:00",
     "author_affiliations": [
       {
-        "author": "Mengyan Wang",
-        "affiliations": [],
-        "sequence": "first",
+        "author": "Wang M",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Tingting Liu",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Liu T",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Qihua Dai",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Dai Q",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jialin Teng",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Teng J",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yaping Wu",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Wu Y",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jinchao Jia",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Jia J",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jianfen Meng",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Meng J",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yuning Ma",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Ma Y",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Hui Shi",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Shi H",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Xiaobing Cheng",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Cheng X",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Honglei Liu",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Liu H",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yutong Su",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Su Y",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Junna Ye",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Ye J",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Huihui Chi",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Chi H",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Zhuochao Zhou",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Zhou Z",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yue Sun",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Sun Y",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Yan Wu",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Wu Y",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Jia Chen",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Chen J",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Wei Yin",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Yin W",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Peng Gao",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Gao P",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Wenjie Song",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Song W",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Rui Lin",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Lin R",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China."
+        ],
         "corresponding": false
       },
       {
-        "author": "Bo Ying",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Ying B",
+        "affiliations": [
+          "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com."
+        ],
         "corresponding": false
       },
       {
-        "author": "Chengde Yang",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Yang C",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com."
+        ],
         "corresponding": false
       },
       {
-        "author": "Qiongyi Hu",
-        "affiliations": [],
-        "sequence": "additional",
+        "author": "Hu Q",
+        "affiliations": [
+          "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
+        ],
         "corresponding": false
       }
     ],
-    "affiliations": [],
-    "china_team_status": "unknown",
-    "china_institutions": [],
-    "china_key_authors": [],
-    "china_team_evidence": [],
+    "affiliations": [
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com.",
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com.",
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China.",
+      "Abogen Life Sciences (Shanghai) Co., Ltd., Shanghai 200131, China; Ruijin-Abogen Research Institution of Nucleic Acid Medicine, Suzhou 215028, China. Electronic address: bo.ying@abogenbio.com.",
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: yangchengde@sina.com.",
+      "Department of Rheumatology and Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Ruijin Institute of Marine Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Zhejiang Ocean University, Zhoushan 316022, China. Electronic address: huqiongyi131@163.com."
+    ],
+    "china_key_authors": [
+      "Wang M",
+      "Liu T",
+      "Dai Q",
+      "Teng J",
+      "Wu Y",
+      "Jia J",
+      "Meng J",
+      "Ma Y",
+      "Shi H",
+      "Cheng X",
+      "Liu H",
+      "Su Y",
+      "Ye J",
+      "Chi H",
+      "Zhou Z",
+      "Sun Y",
+      "Chen J",
+      "Yin W",
+      "Gao P",
+      "Song W",
+      "Lin R",
+      "Ying B",
+      "Yang C",
+      "Hu Q"
+    ],
+    "china_team_evidence": [
+      "europe_pmc:all_author_affiliations"
+    ],
     "scheduled_for": "2026-09-18T20:43:00+08:00",
     "triggered_at": "2026-09-19T00:42:29+08:00",
     "scheduler_delay_minutes": 239.5,
@@ -155267,7 +155383,6 @@
       "Hu Q"
     ],
     "publication_types": [
-      "IM",
       "Journal Article"
     ],
     "journal_title": "Cell",
@@ -155276,7 +155391,7 @@
     "first_publication_date": "2026-09-18",
     "electronic_publication_date": "2026-09-18",
     "first_index_date": "2026-09-19",
-    "europe_pmc_last_seen_at": "2026-09-20T09:37:26+08:00",
+    "europe_pmc_last_seen_at": "2026-09-21T09:40:07+08:00",
     "europe_pmc_first_seen_at": "2026-09-20T09:37:26+08:00",
     "first_formal_batch_id": "daily-2026-09-19",
     "first_formal_batch_date": "2026-09-19",
