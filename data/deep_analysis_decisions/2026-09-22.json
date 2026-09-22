@@ -1,0 +1,15 @@
+{
+  "batch_id": "daily-2026-09-22",
+  "decisions": [
+    {"doi":"10.1038/d41586-026-02981-9","disposition":"completed","reason":"本次已基于Nature出版商正文完成重点解读；HBV表观遗传编辑与基因/核酸递送及转化医学高度相关。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02931-5","disposition":"completed","reason":"本次已基于Nature Technology Feature正文完成重点解读；AI co-scientist与AI4Science/生命科学研发高度相关。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02955-x","disposition":"not_selected","reason":"Daily Briefing且主题以考古/图坦卡蒙为主，属于排除型低信息量聚合内容并与关注方向低相关。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02994-4","disposition":"not_selected","reason":"Daily Briefing属于原则上排除的低信息量聚合内容；不因AI主题机械进入重点队列。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02441-4","disposition":"not_selected","reason":"职业/科研生涯建议类内容，与生命科学投资和研究主题不直接相关。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02928-0","disposition":"not_selected","reason":"气候变化社会影响/测量议题，与本任务生命科学、AI、生物医药投资主题无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02932-4","disposition":"not_selected","reason":"学术自由政策/评论议题，与生命科学研究和投资关注方向无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/s41586-026-11160-9","disposition":"completed","reason":"本次已基于Nature正式Article摘要完成重点解读；RetroChimera直接涉及AI药物研发中的合成规划与药物化学。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02890-x","disposition":"not_selected","reason":"科研诚信/学术治理新闻，虽有中国科研生态信息，但与本期生命科学投资主题连接不足且新闻/评论名额优先留给更高相关内容。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02987-3","disposition":"not_selected","reason":"医疗器械方向有一定相关性，但属于News；本期非原创研究/非正式Review名额已由HBV转化进展和AI co-scientist两项更高优先级内容占用。","priority_level":"P2"}
+  ]
+}
