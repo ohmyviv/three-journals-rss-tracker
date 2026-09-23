@@ -153321,11 +153321,11 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-09-23T12:42:41+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-20T15:17:03+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-20",
-    "deep_analysis_reason": "自闭症异质性与神经科学相关，但当前可核实证据不足以支持完整重点解读，保留等待更充分正文证据。",
-    "deep_analysis_priority_level": "P1",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "历史积压已逐项复核；PubMed/Europe PMC仅提供一句评论性摘要，文章类型为News/Comment，无法支撑研究问题、方法和关键结论的完整重点解读，且未来作为评论继续深挖价值有限。",
+    "deep_analysis_priority_level": "P2",
     "pmid": "42752156",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42752156",
@@ -156053,7 +156053,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "生物安全政策评论，虽与生命科学相关但并非原创研究/正式Review，且本期已有更高价值的非原创研究类候选。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1038/d41586-026-02997-1": {
     "doi": "10.1038/d41586-026-02997-1",
@@ -156095,7 +156100,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "昆虫保护区相关生态/保护评论，与本日报重点研究投资方向连接不足。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02995-3": {
     "doi": "10.1038/d41586-026-02995-3",
@@ -156143,7 +156153,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "气候风险治理评论，与生命科学/生物医药投资关注方向缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02920-8": {
     "doi": "10.1038/d41586-026-02920-8",
@@ -156185,7 +156200,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "烧毁卷轴无损解读相关报道，与生命科学/生物医药投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02818-5": {
     "doi": "10.1038/d41586-026-02818-5",
@@ -156227,7 +156247,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "学术出版收费新闻，缺乏对生命科学研发或投资判断的直接价值。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02929-z": {
     "doi": "10.1038/d41586-026-02929-z",
@@ -156269,7 +156294,14 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "Nature News Feature；已实际读取出版商正文，系统梳理细胞死亡新机制及癌症、炎症、自免等转化意义，主题高度相关；计入非原创研究类名额。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-23"
   },
   "10.1038/d41586-026-02939-x": {
     "doi": "10.1038/d41586-026-02939-x",
@@ -156311,7 +156343,12 @@
     "triggered_at": "2026-09-22T21:37:50+08:00",
     "scheduler_delay_minutes": 300.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "厄尔尼诺与政府气候应对评论，主题不符合生命科学/生物医药重点门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02724-w": {
     "doi": "10.1038/d41586-026-02724-w",
@@ -156346,7 +156383,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "讲师寻找投影仪的职业/随笔类内容，属于低信息量和排除型内容。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02369-9": {
     "doi": "10.1038/d41586-026-02369-9",
@@ -156388,7 +156430,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "职业/教学建议类内容，属于原则性排除文章类型。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02942-2": {
     "doi": "10.1038/d41586-026-02942-2",
@@ -156430,7 +156477,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "超低温显微镜主要服务量子/凝聚态研究，当前未见与生命科学工具或生物医药产业的明确直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03014-1": {
     "doi": "10.1038/d41586-026-03014-1",
@@ -156472,7 +156524,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "AI监管评论，未形成与AI生命科学/生物医药的直接主题连接；不占用有限评论名额。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03000-7": {
     "doi": "10.1038/d41586-026-03000-7",
@@ -156507,7 +156564,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "气候损失与损害基金新闻，与生命科学/生物医药投资方向无直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-02941-3": {
     "doi": "10.1038/d41586-026-02941-3",
@@ -156549,7 +156611,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "通用AI生存风险新闻/特写，与AI生命科学、AI制药或生物医学数据平台缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03008-z": {
     "doi": "10.1038/d41586-026-03008-z",
@@ -156591,7 +156658,12 @@
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "Daily Briefing低信息量聚合内容，属于原则性排除文章类型。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.043": {
     "doi": "10.1016/j.cell.2026.08.043",
@@ -156784,7 +156856,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-26T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-26T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "原创Cell研究；已通过PubMed正式记录/摘要取得实质性证据。研究拓展真核生命耐热上限，但产业直接性较弱，仍属于基础生命科学合格重点解读。",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-23"
   },
   "10.1038/d41586-026-02979-3": {
     "doi": "10.1038/d41586-026-02979-3",
@@ -156819,7 +156898,12 @@
     "triggered_at": "2026-09-23T08:40:42+08:00",
     "scheduler_delay_minutes": 137.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "大气尘埃/环境变化内容，与生命科学和生物医药投资方向缺乏直接连接。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.049": {
     "doi": "10.1016/j.cell.2026.08.049",
@@ -157012,6 +157096,13 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-09-26T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-09-26T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-23",
+    "deep_analysis_reason": "原创Cell研究；PubMed正式摘要完整，直接涉及IRF1/IRF2、TLR、ISG、自炎症和先天免疫调控，证据与主题相关性均高。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-23T15:16:17+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-23"
   }
 }
