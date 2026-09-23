@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-22T12:52:21+08:00",
+  "generated_at": "2026-09-23T12:42:41+08:00",
   "timezone": "Asia/Shanghai",
   "retry_days": [
     3,
@@ -9,10 +9,10 @@
   ],
   "status": "success",
   "counts": {
-    "doi_records_seen": 1619,
-    "formal_batch_fields_backfilled": 0,
-    "crossref_metadata_only": 56,
-    "awaiting_enrichment": 56,
+    "doi_records_seen": 1636,
+    "formal_batch_fields_backfilled": 10,
+    "crossref_metadata_only": 58,
+    "awaiting_enrichment": 58,
     "due": 0,
     "attempted": 0,
     "enriched_from_existing_europe_pmc": 0,
@@ -71,5 +71,5 @@
     "10.1126/science.aem0118"
   ],
   "failures": [],
-  "completed_at": "2026-09-22T12:52:21+08:00"
+  "completed_at": "2026-09-23T12:42:41+08:00"
 }
