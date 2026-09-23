@@ -1,0 +1,23 @@
+{
+  "batch_id": "daily-2026-09-23",
+  "decisions": [
+    {"doi":"10.1016/j.cell.2026.08.043","disposition":"completed","reason":"原创Cell研究；已通过PubMed正式记录/摘要取得实质性证据。研究拓展真核生命耐热上限，但产业直接性较弱，仍属于基础生命科学合格重点解读。","priority_level":"P2"},
+    {"doi":"10.1016/j.cell.2026.08.049","disposition":"completed","reason":"原创Cell研究；PubMed正式摘要完整，直接涉及IRF1/IRF2、TLR、ISG、自炎症和先天免疫调控，证据与主题相关性均高。","priority_level":"P0"},
+    {"doi":"10.1038/d41586-026-02995-3","disposition":"not_selected","reason":"气候风险治理评论，与生命科学/生物医药投资关注方向缺乏直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02929-z","disposition":"completed","reason":"Nature News Feature；已实际读取出版商正文，系统梳理细胞死亡新机制及癌症、炎症、自免等转化意义，主题高度相关；计入非原创研究类名额。","priority_level":"P1"},
+    {"doi":"10.1038/d41586-026-02996-2","disposition":"not_selected","reason":"生物安全政策评论，虽与生命科学相关但并非原创研究/正式Review，且本期已有更高价值的非原创研究类候选。","priority_level":"P2"},
+    {"doi":"10.1038/d41586-026-02818-5","disposition":"not_selected","reason":"学术出版收费新闻，缺乏对生命科学研发或投资判断的直接价值。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02939-x","disposition":"not_selected","reason":"厄尔尼诺与政府气候应对评论，主题不符合生命科学/生物医药重点门槛。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02920-8","disposition":"not_selected","reason":"烧毁卷轴无损解读相关报道，与生命科学/生物医药投资方向无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02997-1","disposition":"not_selected","reason":"昆虫保护区相关生态/保护评论，与本日报重点研究投资方向连接不足。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02369-9","disposition":"not_selected","reason":"职业/教学建议类内容，属于原则性排除文章类型。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-03008-z","disposition":"not_selected","reason":"Daily Briefing低信息量聚合内容，属于原则性排除文章类型。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-03000-7","disposition":"not_selected","reason":"气候损失与损害基金新闻，与生命科学/生物医药投资方向无直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02942-2","disposition":"not_selected","reason":"超低温显微镜主要服务量子/凝聚态研究，当前未见与生命科学工具或生物医药产业的明确直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02724-w","disposition":"not_selected","reason":"讲师寻找投影仪的职业/随笔类内容，属于低信息量和排除型内容。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-03014-1","disposition":"not_selected","reason":"AI监管评论，未形成与AI生命科学/生物医药的直接主题连接；不占用有限评论名额。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02941-3","disposition":"not_selected","reason":"通用AI生存风险新闻/特写，与AI生命科学、AI制药或生物医学数据平台缺乏直接连接。","priority_level":"P3"},
+    {"doi":"10.1038/d41586-026-02979-3","disposition":"not_selected","reason":"大气尘埃/环境变化内容，与生命科学和生物医药投资方向缺乏直接连接。","priority_level":"P3"},
+    {"doi":"10.1126/science.ael3062","disposition":"not_selected","reason":"历史积压已逐项复核；PubMed/Europe PMC仅提供一句评论性摘要，文章类型为News/Comment，无法支撑研究问题、方法和关键结论的完整重点解读，且未来作为评论继续深挖价值有限。","priority_level":"P2"}
+  ]
+}
