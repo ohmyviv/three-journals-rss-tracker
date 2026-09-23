@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-09-23T01:15:47+08:00",
+  "generated_at": "2026-09-23T08:40:45+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 253,
-      "successful_checks": 252,
+      "checks": 254,
+      "successful_checks": 253,
       "failed_checks": 1,
-      "checks_with_new_items": 30,
-      "total_new_items_observed": 74,
+      "checks_with_new_items": 31,
+      "total_new_items_observed": 75,
       "new_item_checks_by_hour": {
         "00:00-00:59": 9,
         "06:00-06:59": 6,
         "01:00-01:59": 5,
         "07:00-07:59": 3,
         "21:00-21:59": 2,
+        "08:00-08:59": 2,
         "16:00-16:59": 1,
         "11:00-11:59": 1,
         "04:00-04:59": 1,
-        "23:00-23:59": 1,
-        "08:00-08:59": 1
+        "23:00-23:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Wednesday": 8,
+        "Wednesday": 9,
         "Tuesday": 7,
         "Friday": 5,
         "Thursday": 5,
         "Saturday": 4,
         "Monday": 1
       },
-      "last_checked_at": "2026-09-23T01:15:42+08:00",
-      "last_success_at": "2026-09-23T01:15:42+08:00"
+      "last_checked_at": "2026-09-23T08:40:42+08:00",
+      "last_success_at": "2026-09-23T08:40:42+08:00"
     },
     "nature": {
-      "checks": 253,
-      "successful_checks": 253,
+      "checks": 254,
+      "successful_checks": 254,
       "failed_checks": 0,
-      "checks_with_new_items": 93,
-      "total_new_items_observed": 520,
+      "checks_with_new_items": 94,
+      "total_new_items_observed": 521,
       "new_item_checks_by_hour": {
         "21:00-21:59": 21,
-        "08:00-08:59": 16,
+        "08:00-08:59": 17,
         "00:00-00:59": 9,
         "17:00-17:59": 7,
         "06:00-06:59": 7,
@@ -59,7 +59,7 @@
         "04:00-04:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Wednesday": 19,
+        "Wednesday": 20,
         "Thursday": 19,
         "Tuesday": 17,
         "Friday": 16,
@@ -67,12 +67,12 @@
         "Saturday": 9,
         "Sunday": 1
       },
-      "last_checked_at": "2026-09-23T01:15:42+08:00",
-      "last_success_at": "2026-09-23T01:15:42+08:00"
+      "last_checked_at": "2026-09-23T08:40:42+08:00",
+      "last_success_at": "2026-09-23T08:40:42+08:00"
     },
     "science": {
-      "checks": 253,
-      "successful_checks": 253,
+      "checks": 254,
+      "successful_checks": 254,
       "failed_checks": 0,
       "checks_with_new_items": 9,
       "total_new_items_observed": 223,
@@ -89,8 +89,8 @@
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-09-23T01:15:42+08:00",
-      "last_success_at": "2026-09-23T01:15:42+08:00"
+      "last_checked_at": "2026-09-23T08:40:42+08:00",
+      "last_success_at": "2026-09-23T08:40:42+08:00"
     }
   }
 }
