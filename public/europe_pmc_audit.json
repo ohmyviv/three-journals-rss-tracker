@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-09-22T095155p0800",
-  "checked_at": "2026-09-22T09:51:55+08:00",
+  "run_id": "europe-pmc-2026-09-23T094635p0800",
+  "checked_at": "2026-09-23T09:46:35+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-09-22T07:41:00+08:00",
-  "triggered_at": "2026-09-22T09:51:55+08:00",
-  "scheduler_delay_minutes": 130.9,
+  "scheduled_for": "2026-09-23T07:41:00+08:00",
+  "triggered_at": "2026-09-23T09:46:35+08:00",
+  "scheduler_delay_minutes": 125.6,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 198,
+    "items_seen": 47,
     "new_dois": 0,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 198,
-    "records_enriched": 1,
+    "duplicates": 47,
+    "records_enriched": 0,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
@@ -28,26 +28,26 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-08-23 TO 2026-09-22]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-08-24 TO 2026-09-23]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.208,
+      "duration_seconds": 0.542,
       "pages": 1,
-      "items_returned": 151,
+      "items_returned": 0,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 151,
-      "records_enriched": 1
+      "duplicates": 0,
+      "records_enriched": 0
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-08-23 TO 2026-09-22]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-08-24 TO 2026-09-23]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.071,
+      "duration_seconds": 1.143,
       "pages": 1,
       "items_returned": 47,
       "error": null,
@@ -57,5 +57,5 @@
       "records_enriched": 0
     }
   },
-  "completed_at": "2026-09-22T09:51:58+08:00"
+  "completed_at": "2026-09-23T09:46:37+08:00"
 }
