@@ -156697,9 +156697,9 @@
     "doi": "10.1016/j.cell.2026.08.043",
     "journal": "Cell",
     "title_first_seen": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
-    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
+    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.043",
-    "rss_reported_time": "2026-09-22T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "H. Beryl Rappaport",
       "Natalie A. Petek-Seoane",
@@ -156736,187 +156736,148 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-23",
     "batched_at": "2026-09-23T13:53:56+08:00",
-    "last_seen_at": "2026-09-24T09:38:35+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-24T09:38:35+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
-        "author": "Rappaport HB",
-        "affiliations": [
-          "Biology Department, Syracuse University, Syracuse, NY, USA; DOE Joint Genome Institute, Berkeley, CA, USA. Electronic address: hbrappap@syr.edu."
-        ],
+        "author": "H. Beryl Rappaport",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Petek-Seoane NA",
-        "affiliations": [
-          "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Natalie A. Petek-Seoane",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tyml T",
-        "affiliations": [
-          "DOE Joint Genome Institute, Berkeley, CA, USA."
-        ],
+        "author": "Tomáš Tyml",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Niblo JK",
-        "affiliations": [
-          "Department of Chemistry, Syracuse University, Syracuse, NY, USA."
-        ],
+        "author": "Jessica K. Niblo",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mikus F",
-        "affiliations": [
-          "Department of Biochemistry, University of Geneva, Geneva, Switzerland."
-        ],
+        "author": "Felix Mikus",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gilbert NE",
-        "affiliations": [
-          "Biology Department, Syracuse University, Syracuse, NY, USA."
-        ],
+        "author": "Naomi E. Gilbert",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "LaButti K",
-        "affiliations": [
-          "DOE Joint Genome Institute, Berkeley, CA, USA."
-        ],
+        "author": "Kurt LaButti",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ani G",
-        "affiliations": [
-          "Department of Biological Sciences, Smith College, Northampton, MA, USA; Program in Organismic and Evolutionary Biology, University of Massachusetts-Amherst, Amherst, MA, USA."
-        ],
+        "author": "Godwin Ani",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "MacVicar E",
-        "affiliations": [
-          "Department of Biology, Gonzaga University, Spokane, WA, USA."
-        ],
+        "author": "Ethan MacVicar",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Shepherd RM",
-        "affiliations": [
-          "Biology Department, Syracuse University, Syracuse, NY, USA."
-        ],
+        "author": "Rachel M. Shepherd",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "de la Higuera I",
-        "affiliations": [
-          "Center for Life in Extreme Environments, Department of Biology, Portland State University, Portland, OR, USA."
-        ],
+        "author": "Ignacio de la Higuera",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lord SJ",
-        "affiliations": [
-          "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Samuel J. Lord",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dey G",
-        "affiliations": [
-          "Cell Biology and Biophysics Unit, European Molecular Biology Laboratory, Heidelberg, Germany."
-        ],
+        "author": "Gautam Dey",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Wolfe GV",
-        "affiliations": [
-          "Department of Biological Sciences, California State University, Chico, CA, USA."
-        ],
+        "author": "Gordon V. Wolfe",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dudin O",
-        "affiliations": [
-          "Department of Biochemistry, University of Geneva, Geneva, Switzerland."
-        ],
+        "author": "Omaya Dudin",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Katz LA",
-        "affiliations": [
-          "Department of Biological Sciences, Smith College, Northampton, MA, USA; Program in Organismic and Evolutionary Biology, University of Massachusetts-Amherst, Amherst, MA, USA."
-        ],
+        "author": "Laura A. Katz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Stedman KM",
-        "affiliations": [
-          "Center for Life in Extreme Environments, Department of Biology, Portland State University, Portland, OR, USA."
-        ],
+        "author": "Kenneth M. Stedman",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sukenik S",
-        "affiliations": [
-          "Biology Department, Syracuse University, Syracuse, NY, USA; Department of Chemistry, Syracuse University, Syracuse, NY, USA."
-        ],
+        "author": "Shahar Sukenik",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Skruber K",
-        "affiliations": [
-          "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA; Department of Biology, Gonzaga University, Spokane, WA, USA."
-        ],
+        "author": "Kristen Skruber",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Schulz F",
-        "affiliations": [
-          "DOE Joint Genome Institute, Berkeley, CA, USA."
-        ],
+        "author": "Frederik Schulz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dyche Mullins R",
-        "affiliations": [
-          "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "R. Dyche Mullins",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Oliverio AM",
-        "affiliations": [
-          "Biology Department, Syracuse University, Syracuse, NY, USA. Electronic address: amoliver@syr.edu."
-        ],
+        "author": "Angela M. Oliverio",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Biology Department, Syracuse University, Syracuse, NY, USA; DOE Joint Genome Institute, Berkeley, CA, USA. Electronic address: hbrappap@syr.edu.",
-      "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA.",
-      "DOE Joint Genome Institute, Berkeley, CA, USA.",
-      "Department of Chemistry, Syracuse University, Syracuse, NY, USA.",
-      "Department of Biochemistry, University of Geneva, Geneva, Switzerland.",
-      "Biology Department, Syracuse University, Syracuse, NY, USA.",
-      "Department of Biological Sciences, Smith College, Northampton, MA, USA; Program in Organismic and Evolutionary Biology, University of Massachusetts-Amherst, Amherst, MA, USA.",
-      "Department of Biology, Gonzaga University, Spokane, WA, USA.",
-      "Center for Life in Extreme Environments, Department of Biology, Portland State University, Portland, OR, USA.",
-      "Cell Biology and Biophysics Unit, European Molecular Biology Laboratory, Heidelberg, Germany.",
-      "Department of Biological Sciences, California State University, Chico, CA, USA.",
-      "Biology Department, Syracuse University, Syracuse, NY, USA; Department of Chemistry, Syracuse University, Syracuse, NY, USA.",
-      "Department of Cellular and Molecular Pharmacology, Howard Hughes Medical Institute, University of California, San Francisco, San Francisco, CA, USA; Department of Biology, Gonzaga University, Spokane, WA, USA.",
-      "Biology Department, Syracuse University, Syracuse, NY, USA. Electronic address: amoliver@syr.edu."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-22T20:43:00+08:00",
     "triggered_at": "2026-09-23T01:15:42+08:00",
     "scheduler_delay_minutes": 272.7,
@@ -157021,9 +156982,9 @@
     "doi": "10.1016/j.cell.2026.08.049",
     "journal": "Cell",
     "title_first_seen": "Switching of transcriptional control from interferon regulatory factor 2 to interferon regulatory factor 1 drives innate immune cell activation",
-    "current_title": "Switching of transcriptional control from interferon regulatory factor 2 to interferon regulatory factor 1 drives innate immune cell activation.",
+    "current_title": "Switching of transcriptional control from interferon regulatory factor 2 to interferon regulatory factor 1 drives innate immune cell activation",
     "source_url": "https://doi.org/10.1016/j.cell.2026.08.049",
-    "rss_reported_time": "2026-09-22T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Cristhian Cadena",
       "Rohit Reja",
@@ -157060,180 +157021,148 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-23",
     "batched_at": "2026-09-23T13:53:56+08:00",
-    "last_seen_at": "2026-09-24T09:38:35+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-09-24T09:38:35+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
-        "author": "Cadena C",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Cristhian Cadena",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Reja R",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA; Department of Computational Sciences, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Rohit Reja",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bolech E",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Emma Bolech",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Webster JD",
-        "affiliations": [
-          "Department of Pathology, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Joshua D. Webster",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kameswaran V",
-        "affiliations": [
-          "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Vasumathi Kameswaran",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "de Simone M",
-        "affiliations": [
-          "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Marco de Simone",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen C",
-        "affiliations": [
-          "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Cynthia Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Jiang J",
-        "affiliations": [
-          "Department of Pathology, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Jian Jiang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hotzel K",
-        "affiliations": [
-          "Department of Pathology, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Kathy Hotzel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bjornson C",
-        "affiliations": [
-          "Department of Pathology, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Christopher Bjornson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Alegre K",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Kamela Alegre",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tan Z",
-        "affiliations": [
-          "Department of Antibody Engineering, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Zhenyu Tan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Elsaesser HJ",
-        "affiliations": [
-          "Princess Margaret Cancer Center, University Health Network, Toronto, ON, M5G2M9, Canada; Department of Immunology, University of Toronto, Toronto, ON, M5S1A8, Canada."
-        ],
+        "author": "Heidi J. Elsaesser",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Newland R",
-        "affiliations": [
-          "Department of Antibody Engineering, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Raymond Newland",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kelly R",
-        "affiliations": [
-          "Department of Antibody Engineering, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Ryan Kelly",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Darmanis S",
-        "affiliations": [
-          "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Spyros Darmanis",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Daniel B",
-        "affiliations": [
-          "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Bence Daniel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Brooks DG",
-        "affiliations": [
-          "Princess Margaret Cancer Center, University Health Network, Toronto, ON, M5G2M9, Canada; Department of Immunology, University of Toronto, Toronto, ON, M5S1A8, Canada."
-        ],
+        "author": "David G. Brooks",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Deshpande I",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Ishan Deshpande",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Newton K",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Kim Newton",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kayagaki N",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA."
-        ],
+        "author": "Nobuhiko Kayagaki",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dixit VM",
-        "affiliations": [
-          "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA. Electronic address: dixit@gene.com."
-        ],
+        "author": "Vishva M. Dixit",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA.",
-      "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA; Department of Computational Sciences, Genentech, South San Francisco, CA 94080, USA.",
-      "Department of Pathology, Genentech, South San Francisco, CA 94080, USA.",
-      "Department of Proteomic and Genomic Technologies, Genentech, South San Francisco, CA 94080, USA.",
-      "Department of Antibody Engineering, Genentech, South San Francisco, CA 94080, USA.",
-      "Princess Margaret Cancer Center, University Health Network, Toronto, ON, M5G2M9, Canada; Department of Immunology, University of Toronto, Toronto, ON, M5S1A8, Canada.",
-      "Department of Physiological Chemistry, Genentech, South San Francisco, CA 94080, USA. Electronic address: dixit@gene.com."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-23T06:23:00+08:00",
     "triggered_at": "2026-09-23T08:40:42+08:00",
     "scheduler_delay_minutes": 137.7,
@@ -163079,9 +163008,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-24T08:33:49+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-24T08:33:49+08:00",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
         "author": "Li Qiang",
@@ -163364,9 +163293,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-24T08:33:49+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-24T08:33:49+08:00",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
         "author": "Maya Voichek",
@@ -163482,9 +163411,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-24T08:33:49+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-24T08:33:49+08:00",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
         "author": "Antonio Falasconi",
@@ -163577,9 +163506,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-09-24T08:33:49+08:00",
+    "last_seen_at": "2026-09-24T14:06:39+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-09-24T08:33:49+08:00",
+    "last_updated_at": "2026-09-24T14:06:39+08:00",
     "author_affiliations": [
       {
         "author": "Jinxi Yuan",
