@@ -158316,13 +158316,15 @@
     "scheduler_delay_minutes": 284.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-24T15:18:40+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-24",
-    "deep_analysis_reason": "新发传染病的人为驱动因素属于感染与公共卫生高相关原创研究；本次15篇容量已满，保留后续重点处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-28",
+    "deep_analysis_reason": "Completed in this daily report using the Nature article abstract/full text.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-24",
-    "first_formal_batch_date": "2026-09-24"
+    "first_formal_batch_date": "2026-09-24",
+    "deep_analysis_completed_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-28"
   },
   "10.1038/s41586-026-10999-2": {
     "doi": "10.1038/s41586-026-10999-2",
@@ -161801,13 +161803,15 @@
     "scheduler_delay_minutes": 284.0,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-24T15:18:40+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-24",
-    "deep_analysis_reason": "小鼠脑脂质组空间架构与妊娠重塑属于脑科学/多组学高相关原创研究；本次容量已满，保留后续处理。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-28",
+    "deep_analysis_reason": "Completed in this daily report using the Nature article abstract/full text.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-24",
-    "first_formal_batch_date": "2026-09-24"
+    "first_formal_batch_date": "2026-09-24",
+    "deep_analysis_completed_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-28"
   },
   "10.1038/s41586-025-09573-z": {
     "doi": "10.1038/s41586-025-09573-z",
@@ -163896,10 +163900,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-10-01T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-24T15:18:40+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-24",
-    "deep_analysis_reason": "逆转座子细胞间传播属于基础生物学高相关原创研究，但当前批次为Crossref-only且摘要为空，待证据富化后解读。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-28",
+    "deep_analysis_reason": "Completed in this daily report with substantive abstract/preprint evidence.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-24",
     "first_formal_batch_date": "2026-09-24",
@@ -163910,7 +163914,9 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_completed_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-28"
   },
   "10.1016/j.cell.2026.08.046": {
     "doi": "10.1016/j.cell.2026.08.046",
@@ -163999,10 +164005,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
     "next_enrichment_retry_at": "2026-10-01T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-24T15:18:40+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-24",
-    "deep_analysis_reason": "运动皮层投射模块属于脑科学高相关原创研究，但当前为Crossref-only且摘要为空，待证据富化。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-28",
+    "deep_analysis_reason": "Completed in this daily report with substantive article abstract evidence.",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-24",
     "first_formal_batch_date": "2026-09-24",
@@ -164013,7 +164019,9 @@
     "crossref_enrichment_completed_days": [
       3
     ],
-    "last_enrichment_error": null
+    "last_enrichment_error": null,
+    "deep_analysis_completed_at": "2026-09-28T15:20:19+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-28"
   },
   "10.1016/j.cell.2026.08.050": {
     "doi": "10.1016/j.cell.2026.08.050",
