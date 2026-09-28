@@ -1,0 +1,9 @@
+{
+  "batch_id": "daily-2026-09-28",
+  "decisions": [
+    {"doi":"10.1016/j.cell.2026.08.047","disposition":"completed","reason":"Completed in this daily report with substantive abstract/preprint evidence.","priority_level":"P1"},
+    {"doi":"10.1016/j.cell.2026.08.046","disposition":"completed","reason":"Completed in this daily report with substantive article abstract evidence.","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11058-6","disposition":"completed","reason":"Completed in this daily report using the Nature article abstract/full text.","priority_level":"P1"},
+    {"doi":"10.1038/s41586-026-11050-0","disposition":"completed","reason":"Completed in this daily report using the Nature article abstract/full text.","priority_level":"P1"}
+  ]
+}
