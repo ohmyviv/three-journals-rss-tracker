@@ -174076,7 +174076,12 @@
     "triggered_at": "2026-09-29T00:58:27+08:00",
     "scheduler_delay_minutes": 501.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "基因编辑与递送主题高度相关；本次未稳定取得足够出版商正文支撑完整重点解读。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-02962-y": {
     "doi": "10.1038/d41586-026-02962-y",
@@ -174124,7 +174129,12 @@
     "triggered_at": "2026-09-29T00:58:27+08:00",
     "scheduler_delay_minutes": 501.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "公共卫生评论，非原创研究或正式综述，与当前重点投资方向直接连接较弱。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.004": {
     "doi": "10.1016/j.cell.2026.09.004",
@@ -174562,7 +174572,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "已取得研究机构正式发布及公开研究记录的实质性方法与结果证据并完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-29"
   },
   "10.1016/j.cell.2026.09.022": {
     "doi": "10.1016/j.cell.2026.09.022",
@@ -174685,7 +174702,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "高相关基础细胞生物学；本次缺少实质性摘要或全文证据，待富化后再解读。",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.09.005": {
     "doi": "10.1016/j.cell.2026.09.005",
@@ -174822,7 +174844,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "已取得作者机构正式发布的实质性研究说明并完成重点解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-09-29"
   },
   "10.1038/d41586-026-02277-y": {
     "doi": "10.1038/d41586-026-02277-y",
@@ -174864,6 +174893,11 @@
     "triggered_at": "2026-09-29T03:49:35+08:00",
     "scheduler_delay_minutes": 426.6,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-09-29",
+    "deep_analysis_reason": "科研出版生态新闻，与生命科学研究和生物医药产业技术重点无直接关联。",
+    "deep_analysis_priority_level": "P3"
   }
 }

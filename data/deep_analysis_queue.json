@@ -5743,5 +5743,81 @@
     "source_url": "https://www.nature.com/articles/s41586-026-11054-w",
     "completed_at": "2026-09-24T15:18:40+08:00",
     "completed_in_batch_id": "daily-2026-09-24"
+  },
+  "10.1016/j.cell.2026.09.022": {
+    "doi": "10.1016/j.cell.2026.09.022",
+    "journal": "Cell",
+    "title": "Cargo crosslinking nucleates AP-1 lattice formation",
+    "first_seen_at": "2026-09-29T00:58:27+08:00",
+    "queued_at": "2026-09-29T15:14:31+08:00",
+    "priority_level": "P2",
+    "priority_score": null,
+    "queue_reason": [
+      "awaiting_enrichment"
+    ],
+    "analysis_status": "deferred",
+    "target_complete_by": null,
+    "defer_count": 1,
+    "last_reviewed_at": "2026-09-29T15:14:31+08:00",
+    "first_formal_batch_id": "daily-2026-09-29",
+    "first_formal_batch_date": "2026-09-29",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.022"
+  },
+  "10.1016/j.cell.2026.09.005": {
+    "doi": "10.1016/j.cell.2026.09.005",
+    "journal": "Cell",
+    "title": "Non-invasive control of gene editing in vivo by photoswitchable Cas12f and focused ultrasound",
+    "first_seen_at": "2026-09-29T00:58:27+08:00",
+    "queued_at": "2026-09-29T15:14:31+08:00",
+    "priority_level": "P0",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-29T15:14:31+08:00",
+    "first_formal_batch_id": "daily-2026-09-29",
+    "first_formal_batch_date": "2026-09-29",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.005",
+    "completed_at": "2026-09-29T15:14:31+08:00",
+    "completed_in_batch_id": "daily-2026-09-29"
+  },
+  "10.1016/j.cell.2026.09.004": {
+    "doi": "10.1016/j.cell.2026.09.004",
+    "journal": "Cell",
+    "title": "Opposing functions of gut immunomodulatory metabolites on CAR-T therapy",
+    "first_seen_at": "2026-09-29T00:58:27+08:00",
+    "queued_at": "2026-09-29T15:14:31+08:00",
+    "priority_level": "P0",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-09-29T15:14:31+08:00",
+    "first_formal_batch_id": "daily-2026-09-29",
+    "first_formal_batch_date": "2026-09-29",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.004",
+    "completed_at": "2026-09-29T15:14:31+08:00",
+    "completed_in_batch_id": "daily-2026-09-29"
+  },
+  "10.1038/d41586-026-02964-w": {
+    "doi": "10.1038/d41586-026-02964-w",
+    "journal": "Nature",
+    "title": "Bigger than CRISPR? A guide to the latest genome editors",
+    "first_seen_at": "2026-09-29T00:58:27+08:00",
+    "queued_at": "2026-09-29T15:14:31+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [
+      "awaiting_enrichment"
+    ],
+    "analysis_status": "deferred",
+    "target_complete_by": null,
+    "defer_count": 1,
+    "last_reviewed_at": "2026-09-29T15:14:31+08:00",
+    "first_formal_batch_id": "daily-2026-09-29",
+    "first_formal_batch_date": "2026-09-29",
+    "source_url": "https://www.nature.com/articles/d41586-026-02964-w"
   }
 }
