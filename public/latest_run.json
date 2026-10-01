@@ -1,44 +1,43 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-10-01T091945p0800",
+  "run_id": "discover-2026-10-01T150910p0800",
   "mode": "live",
-  "checked_at": "2026-10-01T09:19:45+08:00",
+  "checked_at": "2026-10-01T15:09:10+08:00",
   "timezone": "Asia/Shanghai",
   "status": "degraded_fallback_sources",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "23 22 * * *",
-  "scheduled_for": "2026-10-01T06:23:00+08:00",
-  "triggered_at": "2026-10-01T09:19:45+08:00",
-  "scheduler_delay_minutes": 176.8,
+  "schedule_expression_utc": "7 1 * * *",
+  "scheduled_for": "2026-10-01T09:07:00+08:00",
+  "triggered_at": "2026-10-01T15:09:10+08:00",
+  "scheduler_delay_minutes": 362.2,
   "scheduler_delayed": true,
-  "late_discovery_recovery": false,
-  "intended_batch_date": null,
+  "late_discovery_recovery": true,
+  "intended_batch_date": "2026-10-01",
   "source_status": {
     "nature": "success",
     "science": "fallback_crossref",
     "cell": "fallback_crossref"
   },
   "counts": {
-    "new_dois": 2,
+    "new_dois": 1,
     "new_pending_doi": 0,
     "seed_dois": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 81,
-    "items_seen": 83,
-    "late_recovery_dois": 0,
+    "duplicates": 79,
+    "items_seen": 80,
+    "late_recovery_dois": 1,
     "late_recovery_pending_doi": 0,
-    "china_team_lookup_attempted": 2,
+    "china_team_lookup_attempted": 1,
     "china_team_lookup_enriched": 0,
     "china_team_lookup_failed": 1,
-    "china_team_unknown": 2
+    "china_team_unknown": 1
   },
   "new_dois": [
-    "10.1038/d41586-026-03086-z",
-    "10.1038/d41586-026-03106-y"
+    "10.1038/d41586-026-03042-x"
   ],
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-10-01T09:19:52+08:00"
+  "completed_at": "2026-10-01T15:09:14+08:00"
 }
