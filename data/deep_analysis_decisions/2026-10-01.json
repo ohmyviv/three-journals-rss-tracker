@@ -1,0 +1,285 @@
+{
+  "batch_id": "daily-2026-10-01",
+  "decisions": [
+    {
+      "doi": "10.1016/j.cell.2026.09.047",
+      "disposition": "queued",
+      "reason": "主题与生命科学研究高度相关，但当前仅有Crossref元数据，摘要/正文证据不足；待富化后再评估。",
+      "priority_level": "P1",
+      "analysis_status": "deferred",
+      "queue_reason": [
+        "awaiting_enrichment"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.011",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03047-6",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03015-0",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02201-4",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02958-8",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02894-7",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02863-0",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02963-x",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02777-x",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11093-3",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11098-y",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11075-5",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11062-w",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11108-z",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11063-9",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02991-7",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11090-6",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-10965-y",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11088-0",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11089-z",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02778-w",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11087-1",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-02978-4",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11113-2",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11082-6",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02783-z",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11078-2",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11061-x",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11036-y",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03033-y",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11086-2",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11064-8",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02782-0",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11077-3",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03124-w",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11092-4",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11060-y",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11047-9",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03038-7",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-10955-0",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11068-4",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11076-4",
+      "disposition": "completed",
+      "reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03106-y",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03086-z",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03042-x",
+      "disposition": "not_selected",
+      "reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+      "priority_level": "untriaged"
+    }
+  ]
+}
