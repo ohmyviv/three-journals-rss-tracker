@@ -176564,7 +176564,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02963-x": {
     "doi": "10.1038/d41586-026-02963-x",
@@ -176606,7 +176611,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03047-6": {
     "doi": "10.1038/d41586-026-03047-6",
@@ -176641,7 +176651,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02863-0": {
     "doi": "10.1038/d41586-026-02863-0",
@@ -176683,7 +176698,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03015-0": {
     "doi": "10.1038/d41586-026-03015-0",
@@ -176725,7 +176745,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02201-4": {
     "doi": "10.1038/d41586-026-02201-4",
@@ -176767,7 +176792,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02894-7": {
     "doi": "10.1038/d41586-026-02894-7",
@@ -176809,7 +176839,12 @@
     "triggered_at": "2026-09-30T23:13:14+08:00",
     "scheduler_delay_minutes": 396.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1016/j.cell.2026.09.047": {
     "doi": "10.1016/j.cell.2026.09.047",
@@ -176883,7 +176918,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-03T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-03T00:00:00+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "主题与生命科学研究高度相关，但当前仅有Crossref元数据，摘要/正文证据不足；待富化后再评估。",
+    "deep_analysis_priority_level": "P1"
   },
   "10.1038/d41586-026-03124-w": {
     "doi": "10.1038/d41586-026-03124-w",
@@ -176925,7 +176965,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03038-7": {
     "doi": "10.1038/d41586-026-03038-7",
@@ -176960,7 +177005,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02777-x": {
     "doi": "10.1038/d41586-026-02777-x",
@@ -177008,7 +177058,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02991-7": {
     "doi": "10.1038/d41586-026-02991-7",
@@ -177050,7 +177105,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02782-0": {
     "doi": "10.1038/d41586-026-02782-0",
@@ -177098,7 +177158,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02978-4": {
     "doi": "10.1038/d41586-026-02978-4",
@@ -177140,7 +177205,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02778-w": {
     "doi": "10.1038/d41586-026-02778-w",
@@ -177188,7 +177258,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03033-y": {
     "doi": "10.1038/d41586-026-03033-y",
@@ -177230,7 +177305,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02783-z": {
     "doi": "10.1038/d41586-026-02783-z",
@@ -177278,7 +177358,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11077-3": {
     "doi": "10.1038/s41586-026-11077-3",
@@ -177578,7 +177663,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11060-y": {
     "doi": "10.1038/s41586-026-11060-y",
@@ -177728,7 +177820,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11089-z": {
     "doi": "10.1038/s41586-026-11089-z",
@@ -177800,7 +177899,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11068-4": {
     "doi": "10.1038/s41586-026-11068-4",
@@ -177872,7 +177976,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11087-1": {
     "doi": "10.1038/s41586-026-11087-1",
@@ -177907,7 +178016,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11108-z": {
     "doi": "10.1038/s41586-026-11108-z",
@@ -177985,7 +178099,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11075-5": {
     "doi": "10.1038/s41586-026-11075-5",
@@ -178020,7 +178139,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11063-9": {
     "doi": "10.1038/s41586-026-11063-9",
@@ -178134,7 +178260,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11082-6": {
     "doi": "10.1038/s41586-026-11082-6",
@@ -178260,7 +178391,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11078-2": {
     "doi": "10.1038/s41586-026-11078-2",
@@ -181098,7 +181236,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11113-2": {
     "doi": "10.1038/s41586-026-11113-2",
@@ -181458,7 +181603,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11061-x": {
     "doi": "10.1038/s41586-026-11061-x",
@@ -181584,7 +181736,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11047-9": {
     "doi": "10.1038/s41586-026-11047-9",
@@ -181758,7 +181917,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10955-0": {
     "doi": "10.1038/s41586-026-10955-0",
@@ -181812,7 +181976,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11092-4": {
     "doi": "10.1038/s41586-026-11092-4",
@@ -181902,7 +182073,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11088-0": {
     "doi": "10.1038/s41586-026-11088-0",
@@ -182040,7 +182218,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11076-4": {
     "doi": "10.1038/s41586-026-11076-4",
@@ -182075,7 +182260,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11064-8": {
     "doi": "10.1038/s41586-026-11064-8",
@@ -182189,7 +182381,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11036-y": {
     "doi": "10.1038/s41586-026-11036-y",
@@ -182261,7 +182460,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11090-6": {
     "doi": "10.1038/s41586-026-11090-6",
@@ -182339,7 +182543,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11062-w": {
     "doi": "10.1038/s41586-026-11062-w",
@@ -182374,7 +182583,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11086-2": {
     "doi": "10.1038/s41586-026-11086-2",
@@ -182409,7 +182623,12 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-10965-y": {
     "doi": "10.1038/s41586-026-10965-y",
@@ -182444,7 +182663,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11093-3": {
     "doi": "10.1038/s41586-026-11093-3",
@@ -182479,7 +182705,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1038/s41586-026-11098-y": {
     "doi": "10.1038/s41586-026-11098-y",
@@ -182575,7 +182808,14 @@
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次日报已基于正式论文摘要/正文完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-01"
   },
   "10.1016/j.cell.2026.09.011": {
     "doi": "10.1016/j.cell.2026.09.011",
@@ -182698,7 +182938,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-04T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-04T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03086-z": {
     "doi": "10.1038/d41586-026-03086-z",
@@ -182733,7 +182978,12 @@
     "triggered_at": "2026-10-01T09:19:45+08:00",
     "scheduler_delay_minutes": 176.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03106-y": {
     "doi": "10.1038/d41586-026-03106-y",
@@ -182775,7 +183025,12 @@
     "triggered_at": "2026-10-01T09:19:45+08:00",
     "scheduler_delay_minutes": 176.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03042-x": {
     "doi": "10.1038/d41586-026-03042-x",
@@ -182811,6 +183066,11 @@
     "scheduler_delay_minutes": 362.2,
     "scheduler_delayed": true,
     "late_discovery_recovery": true,
-    "intended_batch_date": "2026-10-01"
+    "intended_batch_date": "2026-10-01",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-01T16:22:57+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-01",
+    "deep_analysis_reason": "本次已审阅；因主题相关性不足、文章类型不符合重点解读优先结构，或在已有15篇更高优先级原创研究/Review的情况下边际价值较低，无需进入后续active backlog。",
+    "deep_analysis_priority_level": "untriaged"
   }
 }
