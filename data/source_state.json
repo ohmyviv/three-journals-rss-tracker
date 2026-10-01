@@ -1,21 +1,21 @@
 {
   "nature": {
-    "etag": "\"3c3fc4218f91cb3496e8307f7964365d\"",
+    "etag": "\"705f650179797f667207553e7c1bf20c\"",
     "last_modified": null,
-    "feed_hash": "a6957a864d7a9e6d2ec4e55b7163d02c8fb57215c75a324b2b59debab235834b",
-    "last_success_at": "2026-10-01T23:37:18+08:00",
-    "last_checked_at": "2026-10-01T23:37:18+08:00",
+    "feed_hash": "e01ccd97cbf9358b0c400f9024e22f11a13992b407bcd649beb3eb66b1f011f3",
+    "last_success_at": "2026-10-02T02:34:06+08:00",
+    "last_checked_at": "2026-10-02T02:34:06+08:00",
     "last_status": "success",
     "last_error": null
   },
   "science": {
-    "last_checked_at": "2026-10-01T23:37:18+08:00",
+    "last_checked_at": "2026-10-02T02:34:06+08:00",
     "last_status": "fallback_crossref",
     "last_error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
-    "last_success_at": "2026-10-01T23:37:18+08:00",
+    "last_success_at": "2026-10-02T02:34:06+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
-    "fallback_last_success_at": "2026-10-01T23:37:18+08:00",
+    "fallback_last_success_at": "2026-10-02T02:34:06+08:00",
     "fallback_last_status": "success",
     "fallback_query_mode": "created",
     "fallback_query_start": "2026-09-29",
@@ -24,10 +24,10 @@
     "feed_hash": "1e6732d11f3871a733fe8c34bdc7bac7aca35ee108dd4a48d1c4a421cd5e6c3d"
   },
   "cell": {
-    "last_checked_at": "2026-10-01T23:37:18+08:00",
+    "last_checked_at": "2026-10-02T02:34:06+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_success_at": "2026-10-01T23:37:18+08:00",
+    "last_success_at": "2026-10-02T02:34:06+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
     "fallback_last_success_at": "2026-10-01T18:02:16+08:00",
