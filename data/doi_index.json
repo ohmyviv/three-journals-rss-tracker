@@ -175870,9 +175870,9 @@
     "doi": "10.1016/j.cell.2026.09.012",
     "journal": "Cell",
     "title_first_seen": "Spatial evolution of a cachexia-promoting microenvironment in pancreatic cancer",
-    "current_title": "Spatial evolution of a cachexia-promoting microenvironment in pancreatic cancer.",
+    "current_title": "Spatial evolution of a cachexia-promoting microenvironment in pancreatic cancer",
     "source_url": "https://doi.org/10.1016/j.cell.2026.09.012",
-    "rss_reported_time": "2026-09-29T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Yumeng Hu",
       "Gaoyuan Lv",
@@ -175906,175 +175906,130 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
-        "author": "Hu Y",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China."
-        ],
+        "author": "Yumeng Hu",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Lv G",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China."
-        ],
+        "author": "Gaoyuan Lv",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yuan H",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Hao Yuan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhou Z",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Zhijun Zhou",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang S",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China."
-        ],
+        "author": "Shaobo Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ye Y",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China."
-        ],
+        "author": "Yuxin Ye",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen Q",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Qun Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Cai Y",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Yang Cai",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yang J",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Jingxuan Yang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang Y",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Yuqing Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu C",
-        "affiliations": [
-          "Department of Biostatistics and Epidemiology, Hudson College of Public Health, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Chao Xu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Luo W",
-        "affiliations": [
-          "Department of Pathology, Yale School of Medicine, New Haven, CT 06519, USA."
-        ],
+        "author": "Wenyi Luo",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bronze MS",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Michael S. Bronze",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Houchen CW",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA."
-        ],
+        "author": "Courtney W. Houchen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li YP",
-        "affiliations": [
-          "Department of Integrative Biology & Pharmacology, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA."
-        ],
+        "author": "Yi-Ping Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xu J",
-        "affiliations": [
-          "Department of General Surgery, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 100730, China. Electronic address: xujingyong@bjhmoh.cn."
-        ],
+        "author": "Jingyong Xu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhang Y",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: zhangyy@cicams.ac.cn."
-        ],
+        "author": "Yuanyuan Zhang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liu M",
-        "affiliations": [
-          "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: liumy@cicams.ac.cn."
-        ],
+        "author": "Mingyang Liu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Li M",
-        "affiliations": [
-          "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA. Electronic address: min-li@ou.edu."
-        ],
+        "author": "Min Li",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China.",
-      "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
-      "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
-      "Department of Biostatistics and Epidemiology, Hudson College of Public Health, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA.",
-      "Department of Pathology, Yale School of Medicine, New Haven, CT 06519, USA.",
-      "Department of Integrative Biology & Pharmacology, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
-      "Department of General Surgery, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 100730, China. Electronic address: xujingyong@bjhmoh.cn.",
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: zhangyy@cicams.ac.cn.",
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: liumy@cicams.ac.cn.",
-      "Department of Medicine, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA; Department of Surgery, The University of Oklahoma Health Campus, Oklahoma City, OK 73104, USA. Electronic address: min-li@ou.edu."
-    ],
-    "china_team_status": "china_participating",
-    "china_institutions": [
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China.",
-      "Department of General Surgery, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 100730, China. Electronic address: xujingyong@bjhmoh.cn.",
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: zhangyy@cicams.ac.cn.",
-      "State Key Laboratory of Molecular Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing, China. Electronic address: liumy@cicams.ac.cn."
-    ],
-    "china_key_authors": [
-      "Hu Y",
-      "Lv G",
-      "Zhang S",
-      "Ye Y",
-      "Xu J",
-      "Zhang Y",
-      "Liu M"
-    ],
-    "china_team_evidence": [
-      "europe_pmc:author_affiliation"
-    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-29T20:43:00+08:00",
     "triggered_at": "2026-09-30T02:14:15+08:00",
     "scheduler_delay_minutes": 331.2,
@@ -176125,9 +176080,9 @@
     "doi": "10.1016/j.cell.2026.09.013",
     "journal": "Cell",
     "title_first_seen": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells",
-    "current_title": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells.",
+    "current_title": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells",
     "source_url": "https://doi.org/10.1016/j.cell.2026.09.013",
-    "rss_reported_time": "2026-09-29T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Rosa Delgado Jiménez",
       "Alexandria Ruggles",
@@ -176182,320 +176137,256 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
-        "author": "Delgado Jiménez R",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Rosa Delgado Jiménez",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Ruggles A",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Alexandria Ruggles",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Adedokun MA",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Mujeeb Adekunle Adedokun",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sorbie A",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Adam Sorbie",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fink D",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Diana Fink",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Laudani S",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Samuele Laudani",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Simats A",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Alba Simats",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "He Y",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Yufei He",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pahl V",
-        "affiliations": [
-          "Molecular Systems Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany."
-        ],
+        "author": "Vanessa Pahl",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Díaz-Marugán L",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Laura Díaz-Marugán",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Voss M",
-        "affiliations": [
-          "University Medical Center Mainz, Institute of Immunology, Mainz, Germany; Research Center for Immunotherapy, University Medical Center Mainz, Mainz, Germany."
-        ],
+        "author": "Morten Voss",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Singh K",
-        "affiliations": [
-          "Institute of Computational Biology, Helmholtz Munich, Munich, Germany."
-        ],
+        "author": "Kartikeya Singh",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Lledós M",
-        "affiliations": [
-          "Faculty of Health Sciences and Welfare, University of Vic, Central University of Catalonia (UVic-UCC), Vic, Barcelona, Spain; Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain."
-        ],
+        "author": "Miquel Lledós",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Carofiglio O",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Olga Carofiglio",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Melton P",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Philip Melton",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Pinkham K",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Kelsey Pinkham",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ricci A",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Alessio Ricci",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Roth S",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Stefan Roth",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sadler R",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
-        ],
+        "author": "Rebecca Sadler",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Khayat S",
-        "affiliations": [
-          "Department of Experimental Immunology, Helmholtz Centre for Infection Research, Braunschweig, Germany."
-        ],
+        "author": "Svetlina Khayat",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mousavi SM",
-        "affiliations": [
-          "Neurology Service, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland; Department of Fundamental Neuroscience, University of Lausanne, Lausanne, Switzerland."
-        ],
+        "author": "Seyedeh Maryam Mousavi",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tsaktanis T",
-        "affiliations": [
-          "Department of Neurology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, Germany."
-        ],
+        "author": "Thanos Tsaktanis",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Tobinski AM",
-        "affiliations": [
-          "Department of Neurology, University Hospital of Münster, Münster, Germany."
-        ],
+        "author": "Ann-Marie Tobinski",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Walter C",
-        "affiliations": [
-          "Department of Neurology, University Hospital of Münster, Münster, Germany; Institute of Medical Informatics, University Hospital of Münster, Münster, Germany."
-        ],
+        "author": "Carolin Walter",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Ohnmacht C",
-        "affiliations": [
-          "Center of Allergy and Environment (ZAUM), Technical University and Helmholtz Center Munich, Munich, Germany."
-        ],
+        "author": "Caspar Ohnmacht",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Huehn J",
-        "affiliations": [
-          "Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, Hannover, Germany."
-        ],
+        "author": "Jochen Huehn",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Herkel J",
-        "affiliations": [
-          "Department of Medicine I, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Hamburg Centre for Translational Immunology (HCTI), University Medical Centre Hamburg-Eppendorf, Hamburg, Germany."
-        ],
+        "author": "Johannes Herkel",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Carambia A",
-        "affiliations": [
-          "Department of Medicine I, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Hamburg Centre for Translational Immunology (HCTI), University Medical Centre Hamburg-Eppendorf, Hamburg, Germany."
-        ],
+        "author": "Antonella Carambia",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Klotz L",
-        "affiliations": [
-          "Department of Neurology, University Hospital of Münster, Münster, Germany."
-        ],
+        "author": "Luisa Klotz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gelderblom M",
-        "affiliations": [
-          "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
-        ],
+        "author": "Mathias Gelderblom",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Rothhammer V",
-        "affiliations": [
-          "Department of Neurology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, Germany."
-        ],
+        "author": "Veit Rothhammer",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Regen T",
-        "affiliations": [
-          "Institute for Molecular Medicine, Paul Klein Center for Immune Intervention, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, Germany."
-        ],
+        "author": "Tommy Regen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Bernhagen J",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany; German Center for Cardiovascular Diseases (DZHK), Munich Heart Alliance, Munich, Germany."
-        ],
+        "author": "Jürgen Bernhagen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gigl M",
-        "affiliations": [
-          "ZIEL-Institute for Food and Health, Technical University of Munich, Freising, Germany."
-        ],
+        "author": "Michael Gigl",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zimmermann M",
-        "affiliations": [
-          "European Molecular Biology Laboratory, Heidelberg, Germany."
-        ],
+        "author": "Michael Zimmermann",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Fernandez-Cadenas I",
-        "affiliations": [
-          "Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain."
-        ],
+        "author": "Israel Fernandez-Cadenas",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Hirt L",
-        "affiliations": [
-          "Neurology Service, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland; Department of Fundamental Neuroscience, University of Lausanne, Lausanne, Switzerland."
-        ],
+        "author": "Lorenz Hirt",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Delacher M",
-        "affiliations": [
-          "University Medical Center Mainz, Institute of Immunology, Mainz, Germany; Research Center for Immunotherapy, University Medical Center Mainz, Mainz, Germany."
-        ],
+        "author": "Michael Delacher",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Liesz A",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany; Munich Cluster for Systems Neurology (SyNergy), Munich, Germany."
-        ],
+        "author": "Arthur Liesz",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Benakis C",
-        "affiliations": [
-          "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany. Electronic address: corinne.benakis@med.uni-muenchen.de."
-        ],
+        "author": "Corinne Benakis",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany.",
-      "Molecular Systems Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany.",
-      "University Medical Center Mainz, Institute of Immunology, Mainz, Germany; Research Center for Immunotherapy, University Medical Center Mainz, Mainz, Germany.",
-      "Institute of Computational Biology, Helmholtz Munich, Munich, Germany.",
-      "Faculty of Health Sciences and Welfare, University of Vic, Central University of Catalonia (UVic-UCC), Vic, Barcelona, Spain; Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.",
-      "Department of Experimental Immunology, Helmholtz Centre for Infection Research, Braunschweig, Germany.",
-      "Neurology Service, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland; Department of Fundamental Neuroscience, University of Lausanne, Lausanne, Switzerland.",
-      "Department of Neurology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, Germany.",
-      "Department of Neurology, University Hospital of Münster, Münster, Germany.",
-      "Department of Neurology, University Hospital of Münster, Münster, Germany; Institute of Medical Informatics, University Hospital of Münster, Münster, Germany.",
-      "Center of Allergy and Environment (ZAUM), Technical University and Helmholtz Center Munich, Munich, Germany.",
-      "Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Cluster of Excellence RESIST (EXC 2155), Hannover Medical School, Hannover, Germany.",
-      "Department of Medicine I, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Hamburg Centre for Translational Immunology (HCTI), University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.",
-      "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-      "Institute for Molecular Medicine, Paul Klein Center for Immune Intervention, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, Germany.",
-      "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany; German Center for Cardiovascular Diseases (DZHK), Munich Heart Alliance, Munich, Germany.",
-      "ZIEL-Institute for Food and Health, Technical University of Munich, Freising, Germany.",
-      "European Molecular Biology Laboratory, Heidelberg, Germany.",
-      "Stroke Pharmacogenomics and Genetics Laboratory, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.",
-      "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany; Munich Cluster for Systems Neurology (SyNergy), Munich, Germany.",
-      "Institute for Stroke and Dementia Research (ISD), LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany. Electronic address: corinne.benakis@med.uni-muenchen.de."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-29T20:43:00+08:00",
     "triggered_at": "2026-09-30T02:14:15+08:00",
     "scheduler_delay_minutes": 331.2,
@@ -176829,9 +176720,9 @@
     "doi": "10.1016/j.cell.2026.09.009",
     "journal": "Cell",
     "title_first_seen": "Microbiome signatures linked to cancer and treatment adverse events in a real-world cohort",
-    "current_title": "Microbiome signatures linked to cancer and treatment adverse events in a real-world cohort.",
+    "current_title": "Microbiome signatures linked to cancer and treatment adverse events in a real-world cohort",
     "source_url": "https://doi.org/10.1016/j.cell.2026.09.009",
-    "rss_reported_time": "2026-09-29T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Lu Yang",
       "Vaidhvi Singh",
@@ -176864,156 +176755,124 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
-        "author": "Yang L",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA; The Benioff Center for Microbiome Medicine, University of California San Francisco, San Francisco, CA, USA."
-        ],
+        "author": "Lu Yang",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Singh V",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Vaidhvi Singh",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Gawey BJ",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Division of Gastroenterology, Mount Sinai, New York, NY, USA."
-        ],
+        "author": "Brent J. Gawey",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sinnwell JP",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Jason P. Sinnwell",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Johnson S",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Stephen Johnson",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Billings EC",
-        "affiliations": [
-          "Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Elle C. Billings",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Van Gorp TM",
-        "affiliations": [
-          "Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Trena M. Van Gorp",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Harrington JJ",
-        "affiliations": [
-          "Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Jonathan J. Harrington",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Slama MQ",
-        "affiliations": [
-          "Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Michael Q. Slama",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Till LM",
-        "affiliations": [
-          "Division of Gastroenterology, Mount Sinai, New York, NY, USA."
-        ],
+        "author": "Lisa M. Till",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Singh M",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Manavjot Singh",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Samineni TR",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Thoshik R. Samineni",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Zhu M",
-        "affiliations": [
-          "Department of Oncology, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Mojun Zhu",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kalari KR",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Krishna R. Kalari",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Farrugia G",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA."
-        ],
+        "author": "Gianrico Farrugia",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen J",
-        "affiliations": [
-          "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA; Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA. Electronic address: chen.jun2@mayo.edu."
-        ],
+        "author": "Jun Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Mars RAT",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA. Electronic address: mars.ruben@mayo.edu."
-        ],
+        "author": "Ruben A.T. Mars",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Kashyap PC",
-        "affiliations": [
-          "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA. Electronic address: kashyap.purna@mayo.edu."
-        ],
+        "author": "Purna C. Kashyap",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA; The Benioff Center for Microbiome Medicine, University of California San Francisco, San Francisco, CA, USA.",
-      "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA.",
-      "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Division of Gastroenterology, Mount Sinai, New York, NY, USA.",
-      "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA.",
-      "Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA.",
-      "Division of Gastroenterology, Mount Sinai, New York, NY, USA.",
-      "Department of Oncology, Mayo Clinic, Rochester, MN, USA.",
-      "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA.",
-      "Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA; Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA. Electronic address: chen.jun2@mayo.edu.",
-      "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA. Electronic address: mars.ruben@mayo.edu.",
-      "Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA; Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA. Electronic address: kashyap.purna@mayo.edu."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-30T06:23:00+08:00",
     "triggered_at": "2026-09-30T09:20:39+08:00",
     "scheduler_delay_minutes": 177.7,
@@ -177445,9 +177304,9 @@
     "doi": "10.1016/j.cell.2026.09.047",
     "journal": "Cell",
     "title_first_seen": "Global, site-resolved analysis of ubiquitylation occupancy and turnover rate reveals systems properties",
-    "current_title": "Global, site-resolved analysis of ubiquitylation occupancy and turnover rate reveals systems properties.",
+    "current_title": "Global, site-resolved analysis of ubiquitylation occupancy and turnover rate reveals systems properties",
     "source_url": "https://doi.org/10.1016/j.cell.2026.09.047",
-    "rss_reported_time": "2026-09-30T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Gabriela Prus",
       "Shankha Satpathy",
@@ -177467,33 +177326,38 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
-        "author": "Prus G",
+        "author": "Gabriela Prus",
         "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Satpathy S",
+        "author": "Shankha Satpathy",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Weinert BT",
+        "author": "Brian T. Weinert",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Narita T",
+        "author": "Takeo Narita",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Choudhary C",
+        "author": "Chunaram Choudhary",
         "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
@@ -183502,9 +183366,9 @@
     "doi": "10.1016/j.cell.2026.09.011",
     "journal": "Cell",
     "title_first_seen": "Salicylic acid engages central metabolic regulators SnRK1 and TOR to govern immunity by differential phosphorylation of NPR1",
-    "current_title": "Salicylic acid engages central metabolic regulators SnRK1 and TOR to govern immunity by differential phosphorylation of NPR1.",
+    "current_title": "Salicylic acid engages central metabolic regulators SnRK1 and TOR to govern immunity by differential phosphorylation of NPR1",
     "source_url": "https://doi.org/10.1016/j.cell.2026.09.011",
-    "rss_reported_time": "2026-09-30T08:00:00+08:00",
+    "rss_reported_time": "2026-09-01T08:00:00+08:00",
     "authors_rss": [
       "Yixuan Chen",
       "John Withers",
@@ -183531,107 +183395,88 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
-        "author": "Chen Y",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Yixuan Chen",
+        "affiliations": [],
+        "sequence": "first",
         "corresponding": false
       },
       {
-        "author": "Withers J",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "John Withers",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Sun Y",
-        "affiliations": [
-          "Institute for Plant-Human Interface, Northeastern University, Boston, MA 02115, USA; Department of Chemistry and Chemical Biology, Department of Bioengineering, Department of Chemical Engineering, Northeastern University, Boston, MA 02115, USA."
-        ],
+        "author": "Yulin Sun",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Chen T",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Tianyuan Chen",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Karapetyan S",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Sargis Karapetyan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Draken J",
-        "affiliations": [
-          "Department of Pharmaceutical Biology, Julius-von-Sachs-Institute, Julius-Maximilians-Universität Würzburg, 97082 Würzburg, Germany."
-        ],
+        "author": "Jan Draken",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Xiang Y",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Yezi Xiang",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Yuan Y",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Yuzhe Yuan",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "He Y",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA."
-        ],
+        "author": "Yang He",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dröge-Laser W",
-        "affiliations": [
-          "Department of Pharmaceutical Biology, Julius-von-Sachs-Institute, Julius-Maximilians-Universität Würzburg, 97082 Würzburg, Germany."
-        ],
+        "author": "Wolfgang Dröge-Laser",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Weng JK",
-        "affiliations": [
-          "Institute for Plant-Human Interface, Northeastern University, Boston, MA 02115, USA; Department of Chemistry and Chemical Biology, Department of Bioengineering, Department of Chemical Engineering, Northeastern University, Boston, MA 02115, USA."
-        ],
+        "author": "Jing-Ke Weng",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       },
       {
-        "author": "Dong X",
-        "affiliations": [
-          "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA. Electronic address: xdong@duke.edu."
-        ],
+        "author": "Xinnian Dong",
+        "affiliations": [],
+        "sequence": "additional",
         "corresponding": false
       }
     ],
-    "affiliations": [
-      "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA.",
-      "Institute for Plant-Human Interface, Northeastern University, Boston, MA 02115, USA; Department of Chemistry and Chemical Biology, Department of Bioengineering, Department of Chemical Engineering, Northeastern University, Boston, MA 02115, USA.",
-      "Department of Pharmaceutical Biology, Julius-von-Sachs-Institute, Julius-Maximilians-Universität Würzburg, 97082 Würzburg, Germany.",
-      "Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA; Howard Hughes Medical Institute, Duke University, Durham, NC 27708, USA. Electronic address: xdong@duke.edu."
-    ],
-    "china_team_status": "no_china_signal",
+    "affiliations": [],
+    "china_team_status": "unknown",
     "china_institutions": [],
     "china_key_authors": [],
-    "china_team_evidence": [
-      "europe_pmc:affiliation_checked"
-    ],
+    "china_team_evidence": [],
     "scheduled_for": "2026-09-30T20:43:00+08:00",
     "triggered_at": "2026-10-01T02:07:10+08:00",
     "scheduler_delay_minutes": 324.2,
@@ -184019,7 +183864,7 @@
     "journal": "Cell",
     "title_first_seen": "Glioma margins gain a third dimension before surgery ends",
     "current_title": "Glioma margins gain a third dimension before surgery ends",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01071-8?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.002",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184034,10 +183879,17 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Lingyan Shi",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184056,7 +183908,7 @@
     "journal": "Cell",
     "title_first_seen": "Taking the heat: Breaking the temperature limits of eukaryotic life",
     "current_title": "Taking the heat: Breaking the temperature limits of eukaryotic life",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01075-5?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.006",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184071,10 +183923,29 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Yin-Wei Kuo",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sherman Foo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Buzz Baum",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184093,7 +183964,7 @@
     "journal": "Cell",
     "title_first_seen": "Mitochondria before we knew them",
     "current_title": "Mitochondria before we knew them",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01072-X?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.003",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184108,10 +183979,23 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Courtney W. Stairs",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Ryan M.R. Gawryluk",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184130,7 +184014,7 @@
     "journal": "Cell",
     "title_first_seen": "Decoding mitochondrial proteomes of diverse eukaryotes",
     "current_title": "Decoding mitochondrial proteomes of diverse eukaryotes",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01076-7?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.007",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184145,10 +184029,23 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Vamsi K. Mootha",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah E. Calvo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184167,7 +184064,7 @@
     "journal": "Cell",
     "title_first_seen": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
     "current_title": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01067-6?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.056",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184182,10 +184079,203 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jonathan A. Stefely",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Felicia G. Deng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Z. Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Khanh Nguyen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bridget E. Luce",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michelle Y. Fry",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiaoyan A. Guo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Konstantinos Maliaris",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Keith D. Rivera",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Malvina Papanastasiou",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tiana M. Issa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bharath Kanakapura Sundararaj",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sophia L.Y. Root",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "D.R. Mani",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ruslan Aphasizhev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Inna Aphasizheva",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cora N. Betsinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Steven A. Carr",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manoj T. Duraisingh",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manish Goyal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Minsoo Kim",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cameron Genxuan Lian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yi-Ting Liao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Syed Yusuf Mian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aditya S. Paul",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Md Solayman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andres F. Vacas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Luke H. Chao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah E. Calvo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Namrata D. Udeshi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "John Samuelson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vamsi K. Mootha",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184204,7 +184294,7 @@
     "journal": "Cell",
     "title_first_seen": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
     "current_title": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01000-7?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.027",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184219,10 +184309,167 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Minsoo Kim",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah E. Calvo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Khanh Nguyen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Keith D. Rivera",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Namrata D. Udeshi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ruslan Aphasizhev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Inna Aphasizheva",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cora N. Betsinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Steven A. Carr",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Luke H. Chao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Z. Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Felicia G. Deng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manoj T. Duraisingh",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michelle Y. Fry",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manish Goyal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tiana M. Issa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cameron Genxuan Lian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yi-Ting Liao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bridget E. Luce",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Syed Yusuf Mian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aditya S. Paul",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "John Samuelson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Md Solayman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan A. Stefely",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andres F. Vacas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vamsi K. Mootha",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184241,7 +184488,7 @@
     "journal": "Cell",
     "title_first_seen": "Comparative analysis of mitochondrial proteomes across the tree of life",
     "current_title": "Comparative analysis of mitochondrial proteomes across the tree of life",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01002-0?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.029",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184256,10 +184503,173 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Michael Z. Chen",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan A. Stefely",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eric G. Bardon",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ruslan Aphasizhev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Inna Aphasizheva",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cora N. Betsinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Steven A. Carr",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Luke H. Chao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Felicia G. Deng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manoj T. Duraisingh",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michelle Y. Fry",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manish Goyal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tiana M. Issa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Minsoo Kim",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cameron Genxuan Lian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yi-Ting Liao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bridget E. Luce",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Syed Yusuf Mian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Khanh Nguyen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aditya S. Paul",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Keith D. Rivera",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "John Samuelson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Md Solayman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Namrata D. Udeshi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andres F. Vacas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah E. Calvo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vamsi K. Mootha",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184278,7 +184688,7 @@
     "journal": "Cell",
     "title_first_seen": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
     "current_title": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01068-8?rss=yes",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.057",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184293,10 +184703,167 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
-    "author_affiliations": [],
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_source": "crossref",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "author_affiliations": [
+      {
+        "author": "Michelle Y. Fry",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Bridget E. Luce",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan A. Stefely",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Z. Chen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Felicia G. Deng",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tiana M. Issa",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ruslan Aphasizhev",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Inna Aphasizheva",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cora N. Betsinger",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Steven A. Carr",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manoj T. Duraisingh",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Manish Goyal",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Minsoo Kim",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cameron Genxuan Lian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yi-Ting Liao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Syed Yusuf Mian",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Khanh Nguyen",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Aditya S. Paul",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Keith D. Rivera",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Md Solayman",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Namrata D. Udeshi",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andres F. Vacas",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah E. Calvo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "John Samuelson",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vamsi K. Mootha",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Luke H. Chao",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
     "affiliations": [],
     "china_team_status": "unknown",
     "china_institutions": [],
@@ -184449,9 +185016,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Sanghyeon Kim",
@@ -184670,9 +185237,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Iuliia Karavaeva",
@@ -185289,9 +185856,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Mathew Domeier",
@@ -185369,9 +185936,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Qiwen Gan",
@@ -185471,9 +186038,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Su-Jin Kim",
@@ -185679,9 +186246,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Fabrice Gaillard",
@@ -185805,9 +186372,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Wei Du",
@@ -186040,9 +186607,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Hang Chen",
@@ -186200,9 +186767,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Samuel J. Hobbs",
@@ -186294,9 +186861,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Liang Shu",
@@ -186637,9 +187204,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Laura L. Gravelsins",
@@ -186753,9 +187320,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Michael D. Dore",
@@ -186892,9 +187459,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Dena B. Dubal",
@@ -186982,9 +187549,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Q. Deplano",
@@ -187067,9 +187634,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Dan Corral",
@@ -187130,9 +187697,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Archana Venkataraman",
@@ -187200,9 +187767,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Michael B. Stout",
@@ -187267,9 +187834,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Camila Strassle",
@@ -187338,9 +187905,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Renée Bergland",
@@ -187390,9 +187957,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Christoph Trattner",
@@ -187444,9 +188011,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Dong Dong",
@@ -187526,9 +188093,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Ge Zhang",
@@ -187619,9 +188186,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Xiaojie Li",
@@ -187686,9 +188253,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Nancy Berlinger",
@@ -187738,9 +188305,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Ruiping Fan",
@@ -187791,9 +188358,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Chunyi Wen",
@@ -187851,9 +188418,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Sanjay Kumar",
@@ -187903,9 +188470,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Martin van der Laan",
@@ -187956,9 +188523,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Dan Engelman",
@@ -188021,9 +188588,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Yevgeniya Nusinovich",
@@ -188085,9 +188652,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "H. Holden Thorp",
@@ -188135,9 +188702,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -188188,9 +188755,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Marc S. Lavine",
@@ -188324,9 +188891,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Unnati Sonawala",
@@ -188406,9 +188973,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Alexandra Piotrowski-Daspit",
@@ -188458,9 +189025,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Jon Cohen",
@@ -188510,9 +189077,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -188556,9 +189123,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Grossman",
@@ -188602,9 +189169,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Catherine Offord",
@@ -188648,9 +189215,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Tom Howarth",
@@ -188694,9 +189261,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Paul Voosen",
@@ -188740,9 +189307,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Warren Cornwall",
@@ -188786,9 +189353,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Clery",
@@ -188832,9 +189399,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -188880,9 +189447,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-02T14:57:36+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-02T14:57:36+08:00",
     "author_affiliations": [
       {
         "author": "R. M. Flowers",
