@@ -174934,10 +174934,10 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "next_enrichment_retry_at": "2026-10-02T00:00:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-29",
-    "deep_analysis_reason": "高相关基础细胞生物学；本次缺少实质性摘要或全文证据，待富化后再解读。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "历史积压；Europe PMC 富化后已具备摘要级实质证据，本次完成重点解读。",
     "deep_analysis_priority_level": "P2",
     "first_formal_batch_id": "daily-2026-09-29",
     "first_formal_batch_date": "2026-09-29",
@@ -174970,7 +174970,9 @@
     "first_index_date": "2026-09-29",
     "europe_pmc_last_seen_at": "2026-10-02T10:34:10+08:00",
     "europe_pmc_first_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1016/j.cell.2026.09.005": {
     "doi": "10.1016/j.cell.2026.09.005",
@@ -183689,7 +183691,12 @@
     "triggered_at": "2026-10-01T23:37:18+08:00",
     "scheduler_delay_minutes": 420.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03101-3": {
     "doi": "10.1038/d41586-026-03101-3",
@@ -183731,7 +183738,12 @@
     "triggered_at": "2026-10-01T23:37:18+08:00",
     "scheduler_delay_minutes": 420.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03118-8": {
     "doi": "10.1038/d41586-026-03118-8",
@@ -183773,7 +183785,12 @@
     "triggered_at": "2026-10-01T23:37:18+08:00",
     "scheduler_delay_minutes": 420.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03138-4": {
     "doi": "10.1038/d41586-026-03138-4",
@@ -183815,7 +183832,12 @@
     "triggered_at": "2026-10-01T23:37:18+08:00",
     "scheduler_delay_minutes": 420.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03122-y": {
     "doi": "10.1038/d41586-026-03122-y",
@@ -183857,7 +183879,12 @@
     "triggered_at": "2026-10-01T23:37:18+08:00",
     "scheduler_delay_minutes": 420.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.002": {
     "doi": "10.1016/j.cell.2026.09.002",
@@ -183901,7 +183928,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.006": {
     "doi": "10.1016/j.cell.2026.09.006",
@@ -183957,7 +183989,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.003": {
     "doi": "10.1016/j.cell.2026.09.003",
@@ -184007,7 +184044,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.007": {
     "doi": "10.1016/j.cell.2026.09.007",
@@ -184057,7 +184099,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1016/j.cell.2026.08.056": {
     "doi": "10.1016/j.cell.2026.08.056",
@@ -184287,7 +184336,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1016/j.cell.2026.08.027": {
     "doi": "10.1016/j.cell.2026.08.027",
@@ -184481,7 +184537,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1016/j.cell.2026.08.029": {
     "doi": "10.1016/j.cell.2026.08.029",
@@ -184681,7 +184744,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1016/j.cell.2026.08.057": {
     "doi": "10.1016/j.cell.2026.08.057",
@@ -184875,7 +184945,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1038/d41586-026-03044-9": {
     "doi": "10.1038/d41586-026-03044-9",
@@ -184910,7 +184987,12 @@
     "triggered_at": "2026-10-02T02:34:06+08:00",
     "scheduler_delay_minutes": 351.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03036-9": {
     "doi": "10.1038/d41586-026-03036-9",
@@ -184945,7 +185027,12 @@
     "triggered_at": "2026-10-02T09:43:08+08:00",
     "scheduler_delay_minutes": 200.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03119-7": {
     "doi": "10.1038/d41586-026-03119-7",
@@ -184980,7 +185067,12 @@
     "triggered_at": "2026-10-02T09:43:08+08:00",
     "scheduler_delay_minutes": 200.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adv0235": {
     "doi": "10.1126/science.adv0235",
@@ -185149,7 +185241,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adz4797": {
     "doi": "10.1126/science.adz4797",
@@ -185829,7 +185926,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aec8423": {
     "doi": "10.1126/science.aec8423",
@@ -185908,7 +186012,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aed3065": {
     "doi": "10.1126/science.aed3065",
@@ -185997,7 +186106,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aed8207": {
     "doi": "10.1126/science.aed8207",
@@ -186216,7 +186332,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aef2542": {
     "doi": "10.1126/science.aef2542",
@@ -186330,7 +186453,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aef5175": {
     "doi": "10.1126/science.aef5175",
@@ -186573,7 +186701,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeg1070": {
     "doi": "10.1126/science.aeg1070",
@@ -186742,7 +186875,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeg3949": {
     "doi": "10.1126/science.aeg3949",
@@ -186808,7 +186946,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeg4972": {
     "doi": "10.1126/science.aeg4972",
@@ -187174,7 +187319,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeg5004": {
     "doi": "10.1126/science.aeg5004",
@@ -187287,7 +187437,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeg5583": {
     "doi": "10.1126/science.aeg5583",
@@ -187432,7 +187589,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeh0145": {
     "doi": "10.1126/science.aeh0145",
@@ -187522,7 +187686,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeh1375": {
     "doi": "10.1126/science.aeh1375",
@@ -187609,7 +187780,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeh1405": {
     "doi": "10.1126/science.aeh1405",
@@ -187671,7 +187847,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeh4468": {
     "doi": "10.1126/science.aeh4468",
@@ -187742,7 +187925,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次日报已取得足以支持研究问题、方法和关键结论的实质性证据，且主题与生命科学/生物医药投资方向直接相关，已完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-02"
   },
   "10.1126/science.aeh7496": {
     "doi": "10.1126/science.aeh7496",
@@ -187808,7 +187998,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aei2427": {
     "doi": "10.1126/science.aei2427",
@@ -187881,7 +188076,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aej3535": {
     "doi": "10.1126/science.aej3535",
@@ -187933,7 +188133,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek7949": {
     "doi": "10.1126/science.aek7949",
@@ -187985,7 +188190,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek9401": {
     "doi": "10.1126/science.aek9401",
@@ -188065,7 +188275,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek9583": {
     "doi": "10.1126/science.aek9583",
@@ -188161,7 +188376,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael0421": {
     "doi": "10.1126/science.ael0421",
@@ -188229,7 +188449,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael1175": {
     "doi": "10.1126/science.ael1175",
@@ -188281,7 +188506,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael2357": {
     "doi": "10.1126/science.ael2357",
@@ -188333,7 +188563,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael3784": {
     "doi": "10.1126/science.ael3784",
@@ -188394,7 +188629,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4456": {
     "doi": "10.1126/science.ael4456",
@@ -188446,7 +188686,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael7271": {
     "doi": "10.1126/science.ael7271",
@@ -188498,7 +188743,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael7341": {
     "doi": "10.1126/science.ael7341",
@@ -188561,7 +188811,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem4087": {
     "doi": "10.1126/science.aem4087",
@@ -188628,7 +188883,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem4102": {
     "doi": "10.1126/science.aem4102",
@@ -188680,7 +188940,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem7112": {
     "doi": "10.1126/science.aem7112",
@@ -188717,7 +188982,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8010": {
     "doi": "10.1126/science.aem8010",
@@ -188861,7 +189131,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8011": {
     "doi": "10.1126/science.aem8011",
@@ -188949,7 +189224,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8012": {
     "doi": "10.1126/science.aem8012",
@@ -189001,7 +189281,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "metadata_only",
-    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00"
+    "next_enrichment_retry_at": "2026-10-05T00:00:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8455": {
     "doi": "10.1126/science.aem8455",
@@ -189053,7 +189338,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8456": {
     "doi": "10.1126/science.aem8456",
@@ -189099,7 +189389,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8457": {
     "doi": "10.1126/science.aem8457",
@@ -189145,7 +189440,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8458": {
     "doi": "10.1126/science.aem8458",
@@ -189191,7 +189491,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8459": {
     "doi": "10.1126/science.aem8459",
@@ -189237,7 +189542,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8460": {
     "doi": "10.1126/science.aem8460",
@@ -189283,7 +189593,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8461": {
     "doi": "10.1126/science.aem8461",
@@ -189329,7 +189644,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8462": {
     "doi": "10.1126/science.aem8462",
@@ -189375,7 +189695,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem8463": {
     "doi": "10.1126/science.aem8463",
@@ -189421,7 +189746,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aed3341": {
     "doi": "10.1126/science.aed3341",
@@ -189494,6 +189824,11 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00"
+    "last_enrichment_success_at": "2026-10-02T13:33:38+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-02T15:20:01+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-02",
+    "deep_analysis_reason": "本次逐项审阅后未进入重点解读：属于低相关领域、新闻/评论/编辑性内容、纠错/撤稿/书评/聚合，或虽与生命科学相关但不满足本期原创研究/正式综述优先与投资价值门槛。",
+    "deep_analysis_priority_level": "P3"
   }
 }
