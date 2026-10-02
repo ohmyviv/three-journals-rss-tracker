@@ -27588,9 +27588,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "pmid": "42492507",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42492507",
@@ -31470,9 +31470,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "pmid": "42486083",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42486083",
@@ -33436,9 +33436,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "pmid": "42468524",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42468524",
@@ -36444,9 +36444,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-07-30",
     "batched_at": "2026-07-30T12:41:30+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -44310,9 +44310,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-04",
     "batched_at": "2026-08-04T12:49:09+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "scheduled_for": "2026-08-04T06:30:00+08:00",
     "triggered_at": "2026-08-04T07:35:17+08:00",
     "scheduler_delay_minutes": 65.3,
@@ -55755,9 +55755,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-11",
     "batched_at": "2026-08-11T11:23:49+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "scheduled_for": "2026-08-11T06:30:00+08:00",
     "triggered_at": "2026-08-11T07:07:16+08:00",
     "scheduler_delay_minutes": 37.3,
@@ -57991,9 +57991,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-12",
     "batched_at": "2026-08-12T11:52:05+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "scheduled_for": "2026-08-12T06:30:00+08:00",
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
@@ -70922,9 +70922,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Wang Y",
@@ -82882,9 +82882,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-25",
     "batched_at": "2026-08-25T13:06:01+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Tsukada K",
@@ -96282,9 +96282,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-01",
     "batched_at": "2026-09-01T14:13:15+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Gowrishankar R",
@@ -97141,9 +97141,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Najia MA",
@@ -97328,9 +97328,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-02T09:43:08+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T09:43:08+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Linville RM",
@@ -154908,8 +154908,8 @@
     "doi": "10.1016/j.cell.2026.08.003",
     "journal": "Cell",
     "title_first_seen": "Oligodendrocytes in central nervous system health and disease",
-    "current_title": "Oligodendrocytes in central nervous system health and disease.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.003",
+    "current_title": "Oligodendrocytes in central nervous system health and disease",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00930-X?rss=yes",
     "rss_reported_time": "2026-09-18T08:00:00+08:00",
     "authors_rss": [
       "Lucy J. Ryan",
@@ -154927,9 +154927,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ryan LJ",
@@ -156729,8 +156729,8 @@
     "doi": "10.1016/j.cell.2026.08.043",
     "journal": "Cell",
     "title_first_seen": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
-    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.043",
+    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01016-0?rss=yes",
     "rss_reported_time": "2026-09-22T08:00:00+08:00",
     "authors_rss": [
       "H. Beryl Rappaport",
@@ -156768,9 +156768,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-23",
     "batched_at": "2026-09-23T13:53:56+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Rappaport HB",
@@ -173098,9 +173098,9 @@
     "doi": "10.1126/science.aem6125",
     "journal": "Science",
     "title_first_seen": "Verification makes discovery matter",
-    "current_title": "Verification makes discovery matter.",
-    "source_url": "https://doi.org/10.1126/science.aem6125",
-    "rss_reported_time": "2026-09-24T08:00:00+08:00",
+    "current_title": "Verification makes discovery matter",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem6125?af=R",
+    "rss_reported_time": "2026-09-24T14:00:02+08:00",
     "authors_rss": [
       "Jay Bhattacharya"
     ],
@@ -173116,9 +173116,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-25",
     "batched_at": "2026-09-25T14:07:34+08:00",
-    "last_seen_at": "2026-10-02T10:34:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-02T10:34:10+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Bhattacharya J",
@@ -175246,9 +175246,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Yun Wah Lam",
@@ -175303,9 +175303,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Mitali Das",
@@ -175360,9 +175360,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sunil Kumar Tripathy",
@@ -175405,9 +175405,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Phil Hutchinson",
@@ -175450,9 +175450,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Guowei Huang",
@@ -175513,9 +175513,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -175550,9 +175550,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Holly Smith",
@@ -175594,9 +175594,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -175631,9 +175631,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Xiaoying You",
@@ -175675,9 +175675,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Alice T. Shaw",
@@ -175719,9 +175719,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Chris Stokel-Walker",
@@ -175851,9 +175851,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -176477,9 +176477,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Yingxi Xu",
@@ -176701,9 +176701,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -176941,9 +176941,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-09-30",
     "batched_at": "2026-09-30T17:36:50+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "James Dinneen",
@@ -176986,9 +176986,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Virginia Gewin",
@@ -177035,9 +177035,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ana Cehovin",
@@ -177084,9 +177084,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -177126,9 +177126,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Mercer Eddy",
@@ -177175,9 +177175,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ewen Callaway",
@@ -177224,9 +177224,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Rachael Pells",
@@ -177273,9 +177273,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Laurie Udesky",
@@ -177424,9 +177424,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Nick Petrić Howe",
@@ -177473,9 +177473,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -177515,9 +177515,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Taoyu Zou",
@@ -177570,9 +177570,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jackson Ryan",
@@ -177619,9 +177619,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Mengxi Du",
@@ -177674,9 +177674,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "James Dinneen",
@@ -177723,9 +177723,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Kayleigh Mason-Chalmers",
@@ -177778,9 +177778,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Elie Dolgin",
@@ -177827,9 +177827,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jang Hyun Park",
@@ -177882,9 +177882,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Anqi Dai",
@@ -178191,9 +178191,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Payal Damani-Yokota",
@@ -178350,9 +178350,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sarah Wells",
@@ -178429,9 +178429,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jungmin Kim",
@@ -178508,9 +178508,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -178550,9 +178550,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Deepak Behera",
@@ -178635,9 +178635,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -178679,9 +178679,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Philipp Radler",
@@ -178800,9 +178800,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Rui Zeng",
@@ -178935,9 +178935,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Masahiro Kanai",
@@ -181782,9 +181782,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Chun-Jie Guo",
@@ -182151,9 +182151,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sofia Lövestam",
@@ -182286,9 +182286,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Chien-Chih Tseng",
@@ -182467,9 +182467,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "A. Doğa Yücel",
@@ -182530,9 +182530,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Lizhen Wu",
@@ -182629,9 +182629,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Kaitlin Rhee",
@@ -182776,9 +182776,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -182820,9 +182820,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Guohua Yuan",
@@ -182943,9 +182943,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Samuel Sokota",
@@ -183022,9 +183022,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ben Igielman",
@@ -183107,9 +183107,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183149,9 +183149,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183191,9 +183191,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183235,9 +183235,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183279,9 +183279,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jun Cui",
@@ -183544,9 +183544,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183586,9 +183586,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Gemma Conroy",
@@ -183635,9 +183635,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183678,9 +183678,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -183718,9 +183718,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Davide Castelvecchi",
@@ -183765,9 +183765,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "James Dinneen",
@@ -183812,9 +183812,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Flora Graham",
@@ -183859,9 +183859,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Flora Graham",
@@ -183891,7 +183891,7 @@
     "journal": "Cell",
     "title_first_seen": "Glioma margins gain a third dimension before surgery ends",
     "current_title": "Glioma margins gain a third dimension before surgery ends",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.002",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01071-8?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -183906,9 +183906,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Lingyan Shi",
@@ -183940,7 +183940,7 @@
     "journal": "Cell",
     "title_first_seen": "Taking the heat: Breaking the temperature limits of eukaryotic life",
     "current_title": "Taking the heat: Breaking the temperature limits of eukaryotic life",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.006",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01075-5?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -183955,9 +183955,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Yin-Wei Kuo",
@@ -184001,7 +184001,7 @@
     "journal": "Cell",
     "title_first_seen": "Mitochondria before we knew them",
     "current_title": "Mitochondria before we knew them",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.003",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01072-X?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184016,9 +184016,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Courtney W. Stairs",
@@ -184056,7 +184056,7 @@
     "journal": "Cell",
     "title_first_seen": "Decoding mitochondrial proteomes of diverse eukaryotes",
     "current_title": "Decoding mitochondrial proteomes of diverse eukaryotes",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.007",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01076-7?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184071,9 +184071,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Vamsi K. Mootha",
@@ -184113,7 +184113,7 @@
     "journal": "Cell",
     "title_first_seen": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
     "current_title": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.056",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01067-6?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184128,9 +184128,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jonathan A. Stefely",
@@ -184350,7 +184350,7 @@
     "journal": "Cell",
     "title_first_seen": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
     "current_title": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.027",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01000-7?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184365,9 +184365,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Minsoo Kim",
@@ -184551,7 +184551,7 @@
     "journal": "Cell",
     "title_first_seen": "Comparative analysis of mitochondrial proteomes across the tree of life",
     "current_title": "Comparative analysis of mitochondrial proteomes across the tree of life",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.029",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01002-0?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184566,9 +184566,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Michael Z. Chen",
@@ -184758,7 +184758,7 @@
     "journal": "Cell",
     "title_first_seen": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
     "current_title": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.057",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01068-8?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184773,9 +184773,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Michelle Y. Fry",
@@ -184974,9 +184974,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -185014,9 +185014,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -185054,9 +185054,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -185079,8 +185079,8 @@
     "journal": "Science",
     "title_first_seen": "Synergistic polar states by selective atomic gradients",
     "current_title": "Synergistic polar states by selective atomic gradients",
-    "source_url": "https://doi.org/10.1126/science.adv0235",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adv0235?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Sanghyeon Kim",
       "Gi-Jeong Han",
@@ -185108,9 +185108,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sanghyeon Kim",
@@ -185253,8 +185253,8 @@
     "journal": "Science",
     "title_first_seen": "Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling",
     "current_title": "Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling",
-    "source_url": "https://doi.org/10.1126/science.adz4797",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adz4797?af=R",
+    "rss_reported_time": "2026-10-01T15:00:00+08:00",
     "authors_rss": [
       "Iuliia Karavaeva",
       "Astrid Linde Basse",
@@ -185334,9 +185334,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Iuliia Karavaeva",
@@ -185940,8 +185940,8 @@
     "journal": "Science",
     "title_first_seen": "Quadrupolar sea level fluctuations reveal episodes of rapid polar wander",
     "current_title": "Quadrupolar sea level fluctuations reveal episodes of rapid polar wander",
-    "source_url": "https://doi.org/10.1126/science.aec8423",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aec8423?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Mathew Domeier",
       "Leandro C. Gallo",
@@ -185960,9 +185960,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Mathew Domeier",
@@ -186024,8 +186024,8 @@
     "journal": "Science",
     "title_first_seen": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion",
     "current_title": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion",
-    "source_url": "https://doi.org/10.1126/science.aed3065",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aed3065?af=R",
+    "rss_reported_time": "2026-10-01T15:00:00+08:00",
     "authors_rss": [
       "Qiwen Gan",
       "Wei Li",
@@ -186045,9 +186045,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Qiwen Gan",
@@ -186120,8 +186120,8 @@
     "journal": "Science",
     "title_first_seen": "Hypertension fuels osteoarthritis through neuroendocrine signaling",
     "current_title": "Hypertension fuels osteoarthritis through neuroendocrine signaling",
-    "source_url": "https://doi.org/10.1126/science.aed8207",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aed8207?af=R",
+    "rss_reported_time": "2026-10-01T15:00:00+08:00",
     "authors_rss": [
       "Su-Jin Kim",
       "Hyo-Eun Kim",
@@ -186154,9 +186154,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Su-Jin Kim",
@@ -186346,8 +186346,8 @@
     "journal": "Science",
     "title_first_seen": "Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds",
     "current_title": "Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds",
-    "source_url": "https://doi.org/10.1126/science.aef2542",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef2542?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Fabrice Gaillard",
       "Luiz Pereira",
@@ -186369,9 +186369,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Fabrice Gaillard",
@@ -186465,8 +186465,8 @@
     "journal": "Science",
     "title_first_seen": "Dynamic multimodal cation-carbon interaction for efficient adiponitrile electrosynthesis",
     "current_title": "Dynamic multimodal cation-carbon interaction for efficient adiponitrile electrosynthesis",
-    "source_url": "https://doi.org/10.1126/science.aef5175",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef5175?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Wei Du",
       "Chun-Chieh Yu",
@@ -186500,9 +186500,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Wei Du",
@@ -186713,8 +186713,8 @@
     "journal": "Science",
     "title_first_seen": "Hierarchical crystalline organic-inorganic framework enabling high-modulus toughening in nacre",
     "current_title": "Hierarchical crystalline organic-inorganic framework enabling high-modulus toughening in nacre",
-    "source_url": "https://doi.org/10.1126/science.aeg1070",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Hang Chen",
       "Hao Yan",
@@ -186740,9 +186740,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Hang Chen",
@@ -186887,8 +186887,8 @@
     "journal": "Science",
     "title_first_seen": "Phage proteases activate CBASS antiphage immunity",
     "current_title": "Phage proteases activate CBASS antiphage immunity",
-    "source_url": "https://doi.org/10.1126/science.aeg3949",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Samuel J. Hobbs",
       "Philip J. Kranzusch"
@@ -186905,9 +186905,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Samuel J. Hobbs",
@@ -186960,8 +186960,8 @@
     "journal": "Science",
     "title_first_seen": "Ultrahigh piezoelectricity by polaron-defect complexes",
     "current_title": "Ultrahigh piezoelectricity by polaron-defect complexes",
-    "source_url": "https://doi.org/10.1126/science.aeg4972",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Liang Shu",
       "Guyang Peng",
@@ -187006,9 +187006,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Liang Shu",
@@ -187331,8 +187331,8 @@
     "journal": "Science",
     "title_first_seen": "Reframing menopause and menopause hormone therapy as opportunities for healthy aging",
     "current_title": "Reframing menopause and menopause hormone therapy as opportunities for healthy aging",
-    "source_url": "https://doi.org/10.1126/science.aeg5004",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Laura L. Gravelsins",
       "Mateja Perović",
@@ -187354,9 +187354,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Laura L. Gravelsins",
@@ -187451,8 +187451,8 @@
     "journal": "Science",
     "title_first_seen": "Precise length and charge segmentation of billion-dalton supramolecular polymers",
     "current_title": "Precise length and charge segmentation of billion-dalton supramolecular polymers",
-    "source_url": "https://doi.org/10.1126/science.aeg5583",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Michael D. Dore",
       "Madison Strong",
@@ -187477,9 +187477,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Michael D. Dore",
@@ -187603,8 +187603,8 @@
     "journal": "Science",
     "title_first_seen": "X and Y chromosomes as determinants of aging and disease",
     "current_title": "X and Y chromosomes as determinants of aging and disease",
-    "source_url": "https://doi.org/10.1126/science.aeh0145",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Dena B. Dubal",
       "Fabrisia Ambrosio",
@@ -187623,9 +187623,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Dena B. Dubal",
@@ -187700,8 +187700,8 @@
     "journal": "Science",
     "title_first_seen": "Stationary entanglement of a levitated oscillator with an optical field",
     "current_title": "Stationary entanglement of a levitated oscillator with an optical field",
-    "source_url": "https://doi.org/10.1126/science.aeh1375",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Q. Deplano",
       "A. Pontin",
@@ -187720,9 +187720,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Q. Deplano",
@@ -187792,8 +187792,8 @@
     "journal": "Science",
     "title_first_seen": "Shaping maternal physiology: Immune control of reproductive adaptation",
     "current_title": "Shaping maternal physiology: Immune control of reproductive adaptation",
-    "source_url": "https://doi.org/10.1126/science.aeh1405",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Dan Corral",
       "Yasmine Belkaid"
@@ -187810,9 +187810,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Dan Corral",
@@ -187861,8 +187861,8 @@
     "journal": "Science",
     "title_first_seen": "Sex-specific mechanisms of chronic pain",
     "current_title": "Sex-specific mechanisms of chronic pain",
-    "source_url": "https://doi.org/10.1126/science.aeh4468",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Archana Venkataraman",
       "Élora Midavaine",
@@ -187880,9 +187880,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Archana Venkataraman",
@@ -187939,8 +187939,8 @@
     "journal": "Science",
     "title_first_seen": "Does the postmenopausal ovary still matter?",
     "current_title": "Does the postmenopausal ovary still matter?",
-    "source_url": "https://doi.org/10.1126/science.aeh7496",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh7496?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Michael B. Stout",
       "Francesca E. Duncan"
@@ -187957,9 +187957,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Michael B. Stout",
@@ -188010,8 +188010,8 @@
     "journal": "Science",
     "title_first_seen": "Longevity products: Innovation through regulation",
     "current_title": "Longevity products: Innovation through regulation",
-    "source_url": "https://doi.org/10.1126/science.aei2427",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aei2427?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Camila Strassle",
       "Holly Fernandez Lynch",
@@ -188029,9 +188029,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Camila Strassle",
@@ -188087,9 +188087,9 @@
     "doi": "10.1126/science.aej3535",
     "journal": "Science",
     "title_first_seen": "Walden and the wild roots of conservation science The Walden Experiments: The Science of Henry David Thoreau Robert Thorson Princeton University Press, 2026. 328 pp.",
-    "current_title": "Walden and the wild roots of conservation science The Walden Experiments: The Science of Henry David Thoreau Robert Thorson Princeton University Press, 2026. 328 pp.",
-    "source_url": "https://doi.org/10.1126/science.aej3535",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "current_title": "Walden and the wild roots of conservation science",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aej3535?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Renée Bergland"
     ],
@@ -188105,9 +188105,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Renée Bergland",
@@ -188145,8 +188145,8 @@
     "journal": "Science",
     "title_first_seen": "Keep AI-augmented science contestable",
     "current_title": "Keep AI-augmented science contestable",
-    "source_url": "https://doi.org/10.1126/science.aek7949",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aek7949?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Christoph Trattner"
     ],
@@ -188162,9 +188162,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Christoph Trattner",
@@ -188202,8 +188202,8 @@
     "journal": "Science",
     "title_first_seen": "Epistemic justice in gene-editing research",
     "current_title": "Epistemic justice in gene-editing research",
-    "source_url": "https://doi.org/10.1126/science.aek9401",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aek9401?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Dong Dong",
       "Yiou Wang",
@@ -188221,9 +188221,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Dong Dong",
@@ -188287,8 +188287,8 @@
     "journal": "Science",
     "title_first_seen": "Recording results from single-patient trials",
     "current_title": "Recording results from single-patient trials",
-    "source_url": "https://doi.org/10.1126/science.aek9583",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aek9583?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Ge Zhang",
       "Honglin Zheng",
@@ -188308,9 +188308,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ge Zhang",
@@ -188388,8 +188388,8 @@
     "journal": "Science",
     "title_first_seen": "Streamlining oversight in gene-editing trials",
     "current_title": "Streamlining oversight in gene-editing trials",
-    "source_url": "https://doi.org/10.1126/science.ael0421",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael0421?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Xiaojie Li",
       "Ruishuang Liu"
@@ -188406,9 +188406,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Xiaojie Li",
@@ -188460,9 +188460,9 @@
     "doi": "10.1126/science.ael1175",
     "journal": "Science",
     "title_first_seen": "A medical mystery unfolds in middle America The Vanishing Family: Love, Fate, and the Quest to End Dementia Robert Kolker Doubleday, 2026. 368 pp.",
-    "current_title": "A medical mystery unfolds in middle America The Vanishing Family: Love, Fate, and the Quest to End Dementia Robert Kolker Doubleday, 2026. 368 pp.",
-    "source_url": "https://doi.org/10.1126/science.ael1175",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "current_title": "A medical mystery unfolds in middle America",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael1175?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Nancy Berlinger"
     ],
@@ -188478,9 +188478,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Nancy Berlinger",
@@ -188518,8 +188518,8 @@
     "journal": "Science",
     "title_first_seen": "The utilitarian temptation in gene editing",
     "current_title": "The utilitarian temptation in gene editing",
-    "source_url": "https://doi.org/10.1126/science.ael2357",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael2357?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Ruiping Fan"
     ],
@@ -188535,9 +188535,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Ruiping Fan",
@@ -188575,8 +188575,8 @@
     "journal": "Science",
     "title_first_seen": "Osteoarthritis as a vascular disease",
     "current_title": "Osteoarthritis as a vascular disease",
-    "source_url": "https://doi.org/10.1126/science.ael3784",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael3784?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Chunyi Wen",
       "Man Ting Au"
@@ -188593,9 +188593,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Chunyi Wen",
@@ -188641,8 +188641,8 @@
     "journal": "Science",
     "title_first_seen": "Self-assembling polymers work up some nerve",
     "current_title": "Self-assembling polymers work up some nerve",
-    "source_url": "https://doi.org/10.1126/science.ael4456",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael4456?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Sanjay Kumar"
     ],
@@ -188658,9 +188658,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sanjay Kumar",
@@ -188698,8 +188698,8 @@
     "journal": "Science",
     "title_first_seen": "A mitochondrial carrier turns on the heat",
     "current_title": "A mitochondrial carrier turns on the heat",
-    "source_url": "https://doi.org/10.1126/science.ael7271",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael7271?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Martin van der Laan"
     ],
@@ -188715,9 +188715,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Martin van der Laan",
@@ -188755,8 +188755,8 @@
     "journal": "Science",
     "title_first_seen": "A tumor suppressor shuts down a signal gradient",
     "current_title": "A tumor suppressor shuts down a signal gradient",
-    "source_url": "https://doi.org/10.1126/science.ael7341",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael7341?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Dan Engelman",
       "Cédric Blanpain"
@@ -188773,9 +188773,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Dan Engelman",
@@ -188823,8 +188823,8 @@
     "journal": "Science",
     "title_first_seen": "A Lifelong Focus on Women’s Health",
     "current_title": "A Lifelong Focus on Women’s Health",
-    "source_url": "https://doi.org/10.1126/science.aem4087",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4087?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Yevgeniya Nusinovich",
       "Sacha Vignieri",
@@ -188843,9 +188843,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Yevgeniya Nusinovich",
@@ -188895,8 +188895,8 @@
     "journal": "Science",
     "title_first_seen": "Editor’s Note on the Research Article “China’s solar expansion policy reduces bird diversity”",
     "current_title": "Editor’s Note on the Research Article “China’s solar expansion policy reduces bird diversity”",
-    "source_url": "https://doi.org/10.1126/science.aem4102",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4102?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "H. Holden Thorp"
     ],
@@ -188912,9 +188912,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "H. Holden Thorp",
@@ -188951,9 +188951,9 @@
     "doi": "10.1126/science.aem7112",
     "journal": "Science",
     "title_first_seen": "Erratum for the Research Article “Kinetics of dCas9 target search in Escherichia coli ”",
-    "current_title": "Erratum for the Research Article “Kinetics of dCas9 target search in Escherichia coli ”",
-    "source_url": "https://doi.org/10.1126/science.aem7112",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "current_title": "Erratum for the Research Article “Kinetics of dCas9 target search in Escherichia coli”",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem7112?af=R",
+    "rss_reported_time": "2026-10-01T15:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "",
@@ -188967,9 +188967,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -188994,8 +188994,8 @@
     "journal": "Science",
     "title_first_seen": "In Science Journals",
     "current_title": "In Science Journals",
-    "source_url": "https://doi.org/10.1126/science.aem8010",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8010?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Marc S. Lavine",
       "Jesse Smith",
@@ -189025,9 +189025,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Marc S. Lavine",
@@ -189143,8 +189143,8 @@
     "journal": "Science",
     "title_first_seen": "In Other Journals",
     "current_title": "In Other Journals",
-    "source_url": "https://doi.org/10.1126/science.aem8011",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8011?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Unnati Sonawala",
       "Di Jiang",
@@ -189166,9 +189166,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Unnati Sonawala",
@@ -189236,8 +189236,8 @@
     "journal": "Science",
     "title_first_seen": "Making the invisible visible",
     "current_title": "Making the invisible visible",
-    "source_url": "https://doi.org/10.1126/science.aem8012",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8012?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Alexandra Piotrowski-Daspit"
     ],
@@ -189253,9 +189253,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Alexandra Piotrowski-Daspit",
@@ -189293,8 +189293,8 @@
     "journal": "Science",
     "title_first_seen": "Shots on goal",
     "current_title": "Shots on goal",
-    "source_url": "https://doi.org/10.1126/science.aem8455",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8455?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Jon Cohen"
     ],
@@ -189310,9 +189310,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jon Cohen",
@@ -189350,8 +189350,8 @@
     "journal": "Science",
     "title_first_seen": "First glowing cuttlefish marks a genetic engineering milestone",
     "current_title": "First glowing cuttlefish marks a genetic engineering milestone",
-    "source_url": "https://doi.org/10.1126/science.aem8456",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8456?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Sara Reardon"
     ],
@@ -189367,9 +189367,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -189401,8 +189401,8 @@
     "journal": "Science",
     "title_first_seen": "Fed up with politicians not listening, a climate scientist runs for office",
     "current_title": "Fed up with politicians not listening, a climate scientist runs for office",
-    "source_url": "https://doi.org/10.1126/science.aem8457",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8457?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Daniel Grossman"
     ],
@@ -189418,9 +189418,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Grossman",
@@ -189452,8 +189452,8 @@
     "journal": "Science",
     "title_first_seen": "U.K. funder used ‘AI triage’ to reject grant proposals",
     "current_title": "U.K. funder used ‘AI triage’ to reject grant proposals",
-    "source_url": "https://doi.org/10.1126/science.aem8458",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8458?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Catherine Offord"
     ],
@@ -189469,9 +189469,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Catherine Offord",
@@ -189503,8 +189503,8 @@
     "journal": "Science",
     "title_first_seen": "Can an AI feel pain? It can at least act like it does",
     "current_title": "Can an AI feel pain? It can at least act like it does",
-    "source_url": "https://doi.org/10.1126/science.aem8459",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8459?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Tom Howarth"
     ],
@@ -189520,9 +189520,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Tom Howarth",
@@ -189554,8 +189554,8 @@
     "journal": "Science",
     "title_first_seen": "Oil wells could become mines for critical minerals",
     "current_title": "Oil wells could become mines for critical minerals",
-    "source_url": "https://doi.org/10.1126/science.aem8460",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8460?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Paul Voosen"
     ],
@@ -189571,9 +189571,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Paul Voosen",
@@ -189605,8 +189605,8 @@
     "journal": "Science",
     "title_first_seen": "Project will track Amazon biodiversity in real time",
     "current_title": "Project will track Amazon biodiversity in real time",
-    "source_url": "https://doi.org/10.1126/science.aem8461",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8461?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Warren Cornwall"
     ],
@@ -189622,9 +189622,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Warren Cornwall",
@@ -189656,8 +189656,8 @@
     "journal": "Science",
     "title_first_seen": "Space telescope will reopen view of far-infrared sky",
     "current_title": "Space telescope will reopen view of far-infrared sky",
-    "source_url": "https://doi.org/10.1126/science.aem8462",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8462?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Daniel Clery"
     ],
@@ -189673,9 +189673,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Clery",
@@ -189707,8 +189707,8 @@
     "journal": "Science",
     "title_first_seen": "Impending changes to U.S. human subject protections put ethicists on edge",
     "current_title": "Impending changes to U.S. human subject protections put ethicists on edge",
-    "source_url": "https://doi.org/10.1126/science.aem8463",
-    "rss_reported_time": "2026-10-01T08:00:00+08:00",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8463?af=R",
+    "rss_reported_time": "2026-10-01T14:00:21+08:00",
     "authors_rss": [
       "Sara Reardon"
     ],
@@ -189724,9 +189724,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
-    "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -189851,9 +189851,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -189886,9 +189886,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -189921,9 +189921,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [
       {
         "author": "Jeffrey Dennis Martin",
@@ -189963,9 +189963,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -189998,9 +189998,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-02T22:56:16+08:00",
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-02T22:56:16+08:00",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -190010,6 +190010,111 @@
     "scheduled_for": "2026-10-02T16:37:00+08:00",
     "triggered_at": "2026-10-02T22:56:16+08:00",
     "scheduler_delay_minutes": 379.3,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-03057-4": {
+    "doi": "10.1038/d41586-026-03057-4",
+    "journal": "Nature",
+    "title_first_seen": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
+    "current_title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
+    "source_url": "https://www.nature.com/articles/d41586-026-03057-4",
+    "rss_reported_time": "2026-10-02T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_absent_at": "2026-10-02T22:56:16+08:00",
+    "appearance_window_start": "2026-10-02T22:56:16+08:00",
+    "appearance_window_end": "2026-10-03T02:01:21+08:00",
+    "first_seen_run_id": "discover-2026-10-03T020121p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-02T20:43:00+08:00",
+    "triggered_at": "2026-10-03T02:01:21+08:00",
+    "scheduler_delay_minutes": 318.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-03145-5": {
+    "doi": "10.1038/d41586-026-03145-5",
+    "journal": "Nature",
+    "title_first_seen": "Nature has rights — it is time the world recognized them",
+    "current_title": "Nature has rights — it is time the world recognized them",
+    "source_url": "https://www.nature.com/articles/d41586-026-03145-5",
+    "rss_reported_time": "2026-10-02T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_absent_at": "2026-10-02T22:56:16+08:00",
+    "appearance_window_start": "2026-10-02T22:56:16+08:00",
+    "appearance_window_end": "2026-10-03T02:01:21+08:00",
+    "first_seen_run_id": "discover-2026-10-03T020121p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-02T20:43:00+08:00",
+    "triggered_at": "2026-10-03T02:01:21+08:00",
+    "scheduler_delay_minutes": 318.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-03133-9": {
+    "doi": "10.1038/d41586-026-03133-9",
+    "journal": "Nature",
+    "title_first_seen": "Can you name the women who have won a science Nobel prize?",
+    "current_title": "Can you name the women who have won a science Nobel prize?",
+    "source_url": "https://www.nature.com/articles/d41586-026-03133-9",
+    "rss_reported_time": "2026-10-02T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_absent_at": "2026-10-02T22:56:16+08:00",
+    "appearance_window_start": "2026-10-02T22:56:16+08:00",
+    "appearance_window_end": "2026-10-03T02:01:21+08:00",
+    "first_seen_run_id": "discover-2026-10-03T020121p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-03T02:01:21+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-03T02:01:21+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-02T20:43:00+08:00",
+    "triggered_at": "2026-10-03T02:01:21+08:00",
+    "scheduler_delay_minutes": 318.4,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
   }

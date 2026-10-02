@@ -1,18 +1,18 @@
 {
   "nature": {
-    "etag": "\"9ed9376105ca00322bb941e27cf78399\"",
+    "etag": "\"8a4287c0b2472694057e96d5ee907f51\"",
     "last_modified": null,
-    "feed_hash": "727ede32e6ec2176c155ae856a0598664e28996d1b4170a7b5d79f7938535b3a",
-    "last_success_at": "2026-10-02T22:56:16+08:00",
-    "last_checked_at": "2026-10-02T22:56:16+08:00",
+    "feed_hash": "0f861f583ac1c72714ca031738cfad904c6b9452503774ce4f8e15b91088692e",
+    "last_success_at": "2026-10-03T02:01:21+08:00",
+    "last_checked_at": "2026-10-03T02:01:21+08:00",
     "last_status": "success",
     "last_error": null
   },
   "science": {
-    "last_checked_at": "2026-10-02T22:56:16+08:00",
-    "last_status": "fallback_crossref",
-    "last_error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
-    "last_success_at": "2026-10-02T22:56:16+08:00",
+    "last_checked_at": "2026-10-03T02:01:21+08:00",
+    "last_status": "success",
+    "last_error": null,
+    "last_success_at": "2026-10-03T02:01:21+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
     "fallback_last_success_at": "2026-10-02T22:56:16+08:00",
@@ -20,14 +20,14 @@
     "fallback_query_mode": "created",
     "fallback_query_start": "2026-09-30",
     "etag": null,
-    "last_modified": "Mon, 31 Aug 2026 19:00:46 GMT",
-    "feed_hash": "1e6732d11f3871a733fe8c34bdc7bac7aca35ee108dd4a48d1c4a421cd5e6c3d"
+    "last_modified": "Thu, 01 Oct 2026 19:00:45 GMT",
+    "feed_hash": "f08464e0918b2053edf060c569744c85ff6d3e3e969b8fe180c45f613cfc86b9"
   },
   "cell": {
-    "last_checked_at": "2026-10-02T22:56:16+08:00",
-    "last_status": "fallback_crossref",
-    "last_error": "HTTP 403: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
-    "last_success_at": "2026-10-02T22:56:16+08:00",
+    "last_checked_at": "2026-10-03T02:01:21+08:00",
+    "last_status": "success",
+    "last_error": null,
+    "last_success_at": "2026-10-03T02:01:21+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
     "fallback_last_success_at": "2026-10-02T22:56:16+08:00",
