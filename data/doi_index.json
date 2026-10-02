@@ -177328,9 +177328,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Gabriela Prus",
@@ -183397,9 +183397,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Yixuan Chen",
@@ -183906,9 +183906,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Lingyan Shi",
@@ -183955,9 +183955,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Yin-Wei Kuo",
@@ -184016,9 +184016,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Courtney W. Stairs",
@@ -184071,9 +184071,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Vamsi K. Mootha",
@@ -184128,9 +184128,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Jonathan A. Stefely",
@@ -184365,9 +184365,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Minsoo Kim",
@@ -184566,9 +184566,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Michael Z. Chen",
@@ -184773,9 +184773,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Michelle Y. Fry",
@@ -185108,9 +185108,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Sanghyeon Kim",
@@ -185334,9 +185334,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Iuliia Karavaeva",
@@ -185960,9 +185960,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Mathew Domeier",
@@ -186045,9 +186045,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Qiwen Gan",
@@ -186154,9 +186154,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Su-Jin Kim",
@@ -186369,9 +186369,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Fabrice Gaillard",
@@ -186500,9 +186500,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Wei Du",
@@ -186740,9 +186740,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Hang Chen",
@@ -186905,9 +186905,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Samuel J. Hobbs",
@@ -187006,9 +187006,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Liang Shu",
@@ -187354,9 +187354,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Laura L. Gravelsins",
@@ -187477,9 +187477,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Michael D. Dore",
@@ -187623,9 +187623,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Dena B. Dubal",
@@ -187720,9 +187720,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Q. Deplano",
@@ -187810,9 +187810,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Dan Corral",
@@ -187880,9 +187880,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Archana Venkataraman",
@@ -187957,9 +187957,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Michael B. Stout",
@@ -188029,9 +188029,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Camila Strassle",
@@ -188105,9 +188105,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Renée Bergland",
@@ -188162,9 +188162,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Christoph Trattner",
@@ -188221,9 +188221,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Dong Dong",
@@ -188308,9 +188308,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Ge Zhang",
@@ -188406,9 +188406,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Xiaojie Li",
@@ -188478,9 +188478,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Nancy Berlinger",
@@ -188535,9 +188535,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Ruiping Fan",
@@ -188593,9 +188593,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Chunyi Wen",
@@ -188658,9 +188658,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Sanjay Kumar",
@@ -188715,9 +188715,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Martin van der Laan",
@@ -188773,9 +188773,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Dan Engelman",
@@ -188843,9 +188843,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Yevgeniya Nusinovich",
@@ -188912,9 +188912,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "H. Holden Thorp",
@@ -188967,9 +188967,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -189025,9 +189025,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Marc S. Lavine",
@@ -189166,9 +189166,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Unnati Sonawala",
@@ -189253,9 +189253,9 @@
     "enrichment_status": "crossref_only",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Alexandra Piotrowski-Daspit",
@@ -189310,9 +189310,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Jon Cohen",
@@ -189367,9 +189367,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -189418,9 +189418,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Grossman",
@@ -189469,9 +189469,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Catherine Offord",
@@ -189520,9 +189520,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Tom Howarth",
@@ -189571,9 +189571,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Paul Voosen",
@@ -189622,9 +189622,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Warren Cornwall",
@@ -189673,9 +189673,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Clery",
@@ -189724,9 +189724,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "Sara Reardon",
@@ -189777,9 +189777,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-02T14:57:36+08:00",
+    "last_seen_at": "2026-10-02T16:40:35+08:00",
     "last_seen_source": "crossref",
-    "last_updated_at": "2026-10-02T14:57:36+08:00",
+    "last_updated_at": "2026-10-02T16:40:35+08:00",
     "author_affiliations": [
       {
         "author": "R. M. Flowers",
