@@ -174102,13 +174102,15 @@
     "scheduler_delay_minutes": 501.4,
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-09-29T15:14:31+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-09-29",
-    "deep_analysis_reason": "基因编辑与递送主题高度相关；本次未稳定取得足够出版商正文支撑完整重点解读。",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-04T15:18:06+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-04",
+    "deep_analysis_reason": "本次日报已实际完成重点解读；Nature Technology Feature，基因编辑与递送主题高度相关，已取得出版商正文作为实质性证据。",
     "deep_analysis_priority_level": "P1",
     "first_formal_batch_id": "daily-2026-09-29",
-    "first_formal_batch_date": "2026-09-29"
+    "first_formal_batch_date": "2026-09-29",
+    "deep_analysis_completed_at": "2026-10-04T15:18:06+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-04"
   },
   "10.1038/d41586-026-02962-y": {
     "doi": "10.1038/d41586-026-02962-y",
