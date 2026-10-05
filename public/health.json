@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-05T14:56:02+08:00",
+  "generated_at": "2026-10-05T17:15:05+08:00",
   "status": "success_zero_new",
-  "latest_run_id": "discover-2026-10-05T145601p0800",
+  "latest_run_id": "discover-2026-10-05T171505p0800",
   "source_status": {
     "nature": "not_modified",
     "science": "success",
     "cell": "success"
   },
   "scheduler_delayed": true,
-  "scheduler_delay_minutes": 349.0,
+  "scheduler_delay_minutes": 412.1,
   "late_discovery_recovery": true,
   "doi_index_count": 1906,
   "pending_doi_count": 0,
