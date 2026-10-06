@@ -1,18 +1,18 @@
 {
   "science": {
-    "last_checked_at": "2026-10-05T10:23:33+08:00",
-    "last_success_at": "2026-10-05T10:23:33+08:00",
+    "last_checked_at": "2026-10-06T11:19:43+08:00",
+    "last_success_at": "2026-10-06T11:19:43+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-05 TO 2026-10-05]",
+    "last_query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-06 TO 2026-10-06]",
     "last_mode": "live"
   },
   "cell": {
-    "last_checked_at": "2026-10-05T10:23:33+08:00",
-    "last_success_at": "2026-10-05T10:23:33+08:00",
+    "last_checked_at": "2026-10-06T11:19:43+08:00",
+    "last_success_at": "2026-10-06T11:19:43+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-05 TO 2026-10-05]",
+    "last_query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-06 TO 2026-10-06]",
     "last_mode": "live"
   }
 }
