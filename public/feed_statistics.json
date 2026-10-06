@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T04:44:13+08:00",
+  "generated_at": "2026-10-06T10:20:49+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 331,
-      "successful_checks": 330,
+      "checks": 332,
+      "successful_checks": 331,
       "failed_checks": 1,
       "checks_with_new_items": 40,
       "total_new_items_observed": 100,
@@ -30,12 +30,12 @@
         "Saturday": 5,
         "Monday": 1
       },
-      "last_checked_at": "2026-10-06T04:44:12+08:00",
-      "last_success_at": "2026-10-06T04:44:12+08:00"
+      "last_checked_at": "2026-10-06T10:20:48+08:00",
+      "last_success_at": "2026-10-06T10:20:48+08:00"
     },
     "nature": {
-      "checks": 331,
-      "successful_checks": 331,
+      "checks": 332,
+      "successful_checks": 332,
       "failed_checks": 0,
       "checks_with_new_items": 123,
       "total_new_items_observed": 683,
@@ -71,12 +71,12 @@
         "Saturday": 13,
         "Sunday": 1
       },
-      "last_checked_at": "2026-10-06T04:44:12+08:00",
-      "last_success_at": "2026-10-06T04:44:12+08:00"
+      "last_checked_at": "2026-10-06T10:20:48+08:00",
+      "last_success_at": "2026-10-06T10:20:48+08:00"
     },
     "science": {
-      "checks": 331,
-      "successful_checks": 331,
+      "checks": 332,
+      "successful_checks": 332,
       "failed_checks": 0,
       "checks_with_new_items": 11,
       "total_new_items_observed": 312,
@@ -94,8 +94,8 @@
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-10-06T04:44:12+08:00",
-      "last_success_at": "2026-10-06T04:44:12+08:00"
+      "last_checked_at": "2026-10-06T10:20:48+08:00",
+      "last_success_at": "2026-10-06T10:20:48+08:00"
     }
   }
 }
