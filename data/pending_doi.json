@@ -265,6 +265,8 @@
     "appearance_window_start": "2026-10-06T11:19:43+08:00",
     "appearance_window_end": "2026-10-07T10:41:23+08:00",
     "last_seen_at": "2026-10-07T10:41:23+08:00",
-    "last_updated_at": "2026-10-07T10:41:23+08:00"
+    "last_updated_at": "2026-10-07T10:41:23+08:00",
+    "batch_id": "daily-2026-10-07",
+    "batched_at": "2026-10-07T15:10:51+08:00"
   }
 }
