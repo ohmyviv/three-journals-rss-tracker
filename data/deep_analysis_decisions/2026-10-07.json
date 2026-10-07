@@ -1,0 +1,89 @@
+{
+  "batch_id": "daily-2026-10-07",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02967-7",
+      "disposition": "completed",
+      "reason": "脑类器官移植与神经科学直接相关；已实际读取Nature正文，完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03136-6",
+      "disposition": "not_selected",
+      "reason": "无细胞蛋白表达与合成生物学高度相关且正文证据充分，但属于Technology Feature；本期非原创研究/非正式Review名额优先用于更直接的脑科学与肿瘤机制条目，不进入后续活跃队列。",
+      "priority_level": "P2"
+    },
+    {
+      "doi": "10.1038/d41586-026-02966-8",
+      "disposition": "completed",
+      "reason": "ecDNA与肿瘤治疗直接相关；已实际读取Nature正文，完成重点解读。",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-03185-x",
+      "disposition": "not_selected",
+      "reason": "Daily Briefing属于低信息量聚合内容，按文章类型规则不进入重点解读。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03150-8",
+      "disposition": "not_selected",
+      "reason": "流感季新闻虽与感染相关，但属于新闻类且本期非原创研究名额有限，投资与研究增量不足，不进入后续活跃队列。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03130-y",
+      "disposition": "not_selected",
+      "reason": "危机科学组织与科研政策评论，不属于优先生命科学原创研究或正式综述。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03092-1",
+      "disposition": "not_selected",
+      "reason": "宇宙中微子/物理学新闻，与生命科学和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02798-6",
+      "disposition": "not_selected",
+      "reason": "博士生留学流动报道，与生命科学研究和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02973-9",
+      "disposition": "not_selected",
+      "reason": "辐射计与热气球科研图片/器材类内容，与优先生命科学方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03095-y",
+      "disposition": "not_selected",
+      "reason": "中微子物理新闻，与生命科学和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11244-6",
+      "disposition": "not_selected",
+      "reason": "Author Correction，且主题为热化学脱氢，属于明确排除型文章。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03129-5",
+      "disposition": "not_selected",
+      "reason": "重子结/质子结构物理学内容，与生命科学和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03155-3",
+      "disposition": "not_selected",
+      "reason": "太阳系演化/天文学新闻，与生命科学和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03160-6",
+      "disposition": "not_selected",
+      "reason": "南极海冰/气候科学新闻，与生命科学和生物医药投资方向无直接关系。",
+      "priority_level": "P3"
+    }
+  ]
+}
