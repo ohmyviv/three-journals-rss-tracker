@@ -1,1 +1,270 @@
-{}
+{
+  "tmp:19044a8c67b92cdd2322bb51": {
+    "item_key": "tmp:19044a8c67b92cdd2322bb51",
+    "doi": null,
+    "journal": "Science",
+    "feed_id": "science",
+    "title": "Senescence-directed nanotherapy ameliorates fibrosis and overcomes immune exclusion in cancer",
+    "source_url": "https://europepmc.org/article/PMC/PMC13637827",
+    "rss_reported_time": "2026-09-24T08:00:00+08:00",
+    "authors_rss": [
+      "Hinterleitner C",
+      "Barthet V",
+      "Goldberg H",
+      "Vogt K",
+      "Perea A",
+      "Hillger L",
+      "Ruiz S",
+      "McHugh D",
+      "Ho Y",
+      "Chaves-Perez A",
+      "Skamagki M",
+      "Flowers S",
+      "Styers H",
+      "Rekhtman N",
+      "Zhuang X",
+      "Barretto G",
+      "Li X",
+      "Watson J",
+      "Luan W",
+      "Simon J",
+      "Tammela T",
+      "Gardner R",
+      "Rudin C",
+      "Romesser P",
+      "Bott M",
+      "Filliol A",
+      "Heller D",
+      "Lowe S"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Hinterleitner C",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Barthet V",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Goldberg H",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vogt K",
+        "affiliations": [
+          "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Perea A",
+        "affiliations": [
+          "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Hillger L",
+        "affiliations": [
+          "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ruiz S",
+        "affiliations": [
+          "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "McHugh D",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ho Y",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Chaves-Perez A",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Skamagki M",
+        "affiliations": [
+          "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York 10065, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Flowers S",
+        "affiliations": [
+          "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Styers H",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rekhtman N",
+        "affiliations": [
+          "Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Zhuang X",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Barretto G",
+        "affiliations": [
+          "Flow Cytometry Core Facility, Memorial Sloan Kettering Cancer Center, New York, NY, 10065 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Li X",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Watson J",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Luan W",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Simon J",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Tammela T",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gardner R",
+        "affiliations": [
+          "Flow Cytometry Core Facility, Memorial Sloan Kettering Cancer Center, New York, NY, 10065 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rudin C",
+        "affiliations": [
+          "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Romesser P",
+        "affiliations": [
+          "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bott M",
+        "affiliations": [
+          "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York 10065, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Filliol A",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Heller D",
+        "affiliations": [
+          "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Lowe S",
+        "affiliations": [
+          "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Cancer Biology and Genetics Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA",
+      "Molecular Pharmacology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA",
+      "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York 10065, USA.",
+      "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA",
+      "Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA",
+      "Flow Cytometry Core Facility, Memorial Sloan Kettering Cancer Center, New York, NY, 10065 USA",
+      "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-07T10:41:23+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:19044a8c67b92cdd2322bb51",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-10-07T104123p0800",
+    "last_absent_at": "2026-10-06T11:19:43+08:00",
+    "appearance_window_start": "2026-10-06T11:19:43+08:00",
+    "appearance_window_end": "2026-10-07T10:41:23+08:00",
+    "last_seen_at": "2026-10-07T10:41:23+08:00",
+    "last_updated_at": "2026-10-07T10:41:23+08:00"
+  }
+}
