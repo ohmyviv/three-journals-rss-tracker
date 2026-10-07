@@ -6470,5 +6470,43 @@
     "completed_in_batch_id": "daily-2026-10-02",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-10-07T13:56:03+08:00"
+  },
+  "10.1038/d41586-026-02967-7": {
+    "doi": "10.1038/d41586-026-02967-7",
+    "journal": "Nature",
+    "title": "Brain organoids grafted into cortex-free mice will advance human brain research",
+    "first_seen_at": "2026-10-06T23:24:32+08:00",
+    "queued_at": "2026-10-07T15:17:15+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-07T15:17:15+08:00",
+    "first_formal_batch_id": "daily-2026-10-07",
+    "first_formal_batch_date": "2026-10-07",
+    "source_url": "https://www.nature.com/articles/d41586-026-02967-7",
+    "completed_at": "2026-10-07T15:17:15+08:00",
+    "completed_in_batch_id": "daily-2026-10-07"
+  },
+  "10.1038/d41586-026-02966-8": {
+    "doi": "10.1038/d41586-026-02966-8",
+    "journal": "Nature",
+    "title": "Circular DNA exposes a weakness in cancer cells",
+    "first_seen_at": "2026-10-06T23:24:32+08:00",
+    "queued_at": "2026-10-07T15:17:15+08:00",
+    "priority_level": "P0",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-07T15:17:15+08:00",
+    "first_formal_batch_id": "daily-2026-10-07",
+    "first_formal_batch_date": "2026-10-07",
+    "source_url": "https://www.nature.com/articles/d41586-026-02966-8",
+    "completed_at": "2026-10-07T15:17:15+08:00",
+    "completed_in_batch_id": "daily-2026-10-07"
   }
 }
