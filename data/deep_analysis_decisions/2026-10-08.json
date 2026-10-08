@@ -1,0 +1,299 @@
+{
+  "batch_id": "daily-2026-10-08",
+  "decisions": [
+    {
+      "doi": "10.1038/s41586-026-11121-2",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：氧化还原信号与肠上皮屏障免疫的直接机制证据",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11085-3",
+      "disposition": "not_selected",
+      "reason": "纯宽禁带半导体及电力电子研究，与生命科学产业缺少直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11107-0",
+      "disposition": "not_selected",
+      "reason": "古生物演化研究，与本期生物医药投资问题缺少直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11073-7",
+      "disposition": "not_selected",
+      "reason": "纯磁性拓扑材料研究，不满足生命科学相关性门槛",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02999-z",
+      "disposition": "not_selected",
+      "reason": "Nature Index排名表格说明，非研究或有价值的生命科学深度分析",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11142-x",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：肠道菌群代谢物调节胆固醇及动脉粥样硬化的动物实验",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11122-1",
+      "disposition": "not_selected",
+      "reason": "核钟和量子计量研究，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11066-6",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：肺癌癌前免疫监测与PI3Kδ干预的转化研究",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11144-9",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：果蝇神经环路吸引子网络与目标记忆的实验研究",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11084-4",
+      "disposition": "not_selected",
+      "reason": "核钟物理研究，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11127-w",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：肺泡干细胞跨区域迁移及气道修复的谱系追踪证据",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03069-0",
+      "disposition": "not_selected",
+      "reason": "古生物新闻，非优先生命科学产业议题",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03184-y",
+      "disposition": "not_selected",
+      "reason": "澳洲火灾历史环境新闻，与生物医药研究无直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11097-z",
+      "disposition": "not_selected",
+      "reason": "山火生态历史研究，与用户重点研究方向无直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02864-z",
+      "disposition": "not_selected",
+      "reason": "低信息量单词标题/图片类内容，不具备重点解读价值",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03093-0",
+      "disposition": "not_selected",
+      "reason": "诺贝尔化学奖新闻，未提供直接生物医药研究或投资问题",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11116-z",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：古菌固氮酶复合体的冷冻电镜结构及调控机制",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03190-0",
+      "disposition": "not_selected",
+      "reason": "每日物理奖简讯，低相关且为排除型简报",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11125-y",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：人类心脏发育及21三体相关先天性心脏病的单细胞和空间组学",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11099-x",
+      "disposition": "not_selected",
+      "reason": "纯拓扑物理研究，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03072-5",
+      "disposition": "not_selected",
+      "reason": "相关免疫多组学研究的简短研究简报；属于既有原创论文的二次介绍，本期优先解读原始研究，未来无需单独积压此二次报道",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02969-5",
+      "disposition": "not_selected",
+      "reason": "与本批第32项原创肠道微生物演化研究重复的二次新闻，已解读原始论文",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02934-2",
+      "disposition": "not_selected",
+      "reason": "半导体晶体生长报道，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02836-3",
+      "disposition": "not_selected",
+      "reason": "实验室会议组织经验，职业建议类，缺少直接投资研究价值",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11114-1",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：保留组织驻留免疫细胞的人肺类器官与抗病毒T细胞应答",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10858-0",
+      "disposition": "not_selected",
+      "reason": "限域水氢键基础物理化学研究，缺少明确药物或生物制造连接",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11101-6",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：人类剪接体终止与RNA加工质量控制的结构机制",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03060-9",
+      "disposition": "not_selected",
+      "reason": "核钟科普新闻，非生命科学研究",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11067-5",
+      "disposition": "not_selected",
+      "reason": "纯拓扑相变物理研究，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11105-2",
+      "disposition": "not_selected",
+      "reason": "超重元素六羰基化合物核化学研究，缺少药物化学直接连接",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11038-w",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：多细胞生命演化机制的正式综述，关联细胞分化与合成生物学",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11106-1",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：肠道菌群与人类迁徙共演化的宏基因组证据",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11140-z",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：RNA催化动态构象及镁离子机制的结构生物学研究",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03059-2",
+      "disposition": "not_selected",
+      "reason": "通用大语言模型字符计数新闻，未展示直接生物医药连接",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11111-4",
+      "disposition": "not_selected",
+      "reason": "通用语言模型字节处理算法，未展示直接生命科学或药物研发应用",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03189-7",
+      "disposition": "not_selected",
+      "reason": "与本批第6项肠道菌群和动脉粥样硬化原创论文重复的新闻，已解读原始研究",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02968-6",
+      "disposition": "not_selected",
+      "reason": "半导体绝缘体领域报道，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11095-1",
+      "disposition": "not_selected",
+      "reason": "二维半导体成核研究，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11129-8",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：革兰阴性菌脂多糖转运结构及抗菌药靶点机制",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-02985-5",
+      "disposition": "not_selected",
+      "reason": "大流行防备的一般政策评论，缺少足够明确的直接生命科学投资决策价值",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02983-7",
+      "disposition": "not_selected",
+      "reason": "埃博拉疫情护理倡议评论，非原创研究且不具备本期直接投资决策价值",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11153-8",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：tRNA剂量与前列腺癌谱系可塑性及治疗耐药",
+      "priority_level": "P0"
+    },
+    {
+      "doi": "10.1038/d41586-026-03127-7",
+      "disposition": "completed",
+      "reason": "已在2026-10-08三刊简报中基于可核验的正式摘要/出版商正文完成重点解读：出版商实质正文支持的艾滋病防治、预防药物可及性及公共卫生投资专题",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03208-7",
+      "disposition": "not_selected",
+      "reason": "诺贝尔奖主题播客，属原则排除型低优先内容",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03196-8",
+      "disposition": "not_selected",
+      "reason": "数学预印本及AI学术争议新闻，缺少生物医药直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03197-7",
+      "disposition": "not_selected",
+      "reason": "月球任务数据新闻，缺少生命科学直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03198-6",
+      "disposition": "not_selected",
+      "reason": "通用超级智能概念评论，缺少AI生命科学直接应用",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03045-8",
+      "disposition": "not_selected",
+      "reason": "北极冻土碳排放与生态工程报道，缺少生物医药直接联系",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.047",
+      "disposition": "not_selected",
+      "reason": "实际复核历史积压条目：2026-09-30所对应的PubMed/Europe PMC记录publication_types为Published Erratum（勘误），并非题目所示原创研究论文；原始研究为2024年另一DOI，故不再作为可深度解读的活跃积压候选。",
+      "priority_level": "P3"
+    }
+  ]
+}
