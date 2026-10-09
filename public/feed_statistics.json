@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T03:00:19+08:00",
+  "generated_at": "2026-10-09T10:16:49+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 349,
-      "successful_checks": 348,
+      "checks": 350,
+      "successful_checks": 349,
       "failed_checks": 1,
       "checks_with_new_items": 40,
       "total_new_items_observed": 100,
@@ -30,15 +30,15 @@
         "Saturday": 5,
         "Monday": 1
       },
-      "last_checked_at": "2026-10-09T03:00:15+08:00",
-      "last_success_at": "2026-10-09T03:00:15+08:00"
+      "last_checked_at": "2026-10-09T10:16:42+08:00",
+      "last_success_at": "2026-10-09T10:16:42+08:00"
     },
     "nature": {
-      "checks": 349,
-      "successful_checks": 349,
+      "checks": 350,
+      "successful_checks": 350,
       "failed_checks": 0,
-      "checks_with_new_items": 135,
-      "total_new_items_observed": 760,
+      "checks_with_new_items": 136,
+      "total_new_items_observed": 762,
       "new_item_checks_by_hour": {
         "21:00-21:59": 22,
         "08:00-08:59": 19,
@@ -56,8 +56,8 @@
         "15:00-15:59": 4,
         "07:00-07:59": 3,
         "16:00-16:59": 3,
+        "10:00-10:59": 3,
         "18:00-18:59": 3,
-        "10:00-10:59": 2,
         "04:00-04:59": 2,
         "11:00-11:59": 1,
         "19:00-19:59": 1,
@@ -67,20 +67,20 @@
         "Wednesday": 29,
         "Thursday": 29,
         "Tuesday": 25,
-        "Friday": 24,
+        "Friday": 25,
         "Monday": 14,
         "Saturday": 13,
         "Sunday": 1
       },
-      "last_checked_at": "2026-10-09T03:00:15+08:00",
-      "last_success_at": "2026-10-09T03:00:15+08:00"
+      "last_checked_at": "2026-10-09T10:16:42+08:00",
+      "last_success_at": "2026-10-09T10:16:42+08:00"
     },
     "science": {
-      "checks": 349,
-      "successful_checks": 349,
+      "checks": 350,
+      "successful_checks": 350,
       "failed_checks": 0,
-      "checks_with_new_items": 11,
-      "total_new_items_observed": 312,
+      "checks_with_new_items": 12,
+      "total_new_items_observed": 346,
       "new_item_checks_by_hour": {
         "08:00-08:59": 5,
         "07:00-07:59": 1,
@@ -88,15 +88,16 @@
         "06:00-06:59": 1,
         "03:00-03:59": 1,
         "00:00-00:59": 1,
-        "09:00-09:59": 1
+        "09:00-09:59": 1,
+        "10:00-10:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Friday": 8,
+        "Friday": 9,
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-10-09T03:00:15+08:00",
-      "last_success_at": "2026-10-09T03:00:15+08:00"
+      "last_checked_at": "2026-10-09T10:16:42+08:00",
+      "last_success_at": "2026-10-09T10:16:42+08:00"
     }
   }
 }
