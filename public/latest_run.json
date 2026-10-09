@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-10-09T233152p0800",
+  "run_id": "discover-2026-10-10T023021p0800",
   "mode": "live",
-  "checked_at": "2026-10-09T23:31:52+08:00",
+  "checked_at": "2026-10-10T02:30:21+08:00",
   "timezone": "Asia/Shanghai",
   "status": "success_new_items",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "37 8 * * *",
-  "scheduled_for": "2026-10-09T16:37:00+08:00",
-  "triggered_at": "2026-10-09T23:31:52+08:00",
-  "scheduler_delay_minutes": 414.9,
+  "schedule_expression_utc": "43 12 * * *",
+  "scheduled_for": "2026-10-09T20:43:00+08:00",
+  "triggered_at": "2026-10-10T02:30:21+08:00",
+  "scheduler_delay_minutes": 347.4,
   "scheduler_delayed": true,
   "late_discovery_recovery": false,
   "intended_batch_date": null,
@@ -19,30 +19,26 @@
     "cell": "success"
   },
   "counts": {
-    "new_dois": 6,
+    "new_dois": 2,
     "new_pending_doi": 0,
     "seed_dois": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 127,
+    "duplicates": 131,
     "items_seen": 133,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0,
-    "china_team_lookup_attempted": 6,
+    "china_team_lookup_attempted": 2,
     "china_team_lookup_enriched": 0,
     "china_team_lookup_failed": 0,
-    "china_team_unknown": 6
+    "china_team_unknown": 2
   },
   "new_dois": [
-    "10.1038/d41586-026-03216-7",
-    "10.1038/d41586-026-03158-0",
-    "10.1038/d41586-026-03217-6",
-    "10.1038/d41586-026-02909-3",
-    "10.1038/s41586-026-11273-1",
-    "10.1038/d41586-026-03116-w"
+    "10.1038/d41586-026-03159-z",
+    "10.1038/d41586-026-03210-z"
   ],
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-10-09T23:31:55+08:00"
+  "completed_at": "2026-10-10T02:30:25+08:00"
 }
