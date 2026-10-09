@@ -1,0 +1,263 @@
+{
+  "batch_id": "daily-2026-10-09",
+  "decisions": [
+    {
+      "doi": "10.1038/s41586-026-11266-0",
+      "disposition": "not_selected",
+      "reason": "排除型文章类型（更正/关注声明/每日简报/文献聚合），无需进入未来重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03212-x",
+      "disposition": "not_selected",
+      "reason": "排除型文章类型（更正/关注声明/每日简报/文献聚合），无需进入未来重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/s41586-026-11070-w",
+      "disposition": "not_selected",
+      "reason": "排除型文章类型（更正/关注声明/每日简报/文献聚合），无需进入未来重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03199-5",
+      "disposition": "not_selected",
+      "reason": "与当天Science原创犬衰老论文主题重复，本次已直接解读原创研究，新闻报道无需重复入队。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03193-x",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-02921-7",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03218-5",
+      "disposition": "not_selected",
+      "reason": "女性健康/绝经相关非原创内容，虽相关但本次优先级低于具有机制与方法证据的原创研究，无需保留active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03215-8",
+      "disposition": "not_selected",
+      "reason": "感染/公共卫生新闻或评论，缺少作为重点解读所需的原创研究结构，且投资相关性有限。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1038/d41586-026-03128-6",
+      "disposition": "not_selected",
+      "reason": "AI/数学或科研流程主题，与生命科学、AI制药或生物医学数据平台缺少直接连接，不进入重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael6628",
+      "disposition": "not_selected",
+      "reason": "AI/数学或科研流程主题，与生命科学、AI制药或生物医学数据平台缺少直接连接，不进入重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael8339",
+      "disposition": "not_selected",
+      "reason": "AI/数学或科研流程主题，与生命科学、AI制药或生物医学数据平台缺少直接连接，不进入重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aej2213",
+      "disposition": "not_selected",
+      "reason": "AI/数学或科研流程主题，与生命科学、AI制药或生物医学数据平台缺少直接连接，不进入重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0169",
+      "disposition": "not_selected",
+      "reason": "AI/数学或科研流程主题，与生命科学、AI制药或生物医学数据平台缺少直接连接，不进入重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aef3001",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.ael7318",
+      "disposition": "not_selected",
+      "reason": "免疫学评论/观点，与当天已完成的疫苗-微生物组原创研究主题重叠，边际信息价值不足。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael3115",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aeh7034",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aem1978",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael8349",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael8752",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aeb2986",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.adx9628",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.aei1312",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0167",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aem9877",
+      "disposition": "not_selected",
+      "reason": "排除型文章类型（更正/关注声明/每日简报/文献聚合），无需进入未来重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aem9876",
+      "disposition": "not_selected",
+      "reason": "排除型文章类型（更正/关注声明/每日简报/文献聚合），无需进入未来重点解读队列。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aef2931",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.adx4170",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aec7662",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aei0940",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0165",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0166",
+      "disposition": "not_selected",
+      "reason": "女性健康/绝经相关非原创内容，虽相关但本次优先级低于具有机制与方法证据的原创研究，无需保留active backlog。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aef7249",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael4936",
+      "disposition": "not_selected",
+      "reason": "感染/公共卫生新闻或评论，缺少作为重点解读所需的原创研究结构，且投资相关性有限。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aem9878",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.ael7880",
+      "disposition": "not_selected",
+      "reason": "为与当天已完成的羽扇豆生物碱原创研究配套的评论性内容，无需重复入队。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0163",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aei5520",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.aea7733",
+      "disposition": "completed",
+      "reason": "本次已取得足以支持研究问题、核心方法和关键结论的出版商正文或PubMed正式摘要，并完成重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1126/science.aeb4554",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aeh3915",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0168",
+      "disposition": "not_selected",
+      "reason": "主题属于物理、材料、地学、人口/社会科学或一般环境议题，与本任务重点投资方向缺少直接连接。",
+      "priority_level": "untriaged"
+    },
+    {
+      "doi": "10.1126/science.aen0164",
+      "disposition": "not_selected",
+      "reason": "经逐项审阅，文章类型、主题相关性或投资价值未达到未来重点解读队列门槛。",
+      "priority_level": "untriaged"
+    }
+  ]
+}
