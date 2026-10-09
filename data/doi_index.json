@@ -27588,9 +27588,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "pmid": "42492507",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42492507",
@@ -31470,9 +31470,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "pmid": "42486083",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42486083",
@@ -33436,9 +33436,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "pmid": "42468524",
     "europe_pmc_source": "MED",
     "europe_pmc_id": "42468524",
@@ -36444,9 +36444,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-07-30",
     "batched_at": "2026-07-30T12:41:30+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "scheduled_for": "2026-07-30T06:30:00+08:00",
     "triggered_at": "2026-07-30T07:30:01+08:00",
     "scheduler_delay_minutes": 60.0,
@@ -44310,9 +44310,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-04",
     "batched_at": "2026-08-04T12:49:09+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "scheduled_for": "2026-08-04T06:30:00+08:00",
     "triggered_at": "2026-08-04T07:35:17+08:00",
     "scheduler_delay_minutes": 65.3,
@@ -55755,9 +55755,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-11",
     "batched_at": "2026-08-11T11:23:49+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "scheduled_for": "2026-08-11T06:30:00+08:00",
     "triggered_at": "2026-08-11T07:07:16+08:00",
     "scheduler_delay_minutes": 37.3,
@@ -57991,9 +57991,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-12",
     "batched_at": "2026-08-12T11:52:05+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "scheduled_for": "2026-08-12T06:30:00+08:00",
     "triggered_at": "2026-08-12T07:12:51+08:00",
     "scheduler_delay_minutes": 42.9,
@@ -70922,9 +70922,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Wang Y",
@@ -82882,9 +82882,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-25",
     "batched_at": "2026-08-25T13:06:01+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Tsukada K",
@@ -87754,9 +87754,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-28",
     "batched_at": "2026-08-28T22:26:08+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Cole JE",
@@ -96282,9 +96282,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-01",
     "batched_at": "2026-09-01T14:13:15+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Gowrishankar R",
@@ -97141,9 +97141,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Najia MA",
@@ -97328,9 +97328,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Linville RM",
@@ -121898,9 +121898,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-04",
     "batched_at": "2026-09-04T13:48:40+08:00",
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Marsh BP",
@@ -154912,8 +154912,8 @@
     "doi": "10.1016/j.cell.2026.08.003",
     "journal": "Cell",
     "title_first_seen": "Oligodendrocytes in central nervous system health and disease",
-    "current_title": "Oligodendrocytes in central nervous system health and disease.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.003",
+    "current_title": "Oligodendrocytes in central nervous system health and disease",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00930-X?rss=yes",
     "rss_reported_time": "2026-09-18T08:00:00+08:00",
     "authors_rss": [
       "Lucy J. Ryan",
@@ -154931,9 +154931,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-19",
     "batched_at": "2026-09-19T13:47:11+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Ryan LJ",
@@ -156733,8 +156733,8 @@
     "doi": "10.1016/j.cell.2026.08.043",
     "journal": "Cell",
     "title_first_seen": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
-    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.043",
+    "current_title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01016-0?rss=yes",
     "rss_reported_time": "2026-09-22T08:00:00+08:00",
     "authors_rss": [
       "H. Beryl Rappaport",
@@ -156772,9 +156772,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-23",
     "batched_at": "2026-09-23T13:53:56+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Rappaport HB",
@@ -184095,8 +184095,8 @@
     "doi": "10.1016/j.cell.2026.09.002",
     "journal": "Cell",
     "title_first_seen": "Glioma margins gain a third dimension before surgery ends",
-    "current_title": "Glioma margins gain a third dimension before surgery ends.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.002",
+    "current_title": "Glioma margins gain a third dimension before surgery ends",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01071-8?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184111,9 +184111,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Shi L",
@@ -184169,8 +184169,8 @@
     "doi": "10.1016/j.cell.2026.09.006",
     "journal": "Cell",
     "title_first_seen": "Taking the heat: Breaking the temperature limits of eukaryotic life",
-    "current_title": "Taking the heat: Breaking the temperature limits of eukaryotic life.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.006",
+    "current_title": "Taking the heat: Breaking the temperature limits of eukaryotic life",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01075-5?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184185,9 +184185,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Kuo YW",
@@ -184261,8 +184261,8 @@
     "doi": "10.1016/j.cell.2026.09.003",
     "journal": "Cell",
     "title_first_seen": "Mitochondria before we knew them",
-    "current_title": "Mitochondria before we knew them.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.003",
+    "current_title": "Mitochondria before we knew them",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01072-X?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184277,9 +184277,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Stairs CW",
@@ -184344,8 +184344,8 @@
     "doi": "10.1016/j.cell.2026.09.007",
     "journal": "Cell",
     "title_first_seen": "Decoding mitochondrial proteomes of diverse eukaryotes",
-    "current_title": "Decoding mitochondrial proteomes of diverse eukaryotes.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.09.007",
+    "current_title": "Decoding mitochondrial proteomes of diverse eukaryotes",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01076-7?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184360,9 +184360,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Mootha VK",
@@ -184429,8 +184429,8 @@
     "doi": "10.1016/j.cell.2026.08.056",
     "journal": "Cell",
     "title_first_seen": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
-    "current_title": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.056",
+    "current_title": "Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01067-6?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184445,9 +184445,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Stefely JA",
@@ -184658,8 +184658,8 @@
     "doi": "10.1016/j.cell.2026.08.027",
     "journal": "Cell",
     "title_first_seen": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
-    "current_title": "A high-confidence plant mitochondrial proteome via protein correlation profiling.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.027",
+    "current_title": "A high-confidence plant mitochondrial proteome via protein correlation profiling",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01000-7?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184674,9 +184674,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Kim M",
@@ -184776,8 +184776,8 @@
     "doi": "10.1016/j.cell.2026.08.029",
     "journal": "Cell",
     "title_first_seen": "Comparative analysis of mitochondrial proteomes across the tree of life",
-    "current_title": "Comparative analysis of mitochondrial proteomes across the tree of life.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.029",
+    "current_title": "Comparative analysis of mitochondrial proteomes across the tree of life",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01002-0?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184792,9 +184792,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Chen MZ",
@@ -184888,8 +184888,8 @@
     "doi": "10.1016/j.cell.2026.08.057",
     "journal": "Cell",
     "title_first_seen": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
-    "current_title": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS.",
-    "source_url": "https://doi.org/10.1016/j.cell.2026.08.057",
+    "current_title": "Acanthamoeba ATP synthase structure reveals the TCA cycle is tethered to OXPHOS",
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01068-8?rss=yes",
     "rss_reported_time": "2026-10-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
@@ -184904,9 +184904,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-02",
     "batched_at": "2026-10-02T14:57:58+08:00",
-    "last_seen_at": "2026-10-09T11:04:10+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-09T11:04:10+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Fry MY",
@@ -195374,9 +195374,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Javier A. Birchenall",
@@ -195424,9 +195424,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Sho Aki",
@@ -195677,9 +195677,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Kelsey E. Huus",
@@ -196028,9 +196028,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Blaise L. Mariner",
@@ -196414,9 +196414,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jason J. Yoo",
@@ -196719,9 +196719,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Cole Shanks",
@@ -196880,9 +196880,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "A. F. Flinders",
@@ -197329,9 +197329,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Yi Zhou",
@@ -197419,9 +197419,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Wenhao Tan",
@@ -197681,9 +197681,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Simon J. Evered",
@@ -197825,9 +197825,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "George Tsoukalas",
@@ -198037,9 +198037,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Davide Mancinotti",
@@ -198136,9 +198136,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jiarui Liu",
@@ -198386,9 +198386,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Bryce G. Inman",
@@ -198454,9 +198454,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Hamid Khazaei",
@@ -198504,9 +198504,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Priscilla N. Kelly",
@@ -198584,9 +198584,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Aryeh Feinberg",
@@ -198642,9 +198642,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Bali Pulendran",
@@ -198692,9 +198692,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Zhouqian Jiang",
@@ -198750,9 +198750,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jeremy Avigad",
@@ -198809,9 +198809,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jiangwei Zhu",
@@ -198907,9 +198907,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Zhiping Zhang",
@@ -198979,9 +198979,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jingxuan Zhou",
@@ -199044,9 +199044,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Daniel Garisto",
@@ -199088,9 +199088,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Richard Stone",
@@ -199132,9 +199132,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jennie Erin Smith",
@@ -199176,9 +199176,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Tim Appenzeller",
@@ -199220,9 +199220,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Andrew Curry",
@@ -199264,9 +199264,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Celina Zhao",
@@ -199308,9 +199308,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Robin George Andrews",
@@ -199358,9 +199358,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Emily Riehl",
@@ -199408,9 +199408,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Julia Lane",
@@ -199467,9 +199467,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Alp Sungu",
@@ -199535,9 +199535,9 @@
     "enrichment_status": "crossref_enriched",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-09T10:16:42+08:00",
+    "last_seen_at": "2026-10-09T15:19:49+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-09T10:16:42+08:00",
+    "last_updated_at": "2026-10-09T15:19:49+08:00",
     "author_affiliations": [
       {
         "author": "Jesse Smith",
