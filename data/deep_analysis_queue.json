@@ -6904,5 +6904,43 @@
     "completed_in_batch_id": "daily-2026-10-09",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-10-10T13:49:04+08:00"
+  },
+  "10.1038/d41586-026-03159-z": {
+    "doi": "10.1038/d41586-026-03159-z",
+    "journal": "Nature",
+    "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "first_seen_at": "2026-10-10T02:30:21+08:00",
+    "queued_at": "2026-10-10T15:12:54+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-10T15:12:54+08:00",
+    "first_formal_batch_id": "daily-2026-10-10",
+    "first_formal_batch_date": "2026-10-10",
+    "source_url": "https://www.nature.com/articles/d41586-026-03159-z",
+    "completed_at": "2026-10-10T15:12:54+08:00",
+    "completed_in_batch_id": "daily-2026-10-10"
+  },
+  "10.1038/d41586-026-03210-z": {
+    "doi": "10.1038/d41586-026-03210-z",
+    "journal": "Nature",
+    "title": "Watch this invisible tattoo appear under UV light",
+    "first_seen_at": "2026-10-10T02:30:21+08:00",
+    "queued_at": "2026-10-10T15:12:54+08:00",
+    "priority_level": "P2",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-10T15:12:54+08:00",
+    "first_formal_batch_id": "daily-2026-10-10",
+    "first_formal_batch_date": "2026-10-10",
+    "source_url": "https://www.nature.com/articles/d41586-026-03210-z",
+    "completed_at": "2026-10-10T15:12:54+08:00",
+    "completed_in_batch_id": "daily-2026-10-10"
   }
 }

@@ -199996,7 +199996,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "虚假学术团体问题属于科研诚信简讯，非原创研究或正式综述，与本期生命科学投资主题缺少直接联系。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03158-0": {
     "doi": "10.1038/d41586-026-03158-0",
@@ -200031,7 +200036,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "虽与脑衰老相关，但该条是对灵长类脑重量观察研究的短篇Research Highlight；原始论文摘要显示关联性描述，缺少直接的药物靶点、转化路径或足够高的投资价值，不保留未来重点解读队列。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03217-6": {
     "doi": "10.1038/d41586-026-03217-6",
@@ -200073,7 +200083,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "书评汇编，属于明确排除的低优先级文章类型。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-02909-3": {
     "doi": "10.1038/d41586-026-02909-3",
@@ -200115,7 +200130,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "亚马孙雨林二氧化碳实验图集属于环境科学摄影特写，缺乏与生命科学及生物医药投资的直接联系。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/s41586-026-11273-1": {
     "doi": "10.1038/s41586-026-11273-1",
@@ -200307,7 +200327,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "出版商更正而非新的原创研究，原则上不进入重点解读队列。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03116-w": {
     "doi": "10.1038/d41586-026-03116-w",
@@ -200349,7 +200374,12 @@
     "triggered_at": "2026-10-09T23:31:52+08:00",
     "scheduler_delay_minutes": 414.9,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "文学/创作性文章，非原创生命科学研究或正式综述。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03159-z": {
     "doi": "10.1038/d41586-026-03159-z",
@@ -200384,7 +200414,14 @@
     "triggered_at": "2026-10-10T02:30:21+08:00",
     "scheduler_delay_minutes": 347.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "本次依据Nature Research Highlight正文和其引用的Cell Reports Medicine原创研究正式PubMed摘要（DOI 10.1016/j.xcrm.2026.103090）完成Nav1.8/Ankyrin-3互作及神经病理性疼痛治疗方向的实质性重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-10"
   },
   "10.1038/d41586-026-03210-z": {
     "doi": "10.1038/d41586-026-03210-z",
@@ -200426,6 +200463,13 @@
     "triggered_at": "2026-10-10T02:30:21+08:00",
     "scheduler_delay_minutes": 347.4,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-10",
+    "deep_analysis_reason": "本次实际读取Nature新闻出版商正文，涵盖光致变色墨水材料、猪皮及硅胶皮肤测试、紫外线显色和可见光消色机制、放疗标记应用及验证局限，完成医疗标记材料方向重点解读。",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-10-10T15:12:54+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-10"
   }
 }
