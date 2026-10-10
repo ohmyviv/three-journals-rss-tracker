@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-10-09T110410p0800",
-  "checked_at": "2026-10-09T11:04:10+08:00",
+  "run_id": "europe-pmc-2026-10-10T104512p0800",
+  "checked_at": "2026-10-10T10:45:12+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-10-09T07:41:00+08:00",
-  "triggered_at": "2026-10-09T11:04:10+08:00",
-  "scheduler_delay_minutes": 203.2,
+  "scheduled_for": "2026-10-10T07:41:00+08:00",
+  "triggered_at": "2026-10-10T10:45:12+08:00",
+  "scheduler_delay_minutes": 184.2,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 204,
+    "items_seen": 203,
     "new_dois": 0,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 204,
-    "records_enriched": 2,
+    "duplicates": 203,
+    "records_enriched": 0,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
@@ -28,34 +28,34 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-09 TO 2026-10-09]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-10 TO 2026-10-10]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.136,
+      "duration_seconds": 2.187,
       "pages": 1,
       "items_returned": 159,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
       "duplicates": 159,
-      "records_enriched": 2
+      "records_enriched": 0
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-09 TO 2026-10-09]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-10 TO 2026-10-10]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 0.887,
+      "duration_seconds": 0.891,
       "pages": 1,
-      "items_returned": 45,
+      "items_returned": 44,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 45,
+      "duplicates": 44,
       "records_enriched": 0
     }
   },
-  "completed_at": "2026-10-09T11:04:12+08:00"
+  "completed_at": "2026-10-10T10:45:15+08:00"
 }
