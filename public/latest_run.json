@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0",
-  "run_id": "discover-2026-10-10T174435p0800",
+  "run_id": "discover-2026-10-10T223935p0800",
   "mode": "live",
-  "checked_at": "2026-10-10T17:44:35+08:00",
+  "checked_at": "2026-10-10T22:39:35+08:00",
   "timezone": "Asia/Shanghai",
   "status": "success_zero_new",
   "trigger_type": "schedule",
-  "schedule_expression_utc": "7 3 * * *",
-  "scheduled_for": "2026-10-10T11:07:00+08:00",
-  "triggered_at": "2026-10-10T17:44:35+08:00",
-  "scheduler_delay_minutes": 397.6,
+  "schedule_expression_utc": "37 8 * * *",
+  "scheduled_for": "2026-10-10T16:37:00+08:00",
+  "triggered_at": "2026-10-10T22:39:35+08:00",
+  "scheduler_delay_minutes": 362.6,
   "scheduler_delayed": true,
-  "late_discovery_recovery": true,
-  "intended_batch_date": "2026-10-10",
+  "late_discovery_recovery": false,
+  "intended_batch_date": null,
   "source_status": {
     "nature": "not_modified",
     "science": "success",
@@ -37,5 +37,5 @@
   "new_pending_keys": [],
   "seed_dois": [],
   "seed_pending_keys": [],
-  "completed_at": "2026-10-10T17:44:35+08:00"
+  "completed_at": "2026-10-10T22:39:35+08:00"
 }
