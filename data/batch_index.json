@@ -1169,15 +1169,15 @@
   "daily-2026-10-13": {
     "batch_id": "daily-2026-10-13",
     "date": "2026-10-13",
-    "generated_at": "2026-10-13T17:34:28+08:00",
+    "generated_at": "2026-10-13T18:27:50+08:00",
     "status": "success_new_items",
     "flags": [
       "scheduler_delayed",
       "late_discovery_recovery"
     ],
-    "new_doi_count": 10,
+    "new_doi_count": 17,
     "new_missing_doi_count": 0,
-    "late_recovery_doi_count": 1,
+    "late_recovery_doi_count": 8,
     "cross_day_carryover_doi_count": 0,
     "cross_day_carryover_missing_doi_count": 0,
     "path": "public/batches/2026-10-13.json"
