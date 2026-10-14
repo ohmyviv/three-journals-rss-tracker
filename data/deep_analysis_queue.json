@@ -6942,5 +6942,43 @@
     "source_url": "https://www.nature.com/articles/d41586-026-03210-z",
     "completed_at": "2026-10-10T15:12:54+08:00",
     "completed_in_batch_id": "daily-2026-10-10"
+  },
+  "10.1038/d41586-026-03252-3": {
+    "doi": "10.1038/d41586-026-03252-3",
+    "journal": "Nature",
+    "title": "Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression",
+    "first_seen_at": "2026-10-14T09:16:44+08:00",
+    "queued_at": "2026-10-14T15:14:40+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-14T15:14:40+08:00",
+    "first_formal_batch_id": "daily-2026-10-14",
+    "first_formal_batch_date": "2026-10-14",
+    "source_url": "https://www.nature.com/articles/d41586-026-03252-3",
+    "completed_at": "2026-10-14T15:14:40+08:00",
+    "completed_in_batch_id": "daily-2026-10-14"
+  },
+  "10.1038/d41586-026-03222-9": {
+    "doi": "10.1038/d41586-026-03222-9",
+    "journal": "Nature",
+    "title": "China’s extraordinary rise in science and how it will change the world",
+    "first_seen_at": "2026-10-14T14:04:37+08:00",
+    "queued_at": "2026-10-14T15:14:40+08:00",
+    "priority_level": "P1",
+    "priority_score": null,
+    "queue_reason": [],
+    "analysis_status": "completed",
+    "target_complete_by": null,
+    "defer_count": 0,
+    "last_reviewed_at": "2026-10-14T15:14:40+08:00",
+    "first_formal_batch_id": "daily-2026-10-14",
+    "first_formal_batch_date": "2026-10-14",
+    "source_url": "https://www.nature.com/articles/d41586-026-03222-9",
+    "completed_at": "2026-10-14T15:14:40+08:00",
+    "completed_in_batch_id": "daily-2026-10-14"
   }
 }
