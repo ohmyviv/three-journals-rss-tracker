@@ -1,0 +1,89 @@
+{
+  "batch_id": "daily-2026-10-14",
+  "decisions": [
+    {
+      "doi": "10.1038/d41586-026-02974-8",
+      "disposition": "not_selected",
+      "reason": "《自然》历史档案趣闻，非原创生命科学研究，缺乏当前转化医学或投资判断价值。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-02668-1",
+      "disposition": "not_selected",
+      "reason": "科研职业建议专栏，属于明确排除的职业类文章，与生物医药投资研究无直接联系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11257-1",
+      "disposition": "not_selected",
+      "reason": "原创凝聚态物理与量子材料自旋测量研究，未发现与生命科学、医疗诊断或生物医药产业的直接连接。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03220-x",
+      "disposition": "not_selected",
+      "reason": "诺贝尔奖提名多样性社论，缺乏生物医药技术、临床或投资层面的直接研究价值。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03153-5",
+      "disposition": "not_selected",
+      "reason": "人工智能学术会议投稿限制的科研生态报道，非生命科学或生物医药应用研究。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03247-0",
+      "disposition": "not_selected",
+      "reason": "识别人工智能生成学术构想的通用科研工具报道，未提供与生物医学科研或药物开发直接相关的验证。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11255-3",
+      "disposition": "not_selected",
+      "reason": "聚乙烯表面选择性催化氧化的高分子材料研究，虽有正式摘要，但未证实与生物制造、药物化学、诊断或医疗器械直接相关。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03226-5",
+      "disposition": "not_selected",
+      "reason": "科研人员工作满意度职业特写，非生命科学技术或生物医药投资重点研究对象。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03221-w",
+      "disposition": "not_selected",
+      "reason": "大学举报人保护的观点文章，缺乏生命科学、临床开发或相关投资方向的直接联系。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11246-4",
+      "disposition": "not_selected",
+      "reason": "作者更正，非新研究，未见对帕金森病投资判断具有重大直接影响的证据。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03252-3",
+      "disposition": "completed",
+      "reason": "本期已依据《自然》出版商新闻正文及其引用的随机临床试验实质性证据完成GLP-1药物神经精神适应症重点解读。",
+      "priority_level": "P1"
+    },
+    {
+      "doi": "10.1038/d41586-026-03236-3",
+      "disposition": "not_selected",
+      "reason": "中世纪铅暴露的考古研究亮点，未显示对当前诊断、药物开发或生物医药投资具有直接应用价值。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03223-8",
+      "disposition": "not_selected",
+      "reason": "中国通用人工智能研究人才和算力生态特写，缺乏与生命科学、AI制药或生物医学平台的明确直接连接。",
+      "priority_level": "P3"
+    },
+    {
+      "doi": "10.1038/d41586-026-03222-9",
+      "disposition": "completed",
+      "reason": "本期已依据《自然》完整新闻特写正文、研发支出比较、合成生物学和生物医药政策及临床监管内容完成与生物医药投资直接相关的重点解读。",
+      "priority_level": "P1"
+    }
+  ]
+}
