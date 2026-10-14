@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T09:16:46+08:00",
+  "generated_at": "2026-10-14T14:04:39+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 380,
-      "successful_checks": 379,
+      "checks": 381,
+      "successful_checks": 380,
       "failed_checks": 1,
       "checks_with_new_items": 40,
       "total_new_items_observed": 100,
@@ -30,15 +30,15 @@
         "Saturday": 5,
         "Monday": 1
       },
-      "last_checked_at": "2026-10-14T09:16:44+08:00",
-      "last_success_at": "2026-10-14T09:16:44+08:00"
+      "last_checked_at": "2026-10-14T14:04:37+08:00",
+      "last_success_at": "2026-10-14T14:04:37+08:00"
     },
     "nature": {
-      "checks": 380,
-      "successful_checks": 380,
+      "checks": 381,
+      "successful_checks": 381,
       "failed_checks": 0,
-      "checks_with_new_items": 146,
-      "total_new_items_observed": 801,
+      "checks_with_new_items": 147,
+      "total_new_items_observed": 803,
       "new_item_checks_by_hour": {
         "21:00-21:59": 22,
         "08:00-08:59": 19,
@@ -59,13 +59,13 @@
         "16:00-16:59": 3,
         "10:00-10:59": 3,
         "04:00-04:59": 2,
+        "14:00-14:59": 2,
         "11:00-11:59": 1,
         "19:00-19:59": 1,
-        "14:00-14:59": 1,
         "05:00-05:59": 1
       },
       "new_item_checks_by_weekday": {
-        "Wednesday": 32,
+        "Wednesday": 33,
         "Tuesday": 29,
         "Thursday": 29,
         "Friday": 26,
@@ -73,12 +73,12 @@
         "Saturday": 14,
         "Sunday": 1
       },
-      "last_checked_at": "2026-10-14T09:16:44+08:00",
-      "last_success_at": "2026-10-14T09:16:44+08:00"
+      "last_checked_at": "2026-10-14T14:04:37+08:00",
+      "last_success_at": "2026-10-14T14:04:37+08:00"
     },
     "science": {
-      "checks": 380,
-      "successful_checks": 380,
+      "checks": 381,
+      "successful_checks": 381,
       "failed_checks": 0,
       "checks_with_new_items": 12,
       "total_new_items_observed": 346,
@@ -97,8 +97,8 @@
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-10-14T09:16:44+08:00",
-      "last_success_at": "2026-10-14T09:16:44+08:00"
+      "last_checked_at": "2026-10-14T14:04:37+08:00",
+      "last_success_at": "2026-10-14T14:04:37+08:00"
     }
   }
 }
