@@ -204202,7 +204202,12 @@
     "triggered_at": "2026-10-15T21:39:19+08:00",
     "scheduler_delay_minutes": 302.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "四则科学正面新闻聚合，非原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03194-w": {
     "doi": "10.1038/d41586-026-03194-w",
@@ -204237,7 +204242,12 @@
     "triggered_at": "2026-10-15T21:39:19+08:00",
     "scheduler_delay_minutes": 302.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "预印本平台限制投稿的政策新闻，与生命科学产业研究直接相关性不足",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03322-6": {
     "doi": "10.1038/d41586-026-03322-6",
@@ -204272,7 +204282,12 @@
     "triggered_at": "2026-10-15T21:39:19+08:00",
     "scheduler_delay_minutes": 302.3,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "每日简报类聚合内容，不符合重点解读文章类型",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03329-z": {
     "doi": "10.1038/d41586-026-03329-z",
@@ -204307,7 +204322,12 @@
     "triggered_at": "2026-10-16T01:20:11+08:00",
     "scheduler_delay_minutes": 277.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "国际计时制度新闻，非生命科学投资方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03238-1": {
     "doi": "10.1038/d41586-026-03238-1",
@@ -204342,7 +204362,12 @@
     "triggered_at": "2026-10-16T01:20:11+08:00",
     "scheduler_delay_minutes": 277.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "红毛猩猩亲子行为新闻，非原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/s41586-026-11263-3": {
     "doi": "10.1038/s41586-026-11263-3",
@@ -204377,7 +204402,12 @@
     "triggered_at": "2026-10-16T01:20:11+08:00",
     "scheduler_delay_minutes": 277.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "珊瑚濒危风险生态研究，缺乏直接生物医药或生命科学产业投资连接",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1038/d41586-026-03233-6": {
     "doi": "10.1038/d41586-026-03233-6",
@@ -204412,7 +204442,12 @@
     "triggered_at": "2026-10-16T01:20:11+08:00",
     "scheduler_delay_minutes": 277.2,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "计算机科学家讣告，非研究且主题不符",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.010": {
     "doi": "10.1016/j.cell.2026.09.010",
@@ -204462,7 +204497,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "新生儿造血与母乳菌群的研究评论，非原创研究，未读取出版商正文",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.08.044": {
     "doi": "10.1016/j.cell.2026.08.044",
@@ -204512,7 +204552,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "神经元细胞类型与人工智能的概念框架具有相关性，但属于Perspective，未取得出版商实质性正文，暂缓解读",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1016/j.cell.2026.09.046": {
     "doi": "10.1016/j.cell.2026.09.046",
@@ -204562,7 +204607,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "体细胞嵌合综述性评论，已有本批次原创研究提供更强证据",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1016/j.cell.2026.09.037": {
     "doi": "10.1016/j.cell.2026.09.037",
@@ -206652,7 +206702,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "人体体细胞突变检测基准与测序工具，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.09.034": {
     "doi": "10.1016/j.cell.2026.09.034",
@@ -206858,7 +206915,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "FIRE长读长染色质可及性检测与体细胞表观突变，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.09.033": {
     "doi": "10.1016/j.cell.2026.09.033",
@@ -207160,7 +207224,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "肿瘤全基因组体细胞变异图谱与长读长检测，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.09.031": {
     "doi": "10.1016/j.cell.2026.09.031",
@@ -207312,7 +207383,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "雌激素-STING-中性粒细胞胞外诱捕网导致ADC耐药，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.09.032": {
     "doi": "10.1016/j.cell.2026.09.032",
@@ -207560,7 +207638,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "GIMAP6介导血管炎症及动脉粥样硬化，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.09.030": {
     "doi": "10.1016/j.cell.2026.09.030",
@@ -207688,7 +207773,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "根际微生物和植物铁吸收机制，已读取PubMed正式摘要并完成农业生物技术解读",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1016/j.cell.2026.07.033": {
     "doi": "10.1016/j.cell.2026.07.033",
@@ -207924,7 +208016,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "豆科植物与根瘤菌空间联合转录组及固氮调控，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1038/d41586-026-03178-w": {
     "doi": "10.1038/d41586-026-03178-w",
@@ -207959,7 +208058,12 @@
     "triggered_at": "2026-10-16T08:28:42+08:00",
     "scheduler_delay_minutes": 125.7,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "博士生使用AI的教育调查报道，非原创生命科学研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aek0152": {
     "doi": "10.1126/science.aek0152",
@@ -208009,7 +208113,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "人物或观点类短文，非原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem4081": {
     "doi": "10.1126/science.aem4081",
@@ -208059,7 +208168,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "生物工程未来短评，非原创研究且实质证据不足",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adq6530": {
     "doi": "10.1126/science.adq6530",
@@ -208185,7 +208299,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "过渡金属硫族化合物莫尔超晶格自旋模式，凝聚态物理",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ady7647": {
     "doi": "10.1126/science.ady7647",
@@ -208561,7 +208680,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "植物壳聚糖免疫受体与抗真菌育种，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1126/science.adz4903": {
     "doi": "10.1126/science.adz4903",
@@ -208659,7 +208785,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "植物蛋白编码RNA的非编码调控作用，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1126/science.adz5323": {
     "doi": "10.1126/science.adz5323",
@@ -208863,7 +208996,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "树突计算介导规则依赖性决策，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1126/science.aee0658": {
     "doi": "10.1126/science.aee0658",
@@ -208931,7 +209071,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "冰崖崩解研究，冰川物理方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeh1409": {
     "doi": "10.1126/science.aeh1409",
@@ -209066,7 +209211,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "结构合金二维缺陷相工程，普通材料方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeh4273": {
     "doi": "10.1126/science.aeh4273",
@@ -209243,7 +209393,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "宏观声学谐振器量子纠缠，纯物理研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aei2693": {
     "doi": "10.1126/science.aei2693",
@@ -209440,7 +209595,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "范德华晶体管材料与器件工程，传统电子方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.adt1928": {
     "doi": "10.1126/science.adt1928",
@@ -209580,7 +209740,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "Hes1振荡频率调节肠上皮细胞分化，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1126/science.adz4600": {
     "doi": "10.1126/science.adz4600",
@@ -209744,7 +209911,14 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "植物几丁质识别受体的结构与配体长度选择机制，已读取PubMed正式摘要并完成重点解读",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-16"
   },
   "10.1126/science.aee6550": {
     "doi": "10.1126/science.aee6550",
@@ -209781,7 +209955,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "鸟类飞行气流与能耗研究，缺乏直接生命科学产业连接",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aeh4015": {
     "doi": "10.1126/science.aeh4015",
@@ -209847,7 +210026,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "等离激元隧穿结手性发光，电子物理方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen1237": {
     "doi": "10.1126/science.aen1237",
@@ -209884,7 +210068,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "其他期刊研究速览，低信息量聚合",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen1238": {
     "doi": "10.1126/science.aen1238",
@@ -209934,7 +210123,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "编辑或观点短文，非原创生命科学研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael9047": {
     "doi": "10.1126/science.ael9047",
@@ -209984,7 +210178,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "风场降低鸟类飞行成本的研究解说，非原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael9313": {
     "doi": "10.1126/science.ael9313",
@@ -210021,7 +210220,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "肠隐窝信号的研究解说，相关原创研究已在本期解读",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0088": {
     "doi": "10.1126/science.aem0088",
@@ -210058,7 +210262,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "二维原子层电子相研究解说，纯物理方向",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael7305": {
     "doi": "10.1126/science.ael7305",
@@ -210116,7 +210325,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "植物免疫糖链识别的评论，相关原创研究已在本期解读",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael5669": {
     "doi": "10.1126/science.ael5669",
@@ -210182,7 +210396,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "公海条约塑料治理政策意见，非生命科学产业研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael5505": {
     "doi": "10.1126/science.ael5505",
@@ -210236,7 +210455,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "中国授粉政策观点，非直接生物医药或生命科学产业研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0511": {
     "doi": "10.1126/science.aem0511",
@@ -210299,7 +210523,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "公海条约新兴污染物政策意见，非生命科学投资研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem9151": {
     "doi": "10.1126/science.aem9151",
@@ -210336,7 +210565,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "酵母合成抗癌药论文勘误，不属于原创研究；不等同于原论文新增",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem9387": {
     "doi": "10.1126/science.aem9387",
@@ -210373,7 +210607,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "氮循环论文勘误，不属于原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2354": {
     "doi": "10.1126/science.aen2354",
@@ -210423,7 +210662,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "美国选举科研政策新闻，非生命科学原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2356": {
     "doi": "10.1126/science.aen2356",
@@ -210467,7 +210711,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "人工智能解决数学问题新闻，非AI生命科学直接研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2358": {
     "doi": "10.1126/science.aen2358",
@@ -210511,7 +210760,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "美国新发疾病研究网络政策新闻，未取得出版商实质性正文且非优先原创研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2359": {
     "doi": "10.1126/science.aen2359",
@@ -210555,7 +210809,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "queued",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "抗抑郁药个体化用药工具具有临床诊断投资价值，但目前仅有一句话新闻摘要，未取得出版商正文，暂缓解读",
+    "deep_analysis_priority_level": "P2"
   },
   "10.1126/science.aen2357": {
     "doi": "10.1126/science.aen2357",
@@ -210599,7 +210858,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "厄尔尼诺现象生态影响新闻，非生命科学产业直接研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2353": {
     "doi": "10.1126/science.aen2353",
@@ -210649,7 +210913,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "印加帝国年代重新考订的考古新闻，主题不符",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen2355": {
     "doi": "10.1126/science.aen2355",
@@ -210686,7 +210955,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "人工智能与纯数学新闻，非生命科学直接应用",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aem0383": {
     "doi": "10.1126/science.aem0383",
@@ -210723,7 +210997,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "成瘾治疗药物社会污名评论，缺乏足够出版商正文和独立研究证据",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen0122": {
     "doi": "10.1126/science.aen0122",
@@ -210782,7 +211061,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "自然保护政策社论，缺乏直接生命科学产业连接",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.ael4888": {
     "doi": "10.1126/science.ael4888",
@@ -210850,7 +211134,12 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "生成式人工智能合理使用版权争议，非AI生命科学直接研究",
+    "deep_analysis_priority_level": "P3"
   },
   "10.1126/science.aen1236": {
     "doi": "10.1126/science.aen1236",
@@ -210972,6 +211261,11 @@
     "scheduler_delayed": true,
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00"
+    "last_enrichment_success_at": "2026-10-16T12:28:43+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-16",
+    "deep_analysis_reason": "本刊论文速览，低信息量聚合",
+    "deep_analysis_priority_level": "P3"
   }
 }
