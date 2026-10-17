@@ -205143,13 +205143,15 @@
     "late_discovery_recovery": false,
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
-    "deep_analysis_disposition": "queued",
-    "deep_analysis_decided_at": "2026-10-16T15:22:26+08:00",
-    "deep_analysis_decision_batch_id": "daily-2026-10-16",
-    "deep_analysis_reason": "神经元细胞类型与人工智能的概念框架具有相关性，但属于Perspective，未取得出版商实质性正文，暂缓解读",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "历史积压来自2026-10-16正式批次。本次取得PubMed正式摘要、Review文献类型及作者公开综述全文，已完成脑神经元类型多样性、学习/驱动双系统理论与AI/脑科学投资意义的重点解读。",
     "deep_analysis_priority_level": "P2",
     "first_formal_batch_id": "daily-2026-10-16",
-    "first_formal_batch_date": "2026-10-16"
+    "first_formal_batch_date": "2026-10-16",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.046": {
     "doi": "10.1016/j.cell.2026.09.046",
@@ -212243,7 +212245,12 @@
     "triggered_at": "2026-10-16T21:29:06+08:00",
     "scheduler_delay_minutes": 292.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "人物故事/特写缺少与药物研发、基础生命科学或生命科学投资的直接关联。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03195-9": {
     "doi": "10.1038/d41586-026-03195-9",
@@ -212278,7 +212285,14 @@
     "triggered_at": "2026-10-16T21:29:06+08:00",
     "scheduler_delay_minutes": 292.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "已读取Nature出版商新闻正文：跨物种线粒体蛋白组揭示寄生虫特异蛋白家族和潜在抗感染靶点，作为本期两篇非原创内容之一完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1038/d41586-026-03253-2": {
     "doi": "10.1038/d41586-026-03253-2",
@@ -212313,7 +212327,12 @@
     "triggered_at": "2026-10-16T21:29:06+08:00",
     "scheduler_delay_minutes": 292.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "AI辅助博士论文写作与学术职业去向的新闻不直接涉及AI制药、医学研究工具或生物技术投资。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03336-0": {
     "doi": "10.1038/d41586-026-03336-0",
@@ -212348,7 +212367,12 @@
     "triggered_at": "2026-10-16T21:29:06+08:00",
     "scheduler_delay_minutes": 292.1,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "Nature每日简报为排除型低信息量聚合内容，且珊瑚生态主题与生命科学投资方向缺少直接联系。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03341-3": {
     "doi": "10.1038/d41586-026-03341-3",
@@ -212383,7 +212407,12 @@
     "triggered_at": "2026-10-17T00:55:50+08:00",
     "scheduler_delay_minutes": 252.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "Nature播客/Briefing Chat属于原则上排除的文章类型，且没有独立研究摘要或实质性医学研究正文证据。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03308-4": {
     "doi": "10.1038/d41586-026-03308-4",
@@ -212418,7 +212447,12 @@
     "triggered_at": "2026-10-17T00:55:50+08:00",
     "scheduler_delay_minutes": 252.8,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "天体粒子物理科研政策评论与生命科学、生物医药或相关投资方向无直接联系。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1038/d41586-026-03303-9": {
     "doi": "10.1038/d41586-026-03303-9",
@@ -212453,7 +212487,14 @@
     "triggered_at": "2026-10-17T08:34:29+08:00",
     "scheduler_delay_minutes": 131.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "已读取Nature出版商新闻正文：PLA2G2F磷脂酶与脑衰老认知韧性、炎症及小鼠记忆有关，作为本期两篇非原创内容之一完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1038/d41586-026-03338-y": {
     "doi": "10.1038/d41586-026-03338-y",
@@ -212488,7 +212529,12 @@
     "triggered_at": "2026-10-17T08:34:29+08:00",
     "scheduler_delay_minutes": 131.5,
     "scheduler_delayed": true,
-    "late_discovery_recovery": false
+    "late_discovery_recovery": false,
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "AI破译历史密码的新闻与AI生命科学、AI制药或生物医学数据平台无直接联系。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.aee9284": {
     "doi": "10.1126/science.aee9284",
@@ -212867,7 +212913,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "三项随机营养干预试验分析母乳多组学、B族维生素与婴儿生长，涉及营养干预和母婴医学，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1126/science.aee7240": {
     "doi": "10.1126/science.aee7240",
@@ -213326,7 +213379,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "1543份母乳多组学样本识别乳腺功能状态及婴儿生长相关七项标志物，具有精准营养及诊断价值，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1126/science.aed5772": {
     "doi": "10.1126/science.aed5772",
@@ -213488,7 +213548,12 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "海平面上升与陆生脊椎动物保护研究属于生态保护/环境预测，与本期生命科学投资重点缺少直接连接。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.adz2675": {
     "doi": "10.1126/science.adz2675",
@@ -213838,7 +213903,12 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "not_selected",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "快速射电暴及高红移宇宙学原创研究属于天文学，不满足生命科学投资主题门槛。",
+    "deep_analysis_priority_level": "untriaged"
   },
   "10.1126/science.ael0508": {
     "doi": "10.1126/science.ael0508",
@@ -214123,7 +214193,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "DNA Typewriter在单个小鼠胚胎中记录128万细胞谱系及发育时间关系，直接关联基因编辑谱系工具，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.017": {
     "doi": "10.1016/j.cell.2026.09.017",
@@ -214254,7 +214331,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "RNA指纹统计框架将单细胞状态与遗传或药物扰动联系，可用于药物作用机制与生物医学数据平台，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.050": {
     "doi": "10.1016/j.cell.2026.09.050",
@@ -214492,7 +214576,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "PEtracer跨胚胎百万细胞谱系追踪及转录组联合测量，具有发育生物学和生命科学工具价值，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.057": {
     "doi": "10.1016/j.cell.2026.09.057",
@@ -214712,7 +214803,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "单克隆原肠胚样体、DNA谱系记录及表观状态揭示类器官批间异质性的遗传来源，已依据正式摘要完成重点解读。",
+    "deep_analysis_priority_level": "P1",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.023": {
     "doi": "10.1016/j.cell.2026.09.023",
@@ -215448,7 +215546,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "水稻全生命周期空间转录组和单核测序图谱直接服务于植物生物技术、作物改良及组学平台，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P2",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.020": {
     "doi": "10.1016/j.cell.2026.09.020",
@@ -215648,7 +215753,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "肿瘤竞争维生素B2诱发T细胞铁死亡，并提出SLC52A2/SLC52A3与CAR-T增效方向，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.021": {
     "doi": "10.1016/j.cell.2026.09.021",
@@ -215829,7 +215941,14 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "SPARCS在七千万细胞规模进行显微图像CRISPR筛选并解析STING调控，直接关联药物靶点发现与生命科学仪器，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   },
   "10.1016/j.cell.2026.09.024": {
     "doi": "10.1016/j.cell.2026.09.024",
@@ -216115,6 +216234,13 @@
     "europe_pmc_last_seen_at": "2026-10-17T09:32:01+08:00",
     "europe_pmc_first_seen_at": "2026-10-17T09:32:01+08:00",
     "evidence_level": "abstract_available",
-    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00"
+    "last_enrichment_success_at": "2026-10-17T12:22:00+08:00",
+    "deep_analysis_disposition": "completed",
+    "deep_analysis_decided_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_decision_batch_id": "daily-2026-10-17",
+    "deep_analysis_reason": "全基因组CRISPR筛选证实谷胱甘肽经FSP1还原泛醌抑制铁死亡，涉及肿瘤和细胞死亡靶点，已依据正式摘要完成解读。",
+    "deep_analysis_priority_level": "P0",
+    "deep_analysis_completed_at": "2026-10-17T15:15:40+08:00",
+    "deep_analysis_completed_batch_id": "daily-2026-10-17"
   }
 }
