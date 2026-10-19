@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "batch_id": "daily-2026-10-18",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T13:48:45+08:00",
-  "cutoff_at": "2026-10-18T12:17:00+08:00",
+  "batch_id": "daily-2026-10-19",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T14:05:46+08:00",
+  "cutoff_at": "2026-10-19T12:17:00+08:00",
   "timezone": "Asia/Shanghai",
   "status": "success_zero_new",
   "flags": [
@@ -13,14 +13,14 @@
   "scheduler_delayed": true,
   "freeze_trigger_type": "workflow_run",
   "freeze_scheduled_for": null,
-  "freeze_triggered_at": "2026-10-18T13:48:45+08:00",
+  "freeze_triggered_at": "2026-10-19T14:05:46+08:00",
   "freeze_delay_minutes": null,
   "replaced_premature_batch": false,
   "recovery_updated_batch": false,
-  "latest_discovery_run_id": "discover-2026-10-18T134818p0800",
-  "latest_discovery_checked_at": "2026-10-18T13:48:18+08:00",
-  "latest_discovery_scheduled_for": "2026-10-18T09:07:00+08:00",
-  "latest_discovery_delay_minutes": 281.3,
+  "latest_discovery_run_id": "discover-2026-10-19T140509p0800",
+  "latest_discovery_checked_at": "2026-10-19T14:05:09+08:00",
+  "latest_discovery_scheduled_for": "2026-10-19T09:07:00+08:00",
+  "latest_discovery_delay_minutes": 298.1,
   "source_status": {
     "nature": "not_modified",
     "science": "success",
@@ -65,7 +65,7 @@
       "first_formal_batch_date": "2026-10-16",
       "source_url": "https://www.science.org/doi/abs/10.1126/science.aen2359?af=R",
       "evidence_level": "abstract_available",
-      "last_enrichment_success_at": "2026-10-18T12:28:29+08:00"
+      "last_enrichment_success_at": "2026-10-19T12:36:49+08:00"
     }
   ]
 }

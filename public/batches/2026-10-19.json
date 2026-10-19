@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "daily-2026-10-19",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T14:05:46+08:00",
+  "cutoff_at": "2026-10-19T12:17:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "status": "success_zero_new",
+  "flags": [
+    "scheduler_delayed"
+  ],
+  "scheduler_status": "scheduler_delayed",
+  "scheduler_delayed": true,
+  "freeze_trigger_type": "workflow_run",
+  "freeze_scheduled_for": null,
+  "freeze_triggered_at": "2026-10-19T14:05:46+08:00",
+  "freeze_delay_minutes": null,
+  "replaced_premature_batch": false,
+  "recovery_updated_batch": false,
+  "latest_discovery_run_id": "discover-2026-10-19T140509p0800",
+  "latest_discovery_checked_at": "2026-10-19T14:05:09+08:00",
+  "latest_discovery_scheduled_for": "2026-10-19T09:07:00+08:00",
+  "latest_discovery_delay_minutes": 298.1,
+  "source_status": {
+    "nature": "not_modified",
+    "science": "success",
+    "cell": "success"
+  },
+  "counts": {
+    "new_dois": 0,
+    "new_missing_doi": 0,
+    "late_recovery_dois": 0,
+    "late_recovery_missing_doi": 0,
+    "cross_day_carryover_dois": 0,
+    "cross_day_carryover_missing_doi": 0,
+    "deep_analysis_backlog": 1,
+    "backlog_previewed": 1
+  },
+  "deep_analysis_policy": {
+    "daily_target": 15,
+    "hard_cap": 20,
+    "zero_new_day_action": "Use capacity to process the oldest/highest-priority backlog items",
+    "overflow_action": "Keep every new item in the full list; defer lower-priority deep analyses across later days"
+  },
+  "new_items": [],
+  "missing_doi_items": [],
+  "deep_analysis_backlog": [
+    {
+      "doi": "10.1126/science.aen2359",
+      "journal": "Science",
+      "title": "New tools may help decide who needs antidepressants",
+      "first_seen_at": "2026-10-16T08:28:42+08:00",
+      "queued_at": "2026-10-16T15:22:26+08:00",
+      "priority_level": "P2",
+      "priority_score": null,
+      "queue_reason": [
+        "awaiting_publisher_body",
+        "abstract_available"
+      ],
+      "analysis_status": "deferred",
+      "target_complete_by": null,
+      "defer_count": 1,
+      "last_reviewed_at": "2026-10-16T15:22:26+08:00",
+      "first_formal_batch_id": "daily-2026-10-16",
+      "first_formal_batch_date": "2026-10-16",
+      "source_url": "https://www.science.org/doi/abs/10.1126/science.aen2359?af=R",
+      "evidence_level": "abstract_available",
+      "last_enrichment_success_at": "2026-10-19T12:36:49+08:00"
+    }
+  ]
+}
