@@ -1,33 +1,30 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-10-24T095720p0800",
-  "checked_at": "2026-10-24T09:57:20+08:00",
+  "run_id": "europe-pmc-2026-10-25T093743p0800",
+  "checked_at": "2026-10-25T09:37:43+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-10-24T07:41:00+08:00",
-  "triggered_at": "2026-10-24T09:57:20+08:00",
-  "scheduler_delay_minutes": 136.3,
+  "scheduled_for": "2026-10-25T07:41:00+08:00",
+  "triggered_at": "2026-10-25T09:37:43+08:00",
+  "scheduler_delay_minutes": 116.7,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 223,
-    "new_dois": 6,
+    "items_seen": 219,
+    "new_dois": 3,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 217,
-    "records_enriched": 8,
+    "duplicates": 216,
+    "records_enriched": 41,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
   "new_dois": [
-    "10.1016/j.cell.2026.09.054",
-    "10.1016/j.cell.2026.10.006",
-    "10.1016/j.cell.2026.09.053",
-    "10.1016/j.cell.2026.10.015",
-    "10.1016/j.cell.2026.09.051",
-    "10.1016/j.cell.2026.09.052"
+    "10.1016/j.cell.2026.09.055",
+    "10.1016/j.cell.2026.09.060",
+    "10.1016/j.cell.2026.09.058"
   ],
   "seed_dois": [],
   "new_pending_keys": [],
@@ -35,34 +32,34 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-24 TO 2026-10-24]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-09-25 TO 2026-10-25]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.616,
+      "duration_seconds": 1.584,
       "pages": 1,
-      "items_returned": 163,
+      "items_returned": 159,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 163,
-      "records_enriched": 2
+      "duplicates": 159,
+      "records_enriched": 38
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-24 TO 2026-10-24]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-09-25 TO 2026-10-25]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 0.885,
+      "duration_seconds": 1.363,
       "pages": 1,
       "items_returned": 60,
       "error": null,
-      "new_dois": 6,
+      "new_dois": 3,
       "seed_dois": 0,
-      "duplicates": 54,
-      "records_enriched": 6
+      "duplicates": 57,
+      "records_enriched": 3
     }
   },
-  "completed_at": "2026-10-24T09:57:23+08:00"
+  "completed_at": "2026-10-25T09:37:47+08:00"
 }
