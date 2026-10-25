@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "daily-2026-10-25",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T14:00:10+08:00",
+  "cutoff_at": "2026-10-25T12:17:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "status": "success_new_items",
+  "flags": [
+    "scheduler_delayed"
+  ],
+  "scheduler_status": "scheduler_delayed",
+  "scheduler_delayed": true,
+  "freeze_trigger_type": "workflow_run",
+  "freeze_scheduled_for": null,
+  "freeze_triggered_at": "2026-10-25T14:00:10+08:00",
+  "freeze_delay_minutes": null,
+  "replaced_premature_batch": false,
+  "recovery_updated_batch": false,
+  "latest_discovery_run_id": "discover-2026-10-25T135944p0800",
+  "latest_discovery_checked_at": "2026-10-25T13:59:44+08:00",
+  "latest_discovery_scheduled_for": "2026-10-25T09:07:00+08:00",
+  "latest_discovery_delay_minutes": 292.7,
+  "source_status": {
+    "nature": "not_modified",
+    "science": "success",
+    "cell": "success"
+  },
+  "counts": {
+    "new_dois": 3,
+    "new_missing_doi": 0,
+    "late_recovery_dois": 0,
+    "late_recovery_missing_doi": 0,
+    "cross_day_carryover_dois": 0,
+    "cross_day_carryover_missing_doi": 0,
+    "deep_analysis_backlog": 1,
+    "backlog_previewed": 1
+  },
+  "deep_analysis_policy": {
+    "daily_target": 15,
+    "hard_cap": 20,
+    "zero_new_day_action": "Use capacity to process the oldest/highest-priority backlog items",
+    "overflow_action": "Keep every new item in the full list; defer lower-priority deep analyses across later days"
+  },
+  "new_items": [
+    {
+      "doi": "10.1016/j.cell.2026.09.055",
+      "journal": "Cell",
+      "title": "Lifestyle-induced regulatory T cell fragility primes adverse events after immune checkpoint blockade.",
+      "source_url": "https://doi.org/10.1016/j.cell.2026.09.055",
+      "rss_reported_time": "2026-10-22T08:00:00+08:00",
+      "first_seen_at": "2026-10-25T09:37:43+08:00",
+      "appearance_window_start": "2026-10-24T09:57:20+08:00",
+      "appearance_window_end": "2026-10-25T09:37:43+08:00",
+      "authors_rss": [
+        "Patra D",
+        "Wolfgang K",
+        "Ye C",
+        "Rigatti L",
+        "Ertwine K",
+        "Morder KM",
+        "Jana J",
+        "Baral I",
+        "Hurd D",
+        "Bossong K",
+        "Mullett S",
+        "Dou Y",
+        "Gelhaus S",
+        "Vignali DAA",
+        "Davar D",
+        "Cillo AR",
+        "Delgoffe GM",
+        "Overacre-Delgoffe AE"
+      ],
+      "tags_rss": [
+        "IM",
+        "Journal Article"
+      ],
+      "summary_rss": "Immune checkpoint blockade has transformed cancer therapy, but immune-related adverse events (irAEs) remain a major, sometimes fatal, limitation, and the lack of robust preclinical models has hindered mechanistic insight. We present the lifestyle-induced susceptibility to irAEs (LISA) model, in which diet-driven metabolic and microbial alterations recreate human-like susceptibility to anti-PD-1 toxicity. LISA recapitulates multi-organ irAEs with immune infiltration and cytokine production, severity depending on sex, age, treatment modality, and immunotherapy response. Mechanistically, dysbiosis marked by Akkermansia muciniphila enrichment accompanies aberrant immune activation, driving regulatory T cell (Treg) fragility and CD8+ cytotoxic effector populations, both observed in patients with irColitis. Dietary reversal, metabolite supplementation, and blocking interferon (IFN)-γ production or signaling in Tregs restored Treg stability and resolved inflammation. Human-to-mouse fecal microbiome transfer interacts with recipient diet to shape susceptibility. Together, these findings identify dietary, microbial, and immune drivers of irAEs, which can be leveraged to improve immunotherapy responses while minimizing toxicity.",
+      "enrichment_status": "europe_pmc_enriched",
+      "discovery_source": "cell_europe_pmc",
+      "china_team_status": "no_china_signal",
+      "china_institutions": [],
+      "china_key_authors": [],
+      "china_team_evidence": [
+        "europe_pmc:affiliation_checked"
+      ],
+      "queue_status": "not_queued",
+      "included_as_late_recovery": false,
+      "cross_day_carryover": false,
+      "carryover_from_date": null,
+      "intended_batch_date": null,
+      "scheduled_for": null,
+      "scheduler_delay_minutes": null
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.058",
+      "journal": "Cell",
+      "title": "MCT6 is an intestinal Lac-Phe exporter required for metformin-associated weight loss.",
+      "source_url": "https://doi.org/10.1016/j.cell.2026.09.058",
+      "rss_reported_time": "2026-10-22T08:00:00+08:00",
+      "first_seen_at": "2026-10-25T09:37:43+08:00",
+      "appearance_window_start": "2026-10-24T09:57:20+08:00",
+      "appearance_window_end": "2026-10-25T09:37:43+08:00",
+      "authors_rss": [
+        "Xiao S",
+        "Tung AS",
+        "Spaas J",
+        "Fu S",
+        "Chen X",
+        "Trinh TK",
+        "Moya-Garzon MD",
+        "Li VL",
+        "Cessna HT",
+        "Ito K",
+        "Reghupaty SC",
+        "Lin C",
+        "Lyu X",
+        "Raun SH",
+        "Tyner MDW",
+        "Germakovski A",
+        "Tondreau J",
+        "Yeckley M",
+        "Wei W",
+        "Howitt MR",
+        "Parker MD",
+        "Sprowl JA",
+        "Hinshaw SM",
+        "Long JZ"
+      ],
+      "tags_rss": [
+        "IM",
+        "Journal Article"
+      ],
+      "summary_rss": "Metabolites are increasingly recognized as circulating molecules that regulate physiology, yet the mechanisms that couple local intracellular production to organism-wide action remain poorly defined. Using the anorexigenic metabolite N-lactoyl-phenylalanine (Lac-Phe) as a model system, we identify the orphan transporter MCT6/SLC16A5 as a physiologic intestinal Lac-Phe exporter. This mechanism controls the extent to which intracellularly synthesized Lac-Phe acquires systemic activity. MCT6 transports Lac-Phe in vitro, mediates Lac-Phe efflux in cells, and is required for maintaining normal circulating Lac-Phe levels in vivo, particularly following metformin treatment or high-intensity exercise. High-fat-diet-fed mice with global or intestinal epithelial-specific deletion of MCT6 exhibit resistance to metformin-associated weight loss. Bypassing the transport defect with exogenous Lac-Phe normalizes the body weight phenotype of MCT6-knockout (KO) mice. These data connect MCT6 to Lac-Phe and gut glycolytic flux and underscore the importance of transporter-mediated release in the conversion of an intracellular metabolic state into a circulating metabolite effector.",
+      "enrichment_status": "europe_pmc_enriched",
+      "discovery_source": "cell_europe_pmc",
+      "china_team_status": "no_china_signal",
+      "china_institutions": [],
+      "china_key_authors": [],
+      "china_team_evidence": [
+        "europe_pmc:affiliation_checked"
+      ],
+      "queue_status": "not_queued",
+      "included_as_late_recovery": false,
+      "cross_day_carryover": false,
+      "carryover_from_date": null,
+      "intended_batch_date": null,
+      "scheduled_for": null,
+      "scheduler_delay_minutes": null
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.060",
+      "journal": "Cell",
+      "title": "Metazoan lagging-strand DNA synthesis is distributive.",
+      "source_url": "https://doi.org/10.1016/j.cell.2026.09.060",
+      "rss_reported_time": "2026-10-22T08:00:00+08:00",
+      "first_seen_at": "2026-10-25T09:37:43+08:00",
+      "appearance_window_start": "2026-10-24T09:57:20+08:00",
+      "appearance_window_end": "2026-10-25T09:37:43+08:00",
+      "authors_rss": [
+        "Lynch LD",
+        "Park J",
+        "Chistol G"
+      ],
+      "tags_rss": [
+        "IM",
+        "Journal Article"
+      ],
+      "summary_rss": "DNA's anti-parallel structure presents a topological challenge to the replisome, as leading and lagging strands must be synthesized in opposite directions. How lagging-strand synthesis is coordinated with leading-strand synthesis remains unresolved in eukaryotes. To address this question, we directly visualized the dynamics of lagging-strand polymerases Pol α and Pol δ at active replication forks using single-molecule imaging in Xenopus nuclear extracts. Surprisingly, we find that neither Pol α nor Pol δ is stably tethered to the replisome. Instead, lagging-strand synthesis occurs distributively and entails the rapid recruitment of new molecules of Pol α and Pol δ for each Okazaki fragment. Consequently, leading- and lagging-strand synthesis are not intrinsically coupled. We propose that metazoans solve the problem of anti-parallel replication not by actively coordinating leading- and lagging-strand synthesis, but instead simply by recruiting new polymerases to synthesize each Okazaki fragment.",
+      "enrichment_status": "europe_pmc_enriched",
+      "discovery_source": "cell_europe_pmc",
+      "china_team_status": "no_china_signal",
+      "china_institutions": [],
+      "china_key_authors": [],
+      "china_team_evidence": [
+        "europe_pmc:affiliation_checked"
+      ],
+      "queue_status": "not_queued",
+      "included_as_late_recovery": false,
+      "cross_day_carryover": false,
+      "carryover_from_date": null,
+      "intended_batch_date": null,
+      "scheduled_for": null,
+      "scheduler_delay_minutes": null
+    }
+  ],
+  "missing_doi_items": [],
+  "deep_analysis_backlog": [
+    {
+      "doi": "10.1126/science.aen2359",
+      "journal": "Science",
+      "title": "New tools may help decide who needs antidepressants",
+      "first_seen_at": "2026-10-16T08:28:42+08:00",
+      "queued_at": "2026-10-16T15:22:26+08:00",
+      "priority_level": "P2",
+      "priority_score": null,
+      "queue_reason": [
+        "awaiting_publisher_body",
+        "abstract_available",
+        "europe_pmc_abstract_enriched"
+      ],
+      "analysis_status": "deferred",
+      "target_complete_by": null,
+      "defer_count": 1,
+      "last_reviewed_at": "2026-10-16T15:22:26+08:00",
+      "first_formal_batch_id": "daily-2026-10-16",
+      "first_formal_batch_date": "2026-10-16",
+      "source_url": "https://www.science.org/doi/abs/10.1126/science.aen2359?af=R",
+      "evidence_level": "abstract_available",
+      "last_enrichment_success_at": "2026-10-25T12:37:23+08:00"
+    }
+  ]
+}
