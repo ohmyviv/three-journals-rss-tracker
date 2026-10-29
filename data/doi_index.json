@@ -68131,9 +68131,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -68637,9 +68637,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -71278,9 +71278,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhang X",
@@ -75911,9 +75911,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-20",
     "batched_at": "2026-08-20T13:04:53+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Hann T",
@@ -76045,9 +76045,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-20",
     "batched_at": "2026-08-20T13:04:53+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Kleschyov AL",
@@ -84064,9 +84064,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-26",
     "batched_at": "2026-08-26T13:06:17+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Guo P",
@@ -95400,9 +95400,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-29",
     "batched_at": "2026-08-29T15:50:00+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhu R",
@@ -97792,9 +97792,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Chen Y",
@@ -107411,9 +107411,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-03",
     "batched_at": "2026-09-03T13:43:56+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Robert C. Jones",
@@ -122980,9 +122980,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-08",
     "batched_at": "2026-09-08T13:54:29+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Hu L",
@@ -124298,9 +124298,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Nagai S",
@@ -129805,9 +129805,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-10",
     "batched_at": "2026-09-10T13:54:59+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Grońska-Pęski M",
@@ -130776,9 +130776,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-11",
     "batched_at": "2026-09-11T13:53:56+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Batut PJ",
@@ -138077,9 +138077,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Deng ZL",
@@ -138191,9 +138191,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Moraleda JM",
@@ -139213,9 +139213,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Wu LZ",
@@ -148592,9 +148592,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-18",
     "batched_at": "2026-09-18T13:51:27+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhang HG",
@@ -174273,9 +174273,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Perl M",
@@ -177500,9 +177500,9 @@
     "enrichment_status": "metadata_only_exhausted",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Prus G",
@@ -215087,9 +215087,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-17",
     "batched_at": "2026-10-17T13:32:22+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Jiang ZW",
@@ -216056,9 +216056,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-17",
     "batched_at": "2026-10-17T13:32:22+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Colgan WN",
@@ -216301,9 +216301,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-17",
     "batched_at": "2026-10-17T13:32:22+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Regalado SG",
@@ -223889,9 +223889,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-20",
     "batched_at": "2026-10-20T13:57:39+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Hao D",
@@ -230661,9 +230661,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Volski L",
@@ -230729,9 +230729,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Levin P",
@@ -230807,9 +230807,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Meng Q",
@@ -230946,9 +230946,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Maity D",
@@ -231050,9 +231050,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Yang S",
@@ -231204,9 +231204,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Englander RP",
@@ -231425,9 +231425,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Young NE",
@@ -231584,9 +231584,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Schmidbauer P",
@@ -231661,9 +231661,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhang H",
@@ -231858,9 +231858,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Berger E",
@@ -232061,9 +232061,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "He M",
@@ -232183,9 +232183,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Wu Y",
@@ -232446,9 +232446,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Kolling D",
@@ -232632,9 +232632,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Nori H",
@@ -232813,9 +232813,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Thinel M",
@@ -233017,9 +233017,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Sonawala U",
@@ -233116,9 +233116,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Raymond S",
@@ -233184,9 +233184,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Colombo M",
@@ -233262,9 +233262,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Bentley WE",
@@ -233340,9 +233340,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Marcott SA",
@@ -233410,9 +233410,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Muñoz-Pinedo C",
@@ -233489,9 +233489,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Feldman J",
@@ -233582,9 +233582,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Dhyani A",
@@ -233650,9 +233650,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Soares BE",
@@ -233818,9 +233818,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -233872,9 +233872,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -233926,9 +233926,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Cohen J",
@@ -233995,9 +233995,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Kupferschmidt K",
@@ -234058,9 +234058,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhao C",
@@ -234121,9 +234121,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Cohen J",
@@ -234184,9 +234184,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Clery D",
@@ -234247,9 +234247,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Stokstad E",
@@ -234310,9 +234310,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Voosen P",
@@ -234373,9 +234373,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Jacobs P",
@@ -234436,9 +234436,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Mervis J",
@@ -234499,9 +234499,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Michelucci P",
@@ -234568,9 +234568,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Mishra A",
@@ -234664,9 +234664,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-23",
     "batched_at": "2026-10-23T13:59:24+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Ferrarelli L",
@@ -235907,9 +235907,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [
       {
         "author": "Zhang J",
@@ -246363,9 +246363,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246398,9 +246398,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246433,9 +246433,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246468,9 +246468,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T02:38:18+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T02:38:18+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
