@@ -68131,9 +68131,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-14",
     "batched_at": "2026-08-14T15:21:21+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "scheduled_for": "2026-08-14T06:30:00+08:00",
     "triggered_at": "2026-08-14T07:12:23+08:00",
     "scheduler_delay_minutes": 42.4,
@@ -68637,9 +68637,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-16",
     "batched_at": "2026-08-16T11:30:26+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "scheduled_for": "2026-08-15T16:30:00+08:00",
     "triggered_at": "2026-08-15T16:55:32+08:00",
     "scheduler_delay_minutes": 25.5,
@@ -71278,9 +71278,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-19",
     "batched_at": "2026-08-19T13:03:25+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Zhang X",
@@ -75911,9 +75911,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-20",
     "batched_at": "2026-08-20T13:04:53+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hann T",
@@ -76045,9 +76045,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-20",
     "batched_at": "2026-08-20T13:04:53+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Kleschyov AL",
@@ -84064,9 +84064,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-26",
     "batched_at": "2026-08-26T13:06:17+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Guo P",
@@ -95400,9 +95400,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-08-29",
     "batched_at": "2026-08-29T15:50:00+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Zhu R",
@@ -97792,9 +97792,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-02",
     "batched_at": "2026-09-02T15:52:06+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Chen Y",
@@ -107411,9 +107411,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-03",
     "batched_at": "2026-09-03T13:43:56+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Robert C. Jones",
@@ -122980,9 +122980,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-08",
     "batched_at": "2026-09-08T13:54:29+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hu L",
@@ -124298,9 +124298,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-09",
     "batched_at": "2026-09-09T13:56:09+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Nagai S",
@@ -129805,9 +129805,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-10",
     "batched_at": "2026-09-10T13:54:59+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Grońska-Pęski M",
@@ -138077,9 +138077,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Deng ZL",
@@ -138191,9 +138191,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-12",
     "batched_at": "2026-09-12T13:42:13+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Moraleda JM",
@@ -139213,9 +139213,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-15",
     "batched_at": "2026-09-15T14:07:43+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Wu LZ",
@@ -173006,9 +173006,9 @@
     "doi": "10.1126/science.aej0483",
     "journal": "Science",
     "title_first_seen": "In-cell structures visualize human pre-ribosome assembly in the nucleolus",
-    "current_title": "In-cell structures visualize human pre-ribosome assembly in the nucleolus.",
-    "source_url": "https://doi.org/10.1126/science.aej0483",
-    "rss_reported_time": "2026-09-24T08:00:00+08:00",
+    "current_title": "In-cell structures visualize human pre-ribosome assembly in the nucleolus",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aej0483?af=R",
+    "rss_reported_time": "2026-09-24T14:00:02+08:00",
     "authors_rss": [
       "Xiaohan Zhao",
       "Yuki Hayashi",
@@ -173029,9 +173029,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-25",
     "batched_at": "2026-09-25T14:07:34+08:00",
-    "last_seen_at": "2026-10-24T09:57:20+08:00",
-    "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-10-24T09:57:20+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Zhao X",
@@ -174273,9 +174273,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-09-29",
     "batched_at": "2026-09-29T17:44:40+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Perl M",
@@ -177500,9 +177500,9 @@
     "enrichment_status": "metadata_only_exhausted",
     "batch_id": "daily-2026-10-01",
     "batched_at": "2026-10-01T15:09:33+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Prus G",
@@ -216056,9 +216056,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-17",
     "batched_at": "2026-10-17T13:32:22+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Colgan WN",
@@ -216301,9 +216301,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-17",
     "batched_at": "2026-10-17T13:32:22+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Regalado SG",
@@ -223889,9 +223889,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-20",
     "batched_at": "2026-10-20T13:57:39+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hao D",
@@ -235907,9 +235907,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Zhang J",
@@ -239472,9 +239472,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-27",
     "batched_at": "2026-10-27T14:12:48+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Andrew Robinson",
@@ -239516,9 +239516,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-27",
     "batched_at": "2026-10-27T14:12:48+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Linda Nordling",
@@ -239604,9 +239604,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-27",
     "batched_at": "2026-10-27T14:12:48+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jarish N. Cohen",
@@ -239648,9 +239648,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-27",
     "batched_at": "2026-10-27T14:12:48+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Heidi Ledford",
@@ -239692,9 +239692,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-27",
     "batched_at": "2026-10-27T14:12:48+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Margaret A. Titus",
@@ -239868,9 +239868,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Viola Angelini",
@@ -239912,9 +239912,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jan Pisek",
@@ -239956,9 +239956,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Xiaoqi Zhou",
@@ -240000,9 +240000,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -240037,9 +240037,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Weibin Hu",
@@ -240087,9 +240087,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hannah Docter-Loeb",
@@ -240131,9 +240131,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Lynne Peeples",
@@ -240175,9 +240175,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hugo J. W. L. Aerts",
@@ -240237,9 +240237,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "David Adam",
@@ -240281,9 +240281,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Flora Graham",
@@ -240325,9 +240325,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -240362,9 +240362,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -240399,9 +240399,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Sarah Kronheim",
@@ -240485,9 +240485,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -240522,9 +240522,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -240559,9 +240559,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jenna Ahart",
@@ -240603,9 +240603,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Mariana Lenharo",
@@ -240944,9 +240944,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Rachael Pells",
@@ -240986,9 +240986,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -241021,9 +241021,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Holly Else",
@@ -241063,9 +241063,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Miryam Naddaf",
@@ -241105,9 +241105,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jonathan O’Callaghan",
@@ -241147,9 +241147,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "David Adam",
@@ -241189,9 +241189,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Miryam Naddaf",
@@ -241231,9 +241231,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jeff Hecht",
@@ -241273,9 +241273,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Karen Hinxman",
@@ -241315,9 +241315,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jun Huang",
@@ -241417,9 +241417,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Biping Xu",
@@ -241495,9 +241495,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Dan Fox",
@@ -241537,9 +241537,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Shamini Bundell",
@@ -241585,9 +241585,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Xu Wang",
@@ -241627,9 +241627,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Heidi Ledford",
@@ -241669,9 +241669,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Emanuele Cancellieri",
@@ -241711,9 +241711,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Trace Thome",
@@ -241759,9 +241759,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -241794,9 +241794,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "James Dinneen",
@@ -241836,9 +241836,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -241871,9 +241871,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -241906,9 +241906,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Heini M. Natri",
@@ -241954,9 +241954,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -241989,9 +241989,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Rudolf W. Dellmour",
@@ -242085,9 +242085,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242120,9 +242120,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242155,9 +242155,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Marcello Righetto",
@@ -242269,9 +242269,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242304,9 +242304,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242339,9 +242339,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242374,9 +242374,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242409,9 +242409,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242444,9 +242444,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Rayan Najjar",
@@ -242600,9 +242600,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242635,9 +242635,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -242670,9 +242670,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Eunjee Kim",
@@ -242760,9 +242760,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Ahmad A. Cluntun",
@@ -243024,9 +243024,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hiroyuki Imachi",
@@ -243216,9 +243216,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -243251,9 +243251,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jone Mencos",
@@ -243431,9 +243431,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -243466,9 +243466,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Hongfei Xu",
@@ -243520,9 +243520,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Davy Vanham",
@@ -243640,9 +243640,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Emil Uffelmann",
@@ -245374,9 +245374,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Angli Xue",
@@ -245596,9 +245596,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Eliza Yankova",
@@ -245908,9 +245908,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -245943,9 +245943,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Freda Kreier",
@@ -245985,9 +245985,9 @@
     "enrichment_status": "pending",
     "batch_id": "daily-2026-10-29",
     "batched_at": "2026-10-29T16:40:47+08:00",
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Zewen Jiang",
@@ -246244,9 +246244,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246279,9 +246279,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jacob Smith",
@@ -246321,9 +246321,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-29T23:29:28+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-29T23:29:28+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [
       {
         "author": "Jacob Smith",
@@ -246363,9 +246363,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246398,9 +246398,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246433,9 +246433,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246468,9 +246468,9 @@
     "enrichment_status": "pending",
     "batch_id": null,
     "batched_at": null,
-    "last_seen_at": "2026-10-30T02:38:18+08:00",
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
     "last_seen_source": "rss",
-    "last_updated_at": "2026-10-30T02:38:18+08:00",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -246480,6 +246480,3543 @@
     "scheduled_for": "2026-10-29T16:37:00+08:00",
     "triggered_at": "2026-10-29T23:29:28+08:00",
     "scheduler_delay_minutes": 412.5,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1038/d41586-026-03479-0": {
+    "doi": "10.1038/d41586-026-03479-0",
+    "journal": "Nature",
+    "title_first_seen": "How the US mid-term elections could shake up science",
+    "current_title": "How the US mid-term elections could shake up science",
+    "source_url": "https://www.nature.com/articles/d41586-026-03479-0",
+    "rss_reported_time": "2026-10-29T08:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "nature_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Dan Garisto",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Max Kozlov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mariana Lenharo",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem8469": {
+    "doi": "10.1126/science.aem8469",
+    "journal": "Science",
+    "title_first_seen": "Spawning Season: An Experiment in Queer Parenthood",
+    "current_title": "Spawning Season: An Experiment in Queer Parenthood",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8469?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 492-492, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem0071": {
+    "doi": "10.1126/science.aem0071",
+    "journal": "Science",
+    "title_first_seen": "We have some explaining to do",
+    "current_title": "We have some explaining to do",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem0071?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 491-491, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Chaz Firestone",
+        "affiliations": [
+          "The reviewer is at the Department of Philosophy and the Department of Psychological and Brain Sciences, Johns Hopkins University, Baltimore, MD, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "The reviewer is at the Department of Philosophy and the Department of Psychological and Brain Sciences, Johns Hopkins University, Baltimore, MD, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem1550": {
+    "doi": "10.1126/science.aem1550",
+    "journal": "Science",
+    "title_first_seen": "Constructing the history of a contested region",
+    "current_title": "Constructing the history of a contested region",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem1550?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 492-492, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Thomas E. Levy",
+        "affiliations": [
+          "The reviewer is at the Center for Cyber-Archaeology and Sustainability, University of California, San Diego, La Jolla, CA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "The reviewer is at the Center for Cyber-Archaeology and Sustainability, University of California, San Diego, La Jolla, CA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.adr9983": {
+    "doi": "10.1126/science.adr9983",
+    "journal": "Science",
+    "title_first_seen": "Pervasive patterns in bird songs resemble those in human speech and song and are independent of vocal learning",
+    "current_title": "Pervasive patterns in bird songs resemble those in human speech and song and are independent of vocal learning",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adr9983?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 556-561, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Logan S. James",
+        "affiliations": [
+          "Department of Biology, McGill University, Montréal, Quebec, Canada.",
+          "Centre for Research in Brain, Language and Music, McGill University, Montréal, Quebec, Canada.",
+          "Department of Integrative Biology, University of Texas at Austin, Austin, TX, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Kendra Oudyk",
+        "affiliations": [
+          "Integrated Program in Neuroscience, McGill University, Montréal, Quebec, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Maria I. Pescaru",
+        "affiliations": [
+          "Department of Biology, McGill University, Montréal, Quebec, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Erin M. Wall",
+        "affiliations": [
+          "Integrated Program in Neuroscience, McGill University, Montréal, Quebec, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yining Chen",
+        "affiliations": [
+          "Integrated Program in Neuroscience, McGill University, Montréal, Quebec, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "William D. Pearse",
+        "affiliations": [
+          "Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jon T. Sakata",
+        "affiliations": [
+          "Department of Biology, McGill University, Montréal, Quebec, Canada.",
+          "Centre for Research in Brain, Language and Music, McGill University, Montréal, Quebec, Canada.",
+          "Integrated Program in Neuroscience, McGill University, Montréal, Quebec, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Biology, McGill University, Montréal, Quebec, Canada.",
+      "Centre for Research in Brain, Language and Music, McGill University, Montréal, Quebec, Canada.",
+      "Department of Integrative Biology, University of Texas at Austin, Austin, TX, USA.",
+      "Integrated Program in Neuroscience, McGill University, Montréal, Quebec, Canada.",
+      "Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, UK."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.adv3196": {
+    "doi": "10.1126/science.adv3196",
+    "journal": "Science",
+    "title_first_seen": "Chiral altermagnon in MnTe",
+    "current_title": "Chiral altermagnon in MnTe",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adv3196?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 541-543, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Daniel Jost",
+        "affiliations": [
+          "Stanford Institute for Material and Energy Science (SIMES), SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Resham Babu Regmi",
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Notre Dame, Notre Dame, IN, USA.",
+          "Stravropoulos Center for Complex Quantum Matter, University of Notre Dame, Notre Dame, IN, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eder G. Lomeli",
+        "affiliations": [
+          "Stanford Institute for Material and Energy Science (SIMES), SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Samuel Sahel-Schackis",
+        "affiliations": [
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+          "Department of Physics, Stanford University, Stanford, CA, USA.",
+          "Stanford PULSE Institute, SLAC National Accelerator Laboratory, Menlo Park, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Monika Scheufele",
+        "affiliations": [
+          "Walther-Meissner-Institute, Bayerische Akademie der Wissenschaften, Garching, Germany.",
+          "Technical University of Munich, TUM School of Natural Sciences, Physics Department, Garching, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Marcel Neuhaus",
+        "affiliations": [
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rachel Nickel",
+        "affiliations": [
+          "European Synchrotron Radiation Facility, Grenoble Cedex, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Flora Yakhou",
+        "affiliations": [
+          "European Synchrotron Radiation Facility, Grenoble Cedex, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kurt Kummer",
+        "affiliations": [
+          "European Synchrotron Radiation Facility, Grenoble Cedex, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nicholas B. Brookes",
+        "affiliations": [
+          "European Synchrotron Radiation Facility, Grenoble Cedex, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lingjia Shen",
+        "affiliations": [
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Georgi L. Dakovski",
+        "affiliations": [
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nirmal J. Ghimire",
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Notre Dame, Notre Dame, IN, USA.",
+          "Stravropoulos Center for Complex Quantum Matter, University of Notre Dame, Notre Dame, IN, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Stephan Geprägs",
+        "affiliations": [
+          "Walther-Meissner-Institute, Bayerische Akademie der Wissenschaften, Garching, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthias F. Kling",
+        "affiliations": [
+          "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+          "Stanford PULSE Institute, SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+          "Department of Applied Physics, Stanford University. Stanford, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Stanford Institute for Material and Energy Science (SIMES), SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+      "Linac Coherent Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+      "Department of Physics and Astronomy, University of Notre Dame, Notre Dame, IN, USA.",
+      "Stravropoulos Center for Complex Quantum Matter, University of Notre Dame, Notre Dame, IN, USA.",
+      "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+      "Department of Physics, Stanford University, Stanford, CA, USA.",
+      "Stanford PULSE Institute, SLAC National Accelerator Laboratory, Menlo Park, CA, USA.",
+      "Walther-Meissner-Institute, Bayerische Akademie der Wissenschaften, Garching, Germany.",
+      "Technical University of Munich, TUM School of Natural Sciences, Physics Department, Garching, Germany.",
+      "European Synchrotron Radiation Facility, Grenoble Cedex, France.",
+      "Department of Applied Physics, Stanford University. Stanford, CA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.adz2542": {
+    "doi": "10.1126/science.adz2542",
+    "journal": "Science",
+    "title_first_seen": "Rapid longitudinal flights cause time shifts and Sun compass error",
+    "current_title": "Rapid longitudinal flights cause time shifts and Sun compass error",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adz2542?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 520-524, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Patrick Lewin",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Joe Wynn",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Institut für Vogelforschung ‘Vogelwarte Helgoland,’ Wilhelmshaven, Germany.",
+          "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Joe Morford",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Oliver Padget",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lewis Lancaster-Reeves",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Katrina Siddiqi-Davies",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Hector Bailey",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah Bond",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Madeline Davis",
+        "affiliations": [
+          "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ben Dean",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Annette L. Fayet",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Norwegian Institute for Nature Research, Trondheim, Norway."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Robin Freeman",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Zoological Society of London, London, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Natasha Gillies",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Stephanie M. Harris",
+        "affiliations": [
+          "School of Environmental Sciences, University of Liverpool, Liverpool, UK.",
+          "School of Ocean Sciences, Bangor University, Menai Bridge, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Paris Jaggers",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Holly Kirk",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "School of Molecular and Life Sciences, Curtin University, Bentley, Western Australia, Australia."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lou Maurice",
+        "affiliations": [
+          "British Geological Survey, Crowmarsh Gifford, Wallingford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Elizabeth Morgan",
+        "affiliations": [
+          "The National Trust for Scotland, Inverness, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Craig Nisbet",
+        "affiliations": [
+          "The National Trust for Scotland, Inverness, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ellie Owen",
+        "affiliations": [
+          "The National Trust for Scotland, Inverness, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Joe Parker",
+        "affiliations": [
+          "The Landmark Trust, Shottesbrooke, Maidenhead, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Akiko Shoji",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Nagoya University, Graduate School of Environmental Studies, Nagoya, Aichi, Japan."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Martyna Syposz",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK.",
+          "Department of Vertebrate Ecology and Zoology, Faculty of Biology, University of Gdańsk, Gdańsk, Poland."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tim Guilford",
+        "affiliations": [
+          "Department of Biology, University of Oxford, Oxford, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Biology, University of Oxford, Oxford, UK.",
+      "Institut für Vogelforschung ‘Vogelwarte Helgoland,’ Wilhelmshaven, Germany.",
+      "School of Environmental Sciences, University of Liverpool, Liverpool, UK.",
+      "Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY, USA.",
+      "Norwegian Institute for Nature Research, Trondheim, Norway.",
+      "Zoological Society of London, London, UK.",
+      "School of Ocean Sciences, Bangor University, Menai Bridge, UK.",
+      "School of Molecular and Life Sciences, Curtin University, Bentley, Western Australia, Australia.",
+      "British Geological Survey, Crowmarsh Gifford, Wallingford, UK.",
+      "The National Trust for Scotland, Inverness, UK.",
+      "The Landmark Trust, Shottesbrooke, Maidenhead, UK.",
+      "Nagoya University, Graduate School of Environmental Studies, Nagoya, Aichi, Japan.",
+      "Department of Vertebrate Ecology and Zoology, Faculty of Biology, University of Gdańsk, Gdańsk, Poland."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeb9095": {
+    "doi": "10.1126/science.aeb9095",
+    "journal": "Science",
+    "title_first_seen": "Intrinsic gestational timing governs human cerebellar development after preterm birth",
+    "current_title": "Intrinsic gestational timing governs human cerebellar development after preterm birth",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeb9095?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 549-555, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Georgios Sanidas",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Gabriele Simonti",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Javid Ghaemmaghami",
+        "affiliations": [
+          "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, MI, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kyla Woyshner",
+        "affiliations": [
+          "Department of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Antonis Polyviou",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Robinson Vidva",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Courtney Lowe",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Abhya Vij",
+        "affiliations": [
+          "Children’s Hospital of Philadelphia, University of Pennsylvania School of Medicine, Philadelphia, PA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel Bittel",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Maria Triantafyllou",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Nora Wolff",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rodolfo Cardenas",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Helen Chen",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Francisco Almeida",
+        "affiliations": [
+          "Life and Health Sciences Research Institute (ICVS), Unidade Local de Saúde de Santo António, Braga, Portugal."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sniya Sudhakar",
+        "affiliations": [
+          "Department of Neuroradiology, Great Ormond Street Hospital NHS Foundation Trust, London, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kshitij Mankad",
+        "affiliations": [
+          "Department of Neuroradiology, Great Ormond Street Hospital NHS Foundation Trust, London, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Ioannis Koutroulis",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Henrik Sahlin Pettersen",
+        "affiliations": [
+          "Department of Pathology, St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway.",
+          "Department of Clinical and Molecular Medicine, Faculty of Medicine and Health Sciences, Norwegian University of Science and Technology (NTNU), Trondheim, Norway."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Genevieve Stein-O’Brien",
+        "affiliations": [
+          "Department of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dimitrios N. Sidiropoulos",
+        "affiliations": [
+          "Department of Oncology, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vittorio Gallo",
+        "affiliations": [
+          "Seattle Children’s Research Institute, Seattle, WA, USA.",
+          "Department of Pediatrics, University of Washington School of Medicine, Seattle, WA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Panagiotis Kratimenos",
+        "affiliations": [
+          "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+          "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA.",
+          "Department of Neonatology, Children’s National Hospital, Washington, DC, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Center for Neuroscience Research and Sheikh Zayed Institute for Pediatric Surgical Innovation, Children’s National Hospital, Washington, DC, USA.",
+      "Department of Pediatrics, The George Washington University School of Medicine and Health Sciences, Washington, DC, USA.",
+      "Department of Computational Medicine & Bioinformatics, University of Michigan, Ann Arbor, MI, USA.",
+      "Department of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+      "Children’s Hospital of Philadelphia, University of Pennsylvania School of Medicine, Philadelphia, PA, USA.",
+      "Life and Health Sciences Research Institute (ICVS), Unidade Local de Saúde de Santo António, Braga, Portugal.",
+      "Department of Neuroradiology, Great Ormond Street Hospital NHS Foundation Trust, London, UK.",
+      "Department of Pathology, St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway.",
+      "Department of Clinical and Molecular Medicine, Faculty of Medicine and Health Sciences, Norwegian University of Science and Technology (NTNU), Trondheim, Norway.",
+      "Department of Oncology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+      "Seattle Children’s Research Institute, Seattle, WA, USA.",
+      "Department of Pediatrics, University of Washington School of Medicine, Seattle, WA, USA.",
+      "Department of Neonatology, Children’s National Hospital, Washington, DC, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aed2525": {
+    "doi": "10.1126/science.aed2525",
+    "journal": "Science",
+    "title_first_seen": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
+    "current_title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aed2525?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Srividya Chandrasekhar",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Rachael McMinimy",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Andrew G. Manford",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Eddie Wehri",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences (QB3), University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Christine L. Gee",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California at Berkeley, Berkeley, CA, USA.",
+          "Molecular Therapeutics Initiative, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Caitlyn Miller",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Baris Bingol",
+        "affiliations": [
+          "Genentech Inc. South San Francisco, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "John Kuriyan",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Julia Schaletzky",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+          "California Institute for Quantitative Biosciences (QB3), University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Michael Rapé",
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+          "Howard Hughes Medical Institute, University of California at Berkeley, Berkeley, CA, USA.",
+          "Molecular Therapeutics Initiative, University of California at Berkeley, Berkeley, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA, USA.",
+      "Howard Hughes Medical Institute, University of California at Berkeley, Berkeley, CA, USA.",
+      "California Institute for Quantitative Biosciences (QB3), University of California at Berkeley, Berkeley, CA, USA.",
+      "Molecular Therapeutics Initiative, University of California at Berkeley, Berkeley, CA, USA.",
+      "Genentech Inc. South San Francisco, CA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aee5093": {
+    "doi": "10.1126/science.aee5093",
+    "journal": "Science",
+    "title_first_seen": "Spatial coordination in the codevelopment of the human urogenital system during organogenesis",
+    "current_title": "Spatial coordination in the codevelopment of the human urogenital system during organogenesis",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aee5093?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Yifei Guo",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Hui Cai",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Duan Li",
+        "affiliations": [
+          "Center for Reproductive Medicine, Women and Children’s Hospital, Qingdao University, Qingdao, China.",
+          "Qingdao Medical College, Qingdao University, Qingdao, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pengcheng Ren",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lina Cui",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Cuifang Hao",
+        "affiliations": [
+          "Center for Reproductive Medicine, Women and Children’s Hospital, Qingdao University, Qingdao, China.",
+          "Qingdao Medical College, Qingdao University, Qingdao, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Hui Jiang",
+        "affiliations": [
+          "Department of Urology, Institute of Urology, Peking University First Hospital, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Zhe Zhang",
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Urology, Peking University Third Hospital, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiaoyan Wang",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jingtao Guo",
+        "affiliations": [
+          "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+          "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+      "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+      "University of Chinese Academy of Sciences, Beijing, China.",
+      "Center for Reproductive Medicine, Women and Children’s Hospital, Qingdao University, Qingdao, China.",
+      "Qingdao Medical College, Qingdao University, Qingdao, China.",
+      "Department of Urology, Institute of Urology, Peking University First Hospital, Beijing, China.",
+      "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Urology, Peking University Third Hospital, Beijing, China."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "State Key Laboratory of Organ Regeneration and Reconstruction, Human Organ Physiopathology Emulation System, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.",
+      "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.",
+      "University of Chinese Academy of Sciences, Beijing, China.",
+      "Center for Reproductive Medicine, Women and Children’s Hospital, Qingdao University, Qingdao, China.",
+      "Qingdao Medical College, Qingdao University, Qingdao, China.",
+      "Department of Urology, Institute of Urology, Peking University First Hospital, Beijing, China.",
+      "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Urology, Peking University Third Hospital, Beijing, China."
+    ],
+    "china_key_authors": [
+      "Yifei Guo",
+      "Hui Cai",
+      "Duan Li",
+      "Pengcheng Ren",
+      "Lina Cui",
+      "Cuifang Hao",
+      "Hui Jiang",
+      "Zhe Zhang",
+      "Xiaoyan Wang",
+      "Jingtao Guo"
+    ],
+    "china_team_evidence": [
+      "crossref:all_author_affiliations"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aee5920": {
+    "doi": "10.1126/science.aee5920",
+    "journal": "Science",
+    "title_first_seen": "A commensally regulated immune rheostat fine-tunes skin barrier fitness",
+    "current_title": "A commensally regulated immune rheostat fine-tunes skin barrier fitness",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aee5920?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Anita Gola",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Rohith Srinivas",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Elias G. Rodig",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Marina Schernthanner",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Merve Deniz Abdusselamoglu",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Matthew T. Tierney",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Natalie J. Alexander",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kevin A. U. Gonzales",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sairaj M. Sajjath",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Luis F. Soto-Ugaldi",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alain R. Bonny",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Elaine Fuchs",
+        "affiliations": [
+          "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Robin Chemers Neustein Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aef5187": {
+    "doi": "10.1126/science.aef5187",
+    "journal": "Science",
+    "title_first_seen": "Western Pacific double subduction drives Gulf of California rifting",
+    "current_title": "Western Pacific double subduction drives Gulf of California rifting",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef5187?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 515-519, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeg1125": {
+    "doi": "10.1126/science.aeg1125",
+    "journal": "Science",
+    "title_first_seen": "Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum",
+    "current_title": "Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg1125?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Kutay Deniz Atabay",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Patrick Aoude",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chanyoung Park",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mykola Kadobianskyi",
+        "affiliations": [
+          "Einstein Center for Neurosciences, NeuroCure Cluster of Excellence, Charité–Universitätsmedizin Berlin, Berlin, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Olivier H. Paugois",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Benjamin Judkewitz",
+        "affiliations": [
+          "Einstein Center for Neurosciences, NeuroCure Cluster of Excellence, Charité–Universitätsmedizin Berlin, Berlin, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Peter W. Reddien",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research, Cambridge, MA, USA.",
+          "Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Whitehead Institute for Biomedical Research, Cambridge, MA, USA.",
+      "Einstein Center for Neurosciences, NeuroCure Cluster of Excellence, Charité–Universitätsmedizin Berlin, Berlin, Germany.",
+      "Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+      "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeg6988": {
+    "doi": "10.1126/science.aeg6988",
+    "journal": "Science",
+    "title_first_seen": "Papaver self-incompatibility is controlled by two multiallelic idiomorphs",
+    "current_title": "Papaver self-incompatibility is controlled by two multiallelic idiomorphs",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg6988?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Ke Jin",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Zezhen Du",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Informatics, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tao Xiong",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Fuyu Leng",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jian Liu",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mannan Zhang",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Boyang Tian",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jianbing Hu",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Huirong Hu",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Wen’en Wang",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Tao Zhao",
+        "affiliations": [
+          "State Key Laboratory of Crop Stress Biology for Arid Areas, Shaanxi Key Laboratory of Apple, College of Horticulture, Northwest A&F University, Yangling, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jia-Yu Xue",
+        "affiliations": [
+          "College of Horticulture, Bioinformatics Center, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xiaofei Yang",
+        "affiliations": [
+          "School of Computer Science and Technology, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Kai Ye",
+        "affiliations": [
+          "School of Automation Science and Engineering, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Chunlong Li",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xin Wang",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xia Wang",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Xutong Wang",
+        "affiliations": [
+          "Hubei Hongshan Laboratory, Wuhan, China.",
+          "National Key Laboratory of Crop Genetic Improvement, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lijun Chai",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Qiang Xu",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Miao Sun",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Vernonica E. Franklin-Tong",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "School of Biosciences, University of Birmingham, Birmingham, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Boris Igić",
+        "affiliations": [
+          "Department of Biological Sciences, University of Illinois at Chicago, Chicago, IL, USA.",
+          "Botany Department, Field Museum of Natural History, Chicago, IL, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Wen-Biao Jiao",
+        "affiliations": [
+          "Hubei Hongshan Laboratory, Wuhan, China.",
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Informatics, Huazhong Agricultural University, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Zongcheng Lin",
+        "affiliations": [
+          "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+          "Hubei Hongshan Laboratory, Wuhan, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+      "Hubei Hongshan Laboratory, Wuhan, China.",
+      "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Informatics, Huazhong Agricultural University, Wuhan, China.",
+      "State Key Laboratory of Crop Stress Biology for Arid Areas, Shaanxi Key Laboratory of Apple, College of Horticulture, Northwest A&F University, Yangling, China.",
+      "College of Horticulture, Bioinformatics Center, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing, China.",
+      "School of Computer Science and Technology, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China.",
+      "School of Automation Science and Engineering, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China.",
+      "National Key Laboratory of Crop Genetic Improvement, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China.",
+      "School of Biosciences, University of Birmingham, Birmingham, UK.",
+      "Department of Biological Sciences, University of Illinois at Chicago, Chicago, IL, USA.",
+      "Botany Department, Field Museum of Natural History, Chicago, IL, USA."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China.",
+      "Hubei Hongshan Laboratory, Wuhan, China.",
+      "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Informatics, Huazhong Agricultural University, Wuhan, China.",
+      "State Key Laboratory of Crop Stress Biology for Arid Areas, Shaanxi Key Laboratory of Apple, College of Horticulture, Northwest A&F University, Yangling, China.",
+      "College of Horticulture, Bioinformatics Center, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing, China.",
+      "School of Computer Science and Technology, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China.",
+      "School of Automation Science and Engineering, Faculty of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China.",
+      "National Key Laboratory of Crop Genetic Improvement, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+    ],
+    "china_key_authors": [
+      "Ke Jin",
+      "Zezhen Du",
+      "Tao Xiong",
+      "Fuyu Leng",
+      "Jian Liu",
+      "Mannan Zhang",
+      "Boyang Tian",
+      "Jianbing Hu",
+      "Huirong Hu",
+      "Wen’en Wang",
+      "Tao Zhao",
+      "Jia-Yu Xue",
+      "Xiaofei Yang",
+      "Kai Ye",
+      "Chunlong Li",
+      "Xin Wang",
+      "Xia Wang",
+      "Xutong Wang",
+      "Lijun Chai",
+      "Qiang Xu",
+      "Miao Sun",
+      "Vernonica E. Franklin-Tong",
+      "Wen-Biao Jiao",
+      "Zongcheng Lin"
+    ],
+    "china_team_evidence": [
+      "crossref:first_last_author_affiliations"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeh5957": {
+    "doi": "10.1126/science.aeh5957",
+    "journal": "Science",
+    "title_first_seen": "Data-driven discovery and rapid, direct synthesis of MXenes",
+    "current_title": "Data-driven discovery and rapid, direct synthesis of MXenes",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh5957?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Ali Saffar Shamshirgar",
+        "affiliations": [
+          "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Guilherme Ribeiro Portugal",
+        "affiliations": [
+          "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Soheil Ershadrad",
+        "affiliations": [
+          "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Roman Ivanov",
+        "affiliations": [
+          "Department of Mechanical and Industrial Engineering, Tallinn University of Technology, Tallinn, Estonia."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Martin Dahlqvist",
+        "affiliations": [
+          "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Florian Chabanais",
+        "affiliations": [
+          "Thin Film Physics, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sanjay Chakraborty",
+        "affiliations": [
+          "Artificial Intelligence and Integrated Computer Systems, Department of Computer and Information Science (IDA), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Rainer Traksmaa",
+        "affiliations": [
+          "Department of Mechanical and Industrial Engineering, Tallinn University of Technology, Tallinn, Estonia."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Topias Jussila",
+        "affiliations": [
+          "Department of Chemistry and Materials Science, Aalto University, Aalto, Finland."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Maarit Karppinen",
+        "affiliations": [
+          "Department of Chemistry and Materials Science, Aalto University, Aalto, Finland."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Irina Hussainova",
+        "affiliations": [
+          "Department of Mechanical and Industrial Engineering, Tallinn University of Technology, Tallinn, Estonia."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Fredrik Heintz",
+        "affiliations": [
+          "Artificial Intelligence and Integrated Computer Systems, Department of Computer and Information Science (IDA), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Per O. Å. Persson",
+        "affiliations": [
+          "Thin Film Physics, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden.",
+          "Wallenberg Initiative Materials Science for Sustainability (WISE), Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Johanna Rosen",
+        "affiliations": [
+          "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden.",
+          "Wallenberg Initiative Materials Science for Sustainability (WISE), Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Materials Design, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden.",
+      "Department of Mechanical and Industrial Engineering, Tallinn University of Technology, Tallinn, Estonia.",
+      "Thin Film Physics, Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden.",
+      "Artificial Intelligence and Integrated Computer Systems, Department of Computer and Information Science (IDA), Linköping University, Linköping, Sweden.",
+      "Department of Chemistry and Materials Science, Aalto University, Aalto, Finland.",
+      "Wallenberg Initiative Materials Science for Sustainability (WISE), Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aef3063": {
+    "doi": "10.1126/science.aef3063",
+    "journal": "Science",
+    "title_first_seen": "Genomic erosion across avifauna in a biodiversity hotspot sounds a conservation alarm",
+    "current_title": "Genomic erosion across avifauna in a biodiversity hotspot sounds a conservation alarm",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef3063?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 525-528, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Ri Liu",
+        "affiliations": [
+          "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Yadan Liu",
+        "affiliations": [
+          "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China.",
+          "College of Forestry, Southwest Forestry University, National Plateau Wetlands Research Center, Kunming, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Fei Wu",
+        "affiliations": [
+          "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dao Yan",
+        "affiliations": [
+          "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Feng Dong",
+        "affiliations": [
+          "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China.",
+      "College of Forestry, Southwest Forestry University, National Plateau Wetlands Research Center, Kunming, China."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "State Key Laboratory of Genetic Evolution and Animal Models (Chinese Academy of Sciences) and Yunnan Key Laboratory of Biodiversity and Ecological Conservation of Gaoligong Mountain, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China.",
+      "College of Forestry, Southwest Forestry University, National Plateau Wetlands Research Center, Kunming, China."
+    ],
+    "china_key_authors": [
+      "Ri Liu",
+      "Yadan Liu",
+      "Fei Wu",
+      "Dao Yan",
+      "Feng Dong"
+    ],
+    "china_team_evidence": [
+      "crossref:all_author_affiliations"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aei5255": {
+    "doi": "10.1126/science.aei5255",
+    "journal": "Science",
+    "title_first_seen": "The delocalized nature of chemical bonding at a catalytic metal surface",
+    "current_title": "The delocalized nature of chemical bonding at a catalytic metal surface",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aei5255?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 529-533, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Florian Nitz",
+        "affiliations": [
+          "Institute for Physical Chemistry, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany.",
+          "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Stefan Hörandl",
+        "affiliations": [
+          "Institute for Physical Chemistry, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany.",
+          "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan Pätzold",
+        "affiliations": [
+          "Institute for Physical Chemistry, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alexander Kandratsenka",
+        "affiliations": [
+          "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany.",
+          "Institute of Chemistry, University of Potsdam, Potsdam, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Theofanis N. Kitsopoulos",
+        "affiliations": [
+          "School of Mathematics and Natural Sciences, University of Southern Mississippi, Hattiesburg, MS, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Daniel J. Auerbach",
+        "affiliations": [
+          "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Alec M. Wodtke",
+        "affiliations": [
+          "Institute for Physical Chemistry, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany.",
+          "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany.",
+          "International Center for Advanced Studies of Energy Conversion, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Dmitriy Borodin",
+        "affiliations": [
+          "Center for Quantum Nanoscience, Institute for Basic Science (IBS), Seoul, South Korea.",
+          "Ewha Womans University, Seoul, South Korea."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Institute for Physical Chemistry, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany.",
+      "Department of Dynamics at Surfaces, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, Goettingen, Germany.",
+      "Institute of Chemistry, University of Potsdam, Potsdam, Germany.",
+      "School of Mathematics and Natural Sciences, University of Southern Mississippi, Hattiesburg, MS, USA.",
+      "International Center for Advanced Studies of Energy Conversion, Georg-August University of Goettingen, Tammannstraße 6, Goettingen, Germany.",
+      "Center for Quantum Nanoscience, Institute for Basic Science (IBS), Seoul, South Korea.",
+      "Ewha Womans University, Seoul, South Korea."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeb7910": {
+    "doi": "10.1126/science.aeb7910",
+    "journal": "Science",
+    "title_first_seen": "The global geography of threats to freshwater biodiversity",
+    "current_title": "The global geography of threats to freshwater biodiversity",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 510-514, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Christophe Brabant",
+        "affiliations": [
+          "Department of Biology, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Laura Pollock",
+        "affiliations": [
+          "Department of Biology, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jonas Geldmann",
+        "affiliations": [
+          "Center for Macroecology, Evolution, and Climate, University of Copenhagen, Copenhagen, Denmark."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mette Bendixen",
+        "affiliations": [
+          "Department of Geography, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lise Comte",
+        "affiliations": [
+          "Conservation Science Partners, Truckee, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Harith Farooq",
+        "affiliations": [
+          "Center for Macroecology, Evolution, and Climate, University of Copenhagen, Copenhagen, Denmark.",
+          "Faculty of Natural Sciences, Lúrio University, Nampula, Mozambique."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Katherine Hébert",
+        "affiliations": [
+          "Department of Biology, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Bernhard Lehner",
+        "affiliations": [
+          "Department of Geography, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Catherine A. Sayer",
+        "affiliations": [
+          "International Union for the Conservation of Nature (IUCN), Cambridge, UK."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Lars Lønsmann Iversen",
+        "affiliations": [
+          "Department of Biology, McGill University, Montreal, QC, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Biology, McGill University, Montreal, QC, Canada.",
+      "Center for Macroecology, Evolution, and Climate, University of Copenhagen, Copenhagen, Denmark.",
+      "Department of Geography, McGill University, Montreal, QC, Canada.",
+      "Conservation Science Partners, Truckee, CA, USA.",
+      "Faculty of Natural Sciences, Lúrio University, Nampula, Mozambique.",
+      "International Union for the Conservation of Nature (IUCN), Cambridge, UK."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aec2602": {
+    "doi": "10.1126/science.aec2602",
+    "journal": "Science",
+    "title_first_seen": "Altermagnetism revealed by polarized neutrons in MnF2",
+    "current_title": "Altermagnetism revealed by polarized neutrons in MnF2",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aec2602?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 544-548, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Quentin Faure",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Dalila Bounoua",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Victor Balédent",
+        "affiliations": [
+          "Université Paris-Saclay, CNRS, Laboratoire de Physique des Solides, Orsay, France.",
+          "Institut universitaire de France (IUF)."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Arsen Gukasov",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "V. Ovidiu Garlea",
+        "affiliations": [
+          "Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Afonso Ribeiro",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Jeffrey G. Rau",
+        "affiliations": [
+          "Department of Physics, University of Windsor, Sunset Avenue, Windsor, ON, Canada."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sylvain Petit",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Paul McClarty",
+        "affiliations": [
+          "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Laboratoire Léon Brillouin, CEA, CNRS, Université Paris-Saclay, CEA Saclay, Gif-sur-Yvette, France.",
+      "Université Paris-Saclay, CNRS, Laboratoire de Physique des Solides, Orsay, France.",
+      "Institut universitaire de France (IUF).",
+      "Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.",
+      "Department of Physics, University of Windsor, Sunset Avenue, Windsor, ON, Canada."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen5956": {
+    "doi": "10.1126/science.aen5956",
+    "journal": "Science",
+    "title_first_seen": "In Other Journals",
+    "current_title": "In Other Journals",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen5956?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 502-503, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Cheri Sirois",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Sarah H. Ross",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Sacha Vignieri",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Mattia Maroso",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Keith T. Smith",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Marc S. Lavine",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Yury Suleymanov",
+        "affiliations": [],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen5957": {
+    "doi": "10.1126/science.aen5957",
+    "journal": "Science",
+    "title_first_seen": "It’s not perfect—but it’s me",
+    "current_title": "It’s not perfect—but it’s me",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen5957?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 566-566, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Christoph Trattner",
+        "affiliations": [
+          "Christoph Trattner is a professor at the University of Bergen and founding director of MediaFutures, a research center that develops AI technology for the media. Do you have an interesting career story to share? See our author guidelines at ."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Christoph Trattner is a professor at the University of Bergen and founding director of MediaFutures, a research center that develops AI technology for the media. Do you have an interesting career story to share? See our author guidelines at ."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem1560": {
+    "doi": "10.1126/science.aem1560",
+    "journal": "Science",
+    "title_first_seen": "Taking the brakes off a stress response",
+    "current_title": "Taking the brakes off a stress response",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem1560?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 488-489, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Ramanujan S. Hegde",
+        "affiliations": [
+          "Medical Research Council Laboratory of Molecular Biology, Cambridge, UK."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Medical Research Council Laboratory of Molecular Biology, Cambridge, UK."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem3997": {
+    "doi": "10.1126/science.aem3997",
+    "journal": "Science",
+    "title_first_seen": "Caught by chirality",
+    "current_title": "Caught by chirality",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem3997?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 490-490, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jeroen van den Brink",
+        "affiliations": [
+          "Institute for Theoretical Solid State Physics, Leibniz Institute for Solid State and Materials Research Dresden, Dresden, Germany."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Institute for Theoretical Solid State Physics, Leibniz Institute for Solid State and Materials Research Dresden, Dresden, Germany."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem2333": {
+    "doi": "10.1126/science.aem2333",
+    "journal": "Science",
+    "title_first_seen": "How comparable are bird and human sounds?",
+    "current_title": "How comparable are bird and human sounds?",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem2333?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 487-488, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Kazuo Okanoya",
+        "affiliations": [
+          "Advanced Comprehensive Research Organization, Teikyo University, Tokyo, Japan."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Advanced Comprehensive Research Organization, Teikyo University, Tokyo, Japan."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem4864": {
+    "doi": "10.1126/science.aem4864",
+    "journal": "Science",
+    "title_first_seen": "Untangling time and prematurity in brain development",
+    "current_title": "Untangling time and prematurity in brain development",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4864?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 485-486, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Molly R. Kelly-Goss",
+        "affiliations": [
+          "Department of Medicine, University of California San Francisco School of Medicine, San Francisco, CA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Elizabeth E. Crouch",
+        "affiliations": [
+          "Department of Pediatrics, University of California San Francisco School of Medicine, San Francisco, CA, USA."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Medicine, University of California San Francisco School of Medicine, San Francisco, CA, USA.",
+      "Department of Pediatrics, University of California San Francisco School of Medicine, San Francisco, CA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aej2391": {
+    "doi": "10.1126/science.aej2391",
+    "journal": "Science",
+    "title_first_seen": "Rallying hedgehog poo enthusiasts",
+    "current_title": "Rallying hedgehog poo enthusiasts",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aej2391?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 494-494, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Sophie Lund Rasmussen",
+        "affiliations": [
+          "Wildlife Conservation Research Unit, Department of Biology, University of Oxford, Oxford, UK.",
+          "Natural History Museum Denmark, University of Copenhagen, Copenhagen, Denmark."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Wildlife Conservation Research Unit, Department of Biology, University of Oxford, Oxford, UK.",
+      "Natural History Museum Denmark, University of Copenhagen, Copenhagen, Denmark."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.ael5303": {
+    "doi": "10.1126/science.ael5303",
+    "journal": "Science",
+    "title_first_seen": "Advance more drugs for China’s aquaculture",
+    "current_title": "Advance more drugs for China’s aquaculture",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael5303?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 493-494, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Houjun Pan",
+        "affiliations": [
+          "Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Guangzhou, China.",
+          "Key Laboratory of Fishery Drug Development, Ministry of Agriculture and Rural Affairs, Guangzhou, China."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Qing Wang",
+        "affiliations": [
+          "Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Guangzhou, China.",
+          "Key Laboratory of Fishery Drug Development, Ministry of Agriculture and Rural Affairs, Guangzhou, China."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Guangzhou, China.",
+      "Key Laboratory of Fishery Drug Development, Ministry of Agriculture and Rural Affairs, Guangzhou, China."
+    ],
+    "china_team_status": "china_led",
+    "china_institutions": [
+      "Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences, Guangzhou, China.",
+      "Key Laboratory of Fishery Drug Development, Ministry of Agriculture and Rural Affairs, Guangzhou, China."
+    ],
+    "china_key_authors": [
+      "Houjun Pan",
+      "Qing Wang"
+    ],
+    "china_team_evidence": [
+      "crossref:all_author_affiliations"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.ael6976": {
+    "doi": "10.1126/science.ael6976",
+    "journal": "Science",
+    "title_first_seen": "Use common standards to stop risky research",
+    "current_title": "Use common standards to stop risky research",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael6976?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 493-493, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Wilmot James",
+        "affiliations": [
+          "Pandemic Center, School of Public Health, Brown University, Providence, RI, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      },
+      {
+        "author": "Jonathan Ewbank",
+        "affiliations": [
+          "European Research Infrastructure on Highly Pathogenic Agents, ERINHA Association Internationale Sans But Lucratif, Brussels, Belgium.",
+          "Institut National de la Santé et de la Recherche Médicale, Paris, France."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      },
+      {
+        "author": "Pat G. Casey",
+        "affiliations": [
+          "Office of the Vice President for Research and Innovation, University College Cork, Cork, Ireland.",
+          "European Biosafety Association, Gentbrugge, Belgium."
+        ],
+        "sequence": "additional",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Pandemic Center, School of Public Health, Brown University, Providence, RI, USA.",
+      "European Research Infrastructure on Highly Pathogenic Agents, ERINHA Association Internationale Sans But Lucratif, Brussels, Belgium.",
+      "Institut National de la Santé et de la Recherche Médicale, Paris, France.",
+      "Office of the Vice President for Research and Innovation, University College Cork, Cork, Ireland.",
+      "European Biosafety Association, Gentbrugge, Belgium."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen4323": {
+    "doi": "10.1126/science.aen4323",
+    "journal": "Science",
+    "title_first_seen": "Erratum for the Research Article “Turf algae redefine the chemical landscape of temperate reefs, limiting kelp forest recovery”",
+    "current_title": "Erratum for the Research Article “Turf algae redefine the chemical landscape of temperate reefs, limiting kelp forest recovery”",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen4323?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6334": {
+    "doi": "10.1126/science.aen6334",
+    "journal": "Science",
+    "title_first_seen": "Gone forever",
+    "current_title": "Gone forever",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6334?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 480-484, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Mark Peplow",
+        "affiliations": [
+          "Mark Peplow is a science journalist in Penrith, England."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Mark Peplow is a science journalist in Penrith, England."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6352": {
+    "doi": "10.1126/science.aen6352",
+    "journal": "Science",
+    "title_first_seen": "Wind turbines kill ‘shocking’ number of bats each year",
+    "current_title": "Wind turbines kill ‘shocking’ number of bats each year",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6352?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 472-473, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Erik Stokstad",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6353": {
+    "doi": "10.1126/science.aen6353",
+    "journal": "Science",
+    "title_first_seen": "AI is shaking up math. But can its proofs be trusted?",
+    "current_title": "AI is shaking up math. But can its proofs be trusted?",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6353?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 473-474, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6354": {
+    "doi": "10.1126/science.aen6354",
+    "journal": "Science",
+    "title_first_seen": "Kennedy rejects NIH director’s pick for mental health institute",
+    "current_title": "Kennedy rejects NIH director’s pick for mental health institute",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6354?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 474-475, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jocelyn Kaiser",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6355": {
+    "doi": "10.1126/science.aen6355",
+    "journal": "Science",
+    "title_first_seen": "Could your chatbot tip off a scientific rival? It’s possible, researchers say",
+    "current_title": "Could your chatbot tip off a scientific rival? It’s possible, researchers say",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6355?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 476-477, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Tom Howarth",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen6356": {
+    "doi": "10.1126/science.aen6356",
+    "journal": "Science",
+    "title_first_seen": "Milestone cancer vaccine success leaves hard questions unanswered",
+    "current_title": "Milestone cancer vaccine success leaves hard questions unanswered",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6356?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 478-479, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Jocelyn Kaiser",
+        "affiliations": [],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aem6465": {
+    "doi": "10.1126/science.aem6465",
+    "journal": "Science",
+    "title_first_seen": "A case study in conflicts of interest",
+    "current_title": "A case study in conflicts of interest",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem6465?af=R",
+    "rss_reported_time": "2026-10-29T15:00:00+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Naomi Oreskes",
+        "affiliations": [
+          "Naomi Oreskes is the Henry Charles Lea Professor of the History of Science and an Affiliated Professor of Earth and Planetary Sciences, Harvard University, Cambridge, MA, USA."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Naomi Oreskes is the Henry Charles Lea Professor of the History of Science and an Affiliated Professor of Earth and Planetary Sciences, Harvard University, Cambridge, MA, USA."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen3894": {
+    "doi": "10.1126/science.aen3894",
+    "journal": "Science",
+    "title_first_seen": "When AI takes away the thrill of discovery",
+    "current_title": "When AI takes away the thrill of discovery",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen3894?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 471-471, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen5958": {
+    "doi": "10.1126/science.aen5958",
+    "journal": "Science",
+    "title_first_seen": "New Products",
+    "current_title": "New Products",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen5958?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 563-563, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.ael6217": {
+    "doi": "10.1126/science.ael6217",
+    "journal": "Science",
+    "title_first_seen": "Fats that think?",
+    "current_title": "Fats that think?",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael6217?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 499-500, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [
+      {
+        "author": "Gioele La Manno",
+        "affiliations": [
+          "Brain Mind Institute, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ],
+        "sequence": "first",
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Brain Mind Institute, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "crossref:affiliation_checked"
+    ],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.ael6235": {
+    "doi": "10.1126/science.ael6235",
+    "journal": "Science",
+    "title_first_seen": "Immunity at scale",
+    "current_title": "Immunity at scale",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael6235?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 500-500, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.ael6230": {
+    "doi": "10.1126/science.ael6230",
+    "journal": "Science",
+    "title_first_seen": "Darwin’s atom split",
+    "current_title": "Darwin’s atom split",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael6230?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 500-500, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aeh0691": {
+    "doi": "10.1126/science.aeh0691",
+    "journal": "Science",
+    "title_first_seen": "Mapping the scope of drug patents",
+    "current_title": "Mapping the scope of drug patents",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh0691?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 496-498, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
+    "scheduler_delayed": true,
+    "late_discovery_recovery": false
+  },
+  "10.1126/science.aen5955": {
+    "doi": "10.1126/science.aen5955",
+    "journal": "Science",
+    "title_first_seen": "In Science Journals",
+    "current_title": "In Science Journals",
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen5955?af=R",
+    "rss_reported_time": "2026-10-29T14:00:08+08:00",
+    "authors_rss": [],
+    "tags_rss": [],
+    "summary_rss": "Science, Volume 394, Issue 6823, Page 501-503, October 2026.",
+    "first_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_absent_at": "2026-10-30T02:38:18+08:00",
+    "appearance_window_start": "2026-10-30T02:38:18+08:00",
+    "appearance_window_end": "2026-10-30T10:00:27+08:00",
+    "first_seen_run_id": "discover-2026-10-30T100027p0800",
+    "discovery_source": "science_rss",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "pending",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-10-30T10:00:27+08:00",
+    "last_seen_source": "rss",
+    "last_updated_at": "2026-10-30T10:00:27+08:00",
+    "author_affiliations": [],
+    "affiliations": [],
+    "china_team_status": "unknown",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [],
+    "scheduled_for": "2026-10-30T06:23:00+08:00",
+    "triggered_at": "2026-10-30T10:00:27+08:00",
+    "scheduler_delay_minutes": 217.4,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
   }
