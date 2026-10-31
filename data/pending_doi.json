@@ -578,6 +578,8 @@
     "appearance_window_start": "2026-10-30T10:57:18+08:00",
     "appearance_window_end": "2026-10-31T10:42:30+08:00",
     "last_seen_at": "2026-10-31T10:42:30+08:00",
-    "last_updated_at": "2026-10-31T10:42:30+08:00"
+    "last_updated_at": "2026-10-31T10:42:30+08:00",
+    "batch_id": "daily-2026-10-31",
+    "batched_at": "2026-10-31T14:56:36+08:00"
   }
 }
