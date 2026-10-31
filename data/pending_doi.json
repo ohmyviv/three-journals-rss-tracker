@@ -268,5 +268,316 @@
     "last_updated_at": "2026-10-07T10:41:23+08:00",
     "batch_id": "daily-2026-10-07",
     "batched_at": "2026-10-07T18:10:30+08:00"
+  },
+  "tmp:4eeac3bb3add09fb4f8fe339": {
+    "item_key": "tmp:4eeac3bb3add09fb4f8fe339",
+    "doi": null,
+    "journal": "Cell",
+    "feed_id": "cell",
+    "title": "Cell state-specific metabolic networks govern ferroptosis versus apoptosis in small cell lung cancer",
+    "source_url": "https://europepmc.org/article/PMC/PMC13718723",
+    "rss_reported_time": "2026-10-23T08:00:00+08:00",
+    "authors_rss": [
+      "Kim J",
+      "Bebber C",
+      "Dai Y",
+      "Bopp S",
+      "Edenhofer A",
+      "Li A",
+      "Rösner T",
+      "Berning L",
+      "Yang M",
+      "Leak L",
+      "Stroh J",
+      "Shrestha B",
+      "Abdallah A",
+      "Prymidis D",
+      "Olivos H",
+      "Baron M",
+      "Nguyen T",
+      "Shue Y",
+      "Nishiga Y",
+      "Drainas A",
+      "Chaikovsky A",
+      "Szylo K",
+      "Li Y",
+      "Kang Y",
+      "Manoj P",
+      "Villalonga A",
+      "Rudin C",
+      "DeNicola G",
+      "Dixon S",
+      "Frezza C",
+      "Ye J",
+      "von Karstedt S",
+      "Sage J"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Kim J",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bebber C",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Dai Y",
+        "affiliations": [
+          "Sarafan ChEM-H, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bopp S",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Edenhofer A",
+        "affiliations": [
+          "Department of Translational Genomics, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Li A",
+        "affiliations": [
+          "Department of Radiation Oncology, Radiation and Cancer Biology, Stanford University, Stanford, CA, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rösner T",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Berning L",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yang M",
+        "affiliations": [
+          "Institute for Metabolomics in Ageing, Cluster of Excellence Cellular Stress Responses in Aging-associated Diseases (CECAD), University of Cologne, Faculty of Medicine and University Hospital Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Leak L",
+        "affiliations": [
+          "Department of Biology, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Stroh J",
+        "affiliations": [
+          "Department of Translational Genomics, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Shrestha B",
+        "affiliations": [
+          "Waters Corporation, Milford, MA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Abdallah A",
+        "affiliations": [
+          "CECAD Cluster of Excellence, University of Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Prymidis D",
+        "affiliations": [
+          "Institute for Metabolomics in Ageing, Cluster of Excellence Cellular Stress Responses in Aging-associated Diseases (CECAD), University of Cologne, Faculty of Medicine and University Hospital Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Olivos H",
+        "affiliations": [
+          "Waters Corporation, Milford, MA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Baron M",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Nguyen T",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Shue Y",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Nishiga Y",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Drainas A",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Chaikovsky A",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Szylo K",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Li Y",
+        "affiliations": [
+          "Department of Radiation Oncology, Radiation and Cancer Biology, Stanford University, Stanford, CA, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kang Y",
+        "affiliations": [
+          "Department of Metabolism and Physiology, Moffitt Cancer Center, Tampa, FL, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Manoj P",
+        "affiliations": [
+          "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Villalonga A",
+        "affiliations": [
+          "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rudin C",
+        "affiliations": [
+          "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "DeNicola G",
+        "affiliations": [
+          "Department of Metabolism and Physiology, Moffitt Cancer Center, Tampa, FL, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Dixon S",
+        "affiliations": [
+          "Department of Biology, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Frezza C",
+        "affiliations": [
+          "Institute for Metabolomics in Ageing, Cluster of Excellence Cellular Stress Responses in Aging-associated Diseases (CECAD), University of Cologne, Faculty of Medicine and University Hospital Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ye J",
+        "affiliations": [
+          "Department of Radiation Oncology, Radiation and Cancer Biology, Stanford University, Stanford, CA, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "von Karstedt S",
+        "affiliations": [
+          "Department of Translational Genomics, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sage J",
+        "affiliations": [
+          "Departments of Pediatrics, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Departments of Pediatrics, Stanford University, Stanford, CA, USA",
+      "Sarafan ChEM-H, Stanford University, Stanford, CA, USA",
+      "Department of Translational Genomics, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany",
+      "Department of Radiation Oncology, Radiation and Cancer Biology, Stanford University, Stanford, CA, USA.",
+      "Institute for Metabolomics in Ageing, Cluster of Excellence Cellular Stress Responses in Aging-associated Diseases (CECAD), University of Cologne, Faculty of Medicine and University Hospital Cologne, Cologne, Germany",
+      "Department of Biology, Stanford University, Stanford, CA, USA",
+      "Waters Corporation, Milford, MA, USA",
+      "CECAD Cluster of Excellence, University of Cologne, Cologne, Germany",
+      "Department of Metabolism and Physiology, Moffitt Cancer Center, Tampa, FL, USA",
+      "Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-10-31T10:42:30+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:4eeac3bb3add09fb4f8fe339",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-10-31T104230p0800",
+    "last_absent_at": "2026-10-30T10:57:18+08:00",
+    "appearance_window_start": "2026-10-30T10:57:18+08:00",
+    "appearance_window_end": "2026-10-31T10:42:30+08:00",
+    "last_seen_at": "2026-10-31T10:42:30+08:00",
+    "last_updated_at": "2026-10-31T10:42:30+08:00"
   }
 }
