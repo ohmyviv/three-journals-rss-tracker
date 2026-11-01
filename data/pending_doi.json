@@ -775,7 +775,9 @@
     "appearance_window_start": "2026-10-31T10:42:30+08:00",
     "appearance_window_end": "2026-11-01T10:33:25+08:00",
     "last_seen_at": "2026-11-01T10:33:25+08:00",
-    "last_updated_at": "2026-11-01T10:33:25+08:00"
+    "last_updated_at": "2026-11-01T10:33:25+08:00",
+    "batch_id": "daily-2026-11-01",
+    "batched_at": "2026-11-01T15:27:19+08:00"
   },
   "tmp:3fe72462dc800fce549088a3": {
     "item_key": "tmp:3fe72462dc800fce549088a3",
@@ -1171,6 +1173,8 @@
     "appearance_window_start": "2026-10-31T10:42:30+08:00",
     "appearance_window_end": "2026-11-01T10:33:25+08:00",
     "last_seen_at": "2026-11-01T10:33:25+08:00",
-    "last_updated_at": "2026-11-01T10:33:25+08:00"
+    "last_updated_at": "2026-11-01T10:33:25+08:00",
+    "batch_id": "daily-2026-11-01",
+    "batched_at": "2026-11-01T15:27:19+08:00"
   }
 }
