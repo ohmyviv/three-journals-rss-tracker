@@ -581,5 +581,596 @@
     "last_updated_at": "2026-10-31T10:42:30+08:00",
     "batch_id": "daily-2026-10-31",
     "batched_at": "2026-10-31T14:56:36+08:00"
+  },
+  "tmp:6eeaabe6c0f59f51e79bbc8d": {
+    "item_key": "tmp:6eeaabe6c0f59f51e79bbc8d",
+    "doi": null,
+    "journal": "Cell",
+    "feed_id": "cell",
+    "title": "Comprehensive Lineage Tracing Maps the Landscape of Cell Fate Decisions in Mouse Embryogenesis",
+    "source_url": "https://europepmc.org/article/PMC/PMC13722109",
+    "rss_reported_time": "2026-10-08T08:00:00+08:00",
+    "authors_rss": [
+      "Colgan W",
+      "Koblan L",
+      "Villagrana J",
+      "Hou T",
+      "Wang M",
+      "Gowri G",
+      "Chandler W",
+      "Sepúlveda L",
+      "Ciftci D",
+      "Smolyar K",
+      "Yost K",
+      "Young A",
+      "Wittler L",
+      "Markoulaki S",
+      "Loh K",
+      "Zhuang X",
+      "Yosef N",
+      "Smith Z",
+      "Weissman J"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Colgan W",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Koblan L",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Villagrana J",
+        "affiliations": [
+          "Department of Genetics, Yale Stem Cell Center, Yale School of Medicine; New Haven CT 06519, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Hou T",
+        "affiliations": [
+          "Department of Genetics, Yale Stem Cell Center, Yale School of Medicine; New Haven CT 06519, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wang M",
+        "affiliations": [
+          "Department of Genetics, Yale Stem Cell Center, Yale School of Medicine; New Haven CT 06519, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gowri G",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Chandler W",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sepúlveda L",
+        "affiliations": [
+          "Howard Hughes Medical Institute; Chevy Chase MD, 20815, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ciftci D",
+        "affiliations": [
+          "Howard Hughes Medical Institute; Chevy Chase MD, 20815, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Smolyar K",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yost K",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Young A",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wittler L",
+        "affiliations": [
+          "Max Planck Institute of Molecular Genetics, Max Planck Society; Berlin, Germany, 14195"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Markoulaki S",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Loh K",
+        "affiliations": [
+          "Department of Developmental Biology, Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford CA, 94305, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Zhuang X",
+        "affiliations": [
+          "Howard Hughes Medical Institute; Chevy Chase MD, 20815, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yosef N",
+        "affiliations": [
+          "Department of Systems Immunology, Weizmann Institute of Science; Rehovot, 7610001, Israel"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Smith Z",
+        "affiliations": [
+          "Department of Genetics, Yale Stem Cell Center, Yale School of Medicine; New Haven CT 06519, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Weissman J",
+        "affiliations": [
+          "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Whitehead Institute for Biomedical Research; Cambridge MA, 02142, USA",
+      "Department of Genetics, Yale Stem Cell Center, Yale School of Medicine; New Haven CT 06519, USA",
+      "Howard Hughes Medical Institute; Chevy Chase MD, 20815, USA",
+      "Max Planck Institute of Molecular Genetics, Max Planck Society; Berlin, Germany, 14195",
+      "Department of Developmental Biology, Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford CA, 94305, USA",
+      "Department of Systems Immunology, Weizmann Institute of Science; Rehovot, 7610001, Israel"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-11-01T10:33:25+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:6eeaabe6c0f59f51e79bbc8d",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-11-01T103325p0800",
+    "last_absent_at": "2026-10-31T10:42:30+08:00",
+    "appearance_window_start": "2026-10-31T10:42:30+08:00",
+    "appearance_window_end": "2026-11-01T10:33:25+08:00",
+    "last_seen_at": "2026-11-01T10:33:25+08:00",
+    "last_updated_at": "2026-11-01T10:33:25+08:00"
+  },
+  "tmp:3fe72462dc800fce549088a3": {
+    "item_key": "tmp:3fe72462dc800fce549088a3",
+    "doi": null,
+    "journal": "Cell",
+    "feed_id": "cell",
+    "title": "A telomere-to-telomere map of somatic mutation burden and functional impact in a cancer",
+    "source_url": "https://europepmc.org/article/PMC/PMC13722029",
+    "rss_reported_time": "2026-10-15T08:00:00+08:00",
+    "authors_rss": [
+      "Sohn M",
+      "Dubocanin D",
+      "Vollger M",
+      "Kwon Y",
+      "Minkina A",
+      "Munson K",
+      "Hart S",
+      "Ranchalis J",
+      "Parmalee N",
+      "Sedeño-Cortés A",
+      "Ou J",
+      "Neph S",
+      "Au N",
+      "Bohaczuk S",
+      "Carroll B",
+      "Frazar C",
+      "Harvey W",
+      "Hoekzema K",
+      "Huang M",
+      "Jacques C",
+      "Jensen D",
+      "Kolar J",
+      "Lee R",
+      "Lin J",
+      "Loy K",
+      "Mack T",
+      "Mao Y",
+      "Mitchell M",
+      "Pham M",
+      "Scheinfeldt L",
+      "Smith G",
+      "Ryke E",
+      "Smith J",
+      "Sutherlin L",
+      "Swanson E",
+      "Weiss J",
+      "Carvalho C",
+      "Coorens T",
+      "Harris K",
+      "Wei C",
+      "Eichler E",
+      "Altemose N",
+      "Bennett J",
+      "Stergachis A"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Sohn M",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Dubocanin D",
+        "affiliations": [
+          "Department of Genetics, School of Medicine, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vollger M",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kwon Y",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Minkina A",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Munson K",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Hart S",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ranchalis J",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Parmalee N",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sedeño-Cortés A",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ou J",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Neph S",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Au N",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bohaczuk S",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Carroll B",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Frazar C",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Harvey W",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Hoekzema K",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Huang M",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Jacques C",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Jensen D",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kolar J",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Lee R",
+        "affiliations": [
+          "Department of Genetics, School of Medicine, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Lin J",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Loy K",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Mack T",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Mao Y",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Mitchell M",
+        "affiliations": [
+          "Coriell Institute for Medical Research, Camden, NJ, 08103, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Pham M",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Scheinfeldt L",
+        "affiliations": [
+          "Coriell Institute for Medical Research, Camden, NJ, 08103, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Smith G",
+        "affiliations": [
+          "Coriell Institute for Medical Research, Camden, NJ, 08103, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ryke E",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Smith J",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sutherlin L",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Swanson E",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Weiss J",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Carvalho C",
+        "affiliations": [
+          "Pacific Northwest Research Institute, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Coorens T",
+        "affiliations": [
+          "European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI), Hinxton, UK"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Harris K",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wei C",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Eichler E",
+        "affiliations": [
+          "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Altemose N",
+        "affiliations": [
+          "Department of Genetics, School of Medicine, Stanford University, Stanford, CA, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bennett J",
+        "affiliations": [
+          "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Stergachis A",
+        "affiliations": [
+          "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Division of Medical Genetics, Department of Medicine, University of Washington, Seattle, WA, USA",
+      "Department of Genetics, School of Medicine, Stanford University, Stanford, CA, USA",
+      "Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA",
+      "Center for Developmental Biology and Regenerative Medicine, Seattle Children’s Research Institute, Seattle, WA 98101, USA",
+      "Coriell Institute for Medical Research, Camden, NJ, 08103, USA",
+      "Pacific Northwest Research Institute, Seattle, WA, USA",
+      "European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI), Hinxton, UK"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-11-01T10:33:25+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:3fe72462dc800fce549088a3",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-11-01T103325p0800",
+    "last_absent_at": "2026-10-31T10:42:30+08:00",
+    "appearance_window_start": "2026-10-31T10:42:30+08:00",
+    "appearance_window_end": "2026-11-01T10:33:25+08:00",
+    "last_seen_at": "2026-11-01T10:33:25+08:00",
+    "last_updated_at": "2026-11-01T10:33:25+08:00"
   }
 }
