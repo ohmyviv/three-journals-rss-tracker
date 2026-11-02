@@ -1,66 +1,61 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-11-01T103325p0800",
-  "checked_at": "2026-11-01T10:33:25+08:00",
+  "run_id": "europe-pmc-2026-11-02T104400p0800",
+  "checked_at": "2026-11-02T10:44:00+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-11-01T07:41:00+08:00",
-  "triggered_at": "2026-11-01T10:33:25+08:00",
-  "scheduler_delay_minutes": 172.4,
+  "scheduled_for": "2026-11-02T07:41:00+08:00",
+  "triggered_at": "2026-11-02T10:44:00+08:00",
+  "scheduler_delay_minutes": 183.0,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
-    "items_seen": 205,
-    "new_dois": 1,
+    "items_seen": 203,
+    "new_dois": 0,
     "seed_dois": 0,
-    "new_pending_doi": 2,
+    "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 202,
-    "records_enriched": 45,
+    "duplicates": 203,
+    "records_enriched": 2,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
-  "new_dois": [
-    "10.1016/j.cell.2026.10.009"
-  ],
+  "new_dois": [],
   "seed_dois": [],
-  "new_pending_keys": [
-    "tmp:6eeaabe6c0f59f51e79bbc8d",
-    "tmp:3fe72462dc800fce549088a3"
-  ],
+  "new_pending_keys": [],
   "seed_pending_keys": [],
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-02 TO 2026-11-01]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-03 TO 2026-11-02]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.463,
+      "duration_seconds": 1.12,
       "pages": 1,
       "items_returned": 157,
       "error": null,
       "new_dois": 0,
       "seed_dois": 0,
       "duplicates": 157,
-      "records_enriched": 41
+      "records_enriched": 0
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-02 TO 2026-11-01]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-03 TO 2026-11-02]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.83,
+      "duration_seconds": 0.886,
       "pages": 1,
-      "items_returned": 48,
+      "items_returned": 46,
       "error": null,
-      "new_dois": 1,
+      "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 45,
-      "records_enriched": 4
+      "duplicates": 46,
+      "records_enriched": 2
     }
   },
-  "completed_at": "2026-11-01T10:33:28+08:00"
+  "completed_at": "2026-11-02T10:44:03+08:00"
 }
