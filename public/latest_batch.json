@@ -1,35 +1,36 @@
 {
   "schema_version": "1.0",
-  "batch_id": "daily-2026-11-01",
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T15:27:19+08:00",
-  "cutoff_at": "2026-11-01T12:17:00+08:00",
+  "batch_id": "daily-2026-11-02",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T15:37:34+08:00",
+  "cutoff_at": "2026-11-02T12:17:00+08:00",
   "timezone": "Asia/Shanghai",
   "status": "success_new_items",
   "flags": [
-    "scheduler_delayed"
+    "scheduler_delayed",
+    "late_discovery_recovery"
   ],
   "scheduler_status": "scheduler_delayed",
   "scheduler_delayed": true,
   "freeze_trigger_type": "workflow_run",
   "freeze_scheduled_for": null,
-  "freeze_triggered_at": "2026-11-01T15:27:19+08:00",
+  "freeze_triggered_at": "2026-11-02T15:37:34+08:00",
   "freeze_delay_minutes": null,
   "replaced_premature_batch": false,
   "recovery_updated_batch": false,
-  "latest_discovery_run_id": "discover-2026-11-01T152655p0800",
-  "latest_discovery_checked_at": "2026-11-01T15:26:55+08:00",
-  "latest_discovery_scheduled_for": "2026-11-01T09:07:00+08:00",
-  "latest_discovery_delay_minutes": 379.9,
+  "latest_discovery_run_id": "discover-2026-11-02T153703p0800",
+  "latest_discovery_checked_at": "2026-11-02T15:37:03+08:00",
+  "latest_discovery_scheduled_for": "2026-11-02T09:07:00+08:00",
+  "latest_discovery_delay_minutes": 390.1,
   "source_status": {
-    "nature": "not_modified",
+    "nature": "success",
     "science": "success",
     "cell": "success"
   },
   "counts": {
     "new_dois": 1,
-    "new_missing_doi": 2,
-    "late_recovery_dois": 0,
+    "new_missing_doi": 0,
+    "late_recovery_dois": 1,
     "late_recovery_missing_doi": 0,
     "cross_day_carryover_dois": 0,
     "cross_day_carryover_missing_doi": 0,
@@ -44,85 +45,33 @@
   },
   "new_items": [
     {
-      "doi": "10.1016/j.cell.2026.10.009",
-      "journal": "Cell",
-      "title": "Age-dependent structural evolution of a functional amyloid contributes to memory impairment in Drosophila.",
-      "source_url": "https://doi.org/10.1016/j.cell.2026.10.009",
-      "rss_reported_time": "2026-10-30T08:00:00+08:00",
-      "first_seen_at": "2026-11-01T10:33:25+08:00",
-      "appearance_window_start": "2026-10-31T10:42:30+08:00",
-      "appearance_window_end": "2026-11-01T10:33:25+08:00",
-      "authors_rss": [
-        "Ou S",
-        "Guillen-Poza PA",
-        "Ng KK",
-        "Xu L",
-        "Cheng BY",
-        "Yi Y",
-        "Ho LY",
-        "Franco-Fernández A",
-        "Khaki PSS",
-        "Mukhi M",
-        "Cheung KC",
-        "Sharma R",
-        "Oroz J",
-        "Hirano Y",
-        "Hervas R"
-      ],
-      "tags_rss": [
-        "IM",
-        "Journal Article"
-      ],
-      "summary_rss": "Cryogenic electron microscopy has revealed endpoint structures of ex vivo amyloid filaments, but how amyloids assemble and evolve in living organisms-and how these transitions affect physiology-remains poorly understood. Here, we map the age-dependent structural landscape of Orb2 amyloid, a synaptic translation regulator required for long-term memory, across the adult lifespan of Drosophila melanogaster. By determining multiple Orb2 amyloid structures, we uncover a dynamic, age-linked progression of amyloid states. Translation-promoting assemblies predominate early in life, whereas aging shifts the Orb2 amyloid ensemble toward structurally distinct, destabilization-resistant assemblies with reduced translational activity, coinciding with memory impairment. Manipulating memory-related chaperones in the brain shifts Orb2 toward youthful, translation-promoting states and improves memory in old flies; conversely, shifting Orb2 toward aged-like, translation-deficient states in young adults is associated with premature memory impairment. These findings define an in vivo trajectory of amyloid evolution and link amyloid structural dynamics to synaptic translation and memory.",
-      "enrichment_status": "europe_pmc_enriched",
-      "discovery_source": "cell_europe_pmc",
-      "china_team_status": "no_china_signal",
+      "doi": "10.1038/d41586-026-03387-3",
+      "journal": "Nature",
+      "title": "Measles made a stealthy return as another virus took the spotlight",
+      "source_url": "https://www.nature.com/articles/d41586-026-03387-3",
+      "rss_reported_time": "2026-11-02T08:00:00+08:00",
+      "first_seen_at": "2026-11-02T15:37:03+08:00",
+      "appearance_window_start": "2026-11-02T09:34:55+08:00",
+      "appearance_window_end": "2026-11-02T15:37:03+08:00",
+      "authors_rss": [],
+      "tags_rss": [],
+      "summary_rss": "",
+      "enrichment_status": "pending",
+      "discovery_source": "nature_rss",
+      "china_team_status": "unknown",
       "china_institutions": [],
       "china_key_authors": [],
-      "china_team_evidence": [
-        "europe_pmc:affiliation_checked"
-      ],
+      "china_team_evidence": [],
       "queue_status": "not_queued",
-      "included_as_late_recovery": false,
+      "included_as_late_recovery": true,
       "cross_day_carryover": false,
       "carryover_from_date": null,
-      "intended_batch_date": null,
-      "scheduled_for": null,
-      "scheduler_delay_minutes": null
+      "intended_batch_date": "2026-11-02",
+      "scheduled_for": "2026-11-02T09:07:00+08:00",
+      "scheduler_delay_minutes": 390.1
     }
   ],
-  "missing_doi_items": [
-    {
-      "temporary_key": "tmp:3fe72462dc800fce549088a3",
-      "journal": "Cell",
-      "title": "A telomere-to-telomere map of somatic mutation burden and functional impact in a cancer",
-      "source_url": "https://europepmc.org/article/PMC/PMC13722029",
-      "rss_reported_time": "2026-10-15T08:00:00+08:00",
-      "first_seen_at": "2026-11-01T10:33:25+08:00",
-      "doi_status": "pending",
-      "included_as_late_recovery": false,
-      "cross_day_carryover": false,
-      "carryover_from_date": null,
-      "intended_batch_date": null,
-      "scheduled_for": null,
-      "scheduler_delay_minutes": null
-    },
-    {
-      "temporary_key": "tmp:6eeaabe6c0f59f51e79bbc8d",
-      "journal": "Cell",
-      "title": "Comprehensive Lineage Tracing Maps the Landscape of Cell Fate Decisions in Mouse Embryogenesis",
-      "source_url": "https://europepmc.org/article/PMC/PMC13722109",
-      "rss_reported_time": "2026-10-08T08:00:00+08:00",
-      "first_seen_at": "2026-11-01T10:33:25+08:00",
-      "doi_status": "pending",
-      "included_as_late_recovery": false,
-      "cross_day_carryover": false,
-      "carryover_from_date": null,
-      "intended_batch_date": null,
-      "scheduled_for": null,
-      "scheduler_delay_minutes": null
-    }
-  ],
+  "missing_doi_items": [],
   "deep_analysis_backlog": [
     {
       "doi": "10.1126/science.aen2359",
@@ -145,7 +94,7 @@
       "first_formal_batch_date": "2026-10-16",
       "source_url": "https://www.science.org/doi/abs/10.1126/science.aen2359?af=R",
       "evidence_level": "abstract_available",
-      "last_enrichment_success_at": "2026-11-01T13:58:32+08:00"
+      "last_enrichment_success_at": "2026-11-02T13:57:48+08:00"
     }
   ]
 }
