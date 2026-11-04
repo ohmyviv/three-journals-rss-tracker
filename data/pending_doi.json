@@ -1176,5 +1176,182 @@
     "last_updated_at": "2026-11-01T10:33:25+08:00",
     "batch_id": "daily-2026-11-01",
     "batched_at": "2026-11-01T15:27:19+08:00"
+  },
+  "tmp:c9633e5339b36cd5851fe561": {
+    "item_key": "tmp:c9633e5339b36cd5851fe561",
+    "doi": null,
+    "journal": "Cell",
+    "feed_id": "cell",
+    "title": "Functional diversification of the cephalopod proteome by RNA-editing",
+    "source_url": "https://europepmc.org/article/PMC/PMC13727390",
+    "rss_reported_time": "2026-10-15T08:00:00+08:00",
+    "authors_rss": [
+      "Moen J",
+      "Richards A",
+      "Krogsaeter E",
+      "Polacco B",
+      "Gordon M",
+      "Stevenson E",
+      "Boyles R",
+      "Burq M",
+      "Stepec D",
+      "Crampton B",
+      "Sin N",
+      "Gale-Day Z",
+      "Gestwicki J",
+      "Cimermancic P",
+      "Rosenthal J",
+      "Krogan N",
+      "Swaney D"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Moen J",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Richards A",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Krogsaeter E",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Polacco B",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gordon M",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Stevenson E",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Boyles R",
+        "affiliations": [
+          "The Eugene Bell Center, The Marine Biological Laboratory, Woods Hole, Massachusetts, 02543, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Burq M",
+        "affiliations": [
+          "Tesorai Inc., 3525 Del Mar Heights Rd, 284, San Diego, California, 92130 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Stepec D",
+        "affiliations": [
+          "Tesorai Inc., 3525 Del Mar Heights Rd, 284, San Diego, California, 92130 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Crampton B",
+        "affiliations": [
+          "Tesorai Inc., 3525 Del Mar Heights Rd, 284, San Diego, California, 92130 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sin N",
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gale-Day Z",
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gestwicki J",
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Cimermancic P",
+        "affiliations": [
+          "Tesorai Inc., 3525 Del Mar Heights Rd, 284, San Diego, California, 92130 USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rosenthal J",
+        "affiliations": [
+          "The Eugene Bell Center, The Marine Biological Laboratory, Woods Hole, Massachusetts, 02543, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Krogan N",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Swaney D",
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Quantitative Biosciences Institute (QBI), University of California San Francisco, San Francisco, California, 94143, USA",
+      "The Eugene Bell Center, The Marine Biological Laboratory, Woods Hole, Massachusetts, 02543, USA",
+      "Tesorai Inc., 3525 Del Mar Heights Rd, 284, San Diego, California, 92130 USA",
+      "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, California, 94158, USA"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-11-04T11:14:15+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:c9633e5339b36cd5851fe561",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-11-04T111415p0800",
+    "last_absent_at": "2026-11-03T12:01:25+08:00",
+    "appearance_window_start": "2026-11-03T12:01:25+08:00",
+    "appearance_window_end": "2026-11-04T11:14:15+08:00",
+    "last_seen_at": "2026-11-04T11:14:15+08:00",
+    "last_updated_at": "2026-11-04T11:14:15+08:00"
   }
 }
