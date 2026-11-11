@@ -1,64 +1,61 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-11-10T124725p0800",
-  "checked_at": "2026-11-10T12:47:25+08:00",
+  "run_id": "europe-pmc-2026-11-11T105944p0800",
+  "checked_at": "2026-11-11T10:59:44+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-11-10T07:41:00+08:00",
-  "triggered_at": "2026-11-10T12:47:25+08:00",
-  "scheduler_delay_minutes": 306.4,
+  "scheduled_for": "2026-11-11T07:41:00+08:00",
+  "triggered_at": "2026-11-11T10:59:44+08:00",
+  "scheduler_delay_minutes": 198.7,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
     "items_seen": 205,
-    "new_dois": 2,
+    "new_dois": 0,
     "seed_dois": 0,
     "new_pending_doi": 0,
     "seed_pending_doi": 0,
     "resolved_dois": 0,
-    "duplicates": 203,
-    "records_enriched": 48,
+    "duplicates": 205,
+    "records_enriched": 0,
     "late_recovery_dois": 0,
     "late_recovery_pending_doi": 0
   },
-  "new_dois": [
-    "10.1126/science.aea5324",
-    "10.1016/j.cell.2026.10.002"
-  ],
+  "new_dois": [],
   "seed_dois": [],
   "new_pending_keys": [],
   "seed_pending_keys": [],
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-11 TO 2026-11-10]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-12 TO 2026-11-11]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 2.983,
+      "duration_seconds": 6.286,
       "pages": 1,
       "items_returned": 164,
       "error": null,
-      "new_dois": 1,
+      "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 163,
-      "records_enriched": 46
+      "duplicates": 164,
+      "records_enriched": 0
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-11 TO 2026-11-10]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-12 TO 2026-11-11]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.781,
+      "duration_seconds": 0.731,
       "pages": 1,
       "items_returned": 41,
       "error": null,
-      "new_dois": 1,
+      "new_dois": 0,
       "seed_dois": 0,
-      "duplicates": 40,
-      "records_enriched": 2
+      "duplicates": 41,
+      "records_enriched": 0
     }
   },
-  "completed_at": "2026-11-10T12:47:30+08:00"
+  "completed_at": "2026-11-11T10:59:51+08:00"
 }
