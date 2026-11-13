@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T10:41:00+08:00",
+  "generated_at": "2026-11-13T15:51:10+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 559,
-      "successful_checks": 558,
+      "checks": 560,
+      "successful_checks": 559,
       "failed_checks": 1,
       "checks_with_new_items": 43,
       "total_new_items_observed": 137,
@@ -30,15 +30,15 @@
         "Saturday": 5,
         "Monday": 1
       },
-      "last_checked_at": "2026-11-13T10:40:59+08:00",
-      "last_success_at": "2026-11-13T10:40:59+08:00"
+      "last_checked_at": "2026-11-13T15:51:09+08:00",
+      "last_success_at": "2026-11-13T15:51:09+08:00"
     },
     "nature": {
-      "checks": 559,
-      "successful_checks": 559,
+      "checks": 560,
+      "successful_checks": 560,
       "failed_checks": 0,
-      "checks_with_new_items": 217,
-      "total_new_items_observed": 1235,
+      "checks_with_new_items": 218,
+      "total_new_items_observed": 1236,
       "new_item_checks_by_hour": {
         "21:00-21:59": 27,
         "08:00-08:59": 26,
@@ -51,9 +51,9 @@
         "03:00-03:59": 10,
         "06:00-06:59": 8,
         "22:00-22:59": 8,
+        "15:00-15:59": 8,
         "18:00-18:59": 8,
         "10:00-10:59": 7,
-        "15:00-15:59": 7,
         "13:00-13:59": 6,
         "20:00-20:59": 5,
         "04:00-04:59": 5,
@@ -68,17 +68,17 @@
         "Wednesday": 47,
         "Thursday": 45,
         "Tuesday": 42,
-        "Friday": 38,
+        "Friday": 39,
         "Saturday": 23,
         "Monday": 20,
         "Sunday": 2
       },
-      "last_checked_at": "2026-11-13T10:40:59+08:00",
-      "last_success_at": "2026-11-13T10:40:59+08:00"
+      "last_checked_at": "2026-11-13T15:51:09+08:00",
+      "last_success_at": "2026-11-13T15:51:09+08:00"
     },
     "science": {
-      "checks": 559,
-      "successful_checks": 559,
+      "checks": 560,
+      "successful_checks": 560,
       "failed_checks": 0,
       "checks_with_new_items": 17,
       "total_new_items_observed": 550,
@@ -98,8 +98,8 @@
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-11-13T10:40:59+08:00",
-      "last_success_at": "2026-11-13T10:40:59+08:00"
+      "last_checked_at": "2026-11-13T15:51:09+08:00",
+      "last_success_at": "2026-11-13T15:51:09+08:00"
     }
   }
 }
