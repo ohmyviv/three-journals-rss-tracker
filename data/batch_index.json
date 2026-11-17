@@ -1721,15 +1721,15 @@
   "daily-2026-11-17": {
     "batch_id": "daily-2026-11-17",
     "date": "2026-11-17",
-    "generated_at": "2026-11-17T12:36:19+08:00",
+    "generated_at": "2026-11-17T18:52:25+08:00",
     "status": "success_new_items",
     "flags": [
       "scheduler_delayed",
       "late_discovery_recovery"
     ],
-    "new_doi_count": 9,
+    "new_doi_count": 13,
     "new_missing_doi_count": 0,
-    "late_recovery_doi_count": 1,
+    "late_recovery_doi_count": 5,
     "cross_day_carryover_doi_count": 0,
     "cross_day_carryover_missing_doi_count": 0,
     "path": "public/batches/2026-11-17.json"
