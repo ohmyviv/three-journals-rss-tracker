@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "run_id": "europe-pmc-2026-11-16T110603p0800",
-  "checked_at": "2026-11-16T11:06:03+08:00",
+  "run_id": "europe-pmc-2026-11-17T131401p0800",
+  "checked_at": "2026-11-17T13:14:01+08:00",
   "trigger_type": "schedule",
   "schedule_expression_utc": "41 23 * * *",
-  "scheduled_for": "2026-11-16T07:41:00+08:00",
-  "triggered_at": "2026-11-16T11:06:03+08:00",
-  "scheduler_delay_minutes": 205.1,
+  "scheduled_for": "2026-11-17T07:41:00+08:00",
+  "triggered_at": "2026-11-17T13:14:01+08:00",
+  "scheduler_delay_minutes": 333.0,
   "scheduler_delayed": true,
   "status": "success",
   "counts": {
@@ -28,11 +28,11 @@
   "journals": {
     "science": {
       "mode": "live",
-      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+      "query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-18 TO 2026-11-17]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 1.673,
+      "duration_seconds": 1.717,
       "pages": 1,
       "items_returned": 173,
       "error": null,
@@ -43,11 +43,11 @@
     },
     "cell": {
       "mode": "live",
-      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+      "query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-18 TO 2026-11-17]",
       "status": "success",
       "http_status": 200,
       "attempts": 1,
-      "duration_seconds": 0.91,
+      "duration_seconds": 0.916,
       "pages": 1,
       "items_returned": 57,
       "error": null,
@@ -57,5 +57,5 @@
       "records_enriched": 0
     }
   },
-  "completed_at": "2026-11-16T11:06:06+08:00"
+  "completed_at": "2026-11-17T13:14:04+08:00"
 }
