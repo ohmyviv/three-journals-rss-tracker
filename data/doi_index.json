@@ -230241,9 +230241,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-22",
     "batched_at": "2026-10-22T14:04:01+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Nagai S",
@@ -230313,7 +230313,7 @@
     "first_publication_date": "2026-10-20",
     "electronic_publication_date": "2026-10-20",
     "first_index_date": "2026-10-21",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-22T09:50:51+08:00",
     "first_formal_batch_id": "daily-2026-10-22",
     "first_formal_batch_date": "2026-10-22"
@@ -235484,9 +235484,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Li D",
@@ -235851,7 +235851,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -235913,9 +235913,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhang J",
@@ -236134,7 +236134,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "first_formal_batch_id": "daily-2026-10-24",
     "first_formal_batch_date": "2026-10-24"
@@ -236196,9 +236196,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Naowarojna N",
@@ -236574,7 +236574,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -236622,9 +236622,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Cho SW",
@@ -236754,7 +236754,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "first_formal_batch_id": "daily-2026-10-24",
     "first_formal_batch_date": "2026-10-24"
@@ -236804,9 +236804,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Shuttleworth SL",
@@ -237015,7 +237015,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -237106,9 +237106,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-24",
     "batched_at": "2026-10-24T13:44:11+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Carrión P",
@@ -237659,7 +237659,7 @@
     "first_publication_date": "2026-10-21",
     "electronic_publication_date": "2026-10-21",
     "first_index_date": "2026-10-23",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-24T09:57:20+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -237708,9 +237708,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-25",
     "batched_at": "2026-10-25T15:41:00+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Patra D",
@@ -237890,7 +237890,7 @@
     "first_publication_date": "2026-10-22",
     "electronic_publication_date": "2026-10-22",
     "first_index_date": "2026-10-24",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-25T09:37:43+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -237925,9 +237925,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-25",
     "batched_at": "2026-10-25T15:41:00+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Lynch LD",
@@ -237981,7 +237981,7 @@
     "first_publication_date": "2026-10-22",
     "electronic_publication_date": "2026-10-22",
     "first_index_date": "2026-10-24",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-25T09:37:43+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -238037,9 +238037,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-25",
     "batched_at": "2026-10-25T15:41:00+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Xiao S",
@@ -238271,7 +238271,7 @@
     "first_publication_date": "2026-10-22",
     "electronic_publication_date": "2026-10-22",
     "first_index_date": "2026-10-24",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-25T09:37:43+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -238514,9 +238514,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-26",
     "batched_at": "2026-10-26T14:04:23+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Guan C",
@@ -238743,7 +238743,7 @@
     "first_publication_date": "2026-10-23",
     "electronic_publication_date": "2026-10-23",
     "first_index_date": "2026-10-25",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-26T09:41:39+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -238803,9 +238803,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-26",
     "batched_at": "2026-10-26T14:04:23+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Bell HN",
@@ -239085,7 +239085,7 @@
     "first_publication_date": "2026-10-23",
     "electronic_publication_date": "2026-10-23",
     "first_index_date": "2026-10-25",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-26T09:41:39+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -239148,9 +239148,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-26",
     "batched_at": "2026-10-26T14:04:23+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Kim JW",
@@ -239456,7 +239456,7 @@
     "first_publication_date": "2026-10-23",
     "electronic_publication_date": "2026-10-23",
     "first_index_date": "2026-10-25",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-26T09:41:39+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -240683,9 +240683,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-28",
     "batched_at": "2026-10-28T14:49:10+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Li G",
@@ -240929,7 +240929,7 @@
     "first_publication_date": "2026-10-26",
     "electronic_publication_date": "2026-10-26",
     "first_index_date": "2026-10-27",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-28T10:34:34+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -251486,9 +251486,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-30",
     "batched_at": "2026-10-30T15:01:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Vazquez-Sanchez S",
@@ -251625,7 +251625,7 @@
     "first_publication_date": "2026-10-28",
     "electronic_publication_date": "2026-10-28",
     "first_index_date": "2026-10-29",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-30T10:57:18+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -251668,9 +251668,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-30",
     "batched_at": "2026-10-30T15:01:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Kashin S",
@@ -251806,7 +251806,7 @@
     "first_publication_date": "2026-10-28",
     "electronic_publication_date": "2026-10-28",
     "first_index_date": "2026-10-29",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-30T10:57:18+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -251841,9 +251841,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-30",
     "batched_at": "2026-10-30T15:01:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhong G",
@@ -251913,7 +251913,7 @@
     "first_publication_date": "2026-10-28",
     "electronic_publication_date": "2026-10-28",
     "first_index_date": "2026-10-29",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-30T10:57:18+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -251924,8 +251924,8 @@
     "doi": "10.1016/j.cell.2026.09.063",
     "journal": "Cell",
     "title_first_seen": "Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits.",
-    "current_title": "Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01209-2?rss=yes",
+    "current_title": "Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.063",
     "rss_reported_time": "2026-10-27T08:00:00+08:00",
     "authors_rss": [
       "Huang L",
@@ -251976,9 +251976,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-30",
     "batched_at": "2026-10-30T15:01:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Huang L",
@@ -252350,7 +252350,7 @@
     "first_publication_date": "2026-10-27",
     "electronic_publication_date": "2026-10-27",
     "first_index_date": "2026-10-28",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-30T10:57:18+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -253170,9 +253170,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-31",
     "batched_at": "2026-10-31T14:56:36+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Tan FQ",
@@ -253435,7 +253435,7 @@
     "first_publication_date": "2026-10-29",
     "electronic_publication_date": "2026-10-29",
     "first_index_date": "2026-10-30",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-31T10:42:30+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -253493,9 +253493,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-10-31",
     "batched_at": "2026-10-31T14:56:36+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Mukai K",
@@ -253750,7 +253750,7 @@
     "first_publication_date": "2026-10-29",
     "electronic_publication_date": "2026-10-29",
     "first_index_date": "2026-10-30",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-10-31T10:42:30+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -253796,9 +253796,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-01",
     "batched_at": "2026-11-01T15:27:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Ou S",
@@ -253949,7 +253949,7 @@
     "first_publication_date": "2026-10-30",
     "electronic_publication_date": "2026-10-30",
     "first_index_date": "2026-10-31",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-01T10:33:25+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -255327,9 +255327,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Sirak K",
@@ -255645,7 +255645,7 @@
     "first_publication_date": "2026-11-02",
     "electronic_publication_date": "2026-11-02",
     "first_index_date": "2026-11-03",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-04T11:14:15+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -255706,9 +255706,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Rühlemann M",
@@ -256001,7 +256001,7 @@
     "first_publication_date": "2026-11-02",
     "electronic_publication_date": "2026-11-02",
     "first_index_date": "2026-11-03",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-04T11:14:15+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -256042,9 +256042,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Ru X",
@@ -256176,7 +256176,7 @@
     "first_publication_date": "2026-11-02",
     "electronic_publication_date": "2026-11-02",
     "first_index_date": "2026-11-03",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-04T11:14:15+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -256273,9 +256273,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Poyet M",
@@ -256884,7 +256884,7 @@
     "first_publication_date": "2026-11-02",
     "electronic_publication_date": "2026-11-02",
     "first_index_date": "2026-11-03",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-04T11:14:15+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -256948,9 +256948,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Kuehnemann C",
@@ -257259,7 +257259,7 @@
     "first_publication_date": "2026-11-02",
     "electronic_publication_date": "2026-11-02",
     "first_index_date": "2026-11-03",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-04T11:14:15+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -269330,9 +269330,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-11",
     "batched_at": "2026-11-11T18:47:59+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Shi P",
@@ -269530,7 +269530,7 @@
     "first_publication_date": "2026-11-04",
     "electronic_publication_date": "2026-11-04",
     "first_index_date": "2026-11-06",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-10T12:47:25+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -274956,9 +274956,9 @@
     "doi": "10.1016/j.cell.2026.10.032",
     "journal": "Cell",
     "title_first_seen": "Collaboration across scales: More than the sum of its parts",
-    "current_title": "Collaboration across scales: More than the sum of its parts",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Collaboration across scales: More than the sum of its parts.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.032",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Science is collaborative by nature, but some questions require coordination on an exceptional scale. Among them is the challenge of creating a comprehensive reference framework for the human brain. In this issue of Cell, together with papers published in Cell Genomics, Cell Reports, Cell Reports Methods, Cell Systems, and Neuron, we present the first publication package from the NIH BRAIN Initiative Cell Atlas Network (BICAN).",
@@ -274972,9 +274972,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [],
     "affiliations": [],
     "china_team_status": "unknown",
@@ -275003,7 +275003,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275012,9 +275012,9 @@
     "doi": "10.1016/j.cell.2026.10.021",
     "journal": "Cell",
     "title_first_seen": "Mapping primate brain aging across cell types, regions, and sexes",
-    "current_title": "Mapping primate brain aging across cell types, regions, and sexes",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Mapping primate brain aging across cell types, regions, and sexes.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.021",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Aging is the major risk factor for neurodegenerative disease, yet how it affects different cells in the primate brain remains unclear. In this issue of Cell, Yang et al. present a single-nucleus atlas of the aging macaque brain that, together with recent work by Zhang et al., reveals context-dependent aging programs, sex-biased transcriptional aging, and molecular links to Alzheimer’s disease.",
@@ -275028,9 +275028,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhou J",
@@ -275107,7 +275107,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275116,9 +275116,9 @@
     "doi": "10.1016/j.cell.2026.10.024",
     "journal": "Cell",
     "title_first_seen": "Deploying liquid intelligence in cancer: Finding answers in our blood",
-    "current_title": "Deploying liquid intelligence in cancer: Finding answers in our blood",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01274-2?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Deploying liquid intelligence in cancer: Finding answers in our blood.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.024",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Liquid biopsies provide a noninvasive way to screen for disease. This review explains how AI-powered multimodal foundation models will help to identify robust tumor signals from liquid biopsies at scale, but clinical and infrastructural hurdles will need to be addressed to deliver their promise to the clinic.",
@@ -275132,9 +275132,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "George JM",
@@ -275203,7 +275203,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275212,9 +275212,9 @@
     "doi": "10.1016/j.cell.2026.10.034",
     "journal": "Cell",
     "title_first_seen": "From the human genome to the human brain cell atlas",
-    "current_title": "From the human genome to the human brain cell atlas",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01284-5?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "From the human genome to the human brain cell atlas.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.034",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "The BRAIN Initiative Cell Atlas Network (BICAN) is establishing an evolving reference for neuroscience by integrating cell identities, anatomy, and multimodal evidence across species. In analogy with the Human Genome Project, the BICAN basal ganglia atlas is a model for a federated reference to advance understanding of brain organization, function, variation, and disease.",
@@ -275228,9 +275228,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Ecker J",
@@ -275422,7 +275422,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275431,9 +275431,9 @@
     "doi": "10.1016/j.cell.2026.10.020",
     "journal": "Cell",
     "title_first_seen": "Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain",
-    "current_title": "Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01270-5?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.020",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "In this issue of Cell, two single-cell multiomic atlases jointly profile transcription and histone modifications across different regions of the adult human brain, revealing cell-type-specific regulatory landscapes, developmental epigenetic memory, and improved interpretation of neurological variants. These studies establish a framework for understanding human brain cell identity, evolution, and pathology.",
@@ -275447,9 +275447,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zaghi M",
@@ -275507,7 +275507,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275516,9 +275516,9 @@
     "doi": "10.1016/j.cell.2026.10.025",
     "journal": "Cell",
     "title_first_seen": "Conserved striatal mechanisms underlying ASD",
-    "current_title": "Conserved striatal mechanisms underlying ASD",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01275-4?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Conserved striatal mechanisms underlying ASD.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.025",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Autism spectrum disorder (ASD) involves changes in social and stereotypic behaviors regulated by striatal circuitry. Using an innovative cross-species approach, in this issue of Cell, Yuan et al. identify alterations in specific striatal neurons and astrocytes, opening new avenues for investigating cellular and molecular mechanisms underlying striatal dysfunction in ASD.",
@@ -275532,9 +275532,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Phillips RA 3rd",
@@ -275585,7 +275585,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -275594,9 +275594,9 @@
     "doi": "10.1016/j.cell.2026.10.031",
     "journal": "Cell",
     "title_first_seen": "Toward an integrated framework for a human and mammalian brain cell atlas",
-    "current_title": "Toward an integrated framework for a human and mammalian brain cell atlas",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01281-X?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Toward an integrated framework for a human and mammalian brain cell atlas.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.031",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "The BRAIN Initiative Cell Atlas Network integrates molecular profiles, spatial maps, and anatomical frameworks into a curated cell-type taxonomy of the human, macaque, and marmoset basal ganglia. This multimodal atlas offers a blueprint for comparing brain cell types across species and for scaling to the whole brain.",
@@ -275610,9 +275610,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Aaron Garcia",
@@ -277211,7 +277211,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -277220,9 +277220,9 @@
     "doi": "10.1016/j.cell.2026.10.012",
     "journal": "Cell",
     "title_first_seen": "Cross-species multiomic atlas of the primate basal ganglia",
-    "current_title": "Cross-species multiomic atlas of the primate basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01256-0?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Cross-species multiomic atlas of the primate basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.012",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A cross-species multiomic atlas of the primate basal ganglia aligns 1.8 million nuclei from human, macaque, and marmoset into 61 cell types conserved over 76 million years. The atlas reveals that dorsal-ventral spatial identity is more evolutionarily constrained than direct and indirect pathway or striosome and matrix identity, identifies a distinct SMYD2-HTR7 spiny projection neuron type, and links regulatory sequence grammars and psychiatric risk variants to specific cell populations.",
@@ -277236,9 +277236,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Johansen NJ",
@@ -278104,7 +278104,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -278113,9 +278113,9 @@
     "doi": "10.1016/j.cell.2026.10.023",
     "journal": "Cell",
     "title_first_seen": "Spatial transcriptomics reveals molecular organization of human and nonhuman primate basal ganglia",
-    "current_title": "Spatial transcriptomics reveals molecular organization of human and nonhuman primate basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01273-0?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Spatial transcriptomics reveals molecular organization of human and nonhuman primate basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.023",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A cellular-resolution spatial transcriptomics atlas of the basal ganglia in human, rhesus macaque, and common marmoset highlights a conserved molecular organization and introduces an accessible resource for the research community. This atlas reveals complex gene expression gradients that coexist with discrete cell-type specializations.",
@@ -278129,9 +278129,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Hewitt MN",
@@ -278610,7 +278610,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -278619,9 +278619,9 @@
     "doi": "10.1016/j.cell.2026.10.029",
     "journal": "Cell",
     "title_first_seen": "Mesoscale molecular architecture of the striatum across cell types and adult aging",
-    "current_title": "Mesoscale molecular architecture of the striatum across cell types and adult aging",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01279-1?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Mesoscale molecular architecture of the striatum across cell types and adult aging.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.029",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Using Slide-tags spatial transcriptomics across 19 human donors, this study shows that the striatum is organized into six molecularly distinct zones that are conserved in macaque and mouse, align with brain-wide projection inputs, and lose their transcriptional distinctiveness with age.",
@@ -278635,9 +278635,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Kraft AW",
@@ -278898,7 +278898,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -278907,9 +278907,9 @@
     "doi": "10.1016/j.cell.2026.10.026",
     "journal": "Cell",
     "title_first_seen": "Common variation of cell abundances and gene expression in the human striatum",
-    "current_title": "Common variation of cell abundances and gene expression in the human striatum",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01276-6?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Common variation of cell abundances and gene expression in the human striatum.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.026",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Single-cell analyses of the adult human striatum and prefrontal cortex reveal substantial inter-individual variation in cell-type abundance and gene expression. Most aspects of donor-associated cellular and molecular features recur across brain regions, while age and common genetic variation have distinct effects across cell types.",
@@ -278923,9 +278923,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Burger SC",
@@ -279275,7 +279275,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -279284,9 +279284,9 @@
     "doi": "10.1016/j.cell.2026.10.019",
     "journal": "Cell",
     "title_first_seen": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia",
-    "current_title": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01269-9?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.019",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A single-cell atlas of DNA methylation and 3D genome architecture across the human basal ganglia defines the regulatory signatures of its cell types, including a distinct striatal projection neuron subtype, and predicts cell-type-specific gene regulatory networks. Spatial transcriptomics further reveals interneuron types that differ between the striatal matrix and striosomes.",
@@ -279300,9 +279300,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Ding W",
@@ -279918,7 +279918,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -279927,9 +279927,9 @@
     "doi": "10.1016/j.cell.2026.09.008",
     "journal": "Cell",
     "title_first_seen": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia",
-    "current_title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01077-9?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.008",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A single-cell multi-omic atlas spanning eight regions of the human basal ganglia maps cell-type-specific chromatin landscapes and gene regulation, revealing the regulatory programs that shape cell identity. The atlas provides a framework for interpreting noncoding variants linked to basal ganglia traits and diseases, and it enables the construction of a deep-learning model for predicting how variants affect gene regulation and function.",
@@ -279943,9 +279943,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Chang L",
@@ -280476,7 +280476,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -280485,9 +280485,9 @@
     "doi": "10.1016/j.cell.2026.09.027",
     "journal": "Cell",
     "title_first_seen": "Multiscale spatial atlas of human basal ganglia cell types and communities",
-    "current_title": "Multiscale spatial atlas of human basal ganglia cell types and communities",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01129-3?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Multiscale spatial atlas of human basal ganglia cell types and communities.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.027",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "This study combines MERFISH+ and Stereo-seq to generate a multiscale spatial transcriptomic atlas of the human basal ganglia. It reveals cellular community organization, conserved and species-specialized features of striosome-matrix architecture, and projection-associated molecular signatures inferred from subcellular RNA localization.",
@@ -280501,9 +280501,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Berackey BT",
@@ -280718,7 +280718,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -280727,9 +280727,9 @@
     "doi": "10.1016/j.cell.2026.08.012",
     "journal": "Cell",
     "title_first_seen": "Single-cell multimodal atlas reveals regulatory programs in the human brain",
-    "current_title": "Single-cell multimodal atlas reveals regulatory programs in the human brain",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00939-6?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.08.012",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A multimodal, integrative framework for understanding gene regulatory mechanisms across diverse cell types in the adult human brain. This framework helps elucidate how regulatory programs govern neuronal and glial functions, encode developmental trajectories, underlie neurological phenotypes, and change during evolution.",
@@ -280743,9 +280743,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Xie Y",
@@ -281250,7 +281250,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -281259,9 +281259,9 @@
     "doi": "10.1016/j.cell.2026.10.007",
     "journal": "Cell",
     "title_first_seen": "Spatial and regulatory organization of cell identity across the primate subcortex",
-    "current_title": "Spatial and regulatory organization of cell identity across the primate subcortex",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01218-3?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Spatial and regulatory organization of cell identity across the primate subcortex.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.007",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Dense multimodal profiling of the marmoset subcortex reveals how spatial context and gene regulatory programs jointly shape cell identity across the primate brain. By linking transcriptional states, chromatin accessibility, and anatomy, this atlas uncovers regulatory principles underlying spatial gradients, neuronal convergence, and evolutionary specialization.",
@@ -281275,9 +281275,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Dan S",
@@ -281622,7 +281622,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -281631,9 +281631,9 @@
     "doi": "10.1016/j.cell.2026.10.028",
     "journal": "Cell",
     "title_first_seen": "Morphoelectric diversity and specialization of primate striatal neuron types",
-    "current_title": "Morphoelectric diversity and specialization of primate striatal neuron types",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01278-X?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Morphoelectric diversity and specialization of primate striatal neuron types.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.028",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Patch-seq in the macaque striatum links transcriptomic cell-type identity to neuronal form and function, revealing non-canonical spiny projection neurons, specialized interneurons, spatially organized morphoelectric gradients, and features that distinguish macaque from mouse neuron types.",
@@ -281647,9 +281647,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Liu XP",
@@ -282445,7 +282445,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -282454,9 +282454,9 @@
     "doi": "10.1016/j.cell.2026.09.041",
     "journal": "Cell",
     "title_first_seen": "Circuit-aligned specialization of human basal ganglia astrocytes",
-    "current_title": "Circuit-aligned specialization of human basal ganglia astrocytes",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01143-8?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Circuit-aligned specialization of human basal ganglia astrocytes.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.041",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Astrocyte diversity in the human basal ganglia reflects both large-scale brain identity programs and local microcircuit specialization. Integrated transcriptomic, epigenomic, and spatial analyses link these astrocyte populations to subgroup-specific regulatory features and enhancer logic, providing a framework for understanding and targeting astrocyte heterogeneity.",
@@ -282470,9 +282470,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Fu Y",
@@ -282701,7 +282701,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -282710,9 +282710,9 @@
     "doi": "10.1016/j.cell.2026.10.027",
     "journal": "Cell",
     "title_first_seen": "Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism",
-    "current_title": "Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01277-8?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.027",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Cross-species single-cell profiling identifies molecular disruptions among striatal spiny projection neurons in genetically defined autism. D1 striosome spiny projection neurons are identified as the most affected, with altered synaptic and energy metabolism programs linked to reduced EGR1/EGR3 activity, partly reproduced by EGR1/EGR3 loss in organoids.",
@@ -282726,9 +282726,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Yuan G",
@@ -282920,7 +282920,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -282929,9 +282929,9 @@
     "doi": "10.1016/j.cell.2026.10.008",
     "journal": "Cell",
     "title_first_seen": "A single-cell and spatial 3D multi-omic atlas of developing human basal ganglia",
-    "current_title": "A single-cell and spatial 3D multi-omic atlas of developing human basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01219-5?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "A single-cell and spatial 3D multi-omic atlas of developing human basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.008",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Single-cell and spatial profiling of the developing human basal ganglia show that their principal neurons, spiny projection neurons, mature through unusually synchronized epigenomic remodeling; that oligodendrocytes pass through a transient chromatin state during differentiation; and that spiny projection neurons carry an elevated genetic risk for schizophrenia and bipolar disorder.",
@@ -282945,9 +282945,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Heffel MG",
@@ -283319,7 +283319,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -283328,9 +283328,9 @@
     "doi": "10.1016/j.cell.2026.09.014",
     "journal": "Cell",
     "title_first_seen": "Single-cell, multi-region profiling of the macaque brain across the lifespan",
-    "current_title": "Single-cell, multi-region profiling of the macaque brain across the lifespan",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01116-5?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Single-cell, multi-region profiling of the macaque brain across the lifespan.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.09.014",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "Yang, Watkins et al. generate a 5.3 million cell transcriptomic atlas of the aging primate brain, which reveals that glia drive most age-related compositional shifts. These data uncover region-, cell-type-, and sex-specific molecular trajectories linked to neurodegenerative disease, providing key insights into the cellular mechanisms underlying brain aging and vulnerability.",
@@ -283344,9 +283344,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Yang W",
@@ -283580,7 +283580,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -283589,9 +283589,9 @@
     "doi": "10.1016/j.cell.2026.10.022",
     "journal": "Cell",
     "title_first_seen": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain",
-    "current_title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01272-9?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.022",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A comprehensive single-cell epigenomic atlas integrates four histone modifications, chromatin accessibility, DNA methylation, the 3D genome, and the transcriptome, and resolves functional chromatin states of the adult mouse brain. This integrative framework, together with sequence-based deep learning, identifies active and repressive regulatory mechanisms and their dynamic deployment underlying cell-type-specific gene regulation.",
@@ -283605,9 +283605,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Wang Z",
@@ -283883,7 +283883,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -283892,9 +283892,9 @@
     "doi": "10.1016/j.cell.2026.10.033",
     "journal": "Cell",
     "title_first_seen": "Harmonized brain ontology and 3D atlases for human, macaque, and marmoset basal ganglia",
-    "current_title": "Harmonized brain ontology and 3D atlases for human, macaque, and marmoset basal ganglia",
-    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01283-3?rss=yes",
-    "rss_reported_time": "2026-11-12T08:00:00+08:00",
+    "current_title": "Harmonized brain ontology and 3D atlases for human, macaque, and marmoset basal ganglia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.033",
+    "rss_reported_time": "2026-11-01T08:00:00+08:00",
     "authors_rss": [],
     "tags_rss": [],
     "summary_rss": "A Harmonized Ontology of Mammalian Brain Anatomy (HOMBA) enables consistent creation of structural and cellular brain atlases and ontologies as well as the integration of multimodal data and samples across species.",
@@ -283908,9 +283908,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-19T11:39:51+08:00",
-    "last_seen_source": "rss",
-    "last_updated_at": "2026-11-19T11:39:51+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Ding SL",
@@ -284263,7 +284263,7 @@
     "essn": "1097-4172",
     "first_publication_date": "2026-11-01",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "first_formal_batch_id": "daily-2026-11-13",
     "first_formal_batch_date": "2026-11-13"
@@ -289500,9 +289500,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zhou H",
@@ -289780,7 +289780,7 @@
     "first_publication_date": "2026-11-11",
     "electronic_publication_date": "2026-11-11",
     "first_index_date": "2026-11-12",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-13T11:35:01+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -289820,9 +289820,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Zeng W",
@@ -289934,7 +289934,7 @@
     "first_publication_date": "2026-11-10",
     "electronic_publication_date": "2026-11-10",
     "first_index_date": "2026-11-11",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-13T11:35:01+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -289977,9 +289977,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Chao ZF",
@@ -290140,7 +290140,7 @@
     "first_publication_date": "2026-11-10",
     "electronic_publication_date": "2026-11-10",
     "first_index_date": "2026-11-11",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-13T11:35:01+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -290178,9 +290178,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-13",
     "batched_at": "2026-11-13T15:51:47+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Jiang L",
@@ -290274,7 +290274,7 @@
     "first_publication_date": "2026-11-09",
     "electronic_publication_date": "2026-11-09",
     "first_index_date": "2026-11-10",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-13T11:35:01+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -293392,9 +293392,9 @@
     "enrichment_status": "europe_pmc_enriched",
     "batch_id": "daily-2026-11-14",
     "batched_at": "2026-11-14T15:33:21+08:00",
-    "last_seen_at": "2026-11-18T12:42:44+08:00",
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
     "last_seen_source": "europe_pmc",
-    "last_updated_at": "2026-11-18T12:42:44+08:00",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
     "author_affiliations": [
       {
         "author": "Chen X",
@@ -293598,7 +293598,7 @@
     "first_publication_date": "2026-11-11",
     "electronic_publication_date": "2026-11-11",
     "first_index_date": "2026-11-13",
-    "europe_pmc_last_seen_at": "2026-11-18T12:42:44+08:00",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
     "europe_pmc_first_seen_at": "2026-11-14T11:33:21+08:00",
     "evidence_level": "abstract_available",
     "last_enrichment_success_at": "2026-11-18T15:23:04+08:00",
@@ -300112,5 +300112,880 @@
     "scheduler_delay_minutes": 489.9,
     "scheduler_delayed": true,
     "late_discovery_recovery": false
+  },
+  "10.1016/j.cell.2026.10.041": {
+    "doi": "10.1016/j.cell.2026.10.041",
+    "journal": "Cell",
+    "title_first_seen": "Paleogenomics illuminates mobility and changing lifeways in Chalcolithic Anatolia.",
+    "current_title": "Paleogenomics illuminates mobility and changing lifeways in Chalcolithic Anatolia.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.041",
+    "rss_reported_time": "2026-11-17T08:00:00+08:00",
+    "authors_rss": [
+      "Aydoğan A",
+      "Vural KB",
+      "Kazancı DD",
+      "Sevkar A",
+      "Yüncü E",
+      "Sağlıcan E",
+      "Yorulmaz S",
+      "Güler MN",
+      "Yaka R",
+      "Doğu AK",
+      "Sarmusak E",
+      "Palmér AI",
+      "Yılmaz Y",
+      "Boz B",
+      "Erdal ÖD",
+      "Adiloğlu G",
+      "Aktürk Ş",
+      "Altınışık NE",
+      "Duru G",
+      "Hassett B",
+      "Yelozer S",
+      "Munro N",
+      "Tekin H",
+      "Itahashi Y",
+      "Yoneda M",
+      "Takaoğlu T",
+      "Özbal R",
+      "Gerritsen F",
+      "Sarı D",
+      "Erdoğu B",
+      "Steadman S",
+      "McMahon G",
+      "Öztan A",
+      "Özdoğan M",
+      "Özdoğan E",
+      "Biehl P",
+      "Rosenstock E",
+      "Anvari J",
+      "Byrnes J",
+      "Orton D",
+      "Caneva I",
+      "Palumbi G",
+      "Kartal G",
+      "Witonsky D",
+      "Lagerholm VK",
+      "Vassou D",
+      "Serpetsidaki I",
+      "Philippidis A",
+      "Carter T",
+      "Çevik Ö",
+      "Atakuman Ç",
+      "Arbuckle B",
+      "Kılınç GM",
+      "Pavlidis P",
+      "Osborne J",
+      "Novembre J",
+      "Götherström A",
+      "Nafplioti A",
+      "Raghavan M",
+      "Koptekin D",
+      "Moots HM",
+      "Özer F",
+      "Erdal YS",
+      "Somel M"
+    ],
+    "tags_rss": [
+      "Journal Article"
+    ],
+    "summary_rss": "Once labeled the \"Dark Ages\" of Anatolian prehistory, the Chalcolithic period (c. 6000-3000 BCE) was characterized by drastically reduced settlement densities compared with the preceding Neolithic and the succeeding Bronze Ages, a change interpreted as population decline. Using 44 new genomes combined with published data, we find no evidence for a population reduction. The genetic evidence instead suggests that populations in Chalcolithic Anatolia were increasingly mobile and/or growing in size while receiving gene flow from eastern regions (e.g., East Anatolia and the South Caucasus) through a 3,000-year-long admixture process. We propose that genetic and archaeological evidence may be reconciled by hypothesizing the presence of communities with dispersed and mobile lifeways that are mostly invisible to archaeology. These communities also practiced consanguinity at frequencies unobserved in previous periods. Finally, we identify a mid-5th-millennium BCE individual in Central Anatolia carrying ∼10%-30% Pontic-Caspian Steppe-related ancestry, shedding light on mobility between the Eurasian Steppe and Anatolia.",
+    "first_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_absent_at": "2026-11-18T12:42:44+08:00",
+    "appearance_window_start": "2026-11-18T12:42:44+08:00",
+    "appearance_window_end": "2026-11-19T12:30:07+08:00",
+    "first_seen_run_id": "europe-pmc-2026-11-19T123007p0800",
+    "discovery_source": "cell_europe_pmc",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "europe_pmc_enriched",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
+    "author_affiliations": [
+      {
+        "author": "Aydoğan A",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye. Electronic address: f.aycaydogan@gmail.com."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vural KB",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kazancı DD",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sevkar A",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yüncü E",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Center of Excellence in Biomaterials and Tissue Engineering, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sağlıcan E",
+        "affiliations": [
+          "Graduate School of Informatics, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yorulmaz S",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Güler MN",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, Estonia."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yaka R",
+        "affiliations": [
+          "Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Doğu AK",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sarmusak E",
+        "affiliations": [
+          "Institute of Social Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Palmér AI",
+        "affiliations": [
+          "Department of Linguistics and Philology, Uppsala University, Uppsala, Sweden."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yılmaz Y",
+        "affiliations": [
+          "Department of Archaeology, Düzce University, Düzce, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Boz B",
+        "affiliations": [
+          "Department of Archaeology, Trakya University, Edirne, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Erdal ÖD",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Hacettepe Skeletal Biology Laboratory, Department of Anthropology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Adiloğlu G",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Hacettepe Skeletal Biology Laboratory, Department of Anthropology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Aktürk Ş",
+        "affiliations": [
+          "Department of Bioinformatics, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Altınışık NE",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Department of Health Informatics, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Duru G",
+        "affiliations": [
+          "Department of Archaeology, Mimar Sinan Fine Arts University, Istanbul, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Hassett B",
+        "affiliations": [
+          "Forensic Osteology and Archaeology, University of Lancashire, Preston, UK."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yelozer S",
+        "affiliations": [
+          "Department of Archaeology, Bilkent University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Munro N",
+        "affiliations": [
+          "Department of Anthropology, University of Connecticut, Storrs, CT, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Tekin H",
+        "affiliations": [
+          "Department of Archaeology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Itahashi Y",
+        "affiliations": [
+          "Institute of Humanities and Social Sciences, University of Tsukuba, Tsukuba, Japan."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Yoneda M",
+        "affiliations": [
+          "Laboratory for Radiocarbon Dating, The University Museum, The University of Tokyo, Tokyo, Japan."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Takaoğlu T",
+        "affiliations": [
+          "Department of Archaeology, Çanakkale Onsekiz Mart University, Çanakkale, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Özbal R",
+        "affiliations": [
+          "Department of Archaeology and History of Art, Koç University, Istanbul, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gerritsen F",
+        "affiliations": [
+          "Netherlands Institute in Turkey, Istanbul, Türkiye; Institute for Area Studies, Leiden University, Leiden, the Netherlands."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Sarı D",
+        "affiliations": [
+          "Department of Archaeology, Bilecik Şeyh Edebali University, Bilecik, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Erdoğu B",
+        "affiliations": [
+          "Department of Archaeology, Akdeniz University, Antalya, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Steadman S",
+        "affiliations": [
+          "Department of Sociology/Anthropology, State University of New York, Cortland, NY, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "McMahon G",
+        "affiliations": [
+          "Department of Classics, Humanities, and Italian Studies, University of New Hampshire, Durham, NH, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Öztan A",
+        "affiliations": [
+          "Ankara University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Özdoğan M",
+        "affiliations": [
+          "Department of Archaeology, Prehistoric Archaeology, Istanbul University, Istanbul, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Özdoğan E",
+        "affiliations": [
+          "Department of Archaeology, Prehistoric Archaeology, Istanbul University, Istanbul, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Biehl P",
+        "affiliations": [
+          "University of California, Santa Cruz, Santa Cruz, CA, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rosenstock E",
+        "affiliations": [
+          "Institute for Archaeology and Cultural Anthropology, University of Bonn, Bonn, Germany."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Anvari J",
+        "affiliations": [
+          "College of Human Sciences and Culture, Flinders University, Adelaide, Australia."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Byrnes J",
+        "affiliations": [
+          "Department of Anthropology, University of Nevada, Las Vegas, Las Vegas, NV, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Orton D",
+        "affiliations": [
+          "Department of Archaeology, University of York, York, UK."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Caneva I",
+        "affiliations": [
+          "Department of Archaeology, University of Salento, Lecce, Italy."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Palumbi G",
+        "affiliations": [
+          "Dipartimento di Ricerca e Innovazione Umanistica, Università degli Studi di Bari Aldo Moro, Bari, Italy."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kartal G",
+        "affiliations": [
+          "Department of Archaeology, Ankara University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Witonsky D",
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Lagerholm VK",
+        "affiliations": [
+          "Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vassou D",
+        "affiliations": [
+          "Ancient DNA Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas, Heraklion, Greece."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Serpetsidaki I",
+        "affiliations": [
+          "Ephorate of Antiquities of Heraklion, Heraklion, Greece."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Philippidis A",
+        "affiliations": [
+          "Institute of Electronic Structure and Laser, Foundation for Research and Technology-Hellas, Heraklion, Greece."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Carter T",
+        "affiliations": [
+          "Department of Anthropology, McMaster University, Hamilton, ON, Canada."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Çevik Ö",
+        "affiliations": [
+          "Department of Archaeology, Trakya University, Edirne, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Atakuman Ç",
+        "affiliations": [
+          "Institute of Social Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Arbuckle B",
+        "affiliations": [
+          "Department of Anthropology, University of North Carolina, Chapel Hill, NC, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kılınç GM",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Pavlidis P",
+        "affiliations": [
+          "Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, Greece; Department of Biology, University of Crete, Heraklion, Greece."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Osborne J",
+        "affiliations": [
+          "Institute for the Study of Ancient Cultures, University of Chicago, Chicago, IL, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Novembre J",
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Götherström A",
+        "affiliations": [
+          "Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Nafplioti A",
+        "affiliations": [
+          "Ancient DNA Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas, Heraklion, Greece."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Raghavan M",
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Koptekin D",
+        "affiliations": [
+          "Department of Computational Biology, University of Lausanne, Lausanne, Switzerland; Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Moots HM",
+        "affiliations": [
+          "Centre for Palaeogenetics, Stockholm, Sweden; Department of Human Genetics, University of Chicago, Chicago, IL, USA; Institute for the Study of Ancient Cultures, University of Chicago, Chicago, IL, USA; Swedish Museum of Natural History, Stockholm, Sweden."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Özer F",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Erdal YS",
+        "affiliations": [
+          "Department of Anthropology, Hacettepe University, Ankara, Türkiye."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Somel M",
+        "affiliations": [
+          "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden; Department of Health Informatics, Middle East Technical University, Ankara, Türkiye. Electronic address: mehmet.somel@su.se."
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Department of Anthropology, Hacettepe University, Ankara, Türkiye. Electronic address: f.aycaydogan@gmail.com.",
+      "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye.",
+      "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye.",
+      "Department of Anthropology, Hacettepe University, Ankara, Türkiye.",
+      "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Center of Excellence in Biomaterials and Tissue Engineering, Middle East Technical University, Ankara, Türkiye.",
+      "Graduate School of Informatics, Middle East Technical University, Ankara, Türkiye.",
+      "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, Estonia.",
+      "Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden.",
+      "Institute of Social Sciences, Middle East Technical University, Ankara, Türkiye.",
+      "Department of Linguistics and Philology, Uppsala University, Uppsala, Sweden.",
+      "Department of Archaeology, Düzce University, Düzce, Türkiye.",
+      "Department of Archaeology, Trakya University, Edirne, Türkiye.",
+      "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Hacettepe Skeletal Biology Laboratory, Department of Anthropology, Hacettepe University, Ankara, Türkiye.",
+      "Department of Bioinformatics, Hacettepe University, Ankara, Türkiye.",
+      "Department of Anthropology, Hacettepe University, Ankara, Türkiye; Department of Health Informatics, Hacettepe University, Ankara, Türkiye.",
+      "Department of Archaeology, Mimar Sinan Fine Arts University, Istanbul, Türkiye.",
+      "Forensic Osteology and Archaeology, University of Lancashire, Preston, UK.",
+      "Department of Archaeology, Bilkent University, Ankara, Türkiye.",
+      "Department of Anthropology, University of Connecticut, Storrs, CT, USA.",
+      "Department of Archaeology, Hacettepe University, Ankara, Türkiye.",
+      "Institute of Humanities and Social Sciences, University of Tsukuba, Tsukuba, Japan.",
+      "Laboratory for Radiocarbon Dating, The University Museum, The University of Tokyo, Tokyo, Japan.",
+      "Department of Archaeology, Çanakkale Onsekiz Mart University, Çanakkale, Türkiye.",
+      "Department of Archaeology and History of Art, Koç University, Istanbul, Türkiye.",
+      "Netherlands Institute in Turkey, Istanbul, Türkiye; Institute for Area Studies, Leiden University, Leiden, the Netherlands.",
+      "Department of Archaeology, Bilecik Şeyh Edebali University, Bilecik, Türkiye.",
+      "Department of Archaeology, Akdeniz University, Antalya, Türkiye.",
+      "Department of Sociology/Anthropology, State University of New York, Cortland, NY, USA.",
+      "Department of Classics, Humanities, and Italian Studies, University of New Hampshire, Durham, NH, USA.",
+      "Ankara University, Ankara, Türkiye.",
+      "Department of Archaeology, Prehistoric Archaeology, Istanbul University, Istanbul, Türkiye.",
+      "University of California, Santa Cruz, Santa Cruz, CA, USA.",
+      "Institute for Archaeology and Cultural Anthropology, University of Bonn, Bonn, Germany.",
+      "College of Human Sciences and Culture, Flinders University, Adelaide, Australia.",
+      "Department of Anthropology, University of Nevada, Las Vegas, Las Vegas, NV, USA.",
+      "Department of Archaeology, University of York, York, UK.",
+      "Department of Archaeology, University of Salento, Lecce, Italy.",
+      "Dipartimento di Ricerca e Innovazione Umanistica, Università degli Studi di Bari Aldo Moro, Bari, Italy.",
+      "Department of Archaeology, Ankara University, Ankara, Türkiye.",
+      "Department of Human Genetics, University of Chicago, Chicago, IL, USA.",
+      "Ancient DNA Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas, Heraklion, Greece.",
+      "Ephorate of Antiquities of Heraklion, Heraklion, Greece.",
+      "Institute of Electronic Structure and Laser, Foundation for Research and Technology-Hellas, Heraklion, Greece.",
+      "Department of Anthropology, McMaster University, Hamilton, ON, Canada.",
+      "Department of Anthropology, University of North Carolina, Chapel Hill, NC, USA.",
+      "Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, Greece; Department of Biology, University of Crete, Heraklion, Greece.",
+      "Institute for the Study of Ancient Cultures, University of Chicago, Chicago, IL, USA.",
+      "Department of Computational Biology, University of Lausanne, Lausanne, Switzerland; Swiss Institute of Bioinformatics, Lausanne, Switzerland.",
+      "Centre for Palaeogenetics, Stockholm, Sweden; Department of Human Genetics, University of Chicago, Chicago, IL, USA; Institute for the Study of Ancient Cultures, University of Chicago, Chicago, IL, USA; Swedish Museum of Natural History, Stockholm, Sweden.",
+      "Department of Biological Sciences, Middle East Technical University, Ankara, Türkiye; Centre for Palaeogenetics, Stockholm, Sweden; Department of Archaeology and Classical Studies, Stockholm University, Stockholm, Sweden; Department of Health Informatics, Middle East Technical University, Ankara, Türkiye. Electronic address: mehmet.somel@su.se."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "pmid": "43044583",
+    "europe_pmc_source": "MED",
+    "europe_pmc_id": "43044583",
+    "abstract": "Once labeled the \"Dark Ages\" of Anatolian prehistory, the Chalcolithic period (c. 6000-3000 BCE) was characterized by drastically reduced settlement densities compared with the preceding Neolithic and the succeeding Bronze Ages, a change interpreted as population decline. Using 44 new genomes combined with published data, we find no evidence for a population reduction. The genetic evidence instead suggests that populations in Chalcolithic Anatolia were increasingly mobile and/or growing in size while receiving gene flow from eastern regions (e.g., East Anatolia and the South Caucasus) through a 3,000-year-long admixture process. We propose that genetic and archaeological evidence may be reconciled by hypothesizing the presence of communities with dispersed and mobile lifeways that are mostly invisible to archaeology. These communities also practiced consanguinity at frequencies unobserved in previous periods. Finally, we identify a mid-5th-millennium BCE individual in Central Anatolia carrying ∼10%-30% Pontic-Caspian Steppe-related ancestry, shedding light on mobility between the Eurasian Steppe and Anatolia.",
+    "authors": [
+      "Aydoğan A",
+      "Vural KB",
+      "Kazancı DD",
+      "Sevkar A",
+      "Yüncü E",
+      "Sağlıcan E",
+      "Yorulmaz S",
+      "Güler MN",
+      "Yaka R",
+      "Doğu AK",
+      "Sarmusak E",
+      "Palmér AI",
+      "Yılmaz Y",
+      "Boz B",
+      "Erdal ÖD",
+      "Adiloğlu G",
+      "Aktürk Ş",
+      "Altınışık NE",
+      "Duru G",
+      "Hassett B",
+      "Yelozer S",
+      "Munro N",
+      "Tekin H",
+      "Itahashi Y",
+      "Yoneda M",
+      "Takaoğlu T",
+      "Özbal R",
+      "Gerritsen F",
+      "Sarı D",
+      "Erdoğu B",
+      "Steadman S",
+      "McMahon G",
+      "Öztan A",
+      "Özdoğan M",
+      "Özdoğan E",
+      "Biehl P",
+      "Rosenstock E",
+      "Anvari J",
+      "Byrnes J",
+      "Orton D",
+      "Caneva I",
+      "Palumbi G",
+      "Kartal G",
+      "Witonsky D",
+      "Lagerholm VK",
+      "Vassou D",
+      "Serpetsidaki I",
+      "Philippidis A",
+      "Carter T",
+      "Çevik Ö",
+      "Atakuman Ç",
+      "Arbuckle B",
+      "Kılınç GM",
+      "Pavlidis P",
+      "Osborne J",
+      "Novembre J",
+      "Götherström A",
+      "Nafplioti A",
+      "Raghavan M",
+      "Koptekin D",
+      "Moots HM",
+      "Özer F",
+      "Erdal YS",
+      "Somel M"
+    ],
+    "publication_types": [
+      "Journal Article"
+    ],
+    "journal_title": "Cell",
+    "issn": "0092-8674",
+    "essn": "1097-4172",
+    "first_publication_date": "2026-11-17",
+    "electronic_publication_date": "2026-11-17",
+    "first_index_date": "2026-11-18",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
+    "europe_pmc_first_seen_at": "2026-11-19T12:30:07+08:00"
+  },
+  "10.1016/j.cell.2026.10.038": {
+    "doi": "10.1016/j.cell.2026.10.038",
+    "journal": "Cell",
+    "title_first_seen": "Evolutionary repurposing of a pore-forming toxin drives epithelial remodeling during terrestrial adaptation.",
+    "current_title": "Evolutionary repurposing of a pore-forming toxin drives epithelial remodeling during terrestrial adaptation.",
+    "source_url": "https://doi.org/10.1016/j.cell.2026.10.038",
+    "rss_reported_time": "2026-11-17T08:00:00+08:00",
+    "authors_rss": [
+      "Siciliani D",
+      "Benedicenti O",
+      "Posavi M",
+      "Omotade T",
+      "Amortegui SX",
+      "Garcia BJ",
+      "Heimroth RD",
+      "Dos Santos YS",
+      "Stefani C",
+      "Gulisija D",
+      "Chen J",
+      "Vámosi B",
+      "Enyedi B",
+      "Johnston CA",
+      "Salinas I"
+    ],
+    "tags_rss": [
+      "Journal Article"
+    ],
+    "summary_rss": "The ability of vertebrates to conquer land is attributed to innovations in respiration and locomotion. However, land adaptation profoundly reshaped mucosal surfaces such as the skin, the main interface between hosts and the environment. To adapt to land, African lungfish annually remodel their skin, forming a cocoon. Here, we report the discovery of a small pore-forming toxin in African lungfish, Protop-CrTX-A, with no other vertebrate counterpart that is sufficient to drive epithelial morphogenesis transcriptional programs. In free-swimming lungfish, goblet cells secrete Protop-CrTX-A into the mucus. During estivation, this niche is replaced by a mucin-low/basal epithelial niche, adjacent to a granulocyte immune niche that becomes the predominant source of Protop-CrTX-A in the estivated skin. Protop-CrTX-A acts as a reversible switch for skin remodeling, sufficient to convert African lungfish skin between aquatic and terrestrial states. We propose that innate immunity, through its capacity to remodel tissues, was a key driver of vertebrate water-land transitions.",
+    "first_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_absent_at": "2026-11-18T12:42:44+08:00",
+    "appearance_window_start": "2026-11-18T12:42:44+08:00",
+    "appearance_window_end": "2026-11-19T12:30:07+08:00",
+    "first_seen_run_id": "europe-pmc-2026-11-19T123007p0800",
+    "discovery_source": "cell_europe_pmc",
+    "discovery_status": "live_discovery",
+    "enrichment_status": "europe_pmc_enriched",
+    "batch_id": null,
+    "batched_at": null,
+    "last_seen_at": "2026-11-19T12:30:07+08:00",
+    "last_seen_source": "europe_pmc",
+    "last_updated_at": "2026-11-19T12:30:07+08:00",
+    "author_affiliations": [
+      {
+        "author": "Siciliani D",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Benedicenti O",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Posavi M",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Omotade T",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Amortegui SX",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Garcia BJ",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Heimroth RD",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Dos Santos YS",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Stefani C",
+        "affiliations": [
+          "Center for Systems Immunology, Benaroya Research Institute at Virginia Mason, Seattle, WA, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Gulisija D",
+        "affiliations": [
+          "Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Chen J",
+        "affiliations": [
+          "National Biological Control Laboratory, Southeast Area, Agriculture Research Service, United States Department of Agriculture, 59 Lee Road, Stoneville, MS 38776, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vámosi B",
+        "affiliations": [
+          "Department of Physiology, Faculty of Medicine, Semmelweis University, Budapest, Hungary."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Enyedi B",
+        "affiliations": [
+          "Department of Physiology, Faculty of Medicine, Semmelweis University, Budapest, Hungary."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Johnston CA",
+        "affiliations": [
+          "Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA."
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Salinas I",
+        "affiliations": [
+          "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA. Electronic address: isalinas@unm.edu."
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA.",
+      "Center for Systems Immunology, Benaroya Research Institute at Virginia Mason, Seattle, WA, USA.",
+      "Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA.",
+      "National Biological Control Laboratory, Southeast Area, Agriculture Research Service, United States Department of Agriculture, 59 Lee Road, Stoneville, MS 38776, USA.",
+      "Department of Physiology, Faculty of Medicine, Semmelweis University, Budapest, Hungary.",
+      "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, NM 87131, USA. Electronic address: isalinas@unm.edu."
+    ],
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "pmid": "43044582",
+    "europe_pmc_source": "MED",
+    "europe_pmc_id": "43044582",
+    "abstract": "The ability of vertebrates to conquer land is attributed to innovations in respiration and locomotion. However, land adaptation profoundly reshaped mucosal surfaces such as the skin, the main interface between hosts and the environment. To adapt to land, African lungfish annually remodel their skin, forming a cocoon. Here, we report the discovery of a small pore-forming toxin in African lungfish, Protop-CrTX-A, with no other vertebrate counterpart that is sufficient to drive epithelial morphogenesis transcriptional programs. In free-swimming lungfish, goblet cells secrete Protop-CrTX-A into the mucus. During estivation, this niche is replaced by a mucin-low/basal epithelial niche, adjacent to a granulocyte immune niche that becomes the predominant source of Protop-CrTX-A in the estivated skin. Protop-CrTX-A acts as a reversible switch for skin remodeling, sufficient to convert African lungfish skin between aquatic and terrestrial states. We propose that innate immunity, through its capacity to remodel tissues, was a key driver of vertebrate water-land transitions.",
+    "authors": [
+      "Siciliani D",
+      "Benedicenti O",
+      "Posavi M",
+      "Omotade T",
+      "Amortegui SX",
+      "Garcia BJ",
+      "Heimroth RD",
+      "Dos Santos YS",
+      "Stefani C",
+      "Gulisija D",
+      "Chen J",
+      "Vámosi B",
+      "Enyedi B",
+      "Johnston CA",
+      "Salinas I"
+    ],
+    "publication_types": [
+      "Journal Article"
+    ],
+    "journal_title": "Cell",
+    "issn": "0092-8674",
+    "essn": "1097-4172",
+    "first_publication_date": "2026-11-17",
+    "electronic_publication_date": "2026-11-17",
+    "first_index_date": "2026-11-18",
+    "europe_pmc_last_seen_at": "2026-11-19T12:30:07+08:00",
+    "europe_pmc_first_seen_at": "2026-11-19T12:30:07+08:00"
   }
 }

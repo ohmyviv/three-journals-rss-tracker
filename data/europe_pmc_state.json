@@ -1,18 +1,18 @@
 {
   "science": {
-    "last_checked_at": "2026-11-18T12:42:44+08:00",
+    "last_checked_at": "2026-11-19T12:30:07+08:00",
     "last_success_at": "2026-11-18T12:42:44+08:00",
-    "last_status": "success",
-    "last_error": null,
+    "last_status": "failed",
+    "last_error": "ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=30)",
     "last_query": "JOURNAL:\"Science\" AND FIRST_PDATE:[2026-10-19 TO 2026-11-18]",
     "last_mode": "live"
   },
   "cell": {
-    "last_checked_at": "2026-11-18T12:42:44+08:00",
-    "last_success_at": "2026-11-18T12:42:44+08:00",
+    "last_checked_at": "2026-11-19T12:30:07+08:00",
+    "last_success_at": "2026-11-19T12:30:07+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-19 TO 2026-11-18]",
+    "last_query": "JOURNAL:\"Cell\" AND FIRST_PDATE:[2026-10-20 TO 2026-11-19]",
     "last_mode": "live"
   }
 }
