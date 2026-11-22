@@ -1355,5 +1355,258 @@
     "last_updated_at": "2026-11-04T11:14:15+08:00",
     "batch_id": "daily-2026-11-04",
     "batched_at": "2026-11-04T18:48:19+08:00"
+  },
+  "tmp:fb426a29c5a45bcae69235e2": {
+    "item_key": "tmp:fb426a29c5a45bcae69235e2",
+    "doi": null,
+    "journal": "Cell",
+    "feed_id": "cell",
+    "title": "Genome writing reveals SVA retrotransposon consequences in X-Linked Dystonia-Parkinsonism",
+    "source_url": "https://europepmc.org/article/PMC/PMC13787558",
+    "rss_reported_time": "2026-11-19T08:00:00+08:00",
+    "authors_rss": [
+      "Zhang W",
+      "Zhao Y",
+      "Prakash P",
+      "Appleby H",
+      "Barriball K",
+      "Capponi S",
+      "Jiang Q",
+      "Wudzinska A",
+      "Westerdahl J",
+      "Maza A",
+      "Mangiameli K",
+      "Vaine C",
+      "Ellis G",
+      "Rahman N",
+      "Markovic S",
+      "Mishkit O",
+      "Limberg K",
+      "Maurano M",
+      "Wadghiri Y",
+      "Kim S",
+      "Wheeler V",
+      "Timmers H",
+      "Bragg D",
+      "Liddelow S",
+      "Brosh R",
+      "Boeke J"
+    ],
+    "author_affiliations": [
+      {
+        "author": "Zhang W",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Zhao Y",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Prakash P",
+        "affiliations": [
+          "Institute for Translational Neuroscience and Department of Neuroscience, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Appleby H",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Barriball K",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Capponi S",
+        "affiliations": [
+          "German Cancer Consortium (DKTK), Partner Site Freiburg, German Cancer Research Center (DKFZ), Department of Urology, Medical Center-University of Freiburg, 79106, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Jiang Q",
+        "affiliations": [
+          "Molecular Pharmacology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wudzinska A",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Westerdahl J",
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Maza A",
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Mangiameli K",
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Vaine C",
+        "affiliations": [
+          "Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Ellis G",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Rahman N",
+        "affiliations": [
+          "Department of Radiology, Bernard and Irene Schwartz Center for Biomedical Imaging, & Center for Advanced Imaging Innovation and Research and Preclinical Imaging, Division for Advanced Research Technologies, NYU Grossman School of Medicine/NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Markovic S",
+        "affiliations": [
+          "Department of Radiology, Bernard and Irene Schwartz Center for Biomedical Imaging, & Center for Advanced Imaging Innovation and Research and Preclinical Imaging, Division for Advanced Research Technologies, NYU Grossman School of Medicine/NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Mishkit O",
+        "affiliations": [
+          "Department of Radiology, Bernard and Irene Schwartz Center for Biomedical Imaging, & Center for Advanced Imaging Innovation and Research and Preclinical Imaging, Division for Advanced Research Technologies, NYU Grossman School of Medicine/NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Limberg K",
+        "affiliations": [
+          "Institute for Translational Neuroscience and Department of Neuroscience, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Maurano M",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wadghiri Y",
+        "affiliations": [
+          "Department of Radiology, Bernard and Irene Schwartz Center for Biomedical Imaging, & Center for Advanced Imaging Innovation and Research and Preclinical Imaging, Division for Advanced Research Technologies, NYU Grossman School of Medicine/NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Kim S",
+        "affiliations": [
+          "Department of Pathology, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Wheeler V",
+        "affiliations": [
+          "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Timmers H",
+        "affiliations": [
+          "German Cancer Consortium (DKTK), Partner Site Freiburg, German Cancer Research Center (DKFZ), Department of Urology, Medical Center-University of Freiburg, 79106, Germany"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Bragg D",
+        "affiliations": [
+          "Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, 02114, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Liddelow S",
+        "affiliations": [
+          "Institute for Translational Neuroscience and Department of Neuroscience, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Brosh R",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      },
+      {
+        "author": "Boeke J",
+        "affiliations": [
+          "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA"
+        ],
+        "corresponding": false
+      }
+    ],
+    "affiliations": [
+      "Institute for Systems Genetics, NYU Langone Health, New York, NY, 10016, USA",
+      "Institute for Translational Neuroscience and Department of Neuroscience, NYU Langone Health, New York, NY, 10016, USA",
+      "German Cancer Consortium (DKTK), Partner Site Freiburg, German Cancer Research Center (DKFZ), Department of Urology, Medical Center-University of Freiburg, 79106, Germany",
+      "Molecular Pharmacology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY, 10065, USA",
+      "Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, 02114, USA",
+      "Department of Neurology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, 02114, USA",
+      "Department of Radiology, Bernard and Irene Schwartz Center for Biomedical Imaging, & Center for Advanced Imaging Innovation and Research and Preclinical Imaging, Division for Advanced Research Technologies, NYU Grossman School of Medicine/NYU Langone Health, New York, NY, 10016, USA",
+      "Department of Pathology, NYU Langone Health, New York, NY, 10016, USA"
+    ],
+    "tags_rss": [
+      "research-article",
+      "Journal Article"
+    ],
+    "summary_rss": "",
+    "first_seen_at": "2026-11-22T11:28:25+08:00",
+    "china_team_status": "no_china_signal",
+    "china_institutions": [],
+    "china_key_authors": [],
+    "china_team_evidence": [
+      "europe_pmc:affiliation_checked"
+    ],
+    "metadata_source": "europe_pmc",
+    "temporary_key": "tmp:fb426a29c5a45bcae69235e2",
+    "discovery_status": "live_discovery",
+    "doi_status": "pending",
+    "first_seen_run_id": "europe-pmc-2026-11-22T112825p0800",
+    "last_absent_at": "2026-11-21T12:15:44+08:00",
+    "appearance_window_start": "2026-11-21T12:15:44+08:00",
+    "appearance_window_end": "2026-11-22T11:28:25+08:00",
+    "last_seen_at": "2026-11-22T11:28:25+08:00",
+    "last_updated_at": "2026-11-22T11:28:25+08:00"
   }
 }
