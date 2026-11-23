@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "batch_id": "daily-2026-11-22",
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T15:57:50+08:00",
-  "cutoff_at": "2026-11-22T12:17:00+08:00",
+  "batch_id": "daily-2026-11-23",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T16:57:13+08:00",
+  "cutoff_at": "2026-11-23T12:17:00+08:00",
   "timezone": "Asia/Shanghai",
-  "status": "success_new_items",
+  "status": "success_zero_new",
   "flags": [
     "scheduler_delayed"
   ],
@@ -13,22 +13,22 @@
   "scheduler_delayed": true,
   "freeze_trigger_type": "workflow_run",
   "freeze_scheduled_for": null,
-  "freeze_triggered_at": "2026-11-22T15:57:50+08:00",
+  "freeze_triggered_at": "2026-11-23T16:57:13+08:00",
   "freeze_delay_minutes": null,
   "replaced_premature_batch": false,
   "recovery_updated_batch": false,
-  "latest_discovery_run_id": "discover-2026-11-22T155707p0800",
-  "latest_discovery_checked_at": "2026-11-22T15:57:07+08:00",
-  "latest_discovery_scheduled_for": "2026-11-22T09:07:00+08:00",
-  "latest_discovery_delay_minutes": 410.1,
+  "latest_discovery_run_id": "discover-2026-11-23T165639p0800",
+  "latest_discovery_checked_at": "2026-11-23T16:56:39+08:00",
+  "latest_discovery_scheduled_for": "2026-11-23T09:07:00+08:00",
+  "latest_discovery_delay_minutes": 469.6,
   "source_status": {
     "nature": "not_modified",
     "science": "success",
     "cell": "success"
   },
   "counts": {
-    "new_dois": 1,
-    "new_missing_doi": 1,
+    "new_dois": 0,
+    "new_missing_doi": 0,
     "late_recovery_dois": 0,
     "late_recovery_missing_doi": 0,
     "cross_day_carryover_dois": 0,
@@ -42,51 +42,8 @@
     "zero_new_day_action": "Use capacity to process the oldest/highest-priority backlog items",
     "overflow_action": "Keep every new item in the full list; defer lower-priority deep analyses across later days"
   },
-  "new_items": [
-    {
-      "doi": "10.1038/d41586-026-03803-8",
-      "journal": "Nature",
-      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "source_url": "https://www.nature.com/articles/d41586-026-03803-8",
-      "rss_reported_time": "2026-11-21T08:00:00+08:00",
-      "first_seen_at": "2026-11-22T03:46:10+08:00",
-      "appearance_window_start": "2026-11-22T00:20:46+08:00",
-      "appearance_window_end": "2026-11-22T03:46:10+08:00",
-      "authors_rss": [],
-      "tags_rss": [],
-      "summary_rss": "",
-      "enrichment_status": "pending",
-      "discovery_source": "nature_rss",
-      "china_team_status": "unknown",
-      "china_institutions": [],
-      "china_key_authors": [],
-      "china_team_evidence": [],
-      "queue_status": "not_queued",
-      "included_as_late_recovery": false,
-      "cross_day_carryover": false,
-      "carryover_from_date": null,
-      "intended_batch_date": null,
-      "scheduled_for": "2026-11-21T20:43:00+08:00",
-      "scheduler_delay_minutes": 423.2
-    }
-  ],
-  "missing_doi_items": [
-    {
-      "temporary_key": "tmp:fb426a29c5a45bcae69235e2",
-      "journal": "Cell",
-      "title": "Genome writing reveals SVA retrotransposon consequences in X-Linked Dystonia-Parkinsonism",
-      "source_url": "https://europepmc.org/article/PMC/PMC13787558",
-      "rss_reported_time": "2026-11-19T08:00:00+08:00",
-      "first_seen_at": "2026-11-22T11:28:25+08:00",
-      "doi_status": "pending",
-      "included_as_late_recovery": false,
-      "cross_day_carryover": false,
-      "carryover_from_date": null,
-      "intended_batch_date": null,
-      "scheduled_for": null,
-      "scheduler_delay_minutes": null
-    }
-  ],
+  "new_items": [],
+  "missing_doi_items": [],
   "deep_analysis_backlog": [
     {
       "doi": "10.1126/science.aen2359",
@@ -109,7 +66,7 @@
       "first_formal_batch_date": "2026-10-16",
       "source_url": "https://www.science.org/doi/abs/10.1126/science.aen2359?af=R",
       "evidence_level": "abstract_available",
-      "last_enrichment_success_at": "2026-11-22T14:42:34+08:00"
+      "last_enrichment_success_at": "2026-11-23T15:31:44+08:00"
     }
   ]
 }
