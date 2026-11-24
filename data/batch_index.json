@@ -1832,15 +1832,15 @@
   "daily-2026-11-24": {
     "batch_id": "daily-2026-11-24",
     "date": "2026-11-24",
-    "generated_at": "2026-11-24T20:41:16+08:00",
+    "generated_at": "2026-11-24T21:34:58+08:00",
     "status": "success_new_items",
     "flags": [
       "scheduler_delayed",
       "late_discovery_recovery"
     ],
-    "new_doi_count": 19,
+    "new_doi_count": 20,
     "new_missing_doi_count": 0,
-    "late_recovery_doi_count": 7,
+    "late_recovery_doi_count": 8,
     "cross_day_carryover_doi_count": 0,
     "cross_day_carryover_missing_doi_count": 0,
     "path": "public/batches/2026-11-24.json"
