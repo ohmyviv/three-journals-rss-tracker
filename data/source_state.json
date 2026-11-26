@@ -1,18 +1,18 @@
 {
   "nature": {
-    "etag": "\"f6bcf8c44a85e482377f973f1e642174\"",
+    "etag": "\"428dbe3aba0dfd021ee39229c9240d15\"",
     "last_modified": null,
-    "feed_hash": "95ae82d85828b394d2eaef41a086a46595e95e389800505a3e53f733f95d6d15",
-    "last_success_at": "2026-11-26T20:18:16+08:00",
-    "last_checked_at": "2026-11-26T20:18:16+08:00",
-    "last_status": "not_modified",
+    "feed_hash": "a389137445d7633154d726867f97d762cb0116d40ca3aca7694b1d59d476a0d8",
+    "last_success_at": "2026-11-27T02:36:06+08:00",
+    "last_checked_at": "2026-11-27T02:36:06+08:00",
+    "last_status": "success",
     "last_error": null
   },
   "science": {
-    "last_checked_at": "2026-11-26T20:18:16+08:00",
+    "last_checked_at": "2026-11-27T02:36:06+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_success_at": "2026-11-26T20:18:16+08:00",
+    "last_success_at": "2026-11-27T02:36:06+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
     "fallback_last_success_at": "2026-10-02T22:56:16+08:00",
@@ -24,10 +24,10 @@
     "feed_hash": "73f09c3f431f2b56d8675a7059723c28047846cfb44fbb3364251b0fc0a5af5b"
   },
   "cell": {
-    "last_checked_at": "2026-11-26T20:18:16+08:00",
+    "last_checked_at": "2026-11-27T02:36:06+08:00",
     "last_status": "success",
     "last_error": null,
-    "last_success_at": "2026-11-26T20:18:16+08:00",
+    "last_success_at": "2026-11-27T02:36:06+08:00",
     "primary_last_status": "failed",
     "primary_last_http_status": 403,
     "fallback_last_success_at": "2026-10-02T22:56:16+08:00",
