@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T17:37:29+08:00",
+  "generated_at": "2026-11-27T19:01:26+08:00",
   "timezone": "Asia/Shanghai",
   "feeds": {
     "cell": {
-      "checks": 643,
-      "successful_checks": 642,
+      "checks": 644,
+      "successful_checks": 643,
       "failed_checks": 1,
       "checks_with_new_items": 44,
       "total_new_items_observed": 140,
@@ -30,15 +30,15 @@
         "Saturday": 5,
         "Monday": 1
       },
-      "last_checked_at": "2026-11-27T17:37:27+08:00",
-      "last_success_at": "2026-11-27T17:37:27+08:00"
+      "last_checked_at": "2026-11-27T19:01:25+08:00",
+      "last_success_at": "2026-11-27T19:01:25+08:00"
     },
     "nature": {
-      "checks": 643,
-      "successful_checks": 643,
+      "checks": 644,
+      "successful_checks": 644,
       "failed_checks": 0,
-      "checks_with_new_items": 254,
-      "total_new_items_observed": 1433,
+      "checks_with_new_items": 255,
+      "total_new_items_observed": 1436,
       "new_item_checks_by_hour": {
         "21:00-21:59": 28,
         "08:00-08:59": 27,
@@ -51,9 +51,9 @@
         "09:00-09:59": 11,
         "18:00-18:59": 11,
         "06:00-06:59": 9,
+        "19:00-19:59": 9,
         "04:00-04:59": 9,
         "10:00-10:59": 8,
-        "19:00-19:59": 8,
         "22:00-22:59": 8,
         "15:00-15:59": 8,
         "20:00-20:59": 7,
@@ -69,17 +69,17 @@
         "Wednesday": 54,
         "Tuesday": 51,
         "Thursday": 50,
-        "Friday": 46,
+        "Friday": 47,
         "Saturday": 28,
         "Monday": 22,
         "Sunday": 3
       },
-      "last_checked_at": "2026-11-27T17:37:27+08:00",
-      "last_success_at": "2026-11-27T17:37:27+08:00"
+      "last_checked_at": "2026-11-27T19:01:25+08:00",
+      "last_success_at": "2026-11-27T19:01:25+08:00"
     },
     "science": {
-      "checks": 643,
-      "successful_checks": 643,
+      "checks": 644,
+      "successful_checks": 644,
       "failed_checks": 0,
       "checks_with_new_items": 19,
       "total_new_items_observed": 614,
@@ -100,8 +100,8 @@
         "Saturday": 2,
         "Wednesday": 1
       },
-      "last_checked_at": "2026-11-27T17:37:27+08:00",
-      "last_success_at": "2026-11-27T17:37:27+08:00"
+      "last_checked_at": "2026-11-27T19:01:25+08:00",
+      "last_success_at": "2026-11-27T19:01:25+08:00"
     }
   }
 }
