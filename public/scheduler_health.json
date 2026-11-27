@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-11-27T20:05:26+08:00",
+  "generated_at": "2026-11-27T20:06:08+08:00",
   "status": "scheduler_delayed",
-  "total_events": 1611,
+  "total_events": 1612,
   "latest_event": {
-    "workflow": "rss_discovery",
-    "trigger_type": "schedule",
-    "schedule_expression_utc": "7 3 * * *",
-    "scheduled_for": "2026-11-27T11:07:00+08:00",
-    "triggered_at": "2026-11-27T20:05:25+08:00",
-    "delay_minutes": 538.4,
+    "workflow": "freeze_daily_batch",
+    "trigger_type": "workflow_run",
+    "schedule_expression_utc": null,
+    "scheduled_for": null,
+    "triggered_at": "2026-11-27T20:06:08+08:00",
+    "delay_minutes": null,
     "delay_threshold_minutes": 15,
-    "scheduler_delayed": true,
-    "status": "scheduler_delayed",
-    "late_discovery_recovery": true,
-    "intended_batch_date": "2026-11-27",
-    "run_id": "discover-2026-11-27T200525p0800",
+    "scheduler_delayed": false,
+    "status": "non_scheduled",
+    "batch_id": "daily-2026-11-27",
+    "target_date": "2026-11-27",
     "outcome": "success_new_items",
-    "completed_at": "2026-11-27T20:05:26+08:00"
+    "late_recovery_dois": 5,
+    "cross_day_carryover_dois": 2,
+    "cross_day_carryover_missing_doi": 0,
+    "recovery_updated_batch": true,
+    "completed_at": "2026-11-27T20:06:08+08:00"
   },
   "workflows": {
     "rss_discovery": {
@@ -42,7 +45,7 @@
       }
     },
     "freeze_daily_batch": {
-      "runs": 857,
+      "runs": 858,
       "scheduled_runs": 214,
       "delayed_runs": 214,
       "max_delay_minutes": 739.9,
@@ -51,7 +54,7 @@
         "trigger_type": "workflow_run",
         "schedule_expression_utc": null,
         "scheduled_for": null,
-        "triggered_at": "2026-11-27T19:02:02+08:00",
+        "triggered_at": "2026-11-27T20:06:08+08:00",
         "delay_minutes": null,
         "delay_threshold_minutes": 15,
         "scheduler_delayed": false,
@@ -59,11 +62,11 @@
         "batch_id": "daily-2026-11-27",
         "target_date": "2026-11-27",
         "outcome": "success_new_items",
-        "late_recovery_dois": 4,
+        "late_recovery_dois": 5,
         "cross_day_carryover_dois": 2,
         "cross_day_carryover_missing_doi": 0,
         "recovery_updated_batch": true,
-        "completed_at": "2026-11-27T19:02:03+08:00"
+        "completed_at": "2026-11-27T20:06:08+08:00"
       }
     },
     "europe_pmc_audit": {
